@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> TITULUS XII. </title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title> TITULUS XII. </title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e1036"><!-- wef6td-l3t12 -->
+            <head xml:id="wef6td-d1e1036-Hd1e103"> TITULUS XII. </head>
+            <p xml:id="wef6td-d1e1036-d1e106"> DE SEPULTURIS. </p>
+            <div xml:id="wef6td-d1e1036-Dd1e109">
+               <head xml:id="wef6td-d1e1036-Hd1e111">CAP. I. </head>
+               <p xml:id="wef6td-d1e1036-d1e114"> Hic prohibetur pactum de sepultura eligenda. Non obstante pacto de sepultura eligenda, vel electa non mutanda, sepeliendus est quis, ubi alias erat de iure sepeliendus, et alias sepultus cum omnibus sepulturae obventibus restituendus est; alias poena incurritur hic contenta. H. d. secundum Zenz. </p>
+               <p xml:id="wef6td-d1e1036-d1e117"> Bonifacius VIII. </p>
+        
+               <p xml:id="wef6td-d1e1036-d1e120"> Animarum periculis et scandalis, quae frequenter ex his proveniunt, obviare volentes, universis religiosis et saecularibus clericis, cuiuscunque status vel conditionis exsistant, in virtute sanctae obedientiae ac sub interminatione maledictionis aeternae districtissime prohibemus, ne aliquos ad vovendum, iurandum, vel fide interposita seu alias promittendum inducant, ut apud eorum ecclesias sepulturam eligant, vel iam electam ulterius non immutent. Nos enim, si secus actum fuerit, electionem talem decernimus nullius penitus exsistere firmitatis, statuentes, ut hi, qui sic elegerint, nec apud sic electas ecclesias ullatenus sepeliri, nec alibi, ne contra votum, iuramentum aut promissum huiusmodi a se factum materiam habeant veniendi, possint eligere sepulturam; sed, contradictione quacunque cessante, sepeliantur omnino apud illas ecclesias, apud quas sepeliendi de iure fuissent, si alias sepultura non electa forsitan decessissent. Si vero iidem religiosi vel clerici praedictos in suis ecclesiis vel coemeteriis praesumpserint sepelire: ad restitutionem tam sepultorum corporum, si petantur, quam etiam omnium, quae occasione sepulturae illorum pervenerint quomodolibet ad eosdem, infra  decendium integraliter faciendam ipsos obligatos esse censemus. Quam nisi fecerint, ecclesiae ipsae, apud quas sepulti fuerint, nec non et coemeteria earundem  extunc eo ipso sint et tamdiu maneant ecclesiastico supposita interdicto, donec ab eis facta fuerit restitutio plenaria omnium praedictorum. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e1036-Dd1e124">
+               <head xml:id="wef6td-d1e1036-Hd1e126">CAP. II. </head>
+               <p xml:id="wef6td-d1e1036-d1e129"> Ecclesiae dimissae non debetur canonica portio, sed parochiali, et pluribus, si sint plures. — §. 1. In loco etiam minus religioso potest nova eligi sepultura. H. d. secundum Zenz. </p>
+               <p xml:id="wef6td-d1e1036-d1e132"> Idem. </p>
+               <p xml:id="wef6td-d1e1036-d1e135"> Quum quis, cuius maiores sunt soliti ab antiquo in aliqua ecclesia sepeliri, ea dimissa eligit alibi sepulturam: canonica portio dimissae non debetur ecclesiae, sed illi duntaxat, in qua ille officia consuevit audire divina, et ecclesiastica recipere sacramenta. Quum ab eo, qui duo habet domicilia, se collocans aequaliter in utroque, in loco tertio eligitur sepultura, domiciliorum ecclesiae%abebunt inter se dividere canonicam portionem. §. i. Si quis,antiqua dimissa, 
+          remoti, quod ad ea, quum moriuntur, commode portari non possint, nequeunt, quum velle vel nolle non habeant, sibi eligere sepulturam; sed sunt apud sua monasteria tumulandi. </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

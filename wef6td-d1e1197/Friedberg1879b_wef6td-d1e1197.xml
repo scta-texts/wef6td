@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> TITULUS XX. </title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title> TITULUS XX. </title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e1197"><!-- wef6td-l3t20 -->
+            <head xml:id="wef6td-d1e1197-Hd1e103"> TITULUS XX. </head>
+      
+            <p xml:id="wef6td-d1e1197-d1e106"> DE CENSIBUS, EXACTIONIBUS ET PROCURATIONIBUS. </p>
+      
+            <div xml:id="wef6td-d1e1197-Dd1e109">
+               <head xml:id="wef6td-d1e1197-Hd1e111">CAP. I. </head>
+               <p xml:id="wef6td-d1e1197-d1e114"> Archiepiscopus, volens provinciam visitare, prius debet visitare ecclesiam, civitatem et dioecesim propriam, clericos et laicos earundem. H. d. Dominicus. —• §. 1. Visitata sua dioecesi archiepiscopus in parte vel in totum visitat omnia loca ecclesiastica, clerum et populum provinciae, procurationem a visitatis recipiendo. H. d. Domin. — §. 2. Archiepiscopus, post inceptam visitationem in una dioecesi, transiens ad aliam, ad primam redire non potest, nisi de novo reiteret in tota provincia. Dominic. — §. 3. Expedita visitatione non reiterat illam archiepiscopus sine consilio suffraganeorum, et diffinitione inscriptis prius facta; debet tamen reincipere ab illis, qui in prima non fuerant visitati. H. d. Dominicus. — §. 4. Archiepiscopus visitans debet proponere verbum Dei, inquirere de vita ministrorum, et de pertinentibus ad divinum officium, absque iuramento; infamatos ordinarii denunciet, et notoria crimina puniat. H. d. Domin. — §. 5. Visitator non in pecunia, sed victualibus recipiet procurationem moderatam; nec familia sua aliquid recipere potest etiam praetextu officii, nec ipse nec sui aliquod munus, etiam oblatum, recipient. H. d. Dominicus. — §. 6. Forma visitationis praemissa servari debet in episcopis et aliis praelatis inferioribus, regularium consuetudinibus exceptis. H. d. Dominicus. </p>
+               <p xml:id="wef6td-d1e1197-d1e117"> Innocentius IV.  </p>
+               <p xml:id="wef6td-d1e1197-d1e120"> Romana ecclesia   (Et infra:)   Statuimus, ut quilibet archiepiscopus, suam volens visitare provinciam, prius ecclesiae suae capitulum ac civitatem et dioecesim propriam plene visitare procuret, nec sit solum erga maiorum, sed etiam minorum ecclesiarum, nec circa clericorum tantum, sed etiam populorum visitationem intentus. Et si commode vel absque difficultate accedere ad unamquamque non poterit, de pluribus locis ad unum congruum clericos et laicos studeat convocare, ne in illis visitatio postponatur. §. i. Deinde liceat ei per totam provinciam vel eius partem visitationis officium exercere, civitates et  dioeceses, suffra-ganeos  suos  et eorum subditos, cathedralium et aliarum ecclesiarum capitula et * monasteria, ecclesias et alia religiosa et pia loca, cleros * et populos libere visitando, ac procurationes a locis tantum recipere visitatis. §.2. Ex quo tamen aliquam de .ipsis dioecesibus visitare coeperit , nunquam postea, sive totam sive partem eius visitaverit, revertatur causa visitationis ad illam, priusquam omnes reliquae   ipsius provinciae dioeceses in toto vel in parte, quas secure visitare poterit, et sua denuo   fuerint visitatae. Quodsi forte eadem dioecesis vel aliqua ibi ecclesia plus aliis indiguerit visitari: tunc, aliarum visitatione intermissa, redeat ad eandem, sialoci dioecesano requisitus exstiterit, vel de omnium aut maioris partis episcoporum eiusdem provinciae processerit consilio et assensu, ad quod iidem se pronos exhibeant, ne animarum profectus aliquatenus negligatur. Si vero malitiose in his difficultatem adhibuerint, archiepiscopus licentiam super hoc a sede apostolica postulet confidenter. §. 3. Postquam autem semel omnes provinciae suae dioeceses visitaverit, licitum sit ei postea, prius tamen suffraganeorum suorum requisito consilio, et ipsius diffinitione super hoc habita coram eis, (quae in scriptis redigi volumus, ut possint aliis esse nota,) visitationem per eandem reiterare provinciam iuxta modum superius annotatum, etiamsi non interveniat in hoc suffraganeorum ipsorum  assensus, illam semper providentiam adhibendo, ut in posterioribus visitationibus illas ecclesias  eosque clericos  et populos prius visitet, qui non fuerant ab eo in prioribus visitati, nisi magis sit aliis visitationis officium opportunum. §. 4. Sane huiusmodi impensurus officium proposito verbo Dei quaerat de vita et conversatione ministrantium in ecclesiis et locis aliis divino cultui deputatis, ac ceteris, quae ad officium ipsum spectant, absque coactione et exactione qualibet iuramenti, ad ipsorum emendationem per salubria monita, nunc levia, nunc aspera, iuxta datam sibi a Deo prudentiam * diligenter intendens. Quodsi de aliquibus orta fuerit infamia contra eos ordinariis ipsorum, ut super his solenniter inquirant, denunciet, si viderit expedire. Notoria vero crimina, quae examinatione non egeant *, quum super his merito notari possit ordinariorum negligentia eorundem, libere corrigat, poenam pro illis debitam infligendo. §. 5. Procurationes autem recipiat, secundum quod est in canonibus constitutum; nullam tamen pecuniam ipse vel aliquis de sua familia, occasione alicuius officii aut consuetudinis, seu quolibet alio modo earum * nomine, sed in victualibus expensas tantum recipiat moderatas. Caveat insuper, ne ipse vel quisquam suorum aliquod munus, quodcunque sit et qualitercunque offeratur, praesumat recipere, ut non quae sua sunt videatur quaerere, sed quae Iesu  Christi. Quodsi fuerit contra praesumptum, recipiens maledictionem incurrat, a qua nunquam, nisi duplum restituat, liberetur. Volumus enim in his fraudem quamlibet penitus evitari. §. 6. Hanc autem visitandi formam ab universis, etiam  episcopis aliisque praelatis, ordinario iure suos subiectos  visitantibus, plene observari praecipimus, salvis super hoc rationabilibus et approbatis religiosorum consuetudinibus et regularibus institutis. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e1197-Dd1e124">
+               <head xml:id="wef6td-d1e1197-Hd1e126">CAP. II. </head>
+               <p xml:id="wef6td-d1e1197-d1e129"> Quia decretalis Innocentii IV. supra proximo non bene servabatur in illo capitulo, quo praeceperat, procurationes in victualibus, non in pecunia recipi, et non recipi munera, nec etiam procurationes in victualibus a locis non visitatis; illam confirmat, poenas adiiciens. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e1197-d1e132"> Gregorius X. in generali concilio Lugdunensi . </p>
+               <p xml:id="wef6td-d1e1197-d1e135"> Exigit  perversorum audacia, ut non simus sola delictorum prohibitione contenti, sed etiam poenam delinquentibus imponamus. Constitutionem  itaque felicis recordationis Innocentii Papae IV. praedecessoris nostri, editam super non recipiendis in pecunia procurationibus, ac super receptione munerum visitantibus eorumque familiaribus * interdicta, quam multorum fertur temeritas praeterire, volentes inviolabiliter observari, eam decernimus  poenae ad-iectione iuvandam, statuentes, ut universi et singuli, qui ob procurationem sibi ratione visitationis debitam exigere pecuniam, vel etiam a volente recipere, vel  alias constitutionem ipsam recipiendo munera, sive, visitationis officio non impenso, procurationem in victualibus, aut aliquid aliud procurationis occasione violare praesumpserint, duplum eius, quod receperint, ecclesiae, a qua id receptum fuerit, infra mensem reddere teneantur. Alioquin extunc patriarchae, archiepiscopi, episcopi  duplum ipsum ultra &amp; praedictum tempus restituere differentes, ingressum sibi ecclesiae sentiant * interdictum; inferiores vero ab officio et beneficio noverint se suspensos, quousque de duplo huiusmodi gravatis ecclesiis plenariam satisfactionem impendant, nulla eis in hoc dantium remissione, liberalitate seu gratia valitura. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e1197-Dd1e139">
+               <head xml:id="wef6td-d1e1197-Hd1e141">CAP. III. </head>
+               <p xml:id="wef6td-d1e1197-d1e144"> Visitator recipere potest procurationem in pecunia, volentibus visitatis; sed una die ultra unam procurationem non recipiet, licet plura visitaverit loca. </p>
+               <p xml:id="wef6td-d1e1197-d1e147"> H. d. Dominicus. </p>
+               <p xml:id="wef6td-d1e1197-d1e150"> Bonifacius VIII. </p>
+        
+               <p xml:id="wef6td-d1e1197-d1e153"> Felicis recordationis Gregorius Papa X. praedecessor noster prohibuit in concilio Lugdunensi, ne aliqui ob procurationem sibi ratione visitationis debitam exigere pecuniam praesumerent, vel etiam recipere a volente. Verum quoniam rerum experientia nos instruxit, ex hoc tam personis visitantibus quam locis et ecclesiis visitatis multa incommodorum dispendia provenire: concedimus, ut patriarchae archiepiscopi, episcopi et alii, quibus ex officio competit visitare, a volentibus ecclesiarum et locorum visitatorum rectoribus seu personis pecuniam licite recipere valeant pro sumptibus moderatis faciendis in victualibus, diebus, quibus visitationis officium personaliter exercebunt, adiicientes, quod non liceat visitanti nisi unam procurationem recipere una die, sive unum locum solum visitaverit sive plura, etiamsi locus quilibet visitatis ab illo sufficeret ad procurationem integram persolvendam; quum eidem sufficere debeat, ut temporalia metat a locis personaliter visitatis pro diebus, quibus eius spiritualia subministrat. Cetera vero, in eiusdem praedecessoris constitutione contenta, in suo volumus robore perdurare. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e1197-Dd1e158">
+               <head xml:id="wef6td-d1e1197-Hd1e160">CAP.   iv, </head>
+               <p xml:id="wef6td-d1e1197-d1e163"> Si universitas vel singularis persona ecclesias vel ecclesiasticas personas compulerit solvere pedagia, vel guidagia, vel exactiones pro rebus suis, quas causa negotiationis non deferunt, vel pro personis: singulares sunt excommunicati, et universitas interdicta, nec prodest contraria consuetudo. Clem. ult. hoc. addit, quod dioecesani, quibus constat, aliquos has sententias incidisse, illos publicare debent, et ipsas sententias facere observari, eod. tit. Praesenti. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e1197-d1e166"> Idem. </p>
+               <p xml:id="wef6td-d1e1197-d1e169"> Quanquam pedagiorum exactiones tam iure canonico quam civili regulariter merito sint damnatae: tanto tamen districtius, ne ab ecclesiis et personis ecclesiasticis talia exigantur, prohiberi oportet, quanto, si id  fiat, maioris inde  transgressionis reatus incurritur, et offensa evidentior comprobatur. Quum igitur ecclesiae, ecclesiasticaeque personae ac res ipsarum non solum iure humano, quin immo et divino, a saecularium personarum exactionibus sint im-munes: constitutionem felicis recordationis Alexandri Papae IV. praedecessoris nostri , qui statuit, ecclesias et personas ecclesiasticas ad pedagia et guidagia penitus non teneri, nec ad exhibendum vel solvendum talia pro rebus suis propriis, quas non causa negotiandi deferunt vel deferri faciunt seu transmittunt, volentes propter multorum insolentiam et abusum poenae adminiculo adiuvare, adiicimus districtius inhibendo, (contraria consuetudine quorumcunque, quae dicenda est corruptela verius, non obstante,) ut nec collegium nec universitas, nec aliqua etiam singularis persona, cuiuscunque sit dignitatis, conditionis aut status, a praefatis ecclesiis aut personis pro personis ipsis aut rebus praedictis talia exigat  vel extorqueat per se vel per alium, suo nomine vel etiam alieno, aut eas ad huiusmodi persolvenda compellat. Qui vero contra fecerint, si personae fuerint singulares, excommunicationis, si autem collegium vel universitas civitatis, castri seu loci alterius cuiuscunque, ipsa civitas, castrum vel locus interdicti sententias ipso facto incurrant, nec ab excommunicatione huiusmodi absolutionem vel interdicti relaxationem obtineant, donec exacta plenarie restituerint, et de transgressione satisfecerint competenter. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e1197-Dd1e173">
+               <head xml:id="wef6td-d1e1197-Hd1e175">CAP. v. </head>
+               <p xml:id="wef6td-d1e1197-d1e178"> Archiepiscopus visitare potest provinciam ac etiam iterare, licet suffraganei non sint negligentes, et tunc confessiones omnium audire, absolvere, et poenitentias imponere. H. d. Domin. </p>
+               <p xml:id="wef6td-d1e1197-d1e181"> I d e m  . </p>
+               <p xml:id="wef6td-d1e1197-d1e184"> Perpetuo declaramus edicto, archiepiscopum posse secundum tenorem constitutionis felicis recordationis Innocentii Papae IV. praedecessoris nostri super hoc editae suam provinciam visitare libere, licet non sint eius suffraganei negligentes, et iterare visitationem eandem, ac procurationes   a locis recipere visitatis, consuetudine, si qua forsan ab ipsis suffraganeis vel ab aliis allegetur, praemissis contraria non obstante. Potest etiam idem archiepiscopus,  dum visitat, confessiones subditorum suffraganeorum audire, ac absolvere confitentes, et ipsis poenitentias iniungere salutares. </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

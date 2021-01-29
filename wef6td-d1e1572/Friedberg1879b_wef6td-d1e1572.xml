@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>TITULUS XI. </title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>TITULUS XI. </title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e1572"><!-- wef6td-l5t11 -->
+            <head xml:id="wef6td-d1e1572-Hd1e103">TITULUS XI. </head>
+            <p xml:id="wef6td-d1e1572-d1e106"> DE SENTENTIA EXCOMMUNICATIONIS,
+        <!--<lb ed="#Fb"/>-->SUSPENSIONIS ET INTERDICTI. </p>
+            <div xml:id="wef6td-d1e1572-Dd1e111">
+               <head xml:id="wef6td-d1e1572-Hd1e113">CAP. I. </head>
+               <p xml:id="wef6td-d1e1572-d1e116"> Iudex, qui excommunicat, suspendit vel interdicit, in scriptis hoc faciat, et
+          <!--<lb ed="#Fb"/>-->causam conscribat, et requisitus exemplum sententiae tradat infra mensem.
+          <!--<lb ed="#Fb"/>-->Qui contra fecerit, per mensem ab ingressu ecclesiae et divinis est suspen¬
+          <!--<lb ed="#Fb"/>-->sus, et relaxabitur illa sententia per superiorem absque difficultate, et
+          <!--<lb ed="#Fb"/>-->condemnabitur lator in expensis et alias poena condigna. Si sic suspensi
+          <!--<lb ed="#Fb"/>-->celebrant, ut prius, sunt irregulares, nec absolvuntur ab alio quam a Papa. </p>
+               <p xml:id="wef6td-d1e1572-d1e129"> H. d. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e1572-d1e132"> Innocentius IV. in concilio Lugdunensi . </p>
+               <p xml:id="wef6td-d1e1572-d1e135"> Quum medicinalis sit excommunicatio, non mortalis,
+          <!--<lb ed="#Fb"/>-->disciplinans, non eradicans, dum tamen  is, in quem lata
+          <!--<lb ed="#Fb"/>-->fuerit, non contemnat: caute provideat iudex ecclesiasticus, ut
+          <!--<lb ed="#Fb"/>-->in ea ferenda ostendat se prosequi quod corrigentis fuerit *
+          <!--<lb ed="#Fb"/>-->et medentis. Quisquis igitur excommunicat, excommunica¬
+          <!--<lb ed="#Fb"/>-->tionem in scriptis proferat, et causam excommunicationis 
+          <!--<lb ed="#Fb"/>--> expresse conscribat, propter quam excommunicatio profera¬
+          <!--<lb ed="#Fb"/>-->tur. Exemplum vero huiusmodi scripturae teneatur excom¬
+          <!--<lb ed="#Fb"/>-->municato tradere infra mensem, si fuerit requisitus; super
+          <!--<lb ed="#Fb"/>-->qua requisitione fieri volumus publicum instrumentum vel
+          <!--<lb ed="#Fb"/>-->literas testimoniales confici sigillo authentico consignatas. </p>
+        
+               <p xml:id="wef6td-d1e1572-d1e159"> Si quis autem iudicum huiusmodi constitutionis temerarius
+          <!--<lb ed="#Fb"/>-->exstiterit  violator: per mensem unum ab ingressu ecclesiae
+          <!--<lb ed="#Fb"/>-->et divinis officiis * noverit se suspensum. Superior vero,
+          <!--<lb ed="#Fb"/>-->ad quem recurritur, sententiam ipsam sine difficultate
+          <!--<lb ed="#Fb"/>-->relaxans, latorem  excommunicato ad expensas et omne 
+          <!--<lb ed="#Fb"/>--> interesse condemnet, et alias puniat animadversione cont
+          <!--<lb ed="#Fb"/>-->digna, ut poena docente discant iudices, quam grave sit ex¬
+          <!--<lb ed="#Fb"/>-->communicationum  sententias sine maturitate debita fulmi¬
+          <!--<lb ed="#Fb"/>-->nare. Et haec eadem in suspensionis et interdicti  sententiis
+          <!--<lb ed="#Fb"/>-->volumus observari. Caveant autem ecclesiarum praelati et;
+          <!--<lb ed="#Fb"/>-->iudices universi, ne praedictam poenam suspensionis incur¬
+          <!--<lb ed="#Fb"/>-->rant; quoniam, si contingeret * eos sic suspensos divina
+          <!--<lb ed="#Fb"/>-->officia exsequi sicut prius, irregularitatem non effugient
+          <!--<lb ed="#Fb"/>-->iuxta canonicas sanctiones, super qua non nisi per summum
+          <!--<lb ed="#Fb"/>-->Pontificem poterit dispensari. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e1572-Dd1e191">
+               <head xml:id="wef6td-d1e1572-Hd1e193">CAP. II. </head>
+               <p xml:id="wef6td-d1e1572-d1e196"> Qui petit absolvi ad cautelam, docens, excommunicationis sententiam in se
+          <!--<lb ed="#Fb"/>-->latam esse nullam, absolvetur cuiuscunque contradictione non obstante^
+          <!--<lb ed="#Fb"/>-->nisi dicatur et probetur infra octo dies excommunicatus pro manifesta
+          <!--<lb ed="#Fb"/>-->offensa. Qui probat, se excommunicatum post appellationem, probatione!
+          <!--<lb ed="#Fb"/>-->pendente in iudiciis evitabitur, extra iudicium vero non. H. d. Ioann. Andr, </p>
+               <p xml:id="wef6td-d1e1572-d1e207"> Idem in eodem . </p>
+               <p xml:id="wef6td-d1e1572-d1e210"> Solet a nonnullis in dubium revocari, an, quum aliquis
+          <!--<lb ed="#Fb"/>-->per superiorem absolvi postulat ad cautelam, dum in se
+          <!--<lb ed="#Fb"/>-->latam excommunicationis sententiam asserit esse nullam,
+          <!--<lb ed="#Fb"/>-->sine contradictionis obstaculo munus ei debeat absolutionis
+          <!--<lb ed="#Fb"/>-->impendi, et an ante absolutionem huiusmodi is , qui se
+          <!--<lb ed="#Fb"/>-->offert in iudicio probaturum, se post appellationem legitimam
+          <!--<lb ed="#Fb"/>-->excommunicatione innodatum *, vel intolerabilem errorem
+          <!--<lb ed="#Fb"/>-->in sententia fuisse patenter expressum, sit in ceteris, ex-'
+          <!--<lb ed="#Fb"/>-->cepto probationis illius  articulo, evitandus? In prima igitur
+          <!--<lb ed="#Fb"/>-->dubitatione sic statuimus observandum, ut petenti absolutio
+          <!--<lb ed="#Fb"/>-->non negetur, quamvis in hoc excommunicator vel adver¬
+          <!--<lb ed="#Fb"/>-->sarius se opponat; nisi eum excommunicatum pro manifesta
+          <!--<lb ed="#Fb"/>-->dicat offensa. In quo casu terminus octo dierum indulgebi-
+          <!--<lb ed="#Fb"/>-->tur sic dicenti, ut, si probaverit quod opponit, non relaxetur
+          <!--<lb ed="#Fb"/>-->sententia; nisi prius sufficiens praestetur emenda, vel com¬
+          <!--<lb ed="#Fb"/>-->petens cautio de parendo iuri, si offensa dubia proponatur.
+          <!--<lb ed="#Fb"/>-->In secunda vero quaestione statuimus, ut is, qui ad proban¬
+          <!--<lb ed="#Fb"/>-->dum admittitur, pendente probationis articulo in ceteris;
+          <!--<lb ed="#Fb"/>-->quae ut actor in iudiciis attentaverit, interim evitetur. Extra
+          <!--<lb ed="#Fb"/>-->iudicium vero in officiis, postulationibus, et electionibus ac
+          <!--<lb ed="#Fb"/>-->aliis legitimis actibus nihilominus admittatur. </p>
+               <p xml:id="wef6td-d1e1572-d1e253"> ,    .    . . _ .. 'i </p>
+               <p xml:id="wef6td-d1e1572-d1e257"> cap.   m. </p>
+               <p xml:id="wef6td-d1e1572-d1e260"> Excommunicatio, lata in participantes excommunicatis in locutione et
+          <!--<lb ed="#Fb"/>-->similibus, canonica monitione non praemissa non tenet. Ioann. Andr. _ </p>
+               <p xml:id="wef6td-d1e1572-d1e265"> Idem  in eodem. </p>
+               <p xml:id="wef6td-d1e1572-d1e268"> Statuimus, ut nullus iudicum participantes cum excom¬
+          <!--<lb ed="#Fb"/>-->municatis ab eo in locutione et aliis  , quibus ligatur partici¬
+          <!--<lb ed="#Fb"/>-->pans excommunicatione minori, ante monitionem * canoni¬
+          <!--<lb ed="#Fb"/>-->cam excommunicare maiori excommunicatione praesumat,
+          <!--<lb ed="#Fb"/>-->salvis constitutionibus eontra illos legitime promulgatis, qui
+          <!--<lb ed="#Fb"/>-->in crimine praesumunt participare damnato. Quodsi ex
+          <!--<lb ed="#Fb"/>-->locutione et aliis, quibus participans labitur in minorem, ex¬
+          <!--<lb ed="#Fb"/>-->communicatus fortius indurescat: poterit iudex post monitio¬
+          <!--<lb ed="#Fb"/>-->nem * canonicam huiusmodiparticipantes consimili damnare
+          <!--<lb ed="#Fb"/>-->censura. Aliter autem in participantes excommunicatio
+          <!--<lb ed="#Fb"/>-->prolata  non teneat , et proferentes poenam legitimam
+          <!--<lb ed="#Fb"/>-->poterunt formidare. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e1572-Dd1e294">
+               <head xml:id="wef6td-d1e1572-Hd1e296">CAP. IV. </head>
+               <p xml:id="wef6td-d1e1572-d1e299"> Episcopi nullam interdicti vel suspensionis incurrunt sententiam, nisi in
+          <!--<lb ed="#Fb"/>-->sententia sint expressi. H. d. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e1572-d1e304"> Idem in eodem . </p>
+               <p xml:id="wef6td-d1e1572-d1e307"> Quia periculosum est episcopis et eorum superioribus
+          <!--<lb ed="#Fb"/>-->propter exsecutionem pontificalis officii, quod frequenter </p>
+               <p xml:id="wef6td-d1e1572-d1e312"> •    .    .    ^    .    ...      3 </p>
+        
+        
+        
+               <p xml:id="wef6td-d1e1572-d1e316"> incumbit, ut in aliquo casu interdicti vel suspensionis incur¬
+          <!--<lb ed="#Fb"/>-->rant sententiam  ipso facto, nos deliberatione provida duxi¬
+          <!--<lb ed="#Fb"/>-->mus statuendum, ut episcopi et alii superiores praelati
+          <!--<lb ed="#Fb"/>-->nullius constitutionis occasione, sententiae sive mandati,
+          <!--<lb ed="#Fb"/>-->praedictam incurrant sententiam ullatenus ipso iure, nisi in
+          <!--<lb ed="#Fb"/>-->ipsis de episcopis  expressa mentio habeatur . </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e1572-Dd1e331">
+               <head xml:id="wef6td-d1e1572-Hd1e333">CAP. y. </head>
+               <p xml:id="wef6td-d1e1572-d1e336"> Huius decretalis quinque sunt dicta: primum, quod archiepiscopus senten¬
+          <!--<lb ed="#Fb"/>-->tias, latas a subditis suorum suffraganeorum, nisi hoc habeat de consue¬
+          <!--<lb ed="#Fb"/>-->tudine, non relaxet. Secundum, quod generalis sententia archiepiscopi
+          <!--<lb ed="#Fb"/>-->ligat tantum subditos. Tertium, quod pro praeteritis vel praesentibus
+          <!--<lb ed="#Fb"/>-->culpis, monitione non praemissa, ab eis lata sententia est iniusta. Quartum,
+          <!--<lb ed="#Fb"/>-->quod pro futuris culpis vel iam commissis, scilicet nisi satisfaciant, excom¬
+          <!--<lb ed="#Fb"/>-->municare non debent, nisi mora, culpa, vel offensa vel alia iusta causa
+          <!--<lb ed="#Fb"/>-->subsit. Quintum, quod in universitatem vel collegium non feratur excom¬
+          <!--<lb ed="#Fb"/>-->municationis sententia, sed in illos, qui culpabiles exstiterunt. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e1572-d1e355"> Idem . </p>
+               <p xml:id="wef6td-d1e1572-d1e358"> Romana ecclesia   (Et infra:)   Ceterum interdicti, suspen¬
+          <!--<lb ed="#Fb"/>-->sionis vel  excommunicationis sententias,latas ab officialibus
+          <!--<lb ed="#Fb"/>-->archidiaconorum, seu quibuslibet aliis iurisdictionem haben¬
+          <!--<lb ed="#Fb"/>-->tibus, suffraganeorum Remensis ecclesiae subditis, Remensis
+          <!--<lb ed="#Fb"/>-->archiepiscopus et eius officiales omissis ipsis excommuni-
+          <!--<lb ed="#Fb"/>-->catoribus non relaxent, salva contraria super hoc consuetu¬
+          <!--<lb ed="#Fb"/>-->dine, si quam habent. Porro excommunicationum sententiae,
+          <!--<lb ed="#Fb"/>-->a Remensi archiepiscopo suisque officialibus generaliter
+          <!--<lb ed="#Fb"/>-->promulgatae, subiectos eiusdem iurisdictioni archiepiscopi
+          <!--<lb ed="#Fb"/>-->tantum ligant. Sed nec in specie nec in genere pro culpis
+          <!--<lb ed="#Fb"/>-->et offensis praeteritis vel praesentibus excommunicationum
+          <!--<lb ed="#Fb"/>-->sententias absque competenti monitione praemissa pro¬
+          <!--<lb ed="#Fb"/>-->mulgent, et, si contra praesumpserint, iniustas noverint
+          <!--<lb ed="#Fb"/>-->esse illas. Caveant etiam, ne tales sententias excommunica¬
+          <!--<lb ed="#Fb"/>-->tionis * sive specialiter sive generaliter in aliquos pro
+          <!--<lb ed="#Fb"/>-->futuris culpis, videlicet si tale quid fecerint, vel * etiam pro
+          <!--<lb ed="#Fb"/>-->iam commissis sub hac forma: „ si de illis infra tale tempus
+          <!--<lb ed="#Fb"/>-->minime satisfecerint,“ proferre praesumant, nisi mora in
+          <!--<lb ed="#Fb"/>-->exhibenda satisfactione, vel culpa seu offensa praecesserit *,
+          <!--<lb ed="#Fb"/>-->quibus merito ad iniungendam satisfactionem huiusmodi et
+          <!--<lb ed="#Fb"/>-->taliter prohibenda similia inducantur, aut alia rationabilis,
+          <!--<lb ed="#Fb"/>-->quam in ipsis sententiis exprimant, causa subsit. In uni¬
+          <!--<lb ed="#Fb"/>-->versitatem  vel collegium proferri excommunicationis sen¬
+          <!--<lb ed="#Fb"/>-->tentiam penitus prohibemus, volentes animarum periculum
+          <!--<lb ed="#Fb"/>-->vitare, quod exinde sequi posset, quum nonnumquam con¬
+          <!--<lb ed="#Fb"/>-->tingeret innoxios  huiusmodi sententia irretiri; sed in illos
+          <!--<lb ed="#Fb"/>-->duntaxat de collegio vel universitate, quos culpabiles esse
+          <!--<lb ed="#Fb"/>-->constiterit, promulgetur. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e1572-Dd1e416">
+               <head xml:id="wef6td-d1e1572-Hd1e418">CAP. VI. </head>
+               <p xml:id="wef6td-d1e1572-d1e421"> Praelatus contra potentiam temporalem etiam spirituali gladio, scilicet
+          <!--<lb ed="#Fb"/>-->ecclesiastica censura, se tueri potest. H. d. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e1572-d1e426"> Idem in eodem . </p>
+        
+               <p xml:id="wef6td-d1e1572-d1e429"> Dilecto filio decano Aurelianensi    (Et infra:)   Praeterea
+          <!--<lb ed="#Fb"/>-->quum omnes leges omniaque iura vim vi repellere, cunctis-
+          <!--<lb ed="#Fb"/>-->que sese defensare permittant: licuit utique ipsi decano, si
+          <!--<lb ed="#Fb"/>-->praedictus ballivus eum bonis suis mundanis iniuriose
+          <!--<lb ed="#Fb"/>-->spoliare, vel ea violenter occupare praesumpserit , ut
+          <!--<lb ed="#Fb"/>-->superius est expressum, contra illius violentiam iniuriam-
+          <!--<lb ed="#Fb"/>-->que * se tueri. Et quoniam adversus eius nimiam poten¬
+          <!--<lb ed="#Fb"/>-->tiam sufficiens temporalis defensio sibi forte non aderat:
+          <!--<lb ed="#Fb"/>-->potuit se etiam spiritualiter, gladio videlicet utendo eccle¬
+          <!--<lb ed="#Fb"/>-->siastico, defensare, ac recurrere propter hoc ad arma spiri¬
+          <!--<lb ed="#Fb"/>-->tualia, quae sunt ecclesiae propria, et pro suo munime *
+          <!--<lb ed="#Fb"/>-->illis uti; praesertim quum dictus ballivus post latas in eum
+          <!--<lb ed="#Fb"/>-->ab eodem decano  ex aliis causis excommunicationis sen¬
+          <!--<lb ed="#Fb"/>-->tentias, sicut idem decanus asseruit, ipsum tanquam exinde
+          <!--<lb ed="#Fb"/>-->provocatus, sententiis ipsis contemptis, bonis spoliasset
+          <!--<lb ed="#Fb"/>-->eisdem, et propter hoc postmodum ipse decanus sententiam
+          <!--<lb ed="#Fb"/>-->tulerit  interdicti, tanquam spirituali se mucrone defendens
+          <!--<lb ed="#Fb"/>-->contra illius iniuriam et violentiam, sibi ab eodem occasione
+          <!--<lb ed="#Fb"/>-->praedictarum sententiarum et in ipsarum contemptum illa¬
+          <!--<lb ed="#Fb"/>-->tam. Et quidem quum liceat cuilibet suo vicino vel  proximo
+          <!--<lb ed="#Fb"/>-->pro repellenda ipsius iniuria suum impertiri auxilium, immo,
+          <!--<lb ed="#Fb"/>-->si potest et negligit , videatur iniuriantem fovere, ac esse
+          <!--<lb ed="#Fb"/>-->particeps eius culpae: licuit profecto ipsi decano proprio
+          <!--<lb ed="#Fb"/>-->sibimet subvenire subsidio, et suammet temporalem in¬
+          <!--<lb ed="#Fb"/>-->iuriam sua propria spirituali defensione tueri, sicque utrum¬
+          <!--<lb ed="#Fb"/>-->que quodammodo gladium, et  temporalem et ecclesiasti¬
+          <!--<lb ed="#Fb"/>-->cum, alterum videlicet altero adiuvare, maxime quia hi duo
+          <!--<lb ed="#Fb"/>-->gladii consueverunt exigente necessitate sibi ad invicem
+          <!--<lb ed="#Fb"/>-->suffragari, et in iuvamen alterius subventione mutua frequen¬
+          <!--<lb ed="#Fb"/>-->tius exerceri. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e1572-Dd1e491">
+               <head xml:id="wef6td-d1e1572-Hd1e493">CAP. VII. </head>
+               <p xml:id="wef6td-d1e1572-d1e496"> Excommunicatos a subditis suffraganeorum archiepiscopi non possunt
+          <!--<lb ed="#Fb"/>-->absolvere, sed excommunicatos a suffraganeis vel officialibus bene, si ad
+          <!--<lb ed="#Fb"/>-->eos appellatum fuerit. H. d. Ioann. Andr. — §. 1. Archiepiscopus in casibus,
+          <!--<lb ed="#Fb"/>-->in quibus iurisdictionem habet, ante cognitionem causae absolvit excom¬
+          <!--<lb ed="#Fb"/>-->municatum ad petitionem partis, vel ex officio, nisi dicatur excommunicatus
+          <!--<lb ed="#Fb"/>-->pro manifesta offensa vel contumacia; et contumaciae praesumptae et
+          <!--<lb ed="#Fb"/>-->manifestae ponit exempla. H. d. Ioann. Andr. — §. 2. Excommunicatio,
+          <!--<lb ed="#Fb"/>-->lata post appellationem interpositam ex causa probabili, non statim pronun¬
+          <!--<lb ed="#Fb"/>-->ciate nulla; sed fieri potest relaxatio ad cautelam,etiam antequam incipiat
+          <!--<lb ed="#Fb"/>-->de veritate causae cognoscere. Idem, si dicatur lata per intolerabilem erro¬
+          <!--<lb ed="#Fb"/>-->rem, et in contrarium error ille probabiliter defendatur. Ioann. Andr. —
+          <!--<lb ed="#Fb"/>-->§. 3. Si certum est, excommunicationem esse iustam, fit remissio; si certum
+          <!--<lb ed="#Fb"/>-->est eam iniustam, non fit. Si est dubium, fieri potest relaxatio, sed honestius
+          <!--<lb ed="#Fb"/>-->est remittere; tenet tamen relaxatio, ubi archiepiscopus est iudex, licet non
+          <!--<lb ed="#Fb"/>-->fiat remissio. H. d. Ioann. Andr. — §. 4. Archiepiscopus in casibus, iri
+          <!--<lb ed="#Fb"/>-->quibus excommunicare potest, si consuetudo habet, emendas pecuniarias
+          <!--<lb ed="#Fb"/>-->exigere potest. H. d. Ioann. Andr. — §.5. Summatur supra in §. Sed si ex
+          <!--<lb ed="#Fb"/>-->causa, ibi videas. — §. 6. Summarium habet supra in §. Sed si ex causa, </p>
+               <p xml:id="wef6td-d1e1572-d1e533"> ibi vide. </p>
+               <p xml:id="wef6td-d1e1572-d1e536"> Idem . </p>
+               <p xml:id="wef6td-d1e1572-d1e539"> Venerabilibus   (Et infra:)   Ceterum Rothomagensi  archi¬
+          <!--<lb ed="#Fb"/>-->episcopo vel eius officiali non licet excommunicatis ab archi¬
+          <!--<lb ed="#Fb"/>-->diaconis  vel aliis subditis suffraganeorum ipsius archiepi¬
+          <!--<lb ed="#Fb"/>-->scopi, (quum nec excommunicantium, nec excommunicatorum 
+          sint iudices,) absolutionis beneficium impertiri; excommuni¬
+          <!--<lb ed="#Fb"/>-->catos autem ab ipsis suffraganeis vel eorum officialibus
+          <!--<lb ed="#Fb"/>-->possunt absolvere, si ab ipsis litigantibus ad eos fuerit pro¬
+          <!--<lb ed="#Fb"/>-->vocatum. Neutra vero partium appellante, si qua ipsarum
+          <!--<lb ed="#Fb"/>-->per archiepiscopum vel eius officialem ab excommunicatione
+          <!--<lb ed="#Fb"/>-->contra eam lata pro reliqua postulet se absolvi, vel alias
+          <!--<lb ed="#Fb"/>-->coram eis de parte adversa querimoniam sine appellationis
+          <!--<lb ed="#Fb"/>-->interpositione deponat: non est in hoc ab ipsis, (quum sui
+          <!--<lb ed="#Fb"/>-->non sint iudices,) audienda. Sed si excommunicatus de¬
+          <!--<lb ed="#Fb"/>-->ponat apud eos de suffraganeo, ut imponatur ei poena, et
+          <!--<lb ed="#Fb"/>-->pro suo interesse super iniusta excommunicatione querelam:
+          <!--<lb ed="#Fb"/>-->audire utique debent eum. Secus autem, si conqueratur de
+          <!--<lb ed="#Fb"/>-->ipso, ut relaxetur huiusmodi sententia, contra se ab eo pro
+          <!--<lb ed="#Fb"/>-->alio promulgata: quoniam tueri hanc causam non ad ipsum
+          <!--<lb ed="#Fb"/>-->suffraganeum, sed eum *, pro quo est sententia lata, spectat.
+          <!--<lb ed="#Fb"/>-->Attamen  si suffraganeus vel extra iudicium pro suorum
+          <!--<lb ed="#Fb"/>-->defensione iurium, vel etiam in iudicio ex suo procedens
+          <!--<lb ed="#Fb"/>-->officio, inquirendo videlicet vel simile quid agendo, aliquem
+          <!--<lb ed="#Fb"/>-->excommunicet: in hoc casu conveniendus est ipse suffra¬
+          <!--<lb ed="#Fb"/>-->ganeus coram archiepiscopo vel eius officiali, quia ipsius
+          <!--<lb ed="#Fb"/>-->interest defendere causam suam. §. i. Porro archiepiscopus
+          <!--<lb ed="#Fb"/>-->vel  eius officiales excommunicatos a suffraganeis semper,
+          <!--<lb ed="#Fb"/>-->antequam audire causam incipiant, in casibus, in quibus eis
+          <!--<lb ed="#Fb"/>-->iurisdictio competit, iuxta ecclesiae formam debent absol¬
+          <!--<lb ed="#Fb"/>-->vere, utpote si post diffinitivam fuerit excommunicationis
+          <!--<lb ed="#Fb"/>-->sententia promulgata , et ad eos * fuerit  appellatum  s 
+          <!--<lb ed="#Fb"/>-->exceptis casibus, in quibus iura prohibent post sententiam
+          <!--<lb ed="#Fb"/>-->appellare. Similiter, si suffraganeus extra iudicium excom¬
+          <!--<lb ed="#Fb"/>-->municet aliquem pro eius offensa, vel pro sui defensione
+          <!--<lb ed="#Fb"/>-->iuris, et super hoc querimoniam ille proponat; est ille *
+          <!--<lb ed="#Fb"/>-->primitus iuxta formam ecclesiae absolvendus, nisi suf¬
+          <!--<lb ed="#Fb"/>-->fraganeus probaturum se offerat, quod pro manifesta offensa
+          <!--<lb ed="#Fb"/>-->excommunicationis eum vinculo innodavit. Idem est etiam,
+          <!--<lb ed="#Fb"/>-->si quem quam pro praesumpta contumacia, videlicet quia
+          <!--<lb ed="#Fb"/>-->citatus praefixo  sibi termino non comparuit, excommunica¬
+          <!--<lb ed="#Fb"/>-->tione constringat: quia, si sic ligatus proposita querimonia
+          <!--<lb ed="#Fb"/>-->petat ab archiepiscopo se absolvi, sive quando suffraganeus
+          <!--<lb ed="#Fb"/>-->ex suo processit officio, sive quando est ad ipsum archi¬
+          <!--<lb ed="#Fb"/>-->episcopum ante sententiam diffinitivam appellatum, et ab
+          <!--<lb ed="#Fb"/>-->adversario proponatur, quod absolvendus non sit, nec pandi
+          <!--<lb ed="#Fb"/>-->ei debeat iudicii aditus, nisi prius expensas restituat, et
+          <!--<lb ed="#Fb"/>-->iudicio sisti exhibeat cautionem, ipseque respondeat, quod
+          <!--<lb ed="#Fb"/>-->recte contumax reputari non debet pro eo, quod  in itinere
+          <!--<lb ed="#Fb"/>-->captus vel etiam * alio   impedimento detentus in termino
+          <!--<lb ed="#Fb"/>-->comparere nequivit, tunc protinus sibi iuxta formam ecclesiae
+          <!--<lb ed="#Fb"/>-->beneficium debet absolutionis impendi. Secus autem, si se
+          <!--<lb ed="#Fb"/>-->contumacem confiteatur, vel alias de contumacia sua constet,
+          <!--<lb ed="#Fb"/>-->quia forte praedixerat in iudicio, quod minime compareret.
+          <!--<lb ed="#Fb"/>-->Tunc enim, quum manifesta  sit contumacia, et manifesta
+          <!--<lb ed="#Fb"/>-->reputetur offensa, non est ei, nisi primo expensarum satis¬
+          <!--<lb ed="#Fb"/>-->factione ac de stando iudicio cautione praestita, absolutio
+          <!--<lb ed="#Fb"/>-->impendenda. Et hoc ipsum est in similibus observandum,
+          <!--<lb ed="#Fb"/>-->sicut si aliquis ad certum locum citetur, et ille proponat,
+          <!--<lb ed="#Fb"/>-->ipsum  non esse sibi tutum, et iudex postea in eum, quia
+          <!--<lb ed="#Fb"/>-->non probavit hoc, nec  comparuit, sententiam excommunica¬
+          <!--<lb ed="#Fb"/>-->tionis promulget. Nam tunc, si excommunicatus ipse ad
+          <!--<lb ed="#Fb"/>-->superiorem appellet, et ante omnia se ab eo petat absolvi*
+          <!--<lb ed="#Fb"/>-->quum probare coram eo velit, ipsum locum non exsistere
+          <!--<lb ed="#Fb"/>-->sibi tutum, in hoc est procul dubio audiendus, quum prae¬
+          <!--<lb ed="#Fb"/>-->sumpta solummodo eius  contumacia videatur. Sed si
+          <!--<lb ed="#Fb"/>-->iudex pronunciasset, locum illum esse idoneum et securum,
+          <!--<lb ed="#Fb"/>-->et ille non comparuisset, ac ideo excommunicasset eundem:
+          <!--<lb ed="#Fb"/>-->ipse postmodum super hoc, nisi post latam interlocutoriam
+          <!--<lb ed="#Fb"/>-->infra decendium provocasset, nullatenus audiri debet *.
+          <!--<lb ed="#Fb"/>-->§. 2. Sed si  ex causa legitima seu probabili quis appellet,
+          <!--<lb ed="#Fb"/>-->puta quia locus non est tutus, et post appellationem huius
+          <!--<lb ed="#Fb"/>-->modi excommunicatione ligetur, ac deinde constet superiori,
+          <!--<lb ed="#Fb"/>-->quod ad ipsum ex tali causa exstitit provocatum: non tamen
+          <!--<lb ed="#Fb"/>-->illico pronunciare debet excommunicationis sententiam fore
+          <!--<lb ed="#Fb"/>-->nullam, sed potest euin ° ad cautelam iuxta formam ecclesiae
+          <!--<lb ed="#Fb"/>-->relaxare. §. 3. Sane, si certum estP, excommunicationis
+          <!--<lb ed="#Fb"/>-->sententiam esse iustam, velut quum propter manifestum
+          <!--<lb ed="#Fb"/>-->excessum est in aliquem promulgata: superior iudex, nisi&lt;i
+          <!--<lb ed="#Fb"/>-->periculum sit in mora, excommunicatum ad excommunica-
+          <!--<lb ed="#Fb"/>-->torem prorsus remittere debet , nec debet eum absolvere,
+          <!--<lb ed="#Fb"/>-->nisi excommunicator requisitus malitiose illi absolutionis
+          <!--<lb ed="#Fb"/>-->beneficium deneget exhibere. Si vero constet, huiusmodi
+          <!--<lb ed="#Fb"/>-->sententiam esse iniustam: nequaquam remittendus est ad
+          <!--<lb ed="#Fb"/>-->suum excommunicatorem excommunicatus, sed debet sine
+          <!--<lb ed="#Fb"/>-->difficultate aliqua mox absolvi. Quodsi dubitetur, utrum
+          <!--<lb ed="#Fb"/>-->iusta sit vel iniusta: superior, nisi excommunicatori deferat,
+          <!--<lb ed="#Fb"/>-->relaxare iuxta formam ecclesiae potest illam, quamquam
+          <!--<lb ed="#Fb"/>-->honestius et convenientius agat, si ei deferat in hoc casu.
+          <!--<lb ed="#Fb"/>-->Ubi autem superiori competit de excommunicatione cog¬
+          <!--<lb ed="#Fb"/>-->noscere: absolutio seu relaxatio, quam ipse fecerit, tenet,
+          <!--<lb ed="#Fb"/>-->licet forsitan sit iniusta, quoniam, etsi contra ius litigatoris,
+          <!--<lb ed="#Fb"/>-->non tamen contra ius constitutionis absolvit. §. 4. Denique
+          <!--<lb ed="#Fb"/>-->a subditis suffraganei  emendas pecuniarias potest archi¬
+          <!--<lb ed="#Fb"/>-->episcopus secundum consuetudinem regionis exigere in
+          <!--<lb ed="#Fb"/>-->casibus, in quibus ei licet eos  excommunicationis vinculo
+          <!--<lb ed="#Fb"/>-->innodare. §. 5. Potest quoque archiepiscopus beneficium
+          <!--<lb ed="#Fb"/>-->absolutionis iuxta formam ecclesiae nonnunquam impendere
+          <!--<lb ed="#Fb"/>-->ad cautelam, utpote si asseritur , in excommunicationis sen¬
+          <!--<lb ed="#Fb"/>-->tentia intolerabilem errorem fuisse patenter expressum, id
+          <!--<lb ed="#Fb"/>-->est, aliquid sub vi praecepti vel mandati aperte in ea con¬
+          <!--<lb ed="#Fb"/>-->tineri, quod communiter vel in suo genere est peccatum,
+          <!--<lb ed="#Fb"/>-->veluti si dicat forte aliquis, se a suffraganeo excommunica¬
+          <!--<lb ed="#Fb"/>-->tum fuisse pro eo, quod eleemosynam pauperi tribuebat,
+          <!--<lb ed="#Fb"/>-->vel quia faciebat aliquid aliud, quod in se bonum est , aut
+          <!--<lb ed="#Fb"/>-->quia non operabatur id, quod suo actu illicitum est et
+          <!--<lb ed="#Fb"/>-->pravum, et suffraganeus ipse asserat, quod pro digna   et
+          <!--<lb ed="#Fb"/>-->rationabili causa, vel pro conservanda  vel * exsequenda
+          <!--<lb ed="#Fb"/>-->iustitia hoc illi prohibuisset vel etiam iniunxisset. Nam tunc
+          <!--<lb ed="#Fb"/>-->archiepiscopus ad cautelam absolvere potest eum. §. 6.
+          <!--<lb ed="#Fb"/>-->Similiter, si aliquisy proponat  se ante diffinitivam senten¬
+          <!--<lb ed="#Fb"/>-->tiam in iudicio vel extra post appellationem ex causa
+          <!--<lb ed="#Fb"/>-->legitima interpositam vinculo excommunicationis adstric-
+          <!--<lb ed="#Fb"/>-->tum: potest archiepiscopus^ postquam sibi de hoc con¬
+          <!--<lb ed="#Fb"/>-->stiterit, etiam priusquam incipiat de veritate causae appella¬
+          <!--<lb ed="#Fb"/>-->tionis cognoscere, absolutionis illi beneficium ad cautelam
+          <!--<lb ed="#Fb"/>-->iuxta formam ecclesiae impertiri .
+        </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e1572-Dd1e769">
+               <head xml:id="wef6td-d1e1572-Hd1e771">CAP. VIII. </head>
+               <p xml:id="wef6td-d1e1572-d1e774"> Iudex ecclesiasticus compellit iudicem laicum, repellere excommunicatos
+          <!--<lb ed="#Fb"/>-->ab actibus iudiciariis sibi prohibitis. H. d. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e1572-d1e779"> Alexander IV.  </p>
+               <p xml:id="wef6td-d1e1572-d1e782"> Decernimus, ut iudices saeculares per censuram eccle¬
+          <!--<lb ed="#Fb"/>-->siasticam ab ecclesiasticis iudicibus, canonica monitione
+          <!--<lb ed="#Fb"/>-->praemissa, repellere excommunicatos ab agendo, patro¬
+          <!--<lb ed="#Fb"/>-->cinando et testificando in suis curiis et iudiciis compel¬
+          <!--<lb ed="#Fb"/>-->lantur. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e1572-Dd1e794">
+               <head xml:id="wef6td-d1e1572-Hd1e796">CAP. IX. </head>
+               <p xml:id="wef6td-d1e1572-d1e799"> Non valet excommunicatio lata in participantes, nisi fuerint moniti nomi¬
+          <!--<lb ed="#Fb"/>-->natim. Et canonica monitio dicitur, quae habet dierum intervalla, nisi
+          <!--<lb ed="#Fb"/>-->necessitas facti aliud suadeat. H. d. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e1572-d1e806"> Gregorius X. in generali concilio Lugdunensi . </p>
+        
+               <p xml:id="wef6td-d1e1572-d1e809"> Constitutionem felicis recordationis Innocentii Papae IV. 
+          <!--<lb ed="#Fb"/>--> praedecessoris nostri, quae prohibet, participantes excom¬
+          <!--<lb ed="#Fb"/>-->municatis ea participatione, quae solam minorem excom¬
+          <!--<lb ed="#Fb"/>-->municationem inducit, monitione canonica non praemissa
+          <!--<lb ed="#Fb"/>-->maiori excommunicatione ligari, decernens, promulgatam
+          <!--<lb ed="#Fb"/>-->aliter excommunicationis sententiam non tenere, ad tollen¬
+          <!--<lb ed="#Fb"/>-->dum omnem ambiguitatis scrupulum declarantes, decerni¬
+          <!--<lb ed="#Fb"/>-->mus , ita demum esse monitionem canonicam in hoc casu,
+          <!--<lb ed="#Fb"/>-->si aliis rite servatis eos, qui monentur, exprimat nominatim.
+          <!--<lb ed="#Fb"/>-->Statuimus quoque, ut inter monitiones, quas, ut canonice
+          <!--<lb ed="#Fb"/>-->promulgetur  excommunicationis sententia, statuunt iura
+          <!--<lb ed="#Fb"/>-->praemitti, iudices, sive monitionibus tribus utantur sive una
+          <!--<lb ed="#Fb"/>-->pro omnibus, observent aliquorum dierum competentia
+          <!--<lb ed="#Fb"/>-->intervalla, nisi facti necessitas aliter ea suaserit moderanda. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e1572-Dd1e839">
+               <head xml:id="wef6td-d1e1572-Hd1e841">CAP. x. </head>
+               <p xml:id="wef6td-d1e1572-d1e844"> Relaxatio ad cautelam in generali interdicto non habet locum. H. d. Domin. </p>
+               <p xml:id="wef6td-d1e1572-d1e847"> Idem in eodem . </p>
+               <p xml:id="wef6td-d1e1572-d1e850"> Praesenti generali declaramus edicto, beneficium relaxa¬
+          <!--<lb ed="#Fb"/>-->tionis ad cautelam, quoad interdicti sententias, in civitates,
+          <!--<lb ed="#Fb"/>-->castra vel quaelibet alia loca sive  terras aliquas generaliter
+          <!--<lb ed="#Fb"/>-->promulgatas, locum aliquatenus non habere. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e1572-Dd1e861">
+               <head xml:id="wef6td-d1e1572-Hd1e863">CAP. XI. </head>
+               <p xml:id="wef6td-d1e1572-d1e866"> Primo excommunicat certis limitationibus dantes licentiam offendendi in
+          <!--<lb ed="#Fb"/>-->personis vel rebus suis vel suorum, exercentes contra aliquos ecclesiasticam
+          <!--<lb ed="#Fb"/>-->censuram, vel exerceri facientes, vel illam servantes. Secundo ibi: Eadem,
+          <!--<lb ed="#Fb"/>-->poenam prorogat ad utentem, vel motu proprio id agentem. Tertio ibi: Qui
+          <!--<lb ed="#Fb"/>-->autem, poenam aggravat. H. d. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e1572-d1e877"> Idem in eodem . </p>
+               <p xml:id="wef6td-d1e1572-d1e880"> Quicunque pro eo, quod in reges, principes, barones,
+          <!--<lb ed="#Fb"/>-->nobiles, ballivos vel quoslibet ministros eorum, aut quoscun¬
+          <!--<lb ed="#Fb"/>-->que alios excommunicationis, suspensionis seu interdicti
+          <!--<lb ed="#Fb"/>-->sententia fuerit promulgata, licentiam alicui dederint occi¬
+          <!--<lb ed="#Fb"/>-->dendi, capiendi, seu alias in personis aut bonis suis vel
+          <!--<lb ed="#Fb"/>-->suorum gravandi eos, qui tales sententias protulerunt, sive
+          <!--<lb ed="#Fb"/>-->quorum sint * occasione prolatae, vel easdem sententias
+          <!--<lb ed="#Fb"/>-->observantes, seu taliter excommunicatis communicare nolen¬
+          <!--<lb ed="#Fb"/>-->tes, (nisi licentiam ipsam re integra revocaverint, vel si ad
+          <!--<lb ed="#Fb"/>-->bonorum captionem occasione ipsius licentiae  sit proces¬
+          <!--<lb ed="#Fb"/>-->sum, nisi bona in ipsa  fuerint  infra octo dierum spatium
+          <!--<lb ed="#Fb"/>-->restituta, aut satisfactio pro ipsis impensa,) eo * ipso sen¬
+          <!--<lb ed="#Fb"/>-->tentiam excommunicationis incurrant . Eadem quoque sen¬
+          <!--<lb ed="#Fb"/>-->tentia sint innodati omnes, qui ausi fuerint praedicta licentia
+          <!--<lb ed="#Fb"/>-->data uti, vel aliquod  praemissorum, ad quae committenda
+          <!--<lb ed="#Fb"/>-->dari licentiam prohibuimus , alias  committere suo  motu.
+          <!--<lb ed="#Fb"/>-->Qui autem in eadem sententia permanserint duorum men¬
+          <!--<lb ed="#Fb"/>-->sium spatio, extunc ab ea non possint nisi per easdem apo¬
+          <!--<lb ed="#Fb"/>-->stolicam absolutionis beneficium obtinere. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e1572-Dd1e920">
+               <head xml:id="wef6td-d1e1572-Hd1e922">CAP. XII. </head>
+               <p xml:id="wef6td-d1e1572-d1e925"> Si malefactor, captus a iudice laico, dicit se clericum: huius rei cognitio ad
+          <!--<lb ed="#Fb"/>-->iudicem ecclesiasticum spectat. Et si notorie, vel publica fama vel com¬
+          <!--<lb ed="#Fb"/>-->muni aestimatione habetur pro clerico: statim fit remissio. Idem, si prius
+          <!--<lb ed="#Fb"/>-->se gerebat pro clerico, et modo deprehensus fuit in habitu clericali. Si
+          <!--<lb ed="#Fb"/>-->autem prius se gerebat pro laico, licet modo in clericali habitu deprehensus
+          <!--<lb ed="#Fb"/>-->fuerit, non fiet remissio, donec fuerit de clericatu probatum; sed interim
+          <!--<lb ed="#Fb"/>-->contra eum iudex in nullo procedet. H. d. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e1572-d1e940"> Bonifacius VIII. </p>
+               <p xml:id="wef6td-d1e1572-d1e943"> Si iudex laicus malefactorem captum detineat, et is, se
+          <!--<lb ed="#Fb"/>-->clericum dicens, ad curiam ecclesiasticam petat remitti ,
+          <!--<lb ed="#Fb"/>-->vel curia ipsa, eum  tanquam suum clericum repetat, iudice
+          <!--<lb ed="#Fb"/>-->illum inficiante clericum, ac ob hoc minime remittendum:
+          <!--<lb ed="#Fb"/>-->dubitationis huiusmodi, an scilicet sit qui repetitur clericus,
+          <!--<lb ed="#Fb"/>-->ad iudicem ecclesiasticum, quia de re ecclesiastica et spiri¬
+          <!--<lb ed="#Fb"/>-->tuali, vocato tamen iudice saeculari, vel alio, cuius interest,
+          <!--<lb ed="#Fb"/>-->cognitio pertinebit. Et si notorium fuerit, quod idem male¬
+          <!--<lb ed="#Fb"/>-->factor sit clericus, qui huiusmodi privilegio gaudere debeat ,
+          <!--<lb ed="#Fb"/>-->statim absque alia cognitione, vel fama publica de hoc
+          <!--<lb ed="#Fb"/>-->exstiterit, aut ipse pro clerico communiter habebatur: in
+          <!--<lb ed="#Fb"/>-->continenti etiam ante cognitionem  de clericatu ecclesi¬
+          <!--<lb ed="#Fb"/>-->asticae curiae debet reddi. Idem esse censemus, si reus </p>
+        
+        
+        
+               <p xml:id="wef6td-d1e1572-d1e970"> ipse, ante deprehensionem pro laico publice se non gerens,
+          <!--<lb ed="#Fb"/>-->deprehensus fuit  in habitu clericali, tonsuram videlicet et
+          <!--<lb ed="#Fb"/>-->vestes deferens clericales. Nam talem debemus clericum,
+          <!--<lb ed="#Fb"/>-->donec constet de contrario, reputare; sicut de illo, qui in
+          <!--<lb ed="#Fb"/>-->possessione ingenuitatis exsistit, si dicatur ab alio libertinus,
+          <!--<lb ed="#Fb"/>-->legalis sanxit auctoritas, ut probandi necessitate non ipse,
+          <!--<lb ed="#Fb"/>-->sed adversarius adstringatur. Iustum est enim, ut ipse talis
+          <!--<lb ed="#Fb"/>-->quem gestat ex habitu, quousque appareat aliud, praesuma¬
+          <!--<lb ed="#Fb"/>-->tur, qualis is  esse, cuius fert habitum, comprobatur. Ex
+          <!--<lb ed="#Fb"/>-->stigmate namque, consueto fabricensibus imprimi, latitans
+          <!--<lb ed="#Fb"/>-->fabricensis agnoscitur, et custodes aquarum, quos hydro-
+          <!--<lb ed="#Fb"/>-->phylacas nominant, quae eis infigi solet adnotatione signati,
+          <!--<lb ed="#Fb"/>-->manifesti sunt omnibus, et angariarum nomine non tenentur.
+          <!--<lb ed="#Fb"/>-->Isque status alicuius esse videtur, in quo ipse deprehenditur,
+          <!--<lb ed="#Fb"/>-->donec contrarium doceatur. Non sic autem volumus obser¬
+          <!--<lb ed="#Fb"/>-->vari, si ante deprehensionem pro laico publice se gerebat,
+          <!--<lb ed="#Fb"/>-->ac  pro tali communiter habebatur ; quamvis deprehensionis
+          <!--<lb ed="#Fb"/>-->tempore repertus fuerit in habitu clericali. Tunc enim
+          <!--<lb ed="#Fb"/>-->restituendus non est, quousque fidem de titulo fecerit
+          <!--<lb ed="#Fb"/>-->clericali, cuius eidem probationis onus incumbat propter
+          <!--<lb ed="#Fb"/>-->praesumptionem, quae adversus ipsum orta est ex delatione
+          <!--<lb ed="#Fb"/>-->laicalis habitus procedenti ; contra eum tamen interim qui¬
+          <!--<lb ed="#Fb"/>-->vis processus iudicis penitus conquiescat. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e1572-Dd1e1018">
+               <head xml:id="wef6td-d1e1572-Hd1e1020">CAP. XHI. </head>
+               <p xml:id="wef6td-d1e1572-d1e1023"> Non tenet suspensio vel interdictum, lata in participantes non praemissa
+          <!--<lb ed="#Fb"/>-->monitione canonica. H. d. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e1572-d1e1028"> Idem. </p>
+               <p xml:id="wef6td-d1e1572-d1e1031"> Statutum Gregorii Papae X. factum ad declarationem
+          <!--<lb ed="#Fb"/>-->constitutionis Innocentianae, quae prohibet, participantes
+          <!--<lb ed="#Fb"/>-->excommunicatis ea participatione, quae solum  minorem
+          <!--<lb ed="#Fb"/>-->inducit, maiore excommunicatione ligari monitione canonica
+          <!--<lb ed="#Fb"/>-->non praemissa, in suspensionis et interdicti sententiis, quae
+          <!--<lb ed="#Fb"/>-->pro huiusmodi participatione plerumque ab ordinariis vel
+          <!--<lb ed="#Fb"/>-->delegatis iudicibus promulgantur, praecipimus inviolabiliter
+          <!--<lb ed="#Fb"/>-->observari, decernentes, easdem sententias non tenere aliter
+          <!--<lb ed="#Fb"/>-->promulgatas. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e1572-Dd1e1051">
+               <head xml:id="wef6td-d1e1572-Hd1e1053">CAP. xiv. </head>
+               <p xml:id="wef6td-d1e1572-d1e1056"> Per negligentiam non prosequentis debito tempore appellationem excom¬
+          <!--<lb ed="#Fb"/>-->municatio post eam lata non convalescit; sed poterit tunc denunciari, et
+          <!--<lb ed="#Fb"/>-->debebit vitari, donec de sententiae nullitate docuerit. H. d. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e1572-d1e1063"> Idem. </p>
+               <p xml:id="wef6td-d1e1572-d1e1066"> Licet excommunicationis sententia, post appellationem
+          <!--<lb ed="#Fb"/>-->legitimam promulgata, per negligentiam appellantis, appel¬
+          <!--<lb ed="#Fb"/>-->lationem suam minime prosequentis, non ratificetur nec
+          <!--<lb ed="#Fb"/>-->etiam convalescat: excommunicatus tamen nominatim, vel
+          <!--<lb ed="#Fb"/>-->specialiter  et expresse, qui post appellationem legitimam
+          <!--<lb ed="#Fb"/>-->excommunicationis sententiam asserit in se latam, si appella¬
+          <!--<lb ed="#Fb"/>-->tionem eandem infra tempus, ad ipsam prosequendam ab
+          <!--<lb ed="#Fb"/>-->homine vel a iure statutum, non fuerit, ut debuit, prosecutus,
+          <!--<lb ed="#Fb"/>-->lapso eodem tempore  excommunicatus  publice nunciari,
+          <!--<lb ed="#Fb"/>-->et nedum in iudicialibus, sed etiam in extraiudicialibus
+          <!--<lb ed="#Fb"/>-->evitari, ac  a legitimis actibus removeri debebit, quousque,
+          <!--<lb ed="#Fb"/>-->quod post appellationem legitimam excommunicatus fuerit ,
+          <!--<lb ed="#Fb"/>-->vel alias de ipsius sententiae docuerit nullitate. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e1572-Dd1e1094">
+               <head xml:id="wef6td-d1e1572-Hd1e1096">CAP. XV. </head>
+               <p xml:id="wef6td-d1e1572-d1e1099"> Praelatus, capi faciens et includens, etiam per laicos, clericum nondum in-
+          <!--<lb ed="#Fb"/>-->corrigibilem, excommunicatus non est, nec etiam ipsi capientes. Secundo
+          <!--<lb ed="#Fb"/>-->dicitur, si talis dat fideiussores de parendo iuri: detineri non debet, nisi
+          <!--<lb ed="#Fb"/>-->iusta causa id suadeat. H. d. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e1572-d1e1108"> Idem Bonifacius VIII.  </p>
+               <p xml:id="wef6td-d1e1572-d1e1111"> Si clericos tuae iurisdictioni subiectos propter com¬
+          <!--<lb ed="#Fb"/>-->missos excessus etiam per laicos capi facias, et eos, ne
+          <!--<lb ed="#Fb"/>-->fugiant , in carcere  poena debita postea castigandos in¬
+          <!--<lb ed="#Fb"/>-->cludas: te vel capientes eosdem, licet nondum appareat
+          <!--<lb ed="#Fb"/>-->incorrigibiles illos  esse, nulla credimus excommunicatione
+          <!--<lb ed="#Fb"/>-->nodari , quum in his, nisi alias ex proposito excedatur  in
+          <!--<lb ed="#Fb"/>-->ipsis, temeritas vel iniuria nequeat deprehendi . Eosdem
+          <!--<lb ed="#Fb"/>-->quoque clericos, si de parendo iuri tibi fideiussoriam de¬
+          <!--<lb ed="#Fb"/>-->derint cautionem, detinere non debes, nisi excessus enormi¬
+          <!--<lb ed="#Fb"/>-->tas vel alia causa rationabilis eos suaserit detinendos. </p>
+            </div>
+           <div xml:id="wef6td-d1e1572-Dd1e1133">
+             <head xml:id="wef6td-d1e1572-Hd1e1135">CAP XVI</head>
+               <p xml:id="wef6td-d1e1572-d1e1138"> Interdicto clero non est interdictus populus, nec e converso. Interdicta
+          <!--<lb ed="#Fb"/>-->civitate propter delictum domini cives non interdicti extra ipsam audiunt
+          <!--<lb ed="#Fb"/>-->divina. Interdicto populo singulares de populo intelliguntur interdicti. </p>
+               <p xml:id="wef6td-d1e1572-d1e1145"> H. d. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e1572-d1e1148"> Idem. </p>
+               <p xml:id="wef6td-d1e1572-d1e1151"> Si sententia interdicti proferatur in clerum: non in¬
+          <!--<lb ed="#Fb"/>-->telligitur, nisi aliud sit expressum in ea, interdictus populus,
+          <!--<lb ed="#Fb"/>-->nec etiam e converso. Unde uno interdicto ipsorum alius
+          <!--<lb ed="#Fb"/>-->licite admittitur ad divina. Ceterum quum propter delictum
+          <!--<lb ed="#Fb"/>-->domini vel rectoris est civitas interdicta, cives eiusdem, qui
+          <!--<lb ed="#Fb"/>-->culpabiles non exsistunt, (dummodo et ipsi propter dominum
+          <!--<lb ed="#Fb"/>-->vel rectorem puniendum in eis non fuerint interdicti,) pos¬
+          <!--<lb ed="#Fb"/>-->sunt extra ipsam licite interesse divinis. Quum vero, ali¬
+          <!--<lb ed="#Fb"/>-->cuius terrae populus interdicto notatur : singulares ex eo
+          <!--<lb ed="#Fb"/>-->personae, quas interdictas esse constat, ne sententia effectu
+          <!--<lb ed="#Fb"/>-->careat, quum divinorum auditio et sacramentorum perceptio
+          <!--<lb ed="#Fb"/>-->populo ut universis non competant , non debent alicubi,
+          <!--<lb ed="#Fb"/>-->(casibus expressis a  iure duntaxat exceptis,) audire divina
+          <!--<lb ed="#Fb"/>-->vel ecclesiastica recipere sacramenta. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e1572-Dd1e1182">
+               <head xml:id="wef6td-d1e1572-Hd1e1184">CAP.   xvn. </head>
+               <p xml:id="wef6td-d1e1572-d1e1187"> Interdicta civitate suburbia et continentia aedificia dicuntur interdicta.
+          <!--<lb ed="#Fb"/>-->Et interdicta ecclesia capella contigua et coemeterium contiguum dicitur
+          <!--<lb ed="#Fb"/>-->interdictum. H. d. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e1572-d1e1194"> Idem. </p>
+               <p xml:id="wef6td-d1e1572-d1e1197"> Si civitas castrum aut villa subiiciantur ecclesiastico
+          <!--<lb ed="#Fb"/>-->interdicto: illorum  suburbia et continentia aedificia eo ipso
+          <!--<lb ed="#Fb"/>-->intelligi volumus interdicta. Nam, licet praedicta videantur
+          <!--<lb ed="#Fb"/>-->alias murorum ambitu terminari: hoc tamen casu, ne
+          <!--<lb ed="#Fb"/>-->vilipendi valeat sententia interdicti, (quod fieret, si posset
+          <!--<lb ed="#Fb"/>-->in ipsorum suburbiis vel continentibus aedificiis licite
+          <!--<lb ed="#Fb"/>-->celebrari ut prius,) expedit interpretationem fieri latiorem.
+          <!--<lb ed="#Fb"/>-->Ratione quoque simili, si sit ecclesia interdicto supposita *
+          <!--<lb ed="#Fb"/>-->vel subiecta, nec  in capella eius celebrari, nec in coemeterio
+          <!--<lb ed="#Fb"/>-->ipsius eidem ecclesiae contiguis poterit sepeliri; secus, si ei
+          <!--<lb ed="#Fb"/>-->contigua non exsistant. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e1572-Dd1e1221">
+               <head xml:id="wef6td-d1e1572-Hd1e1223">CAP. xviii. </head>
+               <p xml:id="wef6td-d1e1572-d1e1226"> Celebrans scienter in ecclesia polluta, vel praesente excommunicato maiori
+          <!--<lb ed="#Fb"/>-->excommunicatione, irregularitatem non contrahit. Domin. — §.l. Scienter
+          <!--<lb ed="#Fb"/>-->celebrans in loco interdicto in casibus non permissis, irregularis et in-
+          <!--<lb ed="#Fb"/>-->eligibilis est. H. d. Domin. </p>
+               <p xml:id="wef6td-d1e1572-d1e1235"> Idem. </p>
+               <p xml:id="wef6td-d1e1572-d1e1238"> Is, qui in ecclesia sanguinis aut seminis effusione
+          <!--<lb ed="#Fb"/>-->polluta, vel qui praesentibus maiori excommunicatione
+          <!--<lb ed="#Fb"/>-->nodatis scienter celebrare praesumit , licet in hoc temerarie
+          <!--<lb ed="#Fb"/>-->agat, irregularitatis tamen, (quum id  non sit expressum in
+          <!--<lb ed="#Fb"/>-->iure), laqueum non incurrit. §. i. Is vero, qui scienter in
+          <!--<lb ed="#Fb"/>-->loco celebrat supposito interdicto, (nisi super hoc privi-
+          <!--<lb ed="#Fb"/>-->legiatus exsistat, aut a iure sit concessum eidem,) irregulari¬
+          <!--<lb ed="#Fb"/>-->tatem incurrit, a qua nequit per alium, quam per Romanum
+          <!--<lb ed="#Fb"/>-->Pontificem liberari, et adeo efficitur  ineligibilis, quod nec
+          <!--<lb ed="#Fb"/>-->ad eligendum cum  aliis debebit admitti. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e1572-Dd1e1260">
+               <head xml:id="wef6td-d1e1572-Hd1e1262">CAP. XIX. </head>
+               <p xml:id="wef6td-d1e1572-d1e1265"> Tempore interdicti chrisma die coenae Domini confici potest. Hoc dicit. </p>
+               <p xml:id="wef6td-d1e1572-d1e1268"> Idem. </p>
+               <p xml:id="wef6td-d1e1572-d1e1271"> Quoniam in baptismo et confirmatione, quae nedum
+          <!--<lb ed="#Fb"/>-->pueris, sed et adultis propter morae periculum exhiberi
+          <!--<lb ed="#Fb"/>-->possunt licite tempore interdicti, chrismatis utimur unctione:
+          <!--<lb ed="#Fb"/>-->posse, licet terra interdicta exsistat, chrisma die coenae
+          <!--<lb ed="#Fb"/>-->Domini confici, dubium non exsistit. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e1572-Dd1e1283">
+               <head xml:id="wef6td-d1e1572-Hd1e1285">CAP. XX. </head>
+               <p xml:id="wef6td-d1e1572-d1e1288"> Suspensus ab ingressu ecclesiae, in ea divina celebrans, est irregularis, et
+          <!--<lb ed="#Fb"/>-->moriens impoenitens suspensione illa durante, caret ecclesiastica sepultura.
+          <!--<lb ed="#Fb"/>-->Et suspensio ab ingressu ecclesiae vel officio per appellationem sequentem
+          <!--<lb ed="#Fb"/>-->non suspenditur. H. d. Dom. </p>
+               <p xml:id="wef6td-d1e1572-d1e1297"> Idem. </p>
+               <p xml:id="wef6td-d1e1572-d1e1300"> Is, cui est ecclesiae interdictus ingressus, quum sibi per
+          <!--<lb ed="#Fb"/>-->consequens censeatur in ipsa divinorum celebratio inter¬
+          <!--<lb ed="#Fb"/>-->dicta, irregularis efficitur, si contra interdictum huiusmodi </p>
+        
+        
+        
+               <p xml:id="wef6td-d1e1572-d1e1307"> divinis in ea se ingerat, in suo agens officio sicut prius.
+          <!--<lb ed="#Fb"/>-->Talis quoque, si hoc interdicto durante decedat, non debet
+          <!--<lb ed="#Fb"/>-->in ecclesia vel coemeterio ecclesiastico, nisi poenituerit,
+          <!--<lb ed="#Fb"/>-->sepeliri. Sane, sicut excommunicatio, sic ab officio vel ab 
+          <!--<lb ed="#Fb"/>--> ingressu ecclesiae lata suspensio aut ipsius effectus per
+          <!--<lb ed="#Fb"/>-->appellationem sequentem minime suspenduntur. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e1572-Dd1e1321">
+               <head xml:id="wef6td-d1e1572-Hd1e1323">CAP.   XXI. </head>
+               <p xml:id="wef6td-d1e1572-d1e1326"> Religiosum clericum verberantem absolvit episcopus eo casu, quo ab¬
+          <!--<lb ed="#Fb"/>-->solveret clericum. H. d. Domin. — §. 1. Verberans novitium religionis ex¬
+          <!--<lb ed="#Fb"/>-->communicationem incurrit. </p>
+               <p xml:id="wef6td-d1e1572-d1e1333"> Idem. </p>
+               <p xml:id="wef6td-d1e1572-d1e1336"> Religioso, qui manus violentas in clericum saecularem
+          <!--<lb ed="#Fb"/>-->iniecit, (ne hoc praetextu habeat materiam evagandi,)
+          <!--<lb ed="#Fb"/>-->poterit ab episcopo eo casu absolutionis beneficium ex¬
+          <!--<lb ed="#Fb"/>-->hiberi, quo saeculari clerico posset, si alium clericum per¬
+          <!--<lb ed="#Fb"/>-->cussisset. §. i. Quamvis autem is, qui religionem ingredi¬
+          <!--<lb ed="#Fb"/>-->tur, religiosus censeri cum effectu non possit, donec sit
+          <!--<lb ed="#Fb"/>-->tacite vel expresse professus: si quis tamen violentas manus
+          <!--<lb ed="#Fb"/>-->in eum iniiciat, excommunicationis latae a canone vinculum
+          <!--<lb ed="#Fb"/>-->non evadit. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e1572-Dd1e1356">
+               <head xml:id="wef6td-d1e1572-Hd1e1358">CAP. XXII. </head>
+               <p xml:id="wef6td-d1e1572-d1e1361"> Absolutus propter mortis periculum vel aliud impedimentum ab eo, a quo
+          <!--<lb ed="#Fb"/>-->alias non poterat, si cessante impedimento se non praesentat, quum com¬
+          <!--<lb ed="#Fb"/>-->mode potest, ei, a quo alias absolvi debebat, recidit in eandem sententiam.
+          <!--<lb ed="#Fb"/>-->Idem in absoluto, qui se debet alicuius conspectui praesentare, si hoc non
+          <!--<lb ed="#Fb"/>-->faciat. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e1572-d1e1372"> Idem. </p>
+               <p xml:id="wef6td-d1e1572-d1e1375"> Eos, qui a sententia canonis vel hominis, quum ad
+          <!--<lb ed="#Fb"/>-->illum, a quo alias de iure fuerant absolvendi, nequeunt
+          <!--<lb ed="#Fb"/>-->propter imminentis mortis articulum aut aliud impedimen¬
+          <!--<lb ed="#Fb"/>-->tum legitimum pro absolutionis beneficio habere recursum,
+          <!--<lb ed="#Fb"/>-->ab alio absolvuntur, si, cessante postea periculo vel im¬
+          <!--<lb ed="#Fb"/>-->pedimento huiusmodi, se illi, a quo his cessantibus absolvi
+          <!--<lb ed="#Fb"/>-->debebant, quam cito commode poterunt, contempserint
+          <!--<lb ed="#Fb"/>-->praesentare, mandatum ipsius super illis, pro quibus excom¬
+          <!--<lb ed="#Fb"/>-->municati fuerant, humiliter recepturi et satisfacturi, prout
+          <!--<lb ed="#Fb"/>-->iustitia suadebit, decernimus, (ne sic censurae illudant
+          <!--<lb ed="#Fb"/>-->ecclesiasticae,) in eandem sententiam  recidere ipso iure.
+          <!--<lb ed="#Fb"/>-->Idem statuimus de his, quibus, quum a sede apostolica vel
+          <!--<lb ed="#Fb"/>-->a * legatis ipsius absolutionis beneficium a quibusvis sen¬
+          <!--<lb ed="#Fb"/>-->tentiis consequuntur, iniungitur, ut ordinariorum suorum vel
+          <!--<lb ed="#Fb"/>-->aliorum quorumlibet, suscepturi poenitentiam ab eisdem, se
+          <!--<lb ed="#Fb"/>-->conspectui repraesentent, et passis iniuriam, seu his, quibus
+          <!--<lb ed="#Fb"/>-->propter hoc obligati exsistunt, satisfactionem exhibeant
+          <!--<lb ed="#Fb"/>-->competentem, si haec, quum primum commode poterunt,
+          <!--<lb ed="#Fb"/>-->non curaverint adimplere. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e1572-Dd1e1416">
+               <head xml:id="wef6td-d1e1572-Hd1e1418">CAP. xxm. </head>
+               <p xml:id="wef6td-d1e1572-d1e1421"> Si percussionem, in clericum sine meo mandato, tamen nomine meo factam,
+          <!--<lb ed="#Fb"/>-->ratam habeam: excommunicatus sum; secus, si meo nomine non sit facta. </p>
+               <p xml:id="wef6td-d1e1572-d1e1426"> Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e1572-d1e1429"> Idem. </p>
+               <p xml:id="wef6td-d1e1572-d1e1432"> Quum quis absque tuo mandato manus iniicit  in
+          <!--<lb ed="#Fb"/>-->clericum tuo nomine violentas, si hoc ratum habueris: ex¬
+          <!--<lb ed="#Fb"/>-->communicationem latam a canone incunctanter incurris,
+          <!--<lb ed="#Fb"/>-->quum ratihabitio retrotrahatur, et mandato debeat com¬
+          <!--<lb ed="#Fb"/>-->parari. Si vero iniectio eadem tuo nomine non sit facta:
+          <!--<lb ed="#Fb"/>-->tunc, licet pecces ratam habendo eandem, non tamen
+          <!--<lb ed="#Fb"/>-->propter hoc excommunicationis ullius vinculo innodaris,
+          <!--<lb ed="#Fb"/>-->quum quis ratum habere nequeat quod eius nomine non est
+          <!--<lb ed="#Fb"/>-->gestum. </p>
+        
+        
+            </div>
+            <div xml:id="wef6td-d1e1572-Dd1e1452">
+               <head xml:id="wef6td-d1e1572-Hd1e1454">CAP. XXIV. </head>
+               <p xml:id="wef6td-d1e1572-d1e1457"> Tempore interdicti etiam sani ad poenitentiam admittuntur, nisi sint ex¬
+          <!--<lb ed="#Fb"/>-->communicati, qui non nisi in mortis articulo admittentur, vel nisi causam
+          <!--<lb ed="#Fb"/>-->dederint interdicto, qui non admittentur, nisi satisfaciant vel caveant, prout
+          <!--<lb ed="#Fb"/>-->possunt. Item illo tempore missae et alia divina officia sub poena distribu¬
+          <!--<lb ed="#Fb"/>-->tionum sicut prius in ecclesiis celebrantur ianuis clausis, plane sine excom¬
+          <!--<lb ed="#Fb"/>-->municatis et interdictis, et sonitu Campanarum. Et quater in anno alte cum
+          <!--<lb ed="#Fb"/>-->campanis et ianuis apertis celebrare possunt, et exclusis excommunicatis
+          <!--<lb ed="#Fb"/>-->interdictos admittere, ita tamen, quod hi, propter quorum excessum latum
+          <!--<lb ed="#Fb"/>-->est, non appropinquent altari. In ceteris servandum est interdictum. Et
+          <!--<lb ed="#Fb"/>-->revocata sunt privilegia ultra id quibuscunque concessa. H. d. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e1572-d1e1478"> Idem . </p>
+               <p xml:id="wef6td-d1e1572-d1e1481"> Alma mater ecclesia plerumque nonnulla rationabiliter
+          <!--<lb ed="#Fb"/>-->ordinat et consulte, quae suadente subiectorum utilitate
+          <!--<lb ed="#Fb"/>-->postmodum consultius ac rationabilius revocat in meliusve
+          <!--<lb ed="#Fb"/>-->commutat. Sane a nostris dudum fuit praedecessoribus
+          <!--<lb ed="#Fb"/>-->constitutum, ut in terris seu locis, ecclesiastico suppositis
+          <!--<lb ed="#Fb"/>-->interdicto, nulla, certis casibus et sacramentis exceptis,
+          <!--<lb ed="#Fb"/>-->divina celebrentur officia, vel ministrentur ecclesiastica
+          <!--<lb ed="#Fb"/>-->sacramenta. Quia vero ex districtione huiusmodi statu¬
+          <!--<lb ed="#Fb"/>-->torum excrescit indevotio populi, pullulant haereses, et
+          <!--<lb ed="#Fb"/>-->infinita pericula animarum insurgunt, ac ecclesiis sine culpa
+          <!--<lb ed="#Fb"/>-->earum debita obsequia subtrahuntur: cum fratribus nostris
+          <!--<lb ed="#Fb"/>-->deliberatione habita super his diligenti concedimus, quod
+          <!--<lb ed="#Fb"/>-->tempore interdicti, ab homine vel a iure prolati, non tantum¬
+          <!--<lb ed="#Fb"/>-->modo morientes, sed etiam  viventes, tam sani etiam quam
+          <!--<lb ed="#Fb"/>-->infirmi, ad poenitentiam, (quae propter pronitatem  et
+          <!--<lb ed="#Fb"/>-->facilitatem hominum ad peccandum summe necessaria est,)
+          <!--<lb ed="#Fb"/>-->licite admittantur; dum tamen excommunicati non fuerint,
+          <!--<lb ed="#Fb"/>-->quos admitti, praeterquam in mortis articulo, nolumus ad
+          <!--<lb ed="#Fb"/>-->eandem. Illis etiam , propter quorum culpam, dolum vel
+          <!--<lb ed="#Fb"/>-->fraudem lata est sententia interdicti, vel qui ad perpetran¬
+          <!--<lb ed="#Fb"/>-->dum delictum, cuius occasione ipsum interdictum est latum,
+          <!--<lb ed="#Fb"/>-->praebuerunt auxilium, consilium vel favorem, nisi de ipso
+          <!--<lb ed="#Fb"/>-->delicto, (si sint tales, quod id facere valeant), prius satis¬
+          <!--<lb ed="#Fb"/>-->fecerint, vel de satisfaciendo idoneam dederint cautionem,
+          <!--<lb ed="#Fb"/>-->aut si satisfacere nequeunt, vel huiusmodi cautionem prae¬
+          <!--<lb ed="#Fb"/>-->stare iuraverint , quod, quum poterunt, satisfacient, et ad
+          <!--<lb ed="#Fb"/>-->satisfactionem huiusmodi per eum vel per * eos, qui facere
+          <!--<lb ed="#Fb"/>-->ipsam debent et possunt, praestandam, dabunt consilium et
+          <!--<lb ed="#Fb"/>-->auxilium, ac iuxta posse suum fideliter laborabunt, non est
+          <!--<lb ed="#Fb"/>-->poenitentiae beneficium aliquatenus concedendum. Nec
+          <!--<lb ed="#Fb"/>-->tunc etiam quoad istos vel alios, qui circa hoc minime de¬
+          <!--<lb ed="#Fb"/>-->liquerunt, (ubi civitas vel locus alius, seu universitas inter¬
+          <!--<lb ed="#Fb"/>-->dicti exsistunt,) facienda est relaxatio interdicti, sed est eis
+          <!--<lb ed="#Fb"/>-->solummodo iniungenda poenitentia salutaris. Adiicimus
+          <!--<lb ed="#Fb"/>-->praeterea, quod singulis diebus in ecclesiis et monasteriis
+          <!--<lb ed="#Fb"/>-->missae celebrentur, et alia dicantur divina officia sicut prius,
+          <!--<lb ed="#Fb"/>-->submissa tamen voce et  ianuis clausis, excommunicatis ac
+          <!--<lb ed="#Fb"/>-->interdictis exclusis, et campanis etiam non pulsatis. Et tam
+          <!--<lb ed="#Fb"/>-->canonici quam clerici ecclesiarum, in quibus distributiones
+          <!--<lb ed="#Fb"/>-->quotidianae illis, qui horis intersunt canonicis, tribuuntur ,
+          <!--<lb ed="#Fb"/>-->si ad officia non venerint supra dicta, distributiones easdem
+          <!--<lb ed="#Fb"/>-->amittant, sicut interdicto perderent non exstante , si divinis
+          <!--<lb ed="#Fb"/>-->officiis non adessent. In festivitatibus vero Natalis Domini,
+          <!--<lb ed="#Fb"/>-->Paschae, ac Pentecostes et  Assumptionis Virginis gloriosae
+          <!--<lb ed="#Fb"/>-->campanae pulsentur, et ianuis apertis alta voce divina officia
+          <!--<lb ed="#Fb"/>-->solenniter celebrentur, excommunicatis prorsus exclusis,
+          <!--<lb ed="#Fb"/>-->sed  interdictis  admissis; quibus ob reverentiam dictarum
+          <!--<lb ed="#Fb"/>-->solennitatum, et ut ipsi ad humilitatis gratiam et reconcilia¬
+          <!--<lb ed="#Fb"/>-->tionis affectum facilius inclinentur, praefatis diebus parti¬
+          <!--<lb ed="#Fb"/>-->cipationem permittimus divinorum, sic tamen, quod illi,
+          <!--<lb ed="#Fb"/>-->propter quorum excessum interdictum huiusmodi est pro¬
+          <!--<lb ed="#Fb"/>-->latum, altari nullatenus appropinquent. Ceteris, quae circa
+          <!--<lb ed="#Fb"/>-->observationem interdictorum a nostris sunt praedecessoribus
+          <!--<lb ed="#Fb"/>-->instituta, in suo robore duraturis, non obstantibus quibus¬
+          <!--<lb ed="#Fb"/>-->vis   privilegiis, ecclesiis, monasteriis, ordinibus, religioni¬
+          <!--<lb ed="#Fb"/>-->bus, seu personis ecclesiasticis, saecularibus vel regularibus,
+          <!--<lb ed="#Fb"/>-->exemptis et non exemptis, sub quavis forma vel expressione
+          <!--<lb ed="#Fb"/>-->verborum ab apostolica sede concessis, quae contra tenorem
+          <!--<lb ed="#Fb"/>-->praesentis constitutionis nullis * volumus suffragari, quum 
+          quibuslibet tam saecularibus quam regularibus sufficere
+          <!--<lb ed="#Fb"/>-->debeat, ut tempore interdicti modo praemisso diebus
+          <!--<lb ed="#Fb"/>-->celebrent supra dictis. </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

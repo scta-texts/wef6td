@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> TITULUS III. </title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title> TITULUS III. </title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e854"><!-- wef6td-l3t3 -->
+            <head xml:id="wef6td-d1e854-Hd1e103"> TITULUS III. </head>
+      
+            <p xml:id="wef6td-d1e854-d1e106"> DE CLERICIS NON RESIDENTIBUS IN ECCLESIA VEL PRAEBENDA. </p>
+            <div xml:id="wef6td-d1e854-Dd1e109">
+               <head xml:id="wef6td-d1e854-Hd1e111">CAP. UN. </head>
+               <p xml:id="wef6td-d1e854-d1e114"> Distributiones quotidianae solum praesentibus, qui intersunt divinis, dari debent, consuetudine non obstante. Et qui aliter illas receperunt, non faciunt illas suas, et idem de distributionibus, quae dantur pro anniversariis defunctorum. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e854-d1e117"> Bonifacius VIII. </p>
+        
+               <p xml:id="wef6td-d1e854-d1e120"> Consuetudinem, quae in quibusdam partibus inolevit, qua canonici et alii beneficiati, seu clerici cathedralium et aliarum collegiatarum ecclesiarum, distributiones quotidianas, quae alias manualia beneficia seu victualia nuncupantur, et tantum residentibus tribuuntur, qualiter-cunque  in civitatibus seu aliis locis, in quibus ipsae consistunt ecclesiae, sint praesentes, licet divinis officiis non intersint, ex integro percipiunt , ac si continue in * ipsis ecclesiis in eisdem officiis deservirent, penitus improbantes: statuimus, ut distributiones ipsae quotidianae, in quibuscunque rebus consistant, canonicis ac aliis beneficiatis, et clericis ecclesiarum ipsarum, qui eisdem officiis in ipsis ecclesiis affuerint, tribuantur iuxta ecclesiae cuiuslibet ordinationem rationabilem iam factam seu etiam faciendam. Qui vero aliter de distributionibus ipsis quicquam receperit, (exceptis illis, quos infirmitas, seu iusta et rationabilis corporalis necessitas, aut evidens ecclesiae utilitas excusaret,) rerum sic receptarum dominium non acquirat, nec faciat eas suas, immo ad omnium restitutionem, quae contra huiusmodi nostram constitutionem receperit, teneatur. De distributionibus etiam pro defunctorum anniversyiis largiendis idem decernimus observandum. </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

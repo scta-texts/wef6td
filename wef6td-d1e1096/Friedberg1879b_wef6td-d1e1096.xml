@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> TITULUS XV. </title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title> TITULUS XV. </title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e1096"><!-- wef6td-l3t15 -->
+            <head xml:id="wef6td-d1e1096-Hd1e103"> TITULUS XV. </head>
+      
+            <p xml:id="wef6td-d1e1096-d1e106"> DE VOTO ET VOTI REDEMPTIONE. </p>
+      
+            <div xml:id="wef6td-d1e1096-Dd1e109">
+               <head xml:id="wef6td-d1e1096-Hd1e111">CAP. UN. </head>
+               <p xml:id="wef6td-d1e1096-d1e114"> Votum, solennisatum per susceptionem sacri ordinis vel per professionem, factam alicui de religionibus per sedem apostolicam approbatis, dirimit matrimonium post contractum; alias solum impedit, et non dirimit. H. d. secundum Zenz. </p>
+               <p xml:id="wef6td-d1e1096-d1e117"> Bonifacius VIII. Biterensi  Episcopo. </p>
+               <p xml:id="wef6td-d1e1096-d1e120"> Quod votum debeat dici solenne ac ad dirimendum matrimonium efficax, nos consulere voluisti. Nos igitur, attendentes, quod voti solennitas ex sola constitutione ecclesiae est inventa, matrimonii vero vinculum ab ipso ecclesiae capite rerum omnium conditore, ipsum in paradiso et in statu innocentiae instituente, unionem et indissolubilitatem acceperit *: praesentis declarandum duximus oraculo sanctionis, illud solum votum debere dici solenne, quantum ad post contractum matrimonium dirimendum, quod solennisatum fuerit per susceptionem sacri ordinis, aut per professionem expressam vel tacitam, factam alicui de religionibus per sedem apostolicam approbatis. Reliqua vero vota, etsi quandoque matrimonium impediant contrahendum, et quanto manifestius  sunt emissa, tanto propter plurium scandalum et exemplum durior poenitentia transgressoribus debeatur, non tamen rescindere possunt matrimonia post contracta. </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

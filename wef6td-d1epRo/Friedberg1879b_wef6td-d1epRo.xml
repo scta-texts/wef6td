@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prooemium</title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Prooemium</title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1epRo"><!-- wef6td-prooemium -->
+            <head xml:id="wef6td-d1epRo-Hd1e103">Prooemium</head>
+            <p xml:id="wef6td-d1epRo-d1e106">Liber sextus</p>
+            <p xml:id="wef6td-d1epRo-d1e109">DECRETALIUM</p>
+            <p xml:id="wef6td-d1epRo-d1e112">DOMINI BONIFACII PAPAE VIII.</p>
+            <p xml:id="wef6td-d1epRo-d1e115">Episcopus servus servorum Dei, dilectis filiis doctoribus et scholaribus universis Bononiae
+      <!--<lb ed="#Fb"/>-->commorantibus salutem et apostolicam benedictionem.</p>
+            <p xml:id="wef6td-d1epRo-d1e121">Sacrosanctae Romanae ecclesiae, quam imperscrutabilis divinae providentiae altitudo
+      <!--<lb ed="#Fb"/>-->universis dispositione incommutabili praetulit ecclesiis et totius orbis praecipuum obtinere
+      <!--<lb ed="#Fb"/>-->voluit magistratum, regimini praesidentes, curis sollicitamur continuis, et assidua medita¬
+      <!--<lb ed="#Fb"/>-->tione urgemur, ut iuxta creditae nobis dispensationis officium subditorum commodis, in
+      <!--<lb ed="#Fb"/>-->quorum prosperitate utique prosperamur, iugi, quantum nobis ex alto concessum fuerit,
+      <!--<lb ed="#Fb"/>-->sollicitudinis studio intendamus. Amplectimur quippe voluntarios pro ipsorum quiete
+      <!--<lb ed="#Fb"/>-->labores, et noctes quandoque transimus insomnes, ut scandala removeamus ab ipsis, et,
+      <!--<lb ed="#Fb"/>-->quas humana natura, novas semper deproperans edere formas, lites quotidie invenire
+      <!--<lb ed="#Fb"/>-->conatur, nunc antiquorum declaratione, nunc vero novorum editione iurium, prout nobis
+      <!--<lb ed="#Fb"/>-->est possibile, reprimamus. Sane, quum post volumen decretalium, a felicis recordationis
+      <!--<lb ed="#Fb"/>-->Gregorio Papa IX. praedecessore nostro tam provide quam utiliter compilatum, nonnullae
+      <!--<lb ed="#Fb"/>-->ab eo et ab aliis Romanis Pontificibus successive super diversis dicerentur articulis editae
+      <!--<lb ed="#Fb"/>-->decretales, de quarum aliquibus, an decretales exsisterent, earumque auctoribus* dubitaba¬
+      <!--<lb ed="#Fb"/>-->tur sollicite in iudiciis et in scholis: nos, ad apicem summi pontificatus superna dispositione
+      <!--<lb ed="#Fb"/>-->vocati, super hoc cum instantia requisiti a multis, ambiguitatem et incertitudinem huius¬
+      <!--<lb ed="#Fb"/>-->modi, dispendium pluribus afferentem, omnino tollere, ac elucidare, quae de decretalibus
+      <!--<lb ed="#Fb"/>-->ipsis teneri, quaeve deberent in posterum refutari, gratia suffragante divina pro utilitate
+      <!--<lb ed="#Fb"/>-->publica desiderabiliter affectantes, per venerabiles fratres nostros Guilielmum archiepisco¬
+      <!--<lb ed="#Fb"/>-->pum Ebrudunensem, et Berengarium episcopum Biterensem, ac dilectum filium magistrum
+      <!--<lb ed="#Fb"/>-->Richardum de Senis, sanctae Romanae ecclesiae vicecancellarium, iuris utriusque doctorem,
+      <!--<lb ed="#Fb"/>-->decretales huiusmodi diligentius fecimus recenseri, et tandem, pluribus ex ipsis, quum vel
+      <!--<lb ed="#Fb"/>-->temporales, aut sibi ipsis vel aliis iuribus contrariae, seu omnino superfluae viderentur,
+      <!--<lb ed="#Fb"/>-->penitus resecatis, reliquas, quibusdam ex eis abbreviatis, et aliquibus in toto vel in parte
+      <!--<lb ed="#Fb"/>-->mutatis, multisque correctionibus, detractionibus et additionibus, prout expedire vidimus,
+      <!--<lb ed="#Fb"/>-->factis in ipsis, in unum librum cum nonnullis nostris constitutionibus, in quibus ad cor¬
+      <!--<lb ed="#Fb"/>-->rectionem morum subditorumque quietem multa statuuntur salubria, fructus uberes Deo
+      <!--<lb ed="#Fb"/>-->propitio in domo Domini allatura, et plurima in iudiciis et extra frequentata dubia deci¬
+      <!--<lb ed="#Fb"/>-->duntur, redigi mandavimus, et sub debitis titulis collocari. Quem librum, quinque libris
+      <!--<lb ed="#Fb"/>-->aliis dicti voluminis decretalium adnectendum, sextum censuimus nuncupari, ut idem
+      <!--<lb ed="#Fb"/>-->volumen senarium, qui numerus est perfectus, librorum illo adiuncto numerum comprehen¬
+      <!--<lb ed="#Fb"/>-->dens, perfectam in rebus agendis formam tribuat et in moribus disciplinam. Nec sine
+      <!--<lb ed="#Fb"/>-->causa morem praedecessorum nostrorum, qui, quum constitutiones aliquas promulgabant
+      <!--<lb ed="#Fb"/>-->noviter, eas mandabant sub antiquarum serie situari, omisimus in hac parte servare.
+      <!--<lb ed="#Fb"/>-->Haec* enim fecimus, ne infinitos libros destrui, et alios non sine maximis dispendiis,
+      <!--<lb ed="#Fb"/>-->laboribus et expensis de novo fieri oporteret. Universitati vestrae igitur per apostolica
+      <!--<lb ed="#Fb"/>-->scripta mandamus, quatenus librum huiusmodi cum multa maturitate digestum, quem sub
+      <!--<lb ed="#Fb"/>-->bulla nostra vobis transmittimus, prompto suscipientes affectu, eo utamini de cetero in
+      <!--<lb ed="#Fb"/>-->iudiciis et in scholis, nullas alias praeter illas, quae inseruntur aut specialiter reservantur in
+      <!--<lb ed="#Fb"/>-->eo, decretales aut constitutiones, a quibuscunque nostris praedecessoribus Romanis Pon¬
+      <!--<lb ed="#Fb"/>-->tificibus post editionem dicti voluminis promulgatas, recepturi ulterius aut pro decretali¬
+      <!--<lb ed="#Fb"/>-->bus habituri.
+    </p>
+         </div>
+      </body>
+   </text>
+</TEI>

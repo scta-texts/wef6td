@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> TITULUS VIII. </title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title> TITULUS VIII. </title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e955"><!-- wef6td-l3t8 -->
+            <head xml:id="wef6td-d1e955-Hd1e103"> TITULUS VIII. </head>
+            <p xml:id="wef6td-d1e955-d1e106"> NE SEDE VACANTE ALIQUID INNOVETUR. </p>
+            <div xml:id="wef6td-d1e955-Dd1e109">
+               <head xml:id="wef6td-d1e955-Hd1e111">CAP. UN. </head>
+               <p xml:id="wef6td-d1e955-d1e114"> Collatione communiter ad episcopum et capitulum pertinente, uno ipsorum effecto inhabili, alter confert. H. d. usque ad §. Quum vero, secundum Dominicum. — §. 1. Collatione spectante ad episcopum de consilio vel assensu capituli, illo exsistente inhabili, nisi sit in mora, non confert capitulum. Hoc dicit. — §. 2. Habens conferre cum consilio episcopi, sine </p>
+               <p xml:id="wef6td-d1e955-d1e117"> illo confert, morte et remota absentia interveniente. H. d. Dominicus. </p>
+               <p xml:id="wef6td-d1e955-d1e120"> Bonifacius VIII. </p>
+               <p xml:id="wef6td-d1e955-d1e123"> Si ad episcopum et capitulum communiter pertineat collatio praebendarum, mortuo episcopo vel a beneficiorum collatione suspenso, poterit capitulum vacantes conferre  
+          praebendas, etiamsi episcopus interesse habeat in collatione huiusmodi ut praelatus. Idem poterit episcopus, si capitulum ab ipsa collatione suspendi contingat, vel singulariter omnes de capitulo maioris excommunicationis vinculo innodari. §. i. Quum vero ad solum episcopum praebendarum spectat collatio cum consilio sui capituli vel assensu: defuncto episcopo vel suspenso, nisi episcopus in petenda relaxatione suspensionis huiusmodi sit in mora, capitulum se non potest intromittere de eisdem. §. 2. Ubi vero de speciali alicuius ecclesiae consuetudine vel statuto beneficiorum collatio ad aliquem cum consilio episcopi noscitur pertinere: sublato episcopo de medio, quum consilium nequeat tunc peti ab eo, non erit propter hoc vacantis beneficii collatio differenda, nec etiam, si egerit in remotis ita, quod non possit ipsius praesentia in brevi haberi, quia in petendo vel exspectando eius consilio posset vacanti beneficio periculum imminere. </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

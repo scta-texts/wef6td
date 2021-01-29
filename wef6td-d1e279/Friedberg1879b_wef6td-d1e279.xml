@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>TITULUS XI</title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>TITULUS XI</title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e279"><!-- wef6td-l1t11 -->
+            <head xml:id="wef6td-d1e279-Hd1e103">TITULUS XI</head>
+            <p xml:id="wef6td-d1e279-d1e106">DE FILIIS PRESBYTERORUM ET ALIIS
+        <!--<lb ed="#Fb"/>-->ILLEGITIME NATIS.
+      </p>
+            <div xml:id="wef6td-d1e279-Dd1e111">
+               <head xml:id="wef6td-d1e279-Hd1e113">CAP. I.
+        </head>
+               <p xml:id="wef6td-d1e279-d1e116">Cum illegitime natis dispensant episcopi in minoribus ordinibus et beneficio
+          <!--<lb ed="#Fb"/>-->sine cura; dummodo sit tale, in quo alias dispensare possint. In aliis
+          <!--<lb ed="#Fb"/>-->dispensatio Papae requiritur. Ioann. Andr. — §. 1. Si dispensatum fuerit
+          <!--<lb ed="#Fb"/>-->cum aliquo, quod non obstante ullo defectu possit ad curatum beneficium
+          <!--<lb ed="#Fb"/>-->promoveri, praetextu illius dispensationis non poterit duo beneficia insimul
+          <!--<lb ed="#Fb"/>-->obtinere. Ioann. Andr.
+        </p>
+               <p xml:id="wef6td-d1e279-d1e129">Bonifacius VIII.
+        </p>
+               <p xml:id="wef6td-d1e279-d1e132">Is, qui defectum patitur natalium, ex dispensatione
+          <!--<lb ed="#Fb"/>-->episcopi licite potest, si ei aliud canonicum non obsistat, ad
+          <!--<lb ed="#Fb"/>-->ordines promoveri minores, et obtinere beneficium, cui cura
+          <!--<lb ed="#Fb"/>-->non imminet animarum; dummodo sit tale, super quo per
+          <!--<lb ed="#Fb"/>-->ipsum episcopum valeat dispensari. Ad ordines quoque
+          <!--<lb ed="#Fb"/>-->maiores, vel beneficia curam* animarum habentia, super
+          <!--<lb ed="#Fb"/>-->quibus nequit episcopus dispensare, sine dispensatione’
+          <!--<lb ed="#Fb"/>-->sedis apostolicae promoveri non potest. §. i. Ille vero, cum
+          <!--<lb ed="#Fb"/>-->quo per sedem dispensatur eandem, ut, praemisso non
+          <!--<lb ed="#Fb"/>-->obstante defectu, valeat ad beneficium, etiamsi curam ani¬
+          <!--<lb ed="#Fb"/>-->marum habeat, promoveri, nequit praetextu dispensationis
+          <!--<lb ed="#Fb"/>-->huiusmodi, (quam exorbitantem a iure oportet veluti odiosam
+          <!--<lb ed="#Fb"/>-->restringi,) nisi unicum beneficium obtinere.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e279-Dd1e160">
+               <head xml:id="wef6td-d1e279-Hd1e162">CAP. ir.
+        </head>
+               <p xml:id="wef6td-d1e279-d1e165">Si ille, cum quo super defectu originis in curato beneficio fuerit dispensa¬
+          <!--<lb ed="#Fb"/>-->tum, eo tacito, super pluralitate dispensationem obtineat: non valet
+          <!--<lb ed="#Fb"/>-->dispensatio. Ioann. Andr.
+        </p>
+               <p xml:id="wef6td-d1e279-d1e172">Idem.
+        </p>
+               <p xml:id="wef6td-d1e279-d1e175">Si is, cum quo fuit per sedem apostolicam dispensatum,
+          <!--<lb ed="#Fb"/>-->ut, non obstante defectu natalium, quem patitur, ad omnes
+          <!--<lb ed="#Fb"/>-->ordines promoveri valeat, et obtinere beneficium, etiamsi
+          <!--<lb ed="#Fb"/>-->curam habeat animarum, dispensationem aliam, tacito de
+          <!--<lb ed="#Fb"/>-->praedicto defectu, postmodum obtineat a sede praefata, ut
+          <!--<lb ed="#Fb"/>-->duo aut plura beneficia similem curam habentia possit
+          <!--<lb ed="#Fb"/>-->recipere, si ei alias canonice conferantur, et ea simul licite
+          <!--<lb ed="#Fb"/>-->retinere: talis dispensatio, quum non sit verisimile, sedem
+          <!--<lb ed="#Fb"/>-->ipsam cum illo, praedictum patiente defectum, voluisse, si
+          <!--<lb ed="#Fb"/>-->hoc fuisset expressum, eidem in pluralitate beneficiorum
+          <!--<lb ed="#Fb"/>-->huiusmodi dispensare, veluti per subreptionem obtenta
+          <!--<lb ed="#Fb"/>-->nullius penitus est momenti.
+        </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

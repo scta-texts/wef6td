@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>TITULUS VI. </title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>TITULUS VI. </title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e1471"><!-- wef6td-l5t6 -->
+            <head xml:id="wef6td-d1e1471-Hd1e103">TITULUS VI. </head>
+            <p xml:id="wef6td-d1e1471-d1e106"> DE EXCESSIBUS PRAELATORUM ET SUBDITORUM. </p>
+            <div xml:id="wef6td-d1e1471-Dd1e109">
+               <head xml:id="wef6td-d1e1471-Hd1e111">CAP. UN. </head>
+               <p xml:id="wef6td-d1e1471-d1e114"> Mendicantes non possunt acquirere nova loca ad habitandum vel antiqua
+          <!--<lb ed="#Fb"/>-->alienare vel mutare absque speciali licentia Papae, quae de hac prohibitione
+          <!--<lb ed="#Fb"/>-->faciat mentionem. In acquirentibus tamen loca pro eremitica vita ducenda
+          <!--<lb ed="#Fb"/>-->cessat prohibitio. H. d. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e1471-d1e123"> Bonifacius VIII.  </p>
+               <p xml:id="wef6td-d1e1471-d1e126"> Quum ex eo, quod Praedicatores, Minores, et religiosi
+          <!--<lb ed="#Fb"/>-->alii mendicantes, in civitatibus, castris, villis aut aliis locis
+          <!--<lb ed="#Fb"/>-->ad habitandum domos vel loca de novo suscipiunt, seu olim
+          <!--<lb ed="#Fb"/>-->suscepta dimittunt, se ibidem ad alia transferentes, diversa
+          <!--<lb ed="#Fb"/>-->scandala quandoque proveniant, et frequentes clamores ad
+          <!--<lb ed="#Fb"/>-->sedem apostolicam perferantur: nos, super hoc providere
+          <!--<lb ed="#Fb"/>-->volentes, hoc perpetuo prohibemus edicto, ne deinceps
+          <!--<lb ed="#Fb"/>-->aliquis vel aliqui de praedictis, quibuscunque super hoc
+          <!--<lb ed="#Fb"/>-->privilegiis muniti exsistant, (quae ipsis contra tenorem con¬
+          <!--<lb ed="#Fb"/>-->stitutionis praesentis nullatenus volumus suffragari,) in ali¬
+          <!--<lb ed="#Fb"/>-->qua civitate, castro, villa seu loco quocunque ad habitandum
+          <!--<lb ed="#Fb"/>-->domos vel loca quaecunque de novo recipere, seu hactenus
+          <!--<lb ed="#Fb"/>-->recepta mutare, vel ea venditionis, permutationis, donationis
+          <!--<lb ed="#Fb"/>-->aut cuiusvis alienationis titulo quocunque  in alios  trans¬
+          <!--<lb ed="#Fb"/>-->ferre praesumant absque sedis apostolicae licentia speciali,
+          <!--<lb ed="#Fb"/>-->plenam et expressam faciente de prohibitione huiusmodi
+          <!--<lb ed="#Fb"/>-->mentionem; si secus egerint, irritum decernentes. Per hoc
+          <!--<lb ed="#Fb"/>-->tamen eis, qui vitam duxerint eremeticam  seu solitariam
+          <!--<lb ed="#Fb"/>-->eligendam, de maiorum suorum licentia, quin cellas,
+          <!--<lb ed="#Fb"/>-->mansiones seu habitacula in eremo *, sive locis, ubi non sit
+          <!--<lb ed="#Fb"/>-->hominum habitatio de propinquo, possint acquirere ac
+          <!--<lb ed="#Fb"/>-->mutare, non intelligimus interdictum. </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

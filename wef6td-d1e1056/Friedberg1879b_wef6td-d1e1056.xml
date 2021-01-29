@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> TITULUS XIII. </title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title> TITULUS XIII. </title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e1056"><!-- wef6td-l3t13 -->
+      
+            <head xml:id="wef6td-d1e1056-Hd1e103"> TITULUS XIII. </head>
+            <p xml:id="wef6td-d1e1056-d1e106"> DE DECIMIS, PRIMITIIS * ET OBLATIONIBUS; </p>
+      
+            <div xml:id="wef6td-d1e1056-Dd1e109">
+               <head xml:id="wef6td-d1e1056-Hd1e111">CAP. I. </head>
+               <p xml:id="wef6td-d1e1056-d1e114"> Populus, ut ecclesiis iura debita persolvat, est in praedicationibus et aliis exhortandus. H. d. secundum Zenz. </p>
+               <p xml:id="wef6td-d1e1056-d1e117"> Gregorius IX.  fratribus Praedicatoribus et Minoribus. </p>
+               <p xml:id="wef6td-d1e1056-d1e120"> Discretioni vestrae mandamus districtius inhibentes, ne talia, quae audientes a decimarum seu aliarum rerum ecclesiis debitarum solutione retrahant, vel alias animas corrumpant audientium, in sermonibus vestris vel alibi proponere de cetero praesumatis. Immo verbo et opere informetis eosdem, ut ad solutionem praedictorum promptae voluntatis animo sint intenti. </p>
+            </div>
+            <div xml:id="wef6td-d1e1056-Dd1e124">
+               <head xml:id="wef6td-d1e1056-Hd1e126"> Cap. II. </head>
+               <p xml:id="wef6td-d1e1056-d1e129"> Privilegium, decimas novalium concedens, non includit decimas novalium, per alios possessas tempore impetrationis, et ioca tantum includit, ubi percipiebantur antiquae, et ad portionem antiquam. H. d. usque ad §. Statuimus secundum Domin. — §. 1. Privilegium decimarum novalium, limitatum ad mensuram antiquarum, non potest ultra dimidiam includere; fallit in Cisterciensibus et Carthusiensibus. H. d. — §. 2. Privilegiati super decimis recipiendis ecclesiis parochialibus gratis assignare debent portionem pro debitis oneribus supportandis. H. d. Dominicus. — §. 3. Decimae, per laicos ante Lateranense concilium in feudum receptae a religiosis, per eos recognitae in feudum, non possunt ipsis religiosis concedi sine dioecesanorum consensu. Hoc dicit. Dominicus. — §. 4. Dioecesani compellunt religiosos exemptos solvere decimas parochialibus ecclesiis, si non agatur de rebus exemptis. Hoc dicit. Dominicus. — §. 5. Religiosi etiam exempti de possessionibus acquisitis et acquirendis ecclesiis parochialibus solvere debent decimas, si privilegiati non sunt. H. d. Dominicus. — §.6. Ex donatione laicorum habentes decimas antiquas, novales supervenientes in eodem loco non percipiunt. H. d. Dom, </p>
+               <p xml:id="wef6td-d1e1056-d1e132"> Alexander IV.  </p>
+               <p xml:id="wef6td-d1e1056-d1e135"> Statuto   perpetuo declaramus, quod indultum illud apo- </p>
+               <p xml:id="wef6td-d1e1056-d1e138"> novam, etiam in loco minus religioso, elegerit sepulturam: electionem huiusmodi, licet iura super hoc videantur esse diversa, nequaquam volumus impugnari. </p>
+            </div>
+            <div xml:id="wef6td-d1e1056-Dd1e142">
+               <head xml:id="wef6td-d1e1056-Hd1e144"> Cap. III. </head>
+               <p xml:id="wef6td-d1e1056-d1e147"> Translatio personae, ad certum locum facta ad tempus, ecclesiae ius sepulturae non aufert. H. d. secundum Zenz. — §. 1. Mulier mortua, quae pluribus nupsit, cum viro ultimo sepelitur. Hoc dicit. </p>
+               <p xml:id="wef6td-d1e1056-d1e150"> Idem. </p>
+               <p xml:id="wef6td-d1e1056-d1e153"> Is, qui habet * domicilium in civitate vel castro, quandoque ad villam ruralem se transfert recreationis causa, vel ut ruralia exerceat in eadem, si non electa sepultura decedat ibidem, non in ecclesia dictae villae, sed in sua parochiali, vel in ea potius, in qua maiorum ipsius ab antiquo sepultura exstitit, sepeliri debebit, dummodo absque periculo ad ipsam valeat deportari. §. i. Mulier autem, quae plures viros habuit successive, si sepulturam non eligat, est cum viro ultimo, cuius domicilium retinet et honorem, tumulanda. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e1056-Dd1e158">
+               <head xml:id="wef6td-d1e1056-Hd1e160">CAP. IV. </head>
+               <p xml:id="wef6td-d1e1056-d1e163"> Ex consuetudine potest pater impuberi eligere sepulturam; pubes autem eligit per se ipsum. Et hoc dicit secundum Zenz. quoad titulum, sed non quoad textum. Unde posset addi: et pro anima non legat sine assensu patris bona non castrensia. Domin. </p>
+               <p xml:id="wef6td-d1e1056-d1e166"> Idem in eodem *. </p>
+               <p xml:id="wef6td-d1e1056-d1e169"> Licet pater minores filios, qui nequeunt, antequam ad annos pubertatis perveniant, eligere sepulturam, possit, si consuetudo terrae id habeat, quo voluerit sepelire: hoc tamen non potest, ubi consuetudo huiusmodi non habetur, sed sunt cum suis maioribus vel in parochiali ecclesia tumulandi. Quamvis autem filiusfamilias absque patris assensu sibi possit libere eligere sepulturam: pro anima tamen sua praeter ipsius assensum, nisi peculium castrense aut quasi castrense habeat, aliquid iudicare non potest. </p>
+               <p xml:id="wef6td-d1e1056-d1e172"> cap. y. </p>
+               <p xml:id="wef6td-d1e1056-d1e176"> Religiosi, nisi multum remoti a monasterio, nequeunt alibi eligere sepulturam. H. d. secundum intellectum Zenz. </p>
+               <p xml:id="wef6td-d1e1056-d1e179"> Idem in eodem *. </p>
+               <p xml:id="wef6td-d1e1056-d1e182"> Religiosi, nisi a propriis monasteriis adeo forsitan sint </p>
+        
+        
+        
+        
+               <p xml:id="wef6td-d1e1056-d1e185"> stolicum, quod  plerisque conceditur, ut novalium decimas pro ea portione percipere valeant, qua veteres eos contingunt, ad illas novalium decimas, quas tempore illo, quo impetratum vel obtentum exstitit hoc indultum, alii possidebant, quum de hoc in ipso mentio nulla fiat, nullatenus se extendit, nec ad alias etiam, nisi in his tantum locis, ubi veteres tunc, quando dictum indultum impetratum fuit, ipsi impetratores habebant, et pro ea solummodo portione, qua ipsi tempore impetrationis huiusmodi percipiebant antiquas. §. i. Statuimus praeterea, quod idem indultum, obtentum ab iis, qui tempore impetrationis totaliter veteres percipiebant decimas, ultra medietatem decimarum novalium nullatenus extendatur; quia non  est verisimile , si tunc de plena et integra perceptione veterum fuisset expressum, quod apostolica sedes pariter et similiter novalium decimas, in tam grave parochialium ecclesiarum dispendium indulsisset, quodque ratione talis indulti, sive impetrati iam sive impetrandi deinceps, non possit  in novalibus, quae a modo fient, vindicari et   s   acquiri vel percipi plus quam medietas decimarum ipsorum novalium , etiamsi amplius in veteribus habebatur , quum non sit dicendum asperum, sed pium potius et benignum, si super decimis futurorum novalium contra parochialium ecclesiarum gravamen , quod ex distinctione indulti huiusmodi possit * accidere, taliter obviatur . Religiosos tamen Cisterciensis et Carthusiensis ordinum statuto et declaratione huiusmodi, quantum ad hos duos articulos, videlicet de medietate decimarum novalium, comprehendi nolumus vel constringi . §. 2. Ubi autem per huiusmodi concessiones decimarum parochiales ecclesias adeo gravari contingit, quod earum rectores de ipsarum reditibus congrue sustentari, et commode iura episcopalia exhibere non possunt: provideatur per° locorum ordinarios et ordinetur taliter, quod eisdem rectoribus tantum de illarum relinquatur roventibus, quod exinde competentem sustentationem abere, et episcopalia iura solvere valeant aliaque onera debita supportare. §. 3. Sane, quamvis forte a religiosis exemptis et aliis fiant infeudationes de decimis detentis a laicis   p,   et iidem laici, quod illas ab ipsis religiosis in feudum teneant, recognoscant: non tamen licet religiosis eisdem post talem infeudationem vel recognitionem, sic de facto praesumptam, huiusmodi decimas de manibus laicorum ipsorum acquirere, vel recipere absque dioecesanorum episcoporum assensu. Illas autem decimas intelligimus posse taliter a religiosis de manibus laicorum recipi vel acquiri, quae ante Lateranense concilium ipsis laicis in feudum perpetuo fuere concessae. §. 4.&lt;i Dioecesani vero parochialium ecclesiarum ad requisitionem rectorum earundem de ipsis religiosis super decimis, quas habent vel eos habere continget , quae quidem alias ad ipsas spectaverunt ecclesias, nisi de rebus exemptis agatur, exhibeant iustitiae complementum. §. 5. Ceterum iidem religiosi, tam exempti quam non exempti, de terris et possessionibus acquisitis hactenus et a modo acquirendis decimas integre solvant  illis ecclesiis, quibus eaedem possessiones et terrae prius fuerant decimales, nisi super hoc speciali iure vel privilegio sint muniti. §. 6. Nec pro eo, quod forte in aliquibus parochiis omnes maiores decimas seu partem illarum acquirunt  de manibus laicorum, possunt pro eadem vel simili portione, si de novo postmodum fiant novalia, in eisdem petere vel percipere novalium decimas eorundem , nisi * rationabilis, per quam hoc facere valeant, causa subsit. </p>
+        
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

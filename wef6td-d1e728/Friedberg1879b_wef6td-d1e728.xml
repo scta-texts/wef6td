@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>TITULUS XI. </title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>TITULUS XI. </title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e728"><!-- wef6td-l2t11 -->
+            <head xml:id="wef6td-d1e728-Hd1e103">TITULUS XI. </head>
+            <p xml:id="wef6td-d1e728-d1e106"> DE IUREIURANDO. </p>
+      
+            <div xml:id="wef6td-d1e728-Dd1e109">
+               <head xml:id="wef6td-d1e728-Hd1e111">CAP. I. </head>
+               <p xml:id="wef6td-d1e728-d1e114"> Praelati, canonici, rectores et officiales locorum, qui iurant statuta et consuetudines loci vel ecclesiae servare, praetextu talis iuramenti non obligantur ad illicita, impossibilia vel obviantia ecclesiasticae libertati, nec ad ea debet intentio sua referri. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e728-d1e117"> Nicolaus III . </p>
+               <p xml:id="wef6td-d1e728-d1e120"> Contingit in nonnullis ecclesiis de earum consuetudine observari, quod nec * ipsarum praelati, quum primo ad ecclesias ipsas accedunt *, admittuntur, nec canonici, quum de recipiendis ibidem novis canonicis agitur, aliter recipiuntur in ipsis, nisi iurent statuta et consuetudines ipsarum ecclesiarum scripta et non scripta inviolabiliter observare. Inter laicos etiam in multis civitatibus, castris et terris in suis potestatibus, rectoribus vel * officialibus assumendis consuetudinis morbus irrepsit, quod potestates , rectores et officiales huiusmodi ad potestarias, rectorias et officia eadem, nisi prius servaturos se statuta ipsorum locorum clausa iuraverint, nullatenus admittantur. Quia vero in statutis et consuetudinibus supra dictis interdum aliqua reperiuntur illicita seu impossibilia, vel obviantia ecclesiasticae libertati, ne sub tali generalitate iurandi sic iuranti-bus peccandi occasio praebeatur, quum iuramentum non fuerit, ut esset iniquitatis vinculum, institutum: hac generali constitutione animarum periculis obsistere cupientes, praecipimus , a quibuscunque, scientibus contineri in praedictis consuetudinibus et statutis illicita, impossibilia vel libertati ecclesiasticae obviantia, iuramenta huiusmodi aliquatenus non praestari. Et talia iuramenta, ea intentione facienda vel facta, ut etiam illicita vel impossibilia, seu ecclesiasticae libertati obviantia observentur, quum etiam sub tali intentione praestari non possint absque divinae maiestatis offensa, decernimus in huiusmodi illicitis, impossibilibus seu libertati ecclesiasticae obviantibus non servanda; quin potius pro animarum salute, si sub forma praedicta vel simili aliquos, ignorantes praedicta illicita seu impossibilia, vel libertati ecclesiasticae obviantia, iurare contigerit, ad observanda duntaxat licita, possibilia et non obviantia libertati ecclesiasticae iurantium referri debet intentio. Declaramus quoque iuramenta, sub huiusmodi generalitate qualitercunque et sub qualicunque  verborum forma praestita vel praestanda, ad licita, possibilia et libertati ecclesiasticae non obviantia tantum extendi, ipsosque iurantes ad alia per praestationem iuramenti huiusmodi non teneri. </p>
+        
+        
+            </div>
+            <div xml:id="wef6td-d1e728-Dd1e124">
+               <head xml:id="wef6td-d1e728-Hd1e126">CAP. II. </head>
+               <p xml:id="wef6td-d1e728-d1e129"> Per ecclesiasticum iudicem ordinarium loci compellitur iudex saecularis ecclesiastica censura, ius canonicum, quod ad provisionem animarum statutum est, servare. </p>
+               <p xml:id="wef6td-d1e728-d1e132"> Bonifacius VIII . </p>
+               <p xml:id="wef6td-d1e728-d1e135"> Licet mulieres, quae alienationibus dotium et donationum propter nuptias consentiunt, non contravenire proprio iuramento firmantes, servare iuramentum huiusmodi non vi nec dolo praestitum de iure canonico teneantur: quia tamen quidam iudices saeculares eas contra praefatas alienationes audiunt, quamvis eis constet legitime de huiusmodi iuramento: nos, animarum periculis obviare volentes, eosdem iudices ad servandum hoc ius canonicum per locorum ordinarios censura ecclesiastica decernimus compellendos. </p>
+               <p xml:id="wef6td-d1e728-d1e138"> cap. m. </p>
+               <p xml:id="wef6td-d1e728-d1e142"> Electus, post sacramentum ponens vel respondens contraria directe, nisi rationabiliter excusetur, velut periurus a confirmatione repellitur. Idem, si hoc fecerit procurator, ipso mandante, vel ratum habente vel non revocante. H. d. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e728-d1e145"> Idem. </p>
+               <p xml:id="wef6td-d1e728-d1e148"> Quum in positionibus super electionis tuae negotio post iuramentum in causa praestitum a te datis, seu responsionibus, quas ad positiones tui adversarii fecisse dignosceris, reperiatur contrarietas manifesta: tibi tanquam periuro, nisi iusta causa et rationabilis te excuset, super ipsa electione perpetuum silentium imponi debebit. Idem fiet,,si, te expresse mandante, vel etiam ex postfacto sciente  ac ratum habente, seu non revocante, positiones aut responsiones huiusmodi contrarias tuo nomine tuus fecerit procurator. </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>TITULUS IX</title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>TITULUS IX</title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e238"><!-- wef6td-l1t9 -->
+            <head xml:id="wef6td-d1e238-Hd1e103">TITULUS IX</head>
+            <p xml:id="wef6td-d1e238-d1e106">DE TEMPORIBUS ORDINATIONUM ET
+        <!--<lb ed="#Fb"/>-->QUALITATE ORDINANDORUM*.
+      </p>
+            <div xml:id="wef6td-d1e238-Dd1e111">
+               <head xml:id="wef6td-d1e238-Hd1e113">CAP. i.
+        </head>
+               <p xml:id="wef6td-d1e238-d1e116">Episcopus Italiae ultramontanum non ordinet, nisi de speciali licentia
+          <!--<lb ed="#Fb"/>-->Papae, vel per patentes literas episcopi sui, continentes iustam causam,
+          <!--<lb ed="#Fb"/>-->quare nolit vel non possit illum ordinare. Si secus factum fuerit, ordinans
+          <!--<lb ed="#Fb"/>-->punietur poena condigna, et ordinatus manebit suspensus ita, quod etiam
+          <!--<lb ed="#Fb"/>-->a poenitentiariis Papae sine ipsius speciali licentia absolvi non poterit.
+        </p>
+               <p xml:id="wef6td-d1e238-d1e127">Ioann. Andr.
+        </p>
+               <p xml:id="wef6td-d1e238-d1e130">Clemens IV.
+               </p>
+               <p xml:id="wef6td-d1e238-d1e133">Saepe contingit, quod nonnulli clerici, vinculo excom¬
+          <!--<lb ed="#Fb"/>-->municationis adstricti, aut apostatae, seu irregulares, vel
+          <!--<lb ed="#Fb"/>-->alias ordinum sacrorum susceptione indigni, suam patriam,
+          <!--<lb ed="#Fb"/>-->in qua de his habetur notitia, fugientes, se in remotis parti¬
+          <!--<lb ed="#Fb"/>-->bus faciunt ad huiusmodi ordines promoveri. Nos igitur,
+          <!--<lb ed="#Fb"/>-->volentes animarum ipsorum periculis obviare, statuimus, ut
+          <!--<lb ed="#Fb"/>-->nullus episcoporum Italiae de cetero aliquem ultramontanum
+          <!--<lb ed="#Fb"/>-->clericum ordinare praesumat, nisi a nobis specialem licen¬
+          <!--<lb ed="#Fb"/>-->tiam habeat, vel ab episcopo, de cuius dioecesi traxit
+          <!--<lb ed="#Fb"/>-->originem ordinandus, vel in cuius dioecesi beneficiatus
+          <!--<lb ed="#Fb"/>-->exsistit, per eius patentes literas, causam rationabilem con¬
+          <!--<lb ed="#Fb"/>-->tinentes, quare ipsum nolit aut nequeat ordinare. Eos vero,
+          <!--<lb ed="#Fb"/>-->quos contra praemissa contigerit ordinari, manere volumus
+          <!--<lb ed="#Fb"/>-->absque spe dispensationis super hoc a sede apostolica
+          <!--<lb ed="#Fb"/>-->obtinendae suspensos, ac ordinantes poenitentia condigna
+          <!--<lb ed="#Fb"/>-->puniri, omnibus nostris poenitentiariis inhibentes districte,
+          <!--<lb ed="#Fb"/>-->ne absque licentia nostra speciali cum taliter ordinatis dis¬
+          <!--<lb ed="#Fb"/>-->pensent, vel suas eis tradant literas, per quas cum ipsis
+          <!--<lb ed="#Fb"/>-->debeat dispensari.
+        </p>
+               <p xml:id="wef6td-d1e238-d1e173">cap. n.
+        </p>
+               <p xml:id="wef6td-d1e238-d1e176">Qui scienter ordinaverint clericum alienum, per annum a collectione ordi¬
+          <!--<lb ed="#Fb"/>-->num sunt suspensi, et, postquam suspensio fuerit manifesta, poterunt subditi
+        </p>
+               <p xml:id="wef6td-d1e238-d1e181">sine ipsorum licentia a vicinis episcopis ordinari. Ioann. Andr.
+        </p>
+               <p xml:id="wef6td-d1e238-d1e184">Gregorius X. in generali concilio Lugdunensi.
+        </p>
+               <p xml:id="wef6td-d1e238-d1e187">Eos, qui clericos parochiae alienae absque superioris
+          <!--<lb ed="#Fb"/>-->ordinandorum licentia scienter, seu affectata ignorantia vel
+          <!--<lb ed="#Fb"/>-->quocunque alio figmento quaesito praesumpserint ordinare,
+          <!--<lb ed="#Fb"/>-->per annum a collatione ordinum decernimus esse suspensos,
+          <!--<lb ed="#Fb"/>-->his, quae iura statuunt contra taliter ordinatos, in suo robore
+          <!--<lb ed="#Fb"/>-->duraturis. Clericis quoque parochiae taliter suspensorum,
+          <!--<lb ed="#Fb"/>-->postquam eorum suspensio fuerit manifesta, absque ipsorum
+          <!--<lb ed="#Fb"/>-->etiam licentia interim recipiendi ordines ab aliis vicinis
+          <!--<lb ed="#Fb"/>-->episcopis, alias tamen canonice, liberam concedimus facul¬
+          <!--<lb ed="#Fb"/>-->tatem.
+        </p>
+               <p xml:id="wef6td-d1e238-d1e208">cap. m.
+        </p>
+               <p xml:id="wef6td-d1e238-d1e212">Episcopus originis, domicilii, vel ecclesiastici beneficii commendatitias
+          <!--<lb ed="#Fb"/>-->ad ordines dare potest, inferiores praelati non, nisi ex privilegio; nec
+          <!--<lb ed="#Fb"/>-->officiales episcoporum; sed ii, qui habent administrationem spiritualium,
+          <!--<lb ed="#Fb"/>-->illas bene concedunt. — §. 1. Possunt episcopi ordinare priores prioratuum
+          <!--<lb ed="#Fb"/>-->non exemptorum, et ipsorum socios, quamdiu morantur in illis, licet inde
+          <!--<lb ed="#Fb"/>-->non fuerint oriundi. Ioann. Andr.
+        </p>
+               <p xml:id="wef6td-d1e238-d1e225">Bonifacius VIII.
+        </p>
+               <p xml:id="wef6td-d1e238-d1e228">Quum nullus clericum parochiae alienae praeter su¬
+          <!--<lb ed="#Fb"/>-->perioris ipsius licentiam debeat ordinare: superior intelligi¬
+          <!--<lb ed="#Fb"/>-->tur in hoc casu episcopus, de cuius dioecesi est is, qui ad
+          <!--<lb ed="#Fb"/>-->ordines promoveri desiderat, oriundus, seu in cuius dioecesi
+          <!--<lb ed="#Fb"/>-->beneficium obtinet ecclesiasticum, seu habet, (licet alibi
+          <!--<lb ed="#Fb"/>-->natus fuerit,) domicilium in eadem. Inferiores quoque prae¬
+          <!--<lb ed="#Fb"/>-->lati, religiosi vel alii, nisi eis, quod suos clericos aut subditos
+          <!--<lb ed="#Fb"/>-->possint a quo voluerint episcopo facere ordinari, a sede
+          <!--<lb ed="#Fb"/>-->apostolica specialiter sit indultum, vel officialis episcopi,
+          <!--<lb ed="#Fb"/>-->quum ad hoc se ipsius officium non extendat, huiusmodi
+          <!--<lb ed="#Fb"/>-->nequeunt licentiam impartiri. Episcopo autem in remotis
+          <!--<lb ed="#Fb"/>-->agente, ipsius in spiritualibus vicarius generalis, vel, sede
+          <!--<lb ed="#Fb"/>-->vacante, capitulum, seu is, ad cjuem tunc temporis admini¬
+          <!--<lb ed="#Fb"/>-->stratio spiritualium noscitur pertinere, dare possunt licentiam
+          <!--<lb ed="#Fb"/>-->ordinandi. §. i. Religiosi vero, a suis superioribus in non
+          <!--<lb ed="#Fb"/>-->exemptis prioratibus deputati, priores et eorum socii possunt
+          <!--<lb ed="#Fb"/>-->a locorum dioecesanis, quamdiu morantur in ipsis priorati¬
+          <!--<lb ed="#Fb"/>-->bus, ordinari licite, licet non sint de eorum dioecesibus
+          <!--<lb ed="#Fb"/>-->oriundi.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e238-Dd1e268">
+               <head xml:id="wef6td-d1e238-Hd1e270">CAP. iy.
+        </head>
+               <p xml:id="wef6td-d1e238-d1e273">Episcopus seu alius inferior primam tonsuram infanti non confert, nisi
+          <!--<lb ed="#Fb"/>-->religionem intret, nec homini illiterato, nec homini alterius dioecesis
+          <!--<lb ed="#Fb"/>-->absque sui praelati licentia; nec etiam coniugato, nisi religionem intret,
+          <!--<lb ed="#Fb"/>-->aut ad sacros ordines promoveatur legitime; alias contra faciens punitur,
+          <!--<lb ed="#Fb"/>-->ut hic. H. d. Zenz.
+        </p>
+               <p xml:id="wef6td-d1e238-d1e284">Idem.
+        </p>
+               <p xml:id="wef6td-d1e238-d1e287">Nullus episcopus vel quivis alius infanti, nisi forte re¬
+          <!--<lb ed="#Fb"/>-->ligionem intraret, seu illiterato, sed nec absque sui superioris
+          <!--<lb ed="#Fb"/>-->licentia homini dioecesis alienae, clericalem praesumat cbn-
+          <!--<lb ed="#Fb"/>-->ferre tonsuram, nec etiam coniugato, nisi volenti religionem
+          <!--<lb ed="#Fb"/>-->intrare aut ad sacros ordines promoveri, prout est sacris
+          <!--<lb ed="#Fb"/>-->canonibus diffinitum. Qui vero contra fecerit, ut in eo *, in
+          <!--<lb ed="#Fb"/>-->quo peccaverit, puniatur, per unum annum a collatione
+          <!--<lb ed="#Fb"/>-->clericalis tonsurae duntaxat noverit se suspensum.
+        </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

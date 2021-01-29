@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>TITULUS X. </title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>TITULUS X. </title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e707"><!-- wef6td-l2t10 -->
+            <head xml:id="wef6td-d1e707-Hd1e103">TITULUS X. </head>
+            <p xml:id="wef6td-d1e707-d1e106"> DE TESTIBUS ET ATTESTATIONIBUS *. </p>
+            <div xml:id="wef6td-d1e707-Dd1e109">
+               <head xml:id="wef6td-d1e707-Hd1e111">CAP. I. </head>
+               <p xml:id="wef6td-d1e707-d1e114"> Socius in crimine simoniae admittitur in testem, si sit socius criminis tantum, et agatur civiliter; alias non. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e707-d1e117"> Gregorius IX.  in concilio Lugdunensi * . </p>
+               <p xml:id="wef6td-d1e707-d1e120"> Mediatores, per quos scelus simoniae plerumque committitur, ad testimonium contra sceleris eiusdem auctores * in detestationem criminis admittuntur, si non agatur criminaliter, sed civiliter, et emolumentum exinde non fuerint assecuti. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e707-Dd1e124">
+               <head xml:id="wef6td-d1e707-Hd1e126">CAP. II. </head>
+               <p xml:id="wef6td-d1e707-d1e129"> Ponit modum remissionis curiae, et dat modum iurandi super positionibus, et dicit, per quem iurari debeat; dat modum respondendi, et modum testes probatorios reprobandi, et reprobatorios iterum reprobandi H. d, Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e707-d1e132"> Idem . </p>
+               <p xml:id="wef6td-d1e707-d1e135"> Praesentium  auctoritate mandamus, quatenus in causa, quae inter abbatem et conventum S. Nicolai Andegavensis ex una parte, et priorem et conventum de Paldigen *. Lyconensis * dioecesis ex altera super eo, quod iidem abbas et conventus se ab ipsis priore et conventu  de Paldigen, possessione  subiectionis eiusdem prioratus asserunt  spoliatos, et super irritanda quadam compositione olim inita inter partes, et rebus aliis vertitur, ab eisdem abbate et priore nomine suo , et in animas conventuum eorundem, vel   s   maioris et sanioris partis ipsorum , recepto iuramento de veritate dicenda, iniungas dictis abbati et priori, ut tam ponendo quam respondendo dicant veritatem, quam super positionibus tibi sub bulla nostra transmissis ipsi sciunt, et per illos  intelligunt, in quorum animas iuraverunt. Praeterea   sigillatim super quolibet articulo in qualibet positione contento facias a partibus sufficienter adinvicem responderi, nulla prorsus ab eis super ipsis positionibus contradictione recepta. Sine iuramento autem a syndico utriusque partis, quid sciat de huiusmodi positionibus vel credat, inquiras. Testes etiam, quos super articulis sub eadem bulla transmissis pars dictorum prioris et conventus duxerit producendos ad reprobandos testes partis alterius in causa principali productos, (quorum nomina in eisdem articulis continentur,) usque  ad Kalendas Novembris proximo futuri examines secundum partis adversae interrogatoria, quae tibi sub eadem bulla transmittimus , diligenter, primo tamen in personam  cuiuslibet testis, a praedictis abbate et conventu producti, facta sigillatim specificatione criminum, et aliorum obiectorum sibi in eisdem articulis contentorum. Si vero dicti abbas et conventus aliquos testes coram te produxerint, 
+          contra testes ab eisdem priore et conventu producendos, iuxta articulos, quos ipsi abbas et conventus tibi super reprobatione testium productorum prioris et conventus in eadem causa * produxerint, recipere, ac eos usque ad Kalendas Februarii proximo futuri diligenter examinare procures, simili specificatione  criminum et aliorum, quae contra testes eorundem prioris et conventus obiecta fuerint, observata; prius tamen praestito iuramento ° a procuratore dictorum   p   abbatis et conventus, quodq ad hoc ex malitia non procedant . </p>
+            </div>
+            <div xml:id="wef6td-d1e707-Dd1e139">
+               <head xml:id="wef6td-d1e707-Hd1e141">CAP. III</head>
+               <p xml:id="wef6td-d1e707-d1e144"> Advocatus vel procurator principalis causae in causa appellationis testificare non potest; iuramentum autem, praesumptione faciente pro appellante, sibi deferri non debet, nisi iudici videatur. Dominicus. </p>
+               <p xml:id="wef6td-d1e707-d1e147"> Innocentius IV. in generali concilio Lugdunensi . </p>
+               <p xml:id="wef6td-d1e707-d1e150"> Romana ecclesia   (Et infra:)   In appellationis causa is , qui appellantis procurator vel advocatus in priori iudicio fuerat , non recipiatur in testem. Neque indistincte ipsi appellanti, praesumptione faciente pro eo, deferatur etiam iuramentum, sed tunc, quum inspectis personarum et ipsius causae circumstantiis id fuerit faciendum . </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

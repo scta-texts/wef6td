@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>TITULUS XIX.</title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>TITULUS XIX.</title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e440"><!-- wef6td-l1t19 -->
+            <head xml:id="wef6td-d1e440-Hd1e103">TITULUS XIX.</head>
+            <p xml:id="wef6td-d1e440-d1e106">DE PROCURATORIBUS.</p>
+            <div xml:id="wef6td-d1e440-Dd1e109">
+               <head xml:id="wef6td-d1e440-Hd1e111">CAP. I.
+        </head>
+               <p xml:id="wef6td-d1e440-d1e114">Laicus potest esse procurator ad agendum et defendendum in causis spi¬
+          <!--<lb ed="#Fb"/>-->ritualibus. — §. 1. Procurator post litem contestatam potest dare alium
+          <!--<lb ed="#Fb"/>-->Procuratorem, ante non, nisi datus fuerit in rem suam, vel a domino
+          <!--<lb ed="#Fb"/>-->habuerit mandatum de substituendo etiam non certam personam. — §. 2.
+          <!--<lb ed="#Fb"/>-->Procurator ad negotia potest dare alium procuratorem libere et etiam
+          <!--<lb ed="#Fb"/>-->quandocunque. H. d.
+        </p>
+               <p xml:id="wef6td-d1e440-d1e127">Bonifacius VIII.
+        </p>
+               <p xml:id="wef6td-d1e440-d1e130">Non indiscrete iudex censetur egisse, procuratorem
+          <!--<lb ed="#Fb"/>-->laicum ad agendum vel defendendum in causis spiritualibus
+          <!--<lb ed="#Fb"/>-->admittendo, quum regulariter, qui non prohibetur expresse
+          <!--<lb ed="#Fb"/>-->ad exercendum procurationis officium, idoneus debeat re¬
+          <!--<lb ed="#Fb"/>-->putari. §. i. Licet autem a procuratore post litem con¬
+          <!--<lb ed="#Fb"/>-->testatam ab eo possit, quum dominus sit litis effectus, dari
+          <!--<lb ed="#Fb"/>-->alius procurator: antea tamen non potest, nisi in rem suam
+          <!--<lb ed="#Fb"/>-->sit datus, vel a domino substituendi alium, etiam certa non
+          <!--<lb ed="#Fb"/>-->expressa persona, sibi fuerit concessa potestas. §. 2. Procu¬
+          <!--<lb ed="#Fb"/>-->rator vero datus ad negotia potest libere quandocunque
+          <!--<lb ed="#Fb"/>-->alium deputare.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e440-Dd1e154">
+               <head xml:id="wef6td-d1e440-Hd1e156">CAP. H.
+        </head>
+               <p xml:id="wef6td-d1e440-d1e159">Procurator ante litem contestatam etiam sine causa revocari potest, post
+          <!--<lb ed="#Fb"/>-->litem contestatam non sine rationabili causa; dominus tamen bene potest
+          <!--<lb ed="#Fb"/>-->adesse causae cum ipso procuratore, maxime si de collusione timeat.
+        </p>
+               <p xml:id="wef6td-d1e440-d1e166">Idem.
+        </p>
+               <p xml:id="wef6td-d1e440-d1e169">Quamvis procurator possit ante litem contestatam etiam
+          <!--<lb ed="#Fb"/>-->sine causa libere a domino revocari: postea tamen ipso
+          <!--<lb ed="#Fb"/>-->nolente nequibit, nisi eum cum* domino inimicum fieri, vel
+          <!--<lb ed="#Fb"/>-->suspectum, aut adversario affinitate coniungi, vel eius here¬
+          <!--<lb ed="#Fb"/>-->dem fieri*, seu ingredi religionem, aut in longum pere¬
+          <!--<lb ed="#Fb"/>-->grinari, vel aegritudine aut vinculis detineri contingat, seu
+          <!--<lb ed="#Fb"/>-->alia rationabilis causa subsit, propter quam sit merito re¬
+          <!--<lb ed="#Fb"/>-->vocandus. Verum, quanquam, nisi ut praemittitur, revocari
+          <!--<lb ed="#Fb"/>-->non possit: dominus tamen suae causae una cum eodem
+          <!--<lb ed="#Fb"/>-->procuratore, maxime si de collusione timeat, minime pro¬
+          <!--<lb ed="#Fb"/>-->hibetur adesse.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e440-Dd1e193">
+               <head xml:id="wef6td-d1e440-Hd1e195">CAP. in.
+        </head>
+               <p xml:id="wef6td-d1e440-d1e198">Procurator, habens mandatum substituendi, substitutum a se post man¬
+          <!--<lb ed="#Fb"/>-->datum susceptum, etiamsi eo non sit usus, revocare non potest, nisi et
+          <!--<lb ed="#Fb"/>-->potestatem habuit revocandi. Si autem erat procurator ad plures causas,
+        </p>
+               <p xml:id="wef6td-d1e440-d1e205">et in altera substituit: in aliis remanet procurator. Ioann. Andr.
+        </p>
+               <p xml:id="wef6td-d1e440-d1e208">Idem.
+        </p>
+               <p xml:id="wef6td-d1e440-d1e211">Is, qui a procuratore, super hoc a domino potestatem
+          <!--<lb ed="#Fb"/>-->habente, procurator exstitit substitutus, non potest post
+          <!--<lb ed="#Fb"/>-->mandatum susceptum, etiamsi eo usus non fuerit, (licet in
+          <!--<lb ed="#Fb"/>-->delegato sedis apostolicae vices suas alteri committente
+          <!--<lb ed="#Fb"/>-->aliud censeatur,) ulterius revocari ab illo, nisi revocandi
+          <!--<lb ed="#Fb"/>-->potestas concessa fuisset eidem. Verum si, quum ad
+          <!--<lb ed="#Fb"/>-->plures vel ad omnes causas generaliter constitutus fuisset,
+          <!--<lb ed="#Fb"/>-->in una tantum substituerit earundem: in aliis nequaquam
+          <!--<lb ed="#Fb"/>-->prohibetur procurationis officium exercere.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e440-Dd1e232">
+               <head xml:id="wef6td-d1e440-Hd1e234">CAP. iy.
+        </head>
+               <p xml:id="wef6td-d1e440-d1e237">Procurator generalis non agit exigentia speciale mandatum, nisi cum aliqua
+          <!--<lb ed="#Fb"/>-->illorum specificatione vel libera potestate. H. d. Zenz.
+        </p>
+               <p xml:id="wef6td-d1e440-d1e242">Idem.
+        </p>
+               <p xml:id="wef6td-d1e440-d1e245">Qui ad agendum et defendendum, ac generaliter ad
+          <!--<lb ed="#Fb"/>-->omnia, etiamsi mandatum exigant speciale, constituitur
+          <!--<lb ed="#Fb"/>-->procurator, ex vi generali tatis huiusmodi ad aliquem arti¬
+          <!--<lb ed="#Fb"/>-->culum, in quo speciale mandatum exigitur, admitti non
+          <!--<lb ed="#Fb"/>-->debet. Sed si aliquis vel aliqui de articulis speciale man¬
+          <!--<lb ed="#Fb"/>-->datum exigentibus specificati fuissent adiecta clausula
+          <!--<lb ed="#Fb"/>-->generali: tunc ad non expressos etiam admittetur. Pro¬
+          <!--<lb ed="#Fb"/>-->curator quoque absque speciali mandato iuramentum de¬
+          <!--<lb ed="#Fb"/>-->ferre, transigere vel pacisci non potest, nisi ei bonorum vel
+          <!--<lb ed="#Fb"/>-->causae administratio libere* sit concessa.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e440-Dd1e267">
+               <head xml:id="wef6td-d1e440-Hd1e269">CAP. v.
+        </head>
+               <p xml:id="wef6td-d1e440-d1e272">Mandatum generale ad negotia etiam ad iudicia se extendit. — §. 1. Potest
+          <!--<lb ed="#Fb"/>-->filius familias esse procurator etiam absque patris consensu. Zenz. — §. 2.
+          <!--<lb ed="#Fb"/>-->Maior annis XXV. ad iudicia, maior XVII. ad negotia deputari potest
+          <!--<lb ed="#Fb"/>-->procurator. H. d. Zenz.
+        </p>
+               <p xml:id="wef6td-d1e440-d1e281">Idem.
+        </p>
+               <p xml:id="wef6td-d1e440-d1e284">Qui generaliter constituitur ad negotia procurator,
+          <!--<lb ed="#Fb"/>-->agere ac experiri potest, exceptis his casibus, qui mandatum
+          <!--<lb ed="#Fb"/>-->exigunt speciale. §. 1. Nedum vero ad negotia, sed etiam
+          <!--<lb ed="#Fb"/>-->ad iudicia potest filiusfamilias absque patris assensu fieri
+          <!--<lb ed="#Fb"/>-->procurator. §. 2. Licet autem quis post XVII. annum pro¬
+          <!--<lb ed="#Fb"/>-->curator ad negotia licite deputetur: ad iudicia tamen, nisi
+          <!--<lb ed="#Fb"/>-->maior XXV. annis fuerit, deputari nequibit.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e440-Dd1e300">
+               <head xml:id="wef6td-d1e440-Hd1e302">CAP. VI.
+        </head>
+               <p xml:id="wef6td-d1e440-d1e305">Ex duobus procuratoribus, simul simpliciter constitutis, alter solus admitti
+          <!--<lb ed="#Fb"/>-->non debet. Si vero in solidum: qui primo contestatur litem, admittitur
+          <!--<lb ed="#Fb"/>-->altero totaliter excluso, nisi adiectum fuerit, quod non sit melior conditio
+          <!--<lb ed="#Fb"/>-->occupantis. Quo casu, altero non prosequente, nec alium substituente,
+          <!--<lb ed="#Fb"/>-->reliquus admittatur. H. d. — §. 1. Procurator datus in solidum, qui occu¬
+          <!--<lb ed="#Fb"/>-->paverat negotium ex impedimento exclusus, non reassumit, nisi altero
+          <!--<lb ed="#Fb"/>-->impedito. H. d. Dominicus. — §. 2. In causis spiritualibus ex duobus pro¬
+          <!--<lb ed="#Fb"/>-->curatoribus, simul simpliciter datis, iudex eligit magis idoneum, qui solus
+          <!--<lb ed="#Fb"/>-->prosequi poterit, nec alius admittitur, etsi primo legitime excluso. H. d.
+        </p>
+               <p xml:id="wef6td-d1e440-d1e324">Dominicus.
+        </p>
+               <p xml:id="wef6td-d1e440-d1e327">Idem.
+        </p>
+               <p xml:id="wef6td-d1e440-d1e330">Si duo procuratores simul, non adiecto: „in solidum,“
+          <!--<lb ed="#Fb"/>-->deputentur: unus sine altero non debebit admitti. Secus,
+          <!--<lb ed="#Fb"/>-->si sint in solidum constituti; sed tunc illius melior erit con¬
+          <!--<lb ed="#Fb"/>-->ditio, qui per litis contestationem negotium primitus occu¬
+          <!--<lb ed="#Fb"/>-->pabit. Post occupationem autem huiusmodi alter se intro¬
+          <!--<lb ed="#Fb"/>-->mittere nequibit ulterius, quum ille litis dominus sit effectus;
+          <!--<lb ed="#Fb"/>-->nisi dictum in constitutione fuisset, quod non fieret melior
+          <!--<lb ed="#Fb"/>-->conditio occupantis. Tunc enim, si eum, qui occupavit,
+          <!--<lb ed="#Fb"/>-->infirmari, mori, absentari vel alias impediri contingat, aut
+          <!--<lb ed="#Fb"/>-->si prosequi forte nolit, poterit alter suscipere ac perficere
+          <!--<lb ed="#Fb"/>-->negotium ab alio inchoatum, dum tamen ab alio* non fuerit
+          <!--<lb ed="#Fb"/>-->alius substitutus. Nam si sit, is praeferri debebit eidem.
+          <!--<lb ed="#Fb"/>-->§. 1. Ceterum ubi nullo substituto alter suscipit negotium
+          <!--<lb ed="#Fb"/>-->prosequendum: is, qui occupavit primitus, ipsum resumere
+          <!--<lb ed="#Fb"/>-->postea impedimento cessante nequibit, nisi forsan illum
+          <!--<lb ed="#Fb"/>-->contingeret impediri. §. 2. Sane, in electionum, postula¬
+          <!--<lb ed="#Fb"/>-->tionum, provisionum et aliorum spiritualium negotiorum
+          <!--<lb ed="#Fb"/>-->causis, quum talia celeriorem expeditonem exigere digno¬
+          <!--<lb ed="#Fb"/>-->scantur, volumus specialiter observari, ut, si plures pro¬
+          <!--<lb ed="#Fb"/>-->curatores simul in eis fuerint non in solidum deputati, iudex,
+          <!--<lb ed="#Fb"/>-->ne propter eorum concursum negotia eadem intricari con¬
+          <!--<lb ed="#Fb"/>-->tingat, idoneiorem ex ipsis eligere valeat, et ille solummodo
+          <!--<lb ed="#Fb"/>-->prosequatur, habeatque, quicquid cum illo sic electo factum
+          <!--<lb ed="#Fb"/>-->exstiterit, plenam roboris firmitatem; nec ad prosequendum
+          <!--<lb ed="#Fb"/>-->alius admittatur postmodum, nisi prout eum, qui non oc¬
+          <!--<lb ed="#Fb"/>-->cupat negotium, censuimus post occupationem, factam ab
+          <!--<lb ed="#Fb"/>-->alio, superius admittendum.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e440-Dd1e386">
+               <head xml:id="wef6td-d1e440-Hd1e388">CAP. VII.
+        </head>
+               <p xml:id="wef6td-d1e440-d1e391">Procurator, qui renuit acceptare mandatum, poenitere potest, quamdiu
+          <!--<lb ed="#Fb"/>-->constituens in eadem perseveraverit voluntate.
+        </p>
+               <p xml:id="wef6td-d1e440-d1e396">Idem.
+        </p>
+               <p xml:id="wef6td-d1e440-d1e399">Licet is, qui procurator constituitur ab absente, dixerit,
+          <!--<lb ed="#Fb"/>-->praesentatum sibi suscipere nolle mandatum: hoc tamen
+          <!--<lb ed="#Fb"/>-->nequaquam obstante, quamdiu constituens in eadem per¬
+          <!--<lb ed="#Fb"/>-->stiterit voluntate, ipsum acceptare poterit, quandocunque
+          <!--<lb ed="#Fb"/>-->placebit.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e440-Dd1e411">
+               <head xml:id="wef6td-d1e440-Hd1e413">CAP. VIII.
+        </head>
+               <p xml:id="wef6td-d1e440-d1e416">Dominus, dans procuratorem, quoties contingit eum abesse, causam tra¬
+          <!--<lb ed="#Fb"/>-->ctando procuratorem non intelligitur revocare; secus, si simpliciter, nisi
+          <!--<lb ed="#Fb"/>-->expresse protestatur, quod ipsum revocare non intendit, vel alias hoc
+          <!--<lb ed="#Fb"/>-->appareat ex probabilibus coniecturis. Ioann. Andr.
+        </p>
+               <p xml:id="wef6td-d1e440-d1e425">Idem.
+        </p>
+               <p xml:id="wef6td-d1e440-d1e428">Si quem sub ea forma: „quoties te abesse contigerit,'“
+          <!--<lb ed="#Fb"/>-->constitueris procuratorem ad causam: non ideo, licet tractes
+          <!--<lb ed="#Fb"/>-->eam postmodum per te ipsum, procuratorem ipsum digno¬
+          <!--<lb ed="#Fb"/>-->sceris revocare, quin immo procurator idem procuratoris
+          <!--<lb ed="#Fb"/>-->assumet officium, quandocunque te contigerit absentare.
+        </p>
+               <p xml:id="wef6td-d1e440-d1e439">Secus, si simpliciter a te fuerit constitutus. Tunc enim, sive
+          <!--<lb ed="#Fb"/>-->ante litem contestatam sive post ad causam ipsam venias,
+          <!--<lb ed="#Fb"/>-->non ut ipsi procuratori assistas, sed ut causam tractes
+          <!--<lb ed="#Fb"/>-->eandem, tractando ipsam eum revocare censeris; nisi dicas
+          <!--<lb ed="#Fb"/>-->expresse, quod ipsum vis in officio procurationis hoc non
+          <!--<lb ed="#Fb"/>-->obstante manere, vel nisi, quod non animo revocandi hoc
+          <!--<lb ed="#Fb"/>-->facias, ex aliquibus appareat coniecturis, ut, si forsan aliquis
+          <!--<lb ed="#Fb"/>-->immineat articulus, in quo tu melius nosti veritatem, aut si
+          <!--<lb ed="#Fb"/>-->sit procurator ipse infirmus, vel forsitan se absentet, seu
+          <!--<lb ed="#Fb"/>-->quicquid aliud accidat, propter quod ipsi causae tua sit
+          <!--<lb ed="#Fb"/>-->praesentia opportuna.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e440-Dd1e463">
+               <head xml:id="wef6td-d1e440-Hd1e465">CAP. IX.
+        </head>
+               <p xml:id="wef6td-d1e440-d1e468">Tria dicit, primo, quod procurator ad contrahendum matrimonium debet
+          <!--<lb ed="#Fb"/>-->habere speciale mandatum; secundo, quod talis procurator non substituit,
+          <!--<lb ed="#Fb"/>-->nisi ad hoc mandatum habeat; tertio, quod, si talis procurator revocatus
+          <!--<lb ed="#Fb"/>-->etiam ignoranter contrahit, non tenet matrimonium. Ioann. Andr.
+        </p>
+               <p xml:id="wef6td-d1e440-d1e477">Idem.
+        </p>
+               <p xml:id="wef6td-d1e440-d1e480">Procurator non aliter censetur idoneus ad matrimonium
+          <!--<lb ed="#Fb"/>-->contrahendum, quam si ad hoc mandatum habuerit speciale.
+          <!--<lb ed="#Fb"/>-->Et quamvis alias is, qui constituitur ad negotia procurator,
+          <!--<lb ed="#Fb"/>-->alium dare possit: in hoc tamen casu, propter magnum
+          <!--<lb ed="#Fb"/>-->quod ex facto tam arduo posset periculum imminere, non
+          <!--<lb ed="#Fb"/>-->poterit deputare alium, nisi hoc eidem specialiter sit com¬
+          <!--<lb ed="#Fb"/>-->missum. Sane si procurator, antequam contraxerit, a
+          <!--<lb ed="#Fb"/>-->domino fuerit revocatus, contractum postmodum matri¬
+          <!--<lb ed="#Fb"/>-->monium ab eodem, licet tam ipse quam ea, cum qua con¬
+          <!--<lb ed="#Fb"/>-->traxerit*, revocationem huiusmodi penitus ignorarent,
+          <!--<lb ed="#Fb"/>-->nullius momenti exsistit, quum illius consensus defecerit,
+          <!--<lb ed="#Fb"/>-->sine quo firmitatem habere nequivit.
+        </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

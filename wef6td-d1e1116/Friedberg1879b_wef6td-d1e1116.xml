@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> TITULUS XVI. </title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title> TITULUS XVI. </title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e1116"><!-- wef6td-l3t16 -->
+            <head xml:id="wef6td-d1e1116-Hd1e103"> TITULUS XVI. </head>
+      
+            <p xml:id="wef6td-d1e1116-d1e106"> DE STATU REGULARIUM. </p>
+            <div xml:id="wef6td-d1e1116-Dd1e109">
+               <head xml:id="wef6td-d1e1116-Hd1e111">CAP. UN. </head>
+               <p xml:id="wef6td-d1e1116-d1e114"> Moniales, tacite vel expresse professae, clausuras monasterii exire non possunt, nec alii ad illas intrare, nisi causa legitima et superioris licentia interveniat. H. d. — §. 1. In monasterio non Mendicantium tot sorores debent recipi, quot poterunt sine penuria sustentari; et ultra non valet receptio. Hoc dicit Dominicus. — §. 2. Abbatissae, principibus saecularibus ad fidelitatis sacramentum praestandum adstrictae, si non possunt per procuratorem iurare, personaliter exeundo monasterium iurabunt, absque dilatione ad monasterium rediturae. Domin. — §. 3. Compelluntur domini temporales per censuram ecclesiasticam, ut in suis curiis admittant abbatissas per procuratores litigare; ecclesiastici vero in temporalibus et spiritualibus earum procuratores admittere debent. Domin. — §. 4. Ordinarii locorum, in subiectis monasteriis propria, in exemptis apostolica auctoritate clausuram procurare debent; nec est propter hoc in aliis casibus iurisdictio in exemptos eis attributa. H. d. Dominicus. </p>
+               <p xml:id="wef6td-d1e1116-d1e117"> Bonifacius VIII. </p>
+               <p xml:id="wef6td-d1e1116-d1e120"> Periculoso et detestabili quarundam monialium statui, (quae, honestatis laxatis habenis et monachali modestia sexusque verecundia impudenter abiectis, extra sua monasteria nonnunquam per habitacula saecularium personarum discurrunt, et frequenter infra eadem monasteria personas suspectas admittunt, in illius, cui suam integritatem voluntate spontanea devoverunt, gravamen *, offensam, in religionis opprobrium et scandalum plurimorum,) providere salubriter cupientes, praesenti constitutione perpetuo irrefragabiliter valitura sancimus, universas et singulas moniales, praesentes atque futuras, cuiuscunque religionis sint vel ordinis, in quibuslibet mundi partibus exsistentes, sub perpetua in suis monasteriis debere de cetero permanere clausura ita, quod nulli earum, religionem tacite vel expresse professae, sit vel esse valeat quacunque ratione vel causa, (nisi forte tanto et tali morbo evidenter earum aliquam laborare constaret, quod non posset cum aliis absque gravi periculo seu scandalo commorari,) monasteria ipsa deinceps egrediendi facultas; nullique aliquatenus inhonestae personae nec etiam honestae, (nisi rationabilis et manifesta causa exsistat, ac de illius, ad quem pertinuerit, speciali licentia,) ingressus vel accessus pateat ad easdem, ut sic a publicis et mundanis conspectibus separatae omnino servire Deo valeant liberius, et, lasciviendi opportunitate sublata eidem corda sua et corpora in omni sanctimonia diligentius custodire. §. i. Sane, ut hoc salutare  statutum commodius valeat observari, districtius inhibemus, ne in monasteriis ordinum non Mendicantium aliquae recipiantur de cetero in sorores, nisi quot poterunt de ipsorum monasteriorum bonis sive proventibus absque penuria sustentari, si secus actum fuerit, irritum decernentes. §. 2. Verum quando abbatissa vel priorissa cuiusvis monasterii pro feudo, quod monasterium ipsum tenet ab aliquo principe seu domino temporali, sibi debebit homagium vel fidelitatis sacramentum praestare, (nisi, quod per procuratorem illud praestet, possit efficere apud eum,) de monasterio cum honesta et decenti societate exire poterit eo casu licenter, homagio facto, quam primum commode poterit, seu fidelitatis praestito sacramento ad ipsum monasterium e vestigio reversura, sic, quod in fraudem residendae sive morae claustralis nihil fiat omnino. §. 3. Porro, ne moniales causam seu occasionem habeant evagandi, principes saeculares ac alios dominos temporales rogamus, requirimus et obsecramus per viscera misericordiae Iesu Christi, eisdem in remissionem peccaminum nihilominus suadentes, quod abbatissas ipsas et priorissas ac moniales quascunque, monasteriorum suorum curam, administrationem negotiave gerentes, quibuscunque nominibus censeantur, per procuratores in suis tribunalibus seu curiis litigare permittant, ne pro constituendis procuratoribus, qui atornati in aliquibus partibus nuncupantur, seu aliis huiusmodi easdem oporteat evagari. Si qui vero contra praesumpserint, exhortationi huiusmodi rationabili atque sanctae obtemperare nolentes, quum sit iuri contrarium, quod mulieres, praesertim religiosae, per se ipsas litigare cogantur, et * a via deviet honestatis et periculum animarum inducat, ad hoc per suos ordinarios ecclesiasticos censura ecclesiastica compellantur. Episcopis autem et aliis praelatis superioribus et  inferioribus quibuscunque iniungimus, quod et ipsi causas seu negotia, quae praefatae moniales habebunt agere coram ipsis aut in curiis eorundem, sive sint homagia, fidelitatis sacramenta, lites vel quicquid aliud, ipsa per procuratores earum fieri faciant et tractari. §. 4. Et quoniam parum esset condere iura, nisi essent qui ea exsecutioni debitae demandarent: patriarchis, primatibus, archiepiscopos et episcopis universis districte in virtute sanctae obedientiae sub obtestatione divini iudicii et interminatione maledictionis aeternae praecipiendo mandamus, quatenus eorum quilibet in civitate ac dioecesi propria in monasteriis monialium sibi ordinario iure* subiectis sua, in iis vero, quae ad Romanam immediate spectant ecclesiam, sedis apostolicae auctoritate, abbates vero et alii, tam exempti quam non exempti praelati ecclesiarum, monasteriorum et ordinum quorumcunque, in monasteriis huiusmodi  sibi subiectis de clausura convenienti, ubi non est, ipsorum monasteriorum  expensis et fidelium eleemosynis, quas ad hoc procurent, diligentius facienda, et de ipsis monialibus includendis quam primum commode poterunt providere procurent, si divinae ac nostrae indignationis voluerint acrimoniam evitare, contradictores atque rebelles per censuram ecclesiasticam appellatione postposita compescendo, invocato  ad hoc, si opus fuerit, auxilio brachii saecularis. Per hoc autem in monasteriis exemptis ordinarii locorum quoad alia nullam sibi credant iurisdictionem vel potestatem aliquatenus attributam.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

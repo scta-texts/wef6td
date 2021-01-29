@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>TITULUS I.</title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>TITULUS I.</title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e1370"><!-- wef6td-l5t1 -->
+            <head xml:id="wef6td-d1e1370-Hd1e103">TITULUS I.</head>
+            <p xml:id="wef6td-d1e1370-d1e106"> DE ACCUSATIONIBUS, INQUISITIONIBUS ET
+        <!--<lb ed="#Fb"/>-->DENUNCIATIONIBUS. </p>
+            <div xml:id="wef6td-d1e1370-Dd1e111">
+               <head xml:id="wef6td-d1e1370-Hd1e113">CAP. i. </head>
+               <p xml:id="wef6td-d1e1370-d1e116"> Ex confessione coram delegato, inquirente super certis criminibus deputato,
+          <!--<lb ed="#Fb"/>-->facta, punitur confitens, licet dicat, se prius diffamatum non fuisse, vel
+          <!--<lb ed="#Fb"/>-->inquisitionis capitula non habuisse. H. d. Domin. </p>
+               <p xml:id="wef6td-d1e1370-d1e123"> Bonifacius VIII. </p>
+               <p xml:id="wef6td-d1e1370-d1e126"> Postquam coram eo, qui contra te super certis crimi¬
+          <!--<lb ed="#Fb"/>-->nibus inquisitor fuerat deputatus, eadem crimina fuisti con¬
+          <!--<lb ed="#Fb"/>-->fessus : frustra confessionem tuam, quo minus puniaris ex ea
+          <!--<lb ed="#Fb"/>-->prout iustitia suadebit, eo praetextu impugnare contendis,
+          <!--<lb ed="#Fb"/>-->quod super eisdem criminibus non fueras antea diffamatus,
+          <!--<lb ed="#Fb"/>-->vel quod per eundem inquisitorem capitula, super quibus
+          <!--<lb ed="#Fb"/>-->contra te volebat inquirere, tibi tradita non fuerunt. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e1370-Dd1e142">
+               <head xml:id="wef6td-d1e1370-Hd1e144">CAP. II. </head>
+               <p xml:id="wef6td-d1e1370-d1e147"> Valet inquisitio, facta super veritate criminum, omissa inquisitione in¬
+          <!--<lb ed="#Fb"/>-->famiae, si reus praesens tacuit. H. d. secundum Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e1370-d1e152"> Idem. </p>
+               <p xml:id="wef6td-d1e1370-d1e155"> Si is, cui contra te commissa fuerat simpliciter inquisitio
+          <!--<lb ed="#Fb"/>-->super certis criminibus facienda, processerit te praesente,
+          <!--<lb ed="#Fb"/>-->nec reclamante, aut  quicquam super hoc excipiente, in¬
+          <!--<lb ed="#Fb"/>-->famiae inquisitione omissa, ad veritatem eorundem criminum
+          <!--<lb ed="#Fb"/>-->inquirendam: processum huiusmodi  ex eo, quod non fuit
+          <!--<lb ed="#Fb"/>-->de infamia primitus inquisitum, ulterius impugnare nequibis. </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

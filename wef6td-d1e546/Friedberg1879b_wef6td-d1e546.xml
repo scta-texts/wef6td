@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> TITULUS II. </title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title> TITULUS II. </title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e546"><!-- wef6td-l2t2 -->
+            <head xml:id="wef6td-d1e546-Hd1e103"> TITULUS II. </head>
+            <p xml:id="wef6td-d1e546-d1e106"> DE FORO COMPETENTI. </p>
+      
+            <div xml:id="wef6td-d1e546-Dd1e109">
+               <head xml:id="wef6td-d1e546-Hd1e111">CAP. i. </head>
+               <p xml:id="wef6td-d1e546-d1e114"> Archiepiscopus, omisso appellationis articulo, vel per viam querelae, de causa subditorum, suffraganeis etiam ipsis consentientibus, non cognoscit. H. d. usque ad §. Neque. — §. 1. Archiepiscopus subditos suffraganei non potest compellere causas, delegatas ab eo, suscipere, suas sententias et praecepta exsequi, vel testimonia in causis ad eos devolutis ferre nisi consuetudo aliud disponat. H. d. Dominicus. — §. 2. Archiepiscopus contra officiales vel praelatos suffraganeorum, consuetudine aliud non disponente, et contra subditos ipsorum, pro salariis advocatorum et procuratorum causarum fori archiepiscopi, iudex competens non est. H. d. — §. 3. Archiepiscopus non compellet invitos contrahentes aliarum dioecesum in sua propria coram se respondere, nisi ibi inveniantur. Sed si citati nolunt comparere, vel malitiose se occultant, ne citentur: in bonis ipsorum suae dioecesis potest missionem facere, vel in alia decernere per ordinarios faciendam. H. d. — §. 4. Non potest archiepiscopus suos clericos mittere in dioecesim suffraganei, ut coram eis fiant contractus, vel iam facti approbentur. Nec, si facti vel approbati fuerint coram illis, possunt suffraganeorum subditos coram se compellere litigare super illis, nec excommunicare suffraganeorum officiales vel subditos, si nolunt litigare coram ipso. H. d. ad finem, secundum Dominicum. </p>
+               <p xml:id="wef6td-d1e546-d1e117"> Innocentius IV.  </p>
+               <p xml:id="wef6td-d1e546-d1e120"> Romana ecclesia   (Et infra:)   Nec appellationis articulo </p>
+        
+               <p xml:id="wef6td-d1e546-d1e123"> praetermisso, nec alias etiam, quum minime appellatum exstiterit , Remensis archiepiscopus vel eius officialis  de causis clericorum tanquam iudices, licet in ipsos iidem clerici de facto consentiant, absque dioecesanorum suorum voluntate cognoscant. §. i. Neque suffraganeorum Remensis ecclesiae subditos ipsorum delegationem suscipere, vel sententias et praecepta exsequi, aut in causis, per appellationem devolutis ad eos, testimonium, nisi aliud in his tribus  de consuetudine obtineant , perhibere compellant. §. 2. Nec etiam suffraganeorum ipsorum officiales, aut archi-diaconos, archipresbyteros et  alios inferiores praelatos, suffraganeis eisdem subiectos, dummodo aliud eis contraria consuetudo non tribuat, nec subditos suffraganeorum ipsorum super salariis advocatorum et procuratorum in causis, quae in Remensi ventilantur curia, cogant querelanti-bus in sua praesentia respondere. §. 3. Contrahentes vero aliarum dioecesum super contractibus, initis in Remensi dioecesi ab eisdem, nisi inveniantur ibidem, trahere coram se non debent invitos, licet in possessionem bonorum, quae ibi habent, etiam quum alibi copiam sui faciant *, si eorum auctoritate citati comparere contemnant, possint  missionem facere contra eos, vel, si forte malitiose se ipsos occultent, ne  citatio perveniat ad eosdem, decernere faciendam in possessionem bonorum, quae in alia etiam dioecesi obtinere noscuntur; sed tunc loci dioecesanus ad denunciationem ipsorum faciet huiusmodi missionem. §. 4. Nec clericos suos mittant ad suffraganeorum ipsorum * dioeceses pro ineundis vel recognoscendis  contractibus coram ipsis, nec eorundem suffraganeorum subditos compellant coram se occasione huiusmodi iuri stare. Neque potest archiepiscopus ipse in suorum suffraganeorum officiales et subditos pro eo, quod vocati ab ipso nolunt  querelantibus in sua praesentia respondere, ecclesiasticam exercere censuram. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e546-Dd1e127">
+               <head xml:id="wef6td-d1e546-Hd1e129">CAP.   11  . </head>
+               <p xml:id="wef6td-d1e546-d1e132"> Iudex saecularis, qui vult clericum compellere ad debita etiam liquida solvenda, per ecclesiasticum iudicem desistere compellatur. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e546-d1e135"> Bonifacius VIII . </p>
+               <p xml:id="wef6td-d1e546-d1e138"> Saeculares iudices, qui, licet ipsis nulla competat iurisdictio in hac parte, personas ecclesiasticas ad solvendum debita, super quibus coram eis contra ipsas earum exhibentur literae vel probationes aliae inducuntur, damnabili praesumptione compellunt, a temeritate huiusmodi per locorum ordinarios censura ecclesiastica decernimus compescendos. </p>
+               <p xml:id="wef6td-d1e546-d1e141"> cap. in. </p>
+               <p xml:id="wef6td-d1e546-d1e145"> Ratione iuramenti laicus, ut illud servet, coram iudice ecclesiastico </p>
+               <p xml:id="wef6td-d1e546-d1e148"> convenitur. </p>
+               <p xml:id="wef6td-d1e546-d1e151"> Idem . </p>
+               <p xml:id="wef6td-d1e546-d1e154"> Quum C. laicus, pro quo solvisti certam pecuniae quantitatem, in qua pro eo te fideiussorie nomine obligaveras, te servare recuset indemnem, contra iuramentum a se praestitum temere veniendo: ipsum coram ecclesiastico iudice, ad cuius forum ratione iuramenti causae huiusmodi cognitio noscitur pertinere, de iure poteris convenire, ut ipsum monitione praemissa per censuram ecclesiasticam, quod te super praedictis, ut tenetur, servet indemnem, praevia ratione compellat. </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

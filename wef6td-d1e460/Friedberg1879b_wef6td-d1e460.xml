@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>TITULUS XX.</title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>TITULUS XX.</title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e460"><!-- wef6td-l1t20 -->
+            <head xml:id="wef6td-d1e460-Hd1e103">TITULUS XX.</head>
+            <p xml:id="wef6td-d1e460-d1e106">DE IIS, QUAE VI METUSVE CAUSA FIUNT.
+      </p>
+            <div xml:id="wef6td-d1e460-Dd1e109">
+               <head xml:id="wef6td-d1e460-Hd1e111">CAP. UN.
+        </head>
+               <p xml:id="wef6td-d1e460-d1e114">Excommunicationis, suspensionis vel interdicti absolutio vel revocatio
+          <!--<lb ed="#Fb"/>-->per vim extorta non tenet, et extorquens excommunicatus est ipso iure.
+        </p>
+               <p xml:id="wef6td-d1e460-d1e119">Ioann. Andr.
+        </p>
+               <p xml:id="wef6td-d1e460-d1e122">Gregorius X. in concilio generali Lugdunensi.
+        </p>
+               <p xml:id="wef6td-d1e460-d1e125">Absolutionis beneficium ab excommunicationis sen¬
+          <!--<lb ed="#Fb"/>-->tentia, vel quamcunque revocationem ipsius, aut suspen¬
+          <!--<lb ed="#Fb"/>-->sionis, seu etiam interdicti, per vim vel metum extorta,
+          <!--<lb ed="#Fb"/>-->praesentis constitutionis auctoritate omnino viribus vacua¬
+          <!--<lb ed="#Fb"/>-->mus. Ne autem sine vindicta violentiae crescat audacia,
+          <!--<lb ed="#Fb"/>-->eos, qui absolutionem seu revocationem huiusmodi vi vel
+          <!--<lb ed="#Fb"/>-->metu extorserint, excommunicationis sententiae decernimus
+          <!--<lb ed="#Fb"/>-->subiacere.
+        </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

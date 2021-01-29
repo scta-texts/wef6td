@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> TITULUS XXIV. </title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title> TITULUS XXIV. </title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e1278"><!-- wef6td-l3t24 -->
+            <head xml:id="wef6td-d1e1278-Hd1e103"> TITULUS XXIV. </head>
+      
+            <p xml:id="wef6td-d1e1278-d1e106"> DE CLERICI VEL MONACHI SAECULARIBUS NEGOTIIS SE IMMISCEANT. </p>
+      
+            <div xml:id="wef6td-d1e1278-Dd1e109">
+               <head xml:id="wef6td-d1e1278-Hd1e111">CAP. I. </head>
+               <p xml:id="wef6td-d1e1278-d1e114"> Capitulum super Specula, prohibens audientiam legum vel physicae, non includit parochiales ecclesias habentes, nisi sint plebaniae, habentes sub se capellas, in quibus clerici perpetuo instituantur. H. d. Domin. </p>
+               <p xml:id="wef6td-d1e1278-d1e117"> Bonifacius VIII. </p>
+               <p xml:id="wef6td-d1e1278-d1e120"> Statutum felicis recordationis Honorii Papae III.  praedecessoris nostri, quod decanis, archidiaconis, praepositis, plebanis, cantoribus et aliis clericis, habentibus personatus, audire leges vel physicam interdicit, ad eos, qui parochiales ecclesias obtinere noscuntur, piae  memoriae Clementis Papae IV.  praedecessoris nostri vestigiis inhaerentes, declaramus praesentis constitutionis oraculo ratione ecclesiarum huiusmodi non extendi, nisi eaedem ecclesiae fuerint plebaniae sub se capellas habentes, in quibus instituantur  clerici perpetui, nequeuntes ab ipsis absque causa rationabili amoveri. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e1278-Dd1e124">
+               <head xml:id="wef6td-d1e1278-Hd1e126">CAP. II. </head>
+               <p xml:id="wef6td-d1e1278-d1e129"> Excommunicatus est ipso facto religiosus, professus, habitum temerarie dimittens, vel ad quaecunque studia accedens, non obtenta licentia praelati et conventus. Doctores, scienter docentes, vel in scholis retinentes ad leges vel physicam tales religiosos, similiter excommunicationem incurrunt. H. d. Dominicus. </p>
+               <p xml:id="wef6td-d1e1278-d1e132"> Idem . </p>
+               <p xml:id="wef6td-d1e1278-d1e135"> Ut periculosa religiosis evagandi materia subtrahatur, districtius inhibemus, ne de cetero aliquis, quamcunque religionem tacite vel expresse professus, in scholis vel alibi temere habitum religionis suae dimittat, nec accedat ad quaevis studia literarum, nisi a suo praelato cum consilio sui conventus vel maioris partis eiusdem sibi eundi ad studium licentia primitus sit concessa. Si quis autem horum temerarius violator exstiterit: excommunicationis incurrat sententiam ipso facto. Doctores quoque sive magistri, qui religiosos, habitu suo dimisso, leges  vel physicam audientes scienter docere, aut in scholis suis praesumpserint retinere, simili eo ipso sint sententia innodati. </p>
+            </div>
+            <div xml:id="wef6td-d1e1278-Dd1e139">
+               <head xml:id="wef6td-d1e1278-Hd1e141"> CAP. III. </head>
+               <p xml:id="wef6td-d1e1278-d1e144"> Clericus, in loco temporalis iurisdictionis suae super delicto ibi commisso delegans, ut veritate inquisita iustitiam exsequatur, irregularis non efficitur, licet poena sanguinis inferatur. H. d. Domin. </p>
+               <p xml:id="wef6td-d1e1278-d1e147"> Idem. </p>
+               <p xml:id="wef6td-d1e1278-d1e150"> Episcopus seu quicunque  alius praelatus vel clericus, iurisdictionem obtinens temporalem, si homicidio aut alio maleficio, ab aliquibus in iurisdictione sua commisso, ballivo suo aut alii cuicunque iniungat, ut super hoc veritatem inquirens iustitiae debitum exsequatur, irregularis censeri non debet, quamvis ipse ballivus vel alius contra malefactores ad poenam sanguinis processerit iustitia mediante. Nam licet clericis causas sanguinis agitare non liceat: eas tamen, quum iurisdictionem obtinent  temporalem, debent et possunt metu irregularitatis cessante aliis delegare. </p>
+        
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

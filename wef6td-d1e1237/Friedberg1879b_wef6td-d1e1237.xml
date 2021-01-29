@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> TITULUS XXII. </title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title> TITULUS XXII. </title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e1237"><!-- wef6td-l3t22 -->
+            <head xml:id="wef6td-d1e1237-Hd1e103"> TITULUS XXII. </head>
+            <p xml:id="wef6td-d1e1237-d1e106"> DE RELIQUIIS ET VENERATIONE SANCTORUM. </p>
+      
+            <div xml:id="wef6td-d1e1237-Dd1e109">
+               <head xml:id="wef6td-d1e1237-Hd1e111">CAP. UN. </head>
+               <p xml:id="wef6td-d1e1237-d1e114"> Festa duodecim Apostolorum, quatuor Evangelistarum, et quatuor Doctorum et Confessorum ecclesiae, scilicet Gregorii, Augustini, Ambrosii et Hieronymi, sub officio duplici debent solenniter celebrari. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e1237-d1e117"> Bonifacius VIII. </p>
+        
+               <p xml:id="wef6td-d1e1237-d1e120"> Gloriosus Deus in sanctis suis et in maiestate mirabilis, cuius ineffabilis altitudo prudentiae , nullis inclusa limitibus, nullis terminis comprehensa, recti censura iudicii coelestia pariter et terrena disponit, etsi cunctos eius ministros magnificet, altis decoret honoribus, et coelestis efficiat beatitudinis possessores: illos tamen,ut dignis digna rependat,potioribus attollit insigniis dignitatum, et praemiorum uberiori retributione prosequitur, quos digniores agnoscit, et commendat ingentior excellentia meritorum. Sic et alma mater ecclesia, eius sacra vestigia prosequens, et exemplo ducta laudabili, licet universos in regnis coelestibus constitutos studiis honorare sollicitis, et sonoris efferre praeconiis non desistat, gloriosissimos tamen Christianae fidei principes, athletas Dei electos, iustos saeculi iudices, lumina vera mundi, videlicet Christi redemptoris Apostolos numero duodeno contentos, qui, viventes in carne, praedictam ecclesiam suo pretioso sanguine plantaverunt, ipsam erigendo sublimiter et disciplinis sanctissimis dirigendo, reverendissimos etiam patres virosque clarissimos quatuor Evangelistas Domini, per quorum diligentissima et fidelissima studia eidem ecclesiae sacra evangelia illuxerunt, egregios quoque ipsius Doctores ecclesiae, beatos Gregorium, qui meritis inclytus sedis apostolicae curam gessit, Augustinum et Ambrosium, venerandos antistites, ac Hieronymum, sacerdotii praeditum titulo, eximios confessores summis attollere vocibus, laudibus personare praecipuis, et specialibus disponit honoribus venerari. Horum quippe doctorum perlucida * et salutaria documenta praedictam illustrarunt ecclesiam, decorarunt virtutibus, et  moribus informarunt. Per ipsos praeterea, quasi luminosas ardentesque lucernas super candelabrum in domo Domini positas, errorum tenebris profugatis, totius corpus ecclesiae tanquam sidus irradiat matutinum. Eorum etiam foecunda facundia, coelestis irrigui gratia influente, scripturarum aenigmata reserat, solvit nodos, obscura dilucidat, dubiaque declarat; profundis quoque ac decoris illorum sermonibus ampla ipsius ecclesiae fabrica, velut gemmis vernantibus, rutilat, et verborum elegantia singulari gloriosius sublimata coruscat. Ideoque circumspecta prudentia dictae sedis, quae, actibus intenta salubribus et operibus exposita pietatis, libenter et sollerter exsequitur quae sunt Dei, praemissa sollicite digneque considerans, et debita meditatione perlustrans, ad divini nominis honorem et gloriam, exaltationem catholicae fidei, salutemque fidelium, merito censuit riteque providit, Apostolos, Evangelistas et Confessores eosdem in universali ecclesia honorificentiae potioris impendiis attollendos, ut ab ea tanto propensius honorari se sentiant, quanto ipsam prae ceteris excellentius illustrarunt. Nos itaque, piis ducti consiliis dignisque studiis excitati, nonnullos praedecessores nostros Romanorum Pontificum, qui, specialis devotionis prosequentes affectum, aliquorum festa sanctorum sub duplici ordinaverunt officio celebranda, imitari sollicite intendentes, eorundem Apostolorum, Evangelistarum et Confessorum festivitates praecipuas de fratrum nostrorum consilio et assensu sub officio duplici per universas orbis ecclesias volumus, statuimus et praecipimus annis singulis perpetuis futuris temporibus solenniter celebrari. </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

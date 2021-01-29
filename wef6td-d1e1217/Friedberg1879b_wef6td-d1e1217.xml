@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> TITULUS XXI. </title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title> TITULUS XXI. </title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e1217"><!-- wef6td-l3t21 -->
+            <head xml:id="wef6td-d1e1217-Hd1e103"> TITULUS XXI. </head>
+            <p xml:id="wef6td-d1e1217-d1e106"> DE CONSECRATIONE ECCLESIAE VEL ALTARIS. </p>
+      
+            <div xml:id="wef6td-d1e1217-Dd1e109">
+               <head xml:id="wef6td-d1e1217-Hd1e111">CAP. UN. </head>
+               <p xml:id="wef6td-d1e1217-d1e114"> Polluta ecclesia pollutum est coemeterium illi contiguum, sed non remotum. Pollutio coemeterii ecclesiam non polluit, licet contigua exsistat. Polluto uno coemeterio aliud illi contiguum pollutum non est, licet per portam de uno in aliud detur ingressus. Hoc dicit. Dominicus. </p>
+               <p xml:id="wef6td-d1e1217-d1e117"> Bonifacius VIII. </p>
+               <p xml:id="wef6td-d1e1217-d1e120"> Si ecclesiam pollui sanguinis aut seminis effusione contingat: ipsius coemeterium, si contiguum sit eidem, censetur esse pollutum. Unde, antequam reconciliatum fuerit, non debet in eo aliquis sepeliri; secus, si remotum fuerit ab eadem. Non sic quoque in casu converso sentimus, ut videlicet polluto coemeterio, quamvis ecclesiae contiguo, debeat ecclesia reputari polluta, ne minus dignum  maius, aut accessorium principale ad se trahere videatur. Non unum, sed plura coemeteria esse noscuntur, quae, quamvis sibi cohaerentia, pariete tamen medio seiunguntur . Ideoque, violato eorum altero, alterum, licet de uno ad «aliud per portam intermediam habeatur accessus, non propter hoc reputabitur violatum. </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

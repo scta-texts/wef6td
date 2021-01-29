@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>TITULUS PRIMUS.</title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>TITULUS PRIMUS.</title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e526"><!-- wef6td-l2t1 -->
+            <head xml:id="wef6td-d1e526-Hd1e103">TITULUS PRIMUS.</head>
+            <p xml:id="wef6td-d1e526-d1e106"> DE IUDICIIS. </p>
+            <div xml:id="wef6td-d1e526-Dd1e109">
+               <head xml:id="wef6td-d1e526-Hd1e111">CAP. I. </head>
+               <p xml:id="wef6td-d1e526-d1e114"> Iudex delegatus, non habens ad hoc speciale mandatum a Papa, non potest compellere partem, ut personaliter coram eo compareat, nisi ex rationabili causa. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e526-d1e117"> Innocentius IV. in generali * concilio Lugdunensi . </p>
+               <p xml:id="wef6td-d1e526-d1e120"> Iuris esse ambiguum non videtur, iudicem delegatum, qui a sede apostolica mandatum ad hoc non receperit speciale, iubere non posse alterutram partium coram se personaliter in iudicio comparere, nisi causa fuerit criminalis, vel nisi pro  veritate dicenda, vel pro  iuramento calumniae faciendo, vel alias   iuris necessitas partes coram eo   exegerit personaliter praesentari. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e526-Dd1e124">
+               <head xml:id="wef6td-d1e526-Hd1e126">CAP. II. </head>
+               <p xml:id="wef6td-d1e526-d1e129"> Mulieres personaliter ad iudicium quacunque causa, in iure non expressa, invitae trahendae non sunt; sed si necessarium sit ipsarum testimonium in causa, iudex expensis producentis interdum ibit, interdum mittet; et iudex fraudulenter vadens excommunicatus est. Mulieres religiosae, etiam volentes, extra monasterium suum ex aliqua causa personaliter ad iudicium trahi non possunt. Quod contra praedicta fit, est irritum. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e526-d1e132"> Bonifacius VIII.  </p>
+               <p xml:id="wef6td-d1e526-d1e135"> Mulieres, quas vagari non convenit, nec virorum coetibus immisceri, auctoritate literarum sedis apostolicae, vel legatorum ipsius, aut alia quacunque  ad iudicium personaliter evocari vel trahi invitas causa ferendi testimonium, aut alia qualibet, quae in iure non exprimitur, prohibemus. Sed quum necessarium fuerit testimonium earundem, iudex, in expensis partis producentis easdem, tabellionem aut aliam personam idoneam ad eas transmittat, vel, si forte talis casus occurrerit , quo iure prohibente receptio testium alteri committi non possit, iudex * tunc * propter hoc personaliter ad illas  accedat , aut, si  talis sit personae iudicantis conditio, quod id * per ipsum non deceat fieri vel non possit , mittat ad eas, proviso, quod casus huiusmodi, (videlicet ut iudex vadat personaliter,) non fingatur, nec fraus interveniat in hac parte. Alioquin fictor huiusmodi vel fraudator ipso facto sententiam excommunicationis incurrat. §. i. Ceterum feminae religiosae, praesertim quae debent sub clausura morari, extra suum monasterium vel clausuram non vocentur ad iudicium vels trahantur ex quavis causa personaliter, etiamsi ad hoc voluntas accederet  earundem. Decernimus  quoque, ut  ipso iure sit irritum et inane, si quid contra praemissa contigerit attentari. </p>
+        
+        
+            </div>
+            <div xml:id="wef6td-d1e526-Dd1e139">
+               <head xml:id="wef6td-d1e526-Hd1e141">CAP. III. </head>
+               <p xml:id="wef6td-d1e526-d1e144"> Maior XIV. annis per se et per procuratorem potest agere, et defendere causam spiritualem; minor XIV. per se non agit, sed per procuratorem vel per curatorem, datum auctoritate ordinarii ecclesiastici iudicis, et etiam delegati ad causas illas. Filiusfamilias sine patris assensu agit causam spiritualem. H. d. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e526-d1e147"> Idem. </p>
+               <p xml:id="wef6td-d1e526-d1e150"> Si annum quartum decimum tuae peregisti aetatis, in beneficialibus et aliis causis spiritualibus, nec non et dependentibus ab eisdem, ac si maior XXV. annis exsisteres, ad agendum et defendendum per te vel per procuratorem, quem ad hoc constituendum decreveris, admitti debebis. Si vero infra XIV. annum exsistas, per te agere aut  defendere non poteris super ipsis; sed vel per tuum episcopum vel per  officialem eiusdem tibi curator dabitur ad lites huiusmodi exercendas, aut tu ipse, si maior infante fueris, cum auctoritate alterius  eorundem procuratorem ad eas poteris deputare. Delegatus etiam apostolicae sedis et subdelegatus ab eo tibi, si non habeas, curatorem dare valeant, vel auctoritatem constituendi procuratorem praestare, ad illas causas vel lites duntaxat, quae coram ipsis fuerint ventilandae . In huiusmodi quoque litibus sive causis, quanquam in potestate patris exsistas, nec alias absque ipsius assensu in iudicio regulariter esse possis, eius, quum de his se intromittere non habeat, nequaquam requiri debebit assensus. </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

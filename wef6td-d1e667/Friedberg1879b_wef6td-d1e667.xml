@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>TITULUS VIII. </title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>TITULUS VIII. </title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e667"><!-- wef6td-l2t8 -->
+            <head xml:id="wef6td-d1e667-Hd1e103">TITULUS VIII. </head>
+            <p xml:id="wef6td-d1e667-d1e106"> UT LITE PENDENTE NIHIL INNOVETUR. </p>
+            <div xml:id="wef6td-d1e667-Dd1e109">
+               <head xml:id="wef6td-d1e667-Hd1e111">CAP. I.      t </head>
+               <p xml:id="wef6td-d1e667-d1e114"> Si ex duobus litigantibus electis alter decedat, renunciet vel a prosecutione causae excludatur, si lite pendente cum reliquo fuerit alia electio facta, </p>
+               <p xml:id="wef6td-d1e667-d1e117"> non terfet. </p>
+               <p xml:id="wef6td-d1e667-d1e120"> Bonifacius VIII. </p>
+               <p xml:id="wef6td-d1e667-d1e123"> Dispendiis, quae propter electiones diversas ecclesiae patiuntur interdum, occurrere cupientes, statuimus, ut, si, aliquibus apud sedem apostolicam vel alibi litigantibus super electionibus de se in discordia celebratis, aliquem ipsorum mori, vel suo iuri renunciare, aut a prosecutione ipsius contigerit quoquo modo excludi, ad electionem aliam, lite super electione superstitis electi pendente, nullatenus procedatur; alias attentata contra hoc electio ipso iure viribus non subsistat. </p>
+        
+        
+        
+            </div>
+            <div xml:id="wef6td-d1e667-Dd1e127">
+               <head xml:id="wef6td-d1e667-Hd1e129">CAP. II. </head>
+               <p xml:id="wef6td-d1e667-d1e132"> Si beneficiatus, contra quem super beneficio litigatur, cedit vel decedit, si alius, lite pendente cum superstite, fuerit electus, non valet electio. Si vero aliqui, quorum intersit, ad defensionem litis velint admitti, in eo statu, in quo erat causa, admittentur. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e667-d1e135"> Idem. </p>
+               <p xml:id="wef6td-d1e667-d1e138"> Si ii, contra quos super dignitatibus, personatibus vel aliis ecclesiasticis beneficiis, quae possident, litigatur, lite pendente cedant, vel forte decedant, ne propter novos adversarios, qui malitiose interdum petitoribus subrogantur, litigia in ecclesiarum dispendium prorogari contingat: statuimus, ut dignitates, personatus vel beneficia huiusmodi, donec contra superstites lis finita fuerit, aliis nullatenus conferantur, nec ad ea eligatur quispiam vel etiam praesentetur. Quodsi secus actum fuerit, eo ipso irritum habeatur. Sane si ad defensionem ipsius litis aliqui, quorum intererit, petierint se admitti, eos in illo statu, in quo ipsam invenerint, decernimus admittendos. </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

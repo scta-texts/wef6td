@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>TITULUS XXI.</title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>TITULUS XXI.</title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e480"><!-- wef6td-l1t21 -->
+            <head xml:id="wef6td-d1e480-Hd1e103">TITULUS XXI.</head>
+            <p xml:id="wef6td-d1e480-d1e106">DE RESTITUTIONE IN INTEGRUM.</p>
+            <div xml:id="wef6td-d1e480-Dd1e109">
+               <head xml:id="wef6td-d1e480-Hd1e111">CAP. I.
+        </head>
+               <p xml:id="wef6td-d1e480-d1e114">Ecclesia post quadriennium non admittitur ad petendum restitutionem
+          <!--<lb ed="#Fb"/>-->contra sententiam vel contractum, nisi rationabilis aliqua causa hoc sua¬
+          <!--<lb ed="#Fb"/>-->deat. Ioann. Andr.
+        </p>
+               <p xml:id="wef6td-d1e480-d1e121">Gregorius IX.
+               </p>
+               <p xml:id="wef6td-d1e480-d1e124">Ecclesia, quae ad retractandam sententiam vel con¬
+          <!--<lb ed="#Fb"/>-->tractum per beneficium restitutionis in integrum postulat se
+          <!--<lb ed="#Fb"/>-->admitti, si quadriennii spatium post sit lapsum*, et
+          <!--<lb ed="#Fb"/>-->negligenter omiserit, non est ad beneficium huiusmodi ad¬
+          <!--<lb ed="#Fb"/>-->mittenda, nisi praevaricationis vel fraudis manifeste pro¬
+          <!--<lb ed="#Fb"/>-->betur super hoc intervenisse commentum, aut alia ratio¬
+          <!--<lb ed="#Fb"/>-->nabilis causa subsit, quae superiorem movere debeat ad
+          <!--<lb ed="#Fb"/>-->idem beneficium concedendum.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e480-Dd1e142">
+               <head xml:id="wef6td-d1e480-Hd1e144">Cap. II.</head>
+               <p xml:id="wef6td-d1e480-d1e147">Ecclesia contra confessionem, qua laesa fuit, admittitur infra quadrien¬
+          <!--<lb ed="#Fb"/>-->nium per beneficium restitutionis in integrum, postea non, nisi per viam
+          <!--<lb ed="#Fb"/>-->iuris communis. Ioann. Andr.
+        </p>
+               <p xml:id="wef6td-d1e480-d1e154">Bonifacius VIII.
+        </p>
+               <p xml:id="wef6td-d1e480-d1e157">Si adversus confessionem in iudicio a se factam laesa
+          <!--<lb ed="#Fb"/>-->ecclesia beneficium restitutionis in integrum infra quadrien¬
+          <!--<lb ed="#Fb"/>-->nium, ab ipsius confessionis tempore computandum, petere
+          <!--<lb ed="#Fb"/>-->negligenteromittat: non est, nisi aliquid rationabile appareat,
+          <!--<lb ed="#Fb"/>-->quod aliud suaserit faciendum, ad hoc petendum ulterius
+          <!--<lb ed="#Fb"/>-->admittenda. Ubi vero per viam communem revocationis
+          <!--<lb ed="#Fb"/>-->erroris, quem in facto praetendit, vult adversus suam con¬
+          <!--<lb ed="#Fb"/>-->fessionem ecclesia se iuvare: hoc quandocunque poterit,
+          <!--<lb ed="#Fb"/>-->donec negotium sit finitum.
+        </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

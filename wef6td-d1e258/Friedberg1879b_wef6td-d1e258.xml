@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>TITULUS X.</title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>TITULUS X.</title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e258"><!-- wef6td-l1t10 -->
+            <head xml:id="wef6td-d1e258-Hd1e103">TITULUS X.</head>
+            <p xml:id="wef6td-d1e258-d1e106">DE AETATE ET QUALITATE ET ORDINE
+        <!--<lb ed="#Fb"/>-->PRAEFICIENDORUM.
+      </p>
+            <div xml:id="wef6td-d1e258-Dd1e111">
+               <head xml:id="wef6td-d1e258-Hd1e113">CAP. UN.
+        </head>
+               <p xml:id="wef6td-d1e258-d1e116">Episcopus dispensat cum maiore XX. annis in dignitatibus et personatibus
+          <!--<lb ed="#Fb"/>-->non curatis, si aliud non obstet. H. d. Dominicus.
+        </p>
+               <p xml:id="wef6td-d1e258-d1e121">Bonifacius VIII.
+        </p>
+               <p xml:id="wef6td-d1e258-d1e124">Permittimus, ut episcopi cum iis, qui XX. annum com¬
+          <!--<lb ed="#Fb"/>-->pleverint, quod dignitates vel personatus, quibus animarum
+          <!--<lb ed="#Fb"/>-->cura non imminet, valeant obtinere, possint, si aliud non
+          <!--<lb ed="#Fb"/>-->obstat* canonicum, libere dispensare.
+        </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

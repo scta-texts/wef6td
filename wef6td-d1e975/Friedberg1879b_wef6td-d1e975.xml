@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> TITULUS IX. </title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title> TITULUS IX. </title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e975"><!-- wef6td-l3t9 -->
+            <head xml:id="wef6td-d1e975-Hd1e103"> TITULUS IX. </head>
+            <p xml:id="wef6td-d1e975-d1e106"> DE REBUS ECCLESIAE NON  ALIENANDIS. </p>
+            <div xml:id="wef6td-d1e975-Dd1e109">
+               <head xml:id="wef6td-d1e975-Hd1e111">CAP. I. </head>
+               <p xml:id="wef6td-d1e975-d1e114"> Perpetua alienatio, facta de rebus ecclesiae vacantis non praecedente tractatu et sine iusta causa, non valet. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e975-d1e117"> Innocentius IV.  </p>
+               <p xml:id="wef6td-d1e975-d1e120"> Dudum   (Et infra:)   Dictus vero archidiaconus ex adverso respondit, illas decimas illi ecclesiae restitui non debere, proferens in medium ordinationem quandam episcopi Dul-mensis * de consensu capituli sui factam, inter alia continentem, quod idem episcopus, attendens, proventus archidiaconatus Dulmensis adeo fore tenues et exiles, quod non sufficiebant ad eius  onera supportanda, praefatas decimas archidiaconatui memorato concessit.   (Et infra:)   Quia vero * in concessione huiusmodi praedicta ecclesia, quum  vacaret, legitimo caruit defensore, qui sibi prius ab eodem episcopo debuerat deputari; quia etiam tractatus solennis et  diligens, qui in talibus concessionibus perpetuis et alienationibus rerum ecclesiasticarum exigitur, non fuit habitus in eadem: ordinationem et concessionem ipsam , praesertim quum evidens necessitas, quare fieri deberet, vel utilitas non subesset, de fratrum nostrorum consilio decernimus non valere, dictas decimas ipsi ecclesiae, tanquam pertinentes ad eam, sententialiter adiudicare curantes. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e975-Dd1e124">
+               <head xml:id="wef6td-d1e975-Hd1e126">CAP. II</head>
+               <p xml:id="wef6td-d1e975-d1e129"> Primo prohibet submissionem ecclesiarum, suorum immobilium bonorum vel iurium fieri laicis absque consensu capituli et licentia Papae. Secundo cassat contractus, quacunque firmitate vallatos, contra hoc de cetero faciendos. Tertio punit praelatos contra facientes, et clericos non contradicentes, et laicos, qui ipsos praelatos ad hoc compulerunt vel compellent. Quarto praecipit, laicos per tales contractus, eo casu, quo valent, ultra debitum non usurpare, et poenam apponit. H. d. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e975-d1e132"> Gregorius X.  in concilio generali  Lugdunensi . </p>
+               <p xml:id="wef6td-d1e975-d1e135"> Hoc consultissimo prohibemus edicto, universos et singulos praelatos ecclesias sibi commissas, bona immobilia seu iura ipsarum laicis submittere, subiicere  seu supponere absque capituli sui consensu et apostolicae sedis licentia speciali, non concedendo bona ipsa vel iura in emphyteusin, seu alias alienando in forma et casibus a iure permissis, sed constituendo, vel recognoscendo, seu profitendo ab illis ea tanquam a superioribus se tenere, seu ab ipsis eadem advocando, prout in quibusdam partibus vulgariter dicitur „avoher ,“ vel ipsos patronos vel  advocatos ecclesiarum seu bonorum ipsarum  perpetuo aut ad tempus non modicum statuendo. Contractus autem omnes, etiam iuramenti, poenae vel alterius cuiuslibet firmitatis adiectione vallatos, quos de talibus alienationibus sine huiusmodi licentia et  consensu contigerit celebrari, et quicquid ex eis secutum fuerit, decernimus adeo viribus omnino carere, ut nec ius aliquod tribuant, nec praescribendi etiam causam parent. Et nihilominus praelatos, qui secus fecerint , ipso facto ab officio et administratione, clericos etiam , qui, scientes contra inhibitionem praedictam aliquid esse praesumptum, id superiori denunciare neglexerint, a perceptione beneficiorum, quae in ecclesia obtinent sic gravata, triennio statuimus esse suspensos. Laici vero, qui praelatos vel capitula ecclesiarum seu alias personas ecclesiasticas ad submissiones huiusmodi faciendas hactenus compulerunt, nisi post competentem monitionem, (remissa submissione, quam per vim vel metum exegerant), ecclesias et bona ecclesiastica eis submissa taliter in sua libertate dimittant; illi vero , qui de cetero praelatos, vel personas easdem ad talia facienda compulerint, cuiuscunque sint conditionis aut status, excommunicationis sint sententia innodati. Ex contractibus praeterea super praemissis, (huiusmodi licentia et consensu intervenientibus,) hactenus initis, vel quos in futurum iniri contigerit  seu occasione illorum, laici ultra id, quods ex nafura contractuum ipsorum vel adhibita in illis  lege permittitur, aliquid non usurpent. Qui vero secus egerint, nisi legitime moniti ab huiusmodi usurpatione destiterint, restituendo etiam ea *,* quae taliter usurparunt, eo ipso sen-tententiam excommunicationis incurrant, et extunc ad supponendum terram ipsorum, si opus fuerit, ecclesiastico interdicto libere procedatur. </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

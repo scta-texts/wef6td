@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>TITULUS XV. </title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>TITULUS XV. </title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e788"><!-- wef6td-l2t15 -->
+            <head xml:id="wef6td-d1e788-Hd1e103">TITULUS XV. </head>
+            <p xml:id="wef6td-d1e788-d1e106"> DE APPELLATIONIBUS. </p>
+            <div xml:id="wef6td-d1e788-Dd1e109">
+               <head xml:id="wef6td-d1e788-Hd1e111">CAP. I.</head>
+               <p xml:id="wef6td-d1e788-d1e114"> Appellans ad Papam in iudicio vel extra, appellare debet in scriptis, et causam exprimere, et apostolos petere. Si vult et petit appellatus, principales personae per se vel per procuratores, instructos super principali, accedere debent ad Papam. In appellationibus a sententia diffinitiva interpositis nil mutatur. Demum utri que contra facienti imponitur poena. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e788-d1e117"> Innocentius IV. in concilio Lugdunensi . </p>
+               <p xml:id="wef6td-d1e788-d1e120"> Cordi nobis est lites minuere et a laboribus relevare subiectos. Sancimus igitur, ut, si quis in iudicio vel extra super interlocutoria vel gravamine aliquo     ad nos duxerit appellandum, causam appellationis in scriptis assignare deproperet, petat apostolos, quos ei  praecipimus exhiberi; in quibus appellationis causam  exprimat, et cur appellatio non sit admissa, vel si appellationi forsan ex superioris reverentia sit delatum. Post hoc appellatori secundum locorum distantiam, personarum et negotii qualitatem tempore prosecutionis induito, si voluerit appellatus  et  petierit, principales personae   s   per se, vel per procuratores instructos cum mandato ad agendum et  cum rationibus et munimentis ad causam spectantibus, accedant ad sedem apostolicam sic parati, ut, si nobis visum fuerit expedire, finito appellationis articulo, vel de* partium voluntate omisso , procedatur in negotio principali, quantum de iure poterit et debebit, his, quae in appellationibus a diffinitivis sententiis interpositis antiquitas statuit, non mutatis. Quodsi appellator quae praemissa sunt non observet: reputabitur non appellans, et ad prioris iudicis redibit examen, in expensis legitimis condemnandus. Si autem appellatus contempserit hoc statutum: in eum tanquam in  contumacem tam in expensis quam in causa, quantum a iure permittitur, procedatur . Iustum est equidem, ut in eum iura insurgant, qui ius et * iudicem et partem eludit. </p>
+            </div>
+            <div xml:id="wef6td-d1e788-Dd1e124">
+               <head xml:id="wef6td-d1e788-Hd1e126">Cap. II. </head>
+               <p xml:id="wef6td-d1e788-d1e129"> Iudex, qui recusatur, statuit competens tempus arbitris ad finiendam causam; quo elapso, si finita non fuerit, in principali procedit. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e788-d1e132"> Idem . </p>
+               <p xml:id="wef6td-d1e788-d1e135"> Legitima suspicionis causa contra iudicem assignata, et arbitris a partibus secundum formam iuris electis, qui de ipsa cognoscant, saepe contingit, quod, ipsis in idem convenire nolentibus, nec tertium advocantibus, cum quo ambo vel alter eorum procedat  ad decisionem ipsius negotii, ut tenentur  iudex proferat excommunicationis sententiam contra ipsos *, quam ipsi tum propter odium, tum propter favorem partium diutius vilipendunt; quare, causa ipsa plus debito prorogata, non proceditur ad cognitionem negotii principalis. Volentes igitur morbo huiusmodi necessariam adhibere medelam, statuimus, ut ipsis arbitris per iudicem competens terminus praefigatur, infra quem in idem conveniant, vel tertium concorditer advocent, cum quo ambo vel alter eorum  eiusdem suspicionis negotium terminare procurent; alioquin iudex extunc in principali negotio procedere non omittat. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e788-Dd1e139">
+               <head xml:id="wef6td-d1e788-Hd1e141">CAP. III. </head>
+               <p xml:id="wef6td-d1e788-d1e144"> De officiali episcopi non ad episcopum, sed ad archiepiscopum appellatur. — §. 1. De subdito episcopi ad ipsum, non ad archiepiscopum appellatur, nisi aliud esset de consuetudine. H. d. — §.2. Archiepiscopus causam appellationis ab episcopo interpositae non debet committere, vel partes citare, nisi in appellatione probabilis causa sit expressa. — §. 3. Si negetur, per appellationem negotium devolutum, non inhibebit archiepiscopus iudicem principalis causae procedere, nisi prius de devolutione constiterit. H. d. — §.4. Si dicitur, ex iniusta causa appellatum, archiepiscopus inhibere non potest, nisi, prius, recepta appellatione ut probabili, incipiat cognoscere de causae veritate. H. d. — §. 5. Licet dicatur appellatum a diffinitiva in casu prohibito a iure, ex quo de hoc archiepiscopus cognoscere coeperit, potest inhibere, ne sententia exsecutioni mandetur. H. d. — §. 6. Archiepiscopus in tertiam personam, post inhibitionem suam in causa per appellationem delata ad ipsum, aliquid innovantem, iurisdictionem exercere non potest. H. d. — §. 7. Archiepiscopus appellantem in aliis causis a iurisdictione episcopi non potest eximere. — §. 8. Ab episcopis in causis, quibus iurisdictionem temporalem habent, de iure debet ad archiepiscopum appellari, nisi speciale ius aliud inducat. H. d. §. 9. Censuram ecclesiasticam, in appellantem prolatam per episcopum, archiepiscopus revocare non potest, nisi partibus vocatis, et de causa legitime cognito. H. d. — §. 10. Ex quo archiepiscopus pronunciaverit, male appellatum ante sententiam: statim debet causam ad suffraganeum remittere. Hoc dicit. </p>
+               <p xml:id="wef6td-d1e788-d1e147"> Idem . </p>
+        
+               <p xml:id="wef6td-d1e788-d1e150"> Romana ecclesia   (Et infra:)   Quum suffraganeorum Remensis ecclesiae, suorumque officialium, qui generaliter de causis ad ipsorum forum pertinentibus eorum * vices supplendo cognoscunt, unum et idem consistorium sive auditorium sit censendum: ab ipsis officialibus non ad dictos suffraganeos, ne ab eisdem ad se ipsos interponi appellatio videatur, sed de iure ad Remensem est curiam appellandum, §. i. Ab archidiaconis  vero aliisque inferioribus praelatis, suffraganeis subiectis eisdem, et eorum officialibus, ad suffraganeos ipsos debet, et non ad eandem curiam omissis dictis suffraganeis appellari, nisi aliud Remensi ecclesiae de consuetudine competat in hac parte. §. 2. Quum autem ad praefatam curiam ab eorundem  suffraganeorum vel suorum officialium audientia fuerit appellatum, Remensis archiepiscopus, qui pro tempore fuerit, vel officialis  ipsius nullatenus in appellationis causa interpositae ante diffinitivam sententiam citent partes, nec etiam aliis illam * committant, appellationis eiusdem causa probabili seu legitima non expressa. §. 3. Sivero vocatis partibus, vel nullatenus, aut non infra decem dies post interlocutoriam vel diffinitivam sententiam appellatum fuisse, seu aliquid aliud simile, sicque non esse per appellationem ad eundem archiepiscopum vel * eius officialem  devolutum negotium proponatur: iidem, nisi prius ipsis constiterit, causam ipsam  ad eos totaliter * fuisse  delatam, prohibere, ne in causa * illa, vel ne ad exsecutionem procedatur sententiae, non praesumant. §. 4. Quodsi obiiciatur ex iniusta causa seu minus legitima ante sententiam appellationem interpositam exstitisse, et  ex eo non esse appellationem huiusmodi admittendam: nequeunt praedicti archiepiscopus vels eius officialis * prohibere, ne procedatur in causa, nisi prius appellatione recepta, velut emissa ex causa probabili, cognoscere incipiant de causa huiusmodi, an sit vera. §. 5. Si autem post sententiam in casibus a iure prohibitis, (utpote a sententia super manifesto et notorio crimine, vel de quo quis in iure confessus exstitit, promulgata, vel consimilibus)  appellatum fuisse dicatur: possunt, ne sententia exsecutioni mandetur, postquam cognoscere coeperint, utrum sit recipienda vel  non appellatio ab eo interposita, inhibere. §. 6. In alium quoque, qui circa rem, de qua inter appellantem et appellatum controversia vertitur, aliquid post eorum inhibitionem attentat  non valet * occasione huiusmodi iurisdictionem aliquam vindicare. §. 7. Quum vero is, qui ad Remensem curiam super aliqua causa vocem appellationis emittit, nihilominus in causis aliis ordinarii sui iurisdictioni sublidatur*: Remensis archiepiscopus vel officialis ipsius * nequaquam iurisdictionem ipsam in aliis * impediant, ut * ab eiusdem ordinarii potestate totaliter eximant taliter appellantem. §. 8. Debet autem ad eos ab episcopis praefatae provinciae super causis, in quibus temporalem iurisdictionem exercent, nisi forte de consuetudine aut privilegio sive iure alio speciali sit appellandum ad alium, appellari. §. 9. Sententias quoque interdicti, vel  suspensionis seu excommunicationis, in appellantem ab eo, a quo appellatum proponitur, promulgatas, nullatenus, nisi vocatis partibus et de appellatione legitime cognito, revocent aut denuncient esse nullas. §. 10. Quum autem ad Remensem archiepiscopum ab audientia suf-fraganei sui super aliqua causa fuerit ante sententiam appellatum: idem archiepiscopus, postquam de appellatione cognito constiterit, eam minus rationabilem exstitisse, causam * ad eundem suffraganeum remittere non postponat. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e788-Dd1e155">
+               <head xml:id="wef6td-d1e788-Hd1e157">CAP. IV. </head>
+               <p xml:id="wef6td-d1e788-d1e160"> Si iudex requisitus non tradit apostolos, et postea procedit in causa, non valet processus, nisi renunciatum fuisset appellationi. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e788-d1e163"> Idem . </p>
+               <p xml:id="wef6td-d1e788-d1e166"> Ut super appellatione ac eius causa instructio facilior valeat in processu haberi: districte praecipimus, quod ille, a quo appellatur, apostolos appellanti iuxta tenorem constitutionis nostrae super hoc editae tribuat requisitus. Si vero non exhibuerit, extunc, si forte in causa procedat, nisi appellationi renunciatum fuerit, eius invalidus et irritus sit processus. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e788-Dd1e170">
+               <head xml:id="wef6td-d1e788-Hd1e172">CAP. V. </head>
+               <p xml:id="wef6td-d1e788-d1e175"> Iudex appellationis inique appellantem ante sententiam remittere debet ad iudicem principalem, et in expensis condemnare, et hoc, si principalis iudex non detulerat appellationi; sed, si detulit, non fiet remissio de necessitate. In appellationibus interpositis a definitiva antiqua iura serventur. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e788-d1e178"> Clemens IV. </p>
+               <p xml:id="wef6td-d1e788-d1e181"> Quum appellationibus frivolis nec iustitia deferat, nec sit a iudice deferendum, si iudex inferior appellationem minus legitimam non admittat, eam appellatore nihilominus prosequente: superior, de ipsa cognoscens, causam ad priorem iudicem iuxta sanctiones canonicas sine difficultate remittat, eadem die condemnationem faciens expensarum. Si vero iudex admittat eandem, licet tam appellatio quam ipsius iudicis delatio a superiore valeant  refutari: quia tamen iudex ipse, quantum in se fuit, a se iurisdictionem abdicavit eandem, appellationi deferens minus iuste, totius causae decisio in superioris est potestate transfusa, nec est illi causa de necessitate ulterius remittenda, salvis iis quae super appellationibus post sententiam interpositis sunt statuta. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e788-Dd1e185">
+               <head xml:id="wef6td-d1e788-Hd1e187">CAP.   vi. </head>
+               <p xml:id="wef6td-d1e788-d1e190"> Si appellans infra XXX. dies instanter non petit apostolos, appellationi renunciat. Si iudex, modo debito requisitus, illos non tradit, sed postea procedit: non valet eius processus. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e788-d1e193"> Bonifacius VIII. </p>
+               <p xml:id="wef6td-d1e788-d1e196"> Ab eo, qui appellat, infra triginta dies instanter apostoli peti debent, et eidem infra dictum tempus a iudice exhiberi; alias praesumitur appellationi suae renunciare appellans, si eos infra idem tempus petere praetermittat, etiamsi vadat aut mittat ad appellationem huiusmodi prosequendam. Illud autem, quod felicis recordationis Innocentius Papa IV. praedecessor noster statuendum decrevit, ut, si is, a quo appellatur, apostolos appellanti non tribuat requisitus, extunc, si forte in causa procedat, nisi appellationi renunciatum fuerit, eius invalidus sit processus, tunc demum obtinet, quum iudex, super hoc cum debita instantia loco et tempore congruo  requisitus, eos expresse denegat, vel infra praemissum tempus malitiose aut negligenter illi tradere praetermittit. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e788-Dd1e200">
+               <head xml:id="wef6td-d1e788-Hd1e202">CAP. VII. </head>
+               <p xml:id="wef6td-d1e788-d1e205"> Innovata per iudicem post diffinitivam sententiam, a qua appellatum exstitit, revocantur statim per iudicem appellationis, etiamsi ante appellationem fuerint innovata. Attentata vero post appellationem ante diffinitivam, non revocantur, nisi primo de veritate constiterit, nisi post inhibitionem debito modo factam attentata fuissent. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e788-d1e208"> Idem . </p>
+               <p xml:id="wef6td-d1e788-d1e211"> Non solum innovata post appellationem, a diffinitiva sententia interiectam, debent semper, exceptis casibus, in quibus iura post sententiam prohibent appellare, ante omnia per appellationis iudicem penitus revocari: sed etiam * ea omnia, quae medio tempore inter sententiam et appellationem, quae postmodum infra decendium interponitur ab eadem, contingit * innovari, ac si post appellationem eandem innovata fuissent. Illa vero, quae post appellationem interpositam ante diffinitivam sententiam innovantur, donec appellationis causam veram esse constiterit, revocari non debent: nisi iudex appellationis, postquam sibi constiterit, per appellationem emissam ex probabili causa fore ad se negotium devolutum, inhibeat canonice iudici, a quo appellatum exstitit, ne procedat. Tunc enim, quicquid post inhibitionem huiusmodi fuerit innovatum, est licet causa eadem non sit vera, per eundem appellationis iudicem ante omnia in statum pristinum reducendum. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e788-Dd1e215">
+               <head xml:id="wef6td-d1e788-Hd1e217">CAP. viii. </head>
+               <p xml:id="wef6td-d1e788-d1e220"> Qui appellat extra iudicium, infra decem dies, ex quo scivit gravamen, appellare debet; postea per remedium iuris communis audietur, sed non per appellationis remedium. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e788-d1e223"> Idem. </p>
+        
+               <p xml:id="wef6td-d1e788-d1e226"> Concertationi antiquae finem imponere praesenti constitutione volentes, statuimus, ut ab electionibus, postulationibus, provisionibus et quibuslibet extraiudicialibus actibus, in quibus potest appellatio interponi, quisquis ex eis, gravatum se reputans, per appellationis beneficium gravamen illatum desideraverit revocari, infra decem dies, postquam sciverit, si velit, appellet; post decendium vero eidem aditus non pateat appellandi. Sed si per contradictionem debitam vel alia iuris remedia petierit revocari gravamen: ei, dummodo medio tempore his non consenserit, lapsus decendii non obsistat. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e788-Dd1e230">
+               <head xml:id="wef6td-d1e788-Hd1e232">CAP. IX. </head>
+               <p xml:id="wef6td-d1e788-d1e235"> Valet appellatio in scriptis porrecta, licet coram iudice non legatur. Hoc dicit Zenzel. </p>
+               <p xml:id="wef6td-d1e788-d1e238"> Idem. </p>
+               <p xml:id="wef6td-d1e788-d1e241"> Appellatio, quam in scriptis iudici, a quo appellare volebas, te porrexisse proponis, non potest ex eo, quod coram ipso  lecta non fuerit, rationabiliter impugnari. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e788-Dd1e246">
+               <head xml:id="wef6td-d1e788-Hd1e248">CAP. x. </head>
+               <p xml:id="wef6td-d1e788-d1e251"> Iudex a quo compellere non potest appellantem a gravamine, ipsius veritatem probare, licet citare potest ad ipsius revocationem audiendam; qua facta in causa procedere poterit, eius contumacia non obstante, ac si nunquam appellasset. H. d. Zenz. </p>
+               <p xml:id="wef6td-d1e788-d1e254"> Idem. </p>
+               <p xml:id="wef6td-d1e788-d1e257"> Si a iudice, a quo propter gravamen, quod tibi proponis illatum, appellas, ad docendum, te fore gravatum, et ad audiendam revocationem eiusdem gravaminis, si de ipso docueris, tibi terminus praefigatur: nec coram eo, (quum ipse per se id videre habeat,) hoc docere, nec etiam tanquam coram iudice, (quum per appellationem sit suspensa ipsius iurisdictio,) comparere teneris, nisi ad hoc solum, ut revocationem ipsam audias, si eam duxerit faciendam; alias, si non comparueris, et ipse in termino gravamen revocaverit cum effectu, poterit extunc libere in causa procedere, ac si appellatio interposita non fuisset. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e788-Dd1e261">
+               <head xml:id="wef6td-d1e788-Hd1e263">CAP. XI. </head>
+               <p xml:id="wef6td-d1e788-d1e266"> A collatione capituli ad episcopum appellatur, si ut canonicus interfuit, secus, si ut praelatus. H. d. Dominicus. </p>
+               <p xml:id="wef6td-d1e788-d1e269"> Idem. </p>
+               <p xml:id="wef6td-d1e788-d1e272"> A collatione beneficii, quum communiter per episcopum et capitulum in tuum praeiudicium factam esse proponis, non ad ipsum episcopum, si in ea ut praelatus interfuerit , sed ad superiorum te oportuit appellare; alias, si ut canonicus interfuisset in ea, potuisti appellare licite ad eundem. </p>
+            </div>
+            <div xml:id="wef6td-d1e788-Dd1e276">
+               <head xml:id="wef6td-d1e788-Hd1e278"> cap. xII. </head>
+               <p xml:id="wef6td-d1e788-d1e281"> Per appellationem interpositam a diffinitiva revocari potest interlocutoria, principali negotio praeiudicans; alias non. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e788-d1e284"> Idem. </p>
+               <p xml:id="wef6td-d1e788-d1e287"> Licet ab interlocutoria, per quam pacti vel praescriptionis , aut alia. principali negotio praeiudicans vel iudicium nullum reddens exceptio est repulsa, non fuerit appellatum, si tamen a diffinitiva quae postmodum etiam ultra decendium promulgatur, appellari contingat: potest in appellationis causa ipsum gravamen, per interlocutoriam eandem illatum   \   licite per appellationis iudicem emendari. Ubi vero interlocutoria super eo profertur, quod non parat praeiudicium negotio principali, vel iudicium nullum reddit, nisi fuerit appellatum ab ipsa: per appellationem, a diffinitiva postea interiectam, gravamen illatum nequaquam poterit revocari. </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

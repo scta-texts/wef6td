@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>TITULUS V. </title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>TITULUS V. </title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e1451"><!-- wef6td-l5t5 -->
+            <head xml:id="wef6td-d1e1451-Hd1e103">TITULUS V. </head>
+            <p xml:id="wef6td-d1e1451-d1e106"> DE USURIS. </p>
+            <div xml:id="wef6td-d1e1451-Dd1e109">
+               <head xml:id="wef6td-d1e1451-Hd1e111">CAP. I. </head>
+               <p xml:id="wef6td-d1e1451-d1e114"> Primo innovat et observari praecipit Lateranense concilium contra usu¬
+          <!--<lb ed="#Fb"/>-->rarios editum, usque ad vers. Et quia, ubi praecipit omnibus dominis et
+          <!--<lb ed="#Fb"/>-->universitatibus terrarum, ne permittant alienigenas in terris suis conducere
+          <!--<lb ed="#Fb"/>-->domos ad exercendum foenus, vel conductas habere, et quod aliquis eis ad
+          <!--<lb ed="#Fb"/>-->hoc domos non locet, usque ad vers. Qui vero, ubi imponit poenam clericis
+          <!--<lb ed="#Fb"/>-->contra facientibus, usque ad versic. Ceterum, ubi imponit poenam laicis,
+          <!--<lb ed="#Fb"/>-->et hoc facit usque in finem. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e1451-d1e129"> Gregorius X. in generali concilio Lugdunensi . </p>
+               <p xml:id="wef6td-d1e1451-d1e132"> Usurarum voraginem, quae animas devorat et facultates
+          <!--<lb ed="#Fb"/>-->exhaurit, compescere cupientes, constitutionem Latera¬
+          <!--<lb ed="#Fb"/>-->nensis  concilii contra usurarios editam sub divinae male¬
+          <!--<lb ed="#Fb"/>-->dictionis interminatione praecipimus inviolabiliter observari.
+          <!--<lb ed="#Fb"/>-->Et quia, quo minor foeneratoribus aderit foenerandi com¬
+          <!--<lb ed="#Fb"/>-->moditas, eo magis adimetur foenus exercendi libertas: hac
+          <!--<lb ed="#Fb"/>-->generali constitutione sancimus, ut nec collegium, nec alia
+          <!--<lb ed="#Fb"/>-->universitas vel singularis persona, cuiuscunque sit  digni¬
+          <!--<lb ed="#Fb"/>-->tatis, conditionis aut status, alienigenas et alios non
+          <!--<lb ed="#Fb"/>-->oriundos de terris ipsorum, publice foenebrem pecuniam
+          <!--<lb ed="#Fb"/>-->exercentes aut exercere volentes, ad hoc domos in terris
+          <!--<lb ed="#Fb"/>-->suis conducere vel conductas habere, aut alias habitare per¬
+          <!--<lb ed="#Fb"/>-->mittant, sed huiusmodi usurarios manifestos omnes infra
+          <!--<lb ed="#Fb"/>-->tres menses de terris suis expellant, nunquam aliquos tales
+          <!--<lb ed="#Fb"/>-->de cetero admissuri. Nemo illis ad foenus exercendum
+          <!--<lb ed="#Fb"/>-->domos locet, vel sub alio titulo quocunque concedat. Qui
+          <!--<lb ed="#Fb"/>-->vero contra * fecerint, si personae fuerint ecclesiasticae,
+          <!--<lb ed="#Fb"/>-->patriarchae, archiepiscopi, episcopi  suspensionis, minores
+          <!--<lb ed="#Fb"/>-->vero personae singulares excommunicationis, si autem
+          <!--<lb ed="#Fb"/>-->collegium seu alia universitas, interdicti sententiam ipso
+          <!--<lb ed="#Fb"/>-->facto se noverint incursuros. Quam si per mensem animo
+          <!--<lb ed="#Fb"/>-->sustinuerint indurato: terrae ipsorum, quamdiu in eis iidem
+          <!--<lb ed="#Fb"/>-->usurarii commorantur, extunc ecclesiastico subiaceant inter¬
+          <!--<lb ed="#Fb"/>-->dicto. Ceterum si laici fuerint, per suos ordinarios ab
+          <!--<lb ed="#Fb"/>-->huiusmodi excessu omni cessante privilegio per censuram
+          <!--<lb ed="#Fb"/>-->ecclesiasticam compescantur. </p>
+            </div>
+            <div xml:id="wef6td-d1e1451-Dd1e186">
+               <head xml:id="wef6td-d1e1451-Hd1e188">Cap. II</head>
+               <p xml:id="wef6td-d1e1451-d1e191"/>
+               <p xml:id="wef6td-d1e1451-d1e193"> Manifestis usurariis, licet mandaverint usuras restitui, ecclesiastica se¬
+          <!--<lb ed="#Fb"/>-->pultura negabitur, nisi primo satisfiat, vel secundum formam huius decreti
+          <!--<lb ed="#Fb"/>-->idonee caveatur. Sepelientes eos. contra hanc constitutionem Lateranensis
+          <!--<lb ed="#Fb"/>-->concilii poenam incurrunt. Testamenta ipsorum aliter facta non valent,
+          <!--<lb ed="#Fb"/>-->nec debet eis aliquis interesse, vel eos absolvere vel ad confessionem ad¬
+          <!--<lb ed="#Fb"/>-->mittere. H. d. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e1451-d1e206"> Idem * . </p>
+               <p xml:id="wef6td-d1e1451-d1e209"> Quanquam usurarii manifesti de usuris, quas receperant,
+          <!--<lb ed="#Fb"/>-->satisfieri expressa quantitate vel indistincte in ultima
+          <!--<lb ed="#Fb"/>-->voluntate mandaverint: nihilominus tamen eis ecclesiastica
+          <!--<lb ed="#Fb"/>-->sepultura denegetur, donec de usuris ipsis fuerit, (prout
+          <!--<lb ed="#Fb"/>-->patiuntur facultates eorurn,) plenarie satisfactum, vel illis,
+          <!--<lb ed="#Fb"/>-->quibus facienda est restitutio, si praesto sint ipsi, aut aliis *,
+          <!--<lb ed="#Fb"/>-->qui eis possint acquirere, vel, eis absentibus, loci ordinario
+          <!--<lb ed="#Fb"/>-->aut eius vices gerenti, sive rectori parochiae, in qua testator
+          <!--<lb ed="#Fb"/>-->habitat, coram aliquibus fide dignis de ipsa parochia, (quir
+          <!--<lb ed="#Fb"/>-->bus quidem ordinario, vicario et rectori praedicto modo
+          <!--<lb ed="#Fb"/>-->cautionem huiusmodi eorum nomine liceat praesentis con¬
+          <!--<lb ed="#Fb"/>-->stitutionis auctoritate recipere, ita, quod illis perinde  actio
+          <!--<lb ed="#Fb"/>-->acquiratur,) aut servo publico de ipsius ordinarii mandato
+          <!--<lb ed="#Fb"/>-->idonee de restitutione facienda sit cautum. Ceterum si re¬
+          <!--<lb ed="#Fb"/>-->ceptarum usurarum sit quantitas manifesta, illam semper in
+          <!--<lb ed="#Fb"/>-->cautione praedicta exprimi volumus, alioquin aliam re¬
+          <!--<lb ed="#Fb"/>-->cipientis cautionem huiusmodi  arbitrio moderandam; ipse
+          <!--<lb ed="#Fb"/>-->tamen scienter non minorem, quam verisimiliter creditur,
+          <!--<lb ed="#Fb"/>-->moderetur, et, si secus fecerit, ad satisfactionem residui
+          <!--<lb ed="#Fb"/>-->teneatur. Omnes autem religiosos et alios, qui manifestos
+          <!--<lb ed="#Fb"/>-->usurarios contra praesentis sanctionis formam ad eccle¬
+          <!--<lb ed="#Fb"/>-->siasticam ausi fuerint admittere sepulturam, poenae Latera¬
+          <!--<lb ed="#Fb"/>-->nensis concilii * contra usurarios promulgatae statuimus
+          <!--<lb ed="#Fb"/>-->subiacere. Nullus manifestorum usurariorum testamentis
+          <!--<lb ed="#Fb"/>-->intersit, aut eos ad confessionem admittat, sive ipsos ab¬
+          <!--<lb ed="#Fb"/>-->solvat, nisi de usuris satisfecerint, vel de satisfaciendo pro
+          <!--<lb ed="#Fb"/>-->suarum viribus facultatum praestent, ut praemittitur, ido¬
+          <!--<lb ed="#Fb"/>-->neam cautionem. §. i. Testamenta quoque manifestorum
+          <!--<lb ed="#Fb"/>-->usurariorum aliter facta non valeant, sed sint irrita ipso iure. </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

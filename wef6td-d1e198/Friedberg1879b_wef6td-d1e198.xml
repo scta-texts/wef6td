@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>TITULUS VII</title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>TITULUS VII</title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e198"><!-- wef6td-l1t7 -->
+            <head xml:id="wef6td-d1e198-Hd1e103">TITULUS VII</head>
+            <head xml:id="wef6td-d1e198-Hd1e106" type="question-title">DE RENUNCIATIONE</head>
+            <div xml:id="wef6td-d1e198-Dd1e109">
+               <head xml:id="wef6td-d1e198-Hd1e111">CAP. I.
+        </head>
+               <p xml:id="wef6td-d1e198-d1e114">Romanus Pontifex potest libere papatui renunciare. H. d. secundum Zenz.
+        </p>
+               <p xml:id="wef6td-d1e198-d1e117">Bonifacius VIII.
+        </p>
+               <p xml:id="wef6td-d1e198-d1e120">Quoniam aliqui curiosi, disceptantes de his, quae non
+          <!--<lb ed="#Fb"/>-->multum expediunt, et plura sapere quam oporteat contra
+          <!--<lb ed="#Fb"/>-->doctrinam Apostoli temere appetentes, in dubitationem
+          <!--<lb ed="#Fb"/>-->sollicitam, an Romanus Pontifex, maxime quum se insuf¬
+          <!--<lb ed="#Fb"/>-->ficientem agnoscit ad regendam universalem ecclesiam et
+          <!--<lb ed="#Fb"/>-->summi pontificatus onera supportanda, renunciare valeat
+          <!--<lb ed="#Fb"/>-->papatui eiusque oneri et honori, deducere minus provide
+          <!--<lb ed="#Fb"/>-->videbantur: Coelestinus Papa quintus praedecessor noster,
+          <!--<lb ed="#Fb"/>-->dum eiusdem ecclesiae regimini praesidebat, volens super
+          <!--<lb ed="#Fb"/>-->hoc haesitationis cuiuslibet materiam amputare, delibera¬
+          <!--<lb ed="#Fb"/>-->tione habita cum suis fratribus ecclesiae Romanae cardinali¬
+          <!--<lb ed="#Fb"/>-->bus, de quorum numero tunc eramus, de nostro et ipsorum
+          <!--<lb ed="#Fb"/>-->omnium concordi consilio et assensu auctoritate apostolica
+          <!--<lb ed="#Fb"/>-->statuit et decrevit, Romanum Pontificem posse libere re¬
+          <!--<lb ed="#Fb"/>-->signare. Nos igitur, ne statutum huiusmodi per temporis
+          <!--<lb ed="#Fb"/>-->cursum oblivioni dari, aut dubitationem eandem in reci¬
+          <!--<lb ed="#Fb"/>-->divam disceptationem ulterius deduci contingat, ipsum<!--<lb ed="#Fb"/>-->inter constitutiones alias ad perpetuam rei memoriam de
+          <!--<lb ed="#Fb"/>-->fratrum nostrorum consilio duximus redigendum.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e198-Dd1e160">
+               <head xml:id="wef6td-d1e198-Hd1e162">Cap. II.</head>
+               <p xml:id="wef6td-d1e198-d1e165">Si in fraudem exspectantis primam vacaturam, quum in proximo crederetur
+          <!--<lb ed="#Fb"/>-->pinguis vacare, renunciet aliquis tenuem, quam habebat: non tenetur
+          <!--<lb ed="#Fb"/>-->exspectans illam recipere; immo illa dimissa exspectabit aliam sine fraude
+          <!--<lb ed="#Fb"/>-->vacantem. Et si illi renuncianti illa pinguis postea conferatur, hoc ipso
+          <!--<lb ed="#Fb"/>-->probata sit fraus, et carebit utraque.
+        </p>
+               <p xml:id="wef6td-d1e198-d1e176">Idem.
+        </p>
+               <p xml:id="wef6td-d1e198-d1e179">Si, te praebendam vel dignitatem in aliqua ecclesia
+          <!--<lb ed="#Fb"/>-->proximo vacaturam auctoritate apostolica exspectante,
+          <!--<lb ed="#Fb"/>-->aliquis praebendam seu dignitatem tenuem obtinens in
+          <!--<lb ed="#Fb"/>-->eadem, fraudulenter ei renunciet, ut, illa primo sic vacante
+          <!--<lb ed="#Fb"/>-->raecludatur tibi via per consequens ad obtinendum prae-
+          <!--<lb ed="#Fb"/>-->endam vel dignitatem aliam pinguiorem, quae per mortem
+          <!--<lb ed="#Fb"/>-->alicuius vel alias in ipsa ecclesia creditur verisimiliter in
+          <!--<lb ed="#Fb"/>-->proximo vacatura: per renunciationem huiusmodi, dummodo
+        </p>
+               <p xml:id="wef6td-d1e198-d1e196">de praemissa fraude appareat saltem per aliquas probabiles
+          <!--<lb ed="#Fb"/>-->coniecturas, ut, quia dictae renunciationis tempore is, qui
+          <!--<lb ed="#Fb"/>-->praebendam vel dignitatem pinguiorem habebat, infirmitate
+          <!--<lb ed="#Fb"/>-->gravi detinebatur, vel aliquid aliud imminebat, propter quod
+          <!--<lb ed="#Fb"/>-->illius praebenda seu dignitas vacare in proximo probabiliter
+          <!--<lb ed="#Fb"/>-->credebatur, nullum tibi volumus obstaculum interponi, quo
+          <!--<lb ed="#Fb"/>-->minus, praebenda vel dignitate praedicta sic fraudulenter
+          <!--<lb ed="#Fb"/>-->renunciata omissa, possis dictam pinguiorem, quum eam
+          <!--<lb ed="#Fb"/>-->vel aliam si prius ipsam vacare contigerit, auctoritate prae¬
+          <!--<lb ed="#Fb"/>-->fata libere petere veluti tibi debitam, et habere. Ceterum
+          <!--<lb ed="#Fb"/>-->si praedicto renuncianti huiusmodi praebenda vel dignitas
+          <!--<lb ed="#Fb"/>-->pinguior forsitan conferatur, eo ipso dicta fraus intelligatur
+          <!--<lb ed="#Fb"/>-->esse probata, et idem renuncians habita omnino careat et
+          <!--<lb ed="#Fb"/>-->ambita.
+        </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

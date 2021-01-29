@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>TITULUS IX. </title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>TITULUS IX. </title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e1531"><!-- wef6td-l5t9 -->
+            <head xml:id="wef6td-d1e1531-Hd1e103">TITULUS IX. </head>
+            <p xml:id="wef6td-d1e1531-d1e106"> DE POENIS. </p>
+            <div xml:id="wef6td-d1e1531-Dd1e109">
+               <head xml:id="wef6td-d1e1531-Hd1e111">CAP. I. </head>
+               <p xml:id="wef6td-d1e1531-d1e114"> De veteri iure poterit archiepiscopus, quum in provincia sua iurisdictionem
+          <!--<lb ed="#Fb"/>-->suam exsequitur, punire notorios iniuriantes sibi, nunciis et familiae suae,
+          <!--<lb ed="#Fb"/>-->si per id sua iurisdictio impeditur; alias non, nisi consuetudo amplius
+          <!--<lb ed="#Fb"/>-->tribuat. Sed hodie tales iniurias tunc punit, etiamsi iurisdictionem non
+          <!--<lb ed="#Fb"/>-->impediant. H. d. </p>
+               <p xml:id="wef6td-d1e1531-d1e125"> Innocentius IV.  </p>
+               <p xml:id="wef6td-d1e1531-d1e128"> Romana ecclesia   {Et infra:)   Licet autem Remensi archi¬
+          <!--<lb ed="#Fb"/>-->episcopo suam provinciam visitanti eos, qui tunc sibi, vel
+          <!--<lb ed="#Fb"/>-->suae familiae, aut aliis, quos propter hoc per eandem pro¬
+          <!--<lb ed="#Fb"/>-->vinciam dirigit, et etiam, quando concilium convocat, eos,
+          <!--<lb ed="#Fb"/>-->qui nunciis suis, quos pro illo vel alias per provinciam ipsam
+          <!--<lb ed="#Fb"/>-->sua debita iurisdictione utendo transmittit, iniuriari prae¬
+          <!--<lb ed="#Fb"/>-->sumunt, si hac occasione sua in his impediatur iurisdictio,
+          <!--<lb ed="#Fb"/>-->pro iniuria huiusmodi, (dummodo exsistat notoria,) propria
+          <!--<lb ed="#Fb"/>-->auctoritate punire, nisi amplius ei de Remensis ecclesiae
+          <!--<lb ed="#Fb"/>-->consuetudine competere dignoscatur. Sibi etiam et metro¬
+          <!--<lb ed="#Fb"/>-->politanis aliis in suis provinciis, dum sic  in illis iurisdictio¬
+          <!--<lb ed="#Fb"/>-->nem exercent, puniendi manifestas et notorias offensas tunc
+          <!--<lb ed="#Fb"/>-->eisdem illatas vel suis, etiamsi exinde impediri iurisdictio¬
+          <!--<lb ed="#Fb"/>-->nem huiusmodi non contingat, libera sit de nostra speciali
+          <!--<lb ed="#Fb"/>-->concessione facultas. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e1531-Dd1e160">
+               <head xml:id="wef6td-d1e1531-Hd1e162">CAP. II. </head>
+               <p xml:id="wef6td-d1e1531-d1e165"> Docet haec decretalis, quibus assistentibus fieri debeat degradatio, de
+          <!--<lb ed="#Fb"/>-->quibus vestibus, ornamentis, libris et instrumentis in degradatione fiat
+          <!--<lb ed="#Fb"/>-->exspoliatio, et quibus verbis utatur ipse degradans. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e1531-d1e172"> Bonifacius VIII. Bitterensi  Episcopo. </p>
+               <p xml:id="wef6td-d1e1531-d1e175"> Degradatio qualiter fieri debeat, a nobis tua fraternitas
+          <!--<lb ed="#Fb"/>-->requisivit. Super quo tibi taliter respondemus, quod verbalis
+          <!--<lb ed="#Fb"/>-->degradatio seu depositio ab ordinibus vel gradibus eccle¬
+          <!--<lb ed="#Fb"/>-->siasticis est a proprio episcopo, sibi assistente in degrada¬
+          <!--<lb ed="#Fb"/>-->tione clericorum in sacris constitutorum ordinibus certo
+          <!--<lb ed="#Fb"/>-->episcoporum numero diffinito canonibus, facienda, quan-
+          <!--<lb ed="#Fb"/>-->quam proprii episcopi sententia sine aliorum episcoporum
+          <!--<lb ed="#Fb"/>-->praesentia sufficiat in degradatione eorum, qui minores dun¬
+          <!--<lb ed="#Fb"/>-->taxat ordines receperunt. Actualis vero sive solennis coe¬
+          <!--<lb ed="#Fb"/>-->lestis militiae militis, id est clerici, degradatio, quum ad
+          <!--<lb ed="#Fb"/>-->eam fuerit procedendum, fiet ut exauctorizatio eius, qui
+          <!--<lb ed="#Fb"/>-->militiae deservit armatae, cui militaria detrahuntur insignia,
+          <!--<lb ed="#Fb"/>-->sicque a militia remotus castris reiicitur, privatus consortio
+          <!--<lb ed="#Fb"/>-->et privilegio militari. Clericus igitur degradandus, vestibus
+          <!--<lb ed="#Fb"/>-->sacris indutus, in manibus habens librum, vas, vel aliud
+          <!--<lb ed="#Fb"/>-->instrumentum seu ornamentum ad ordinem suum spectans,
+          <!--<lb ed="#Fb"/>-->ac si deberet  in officio suo solenniter ministrare, ad epi¬
+          <!--<lb ed="#Fb"/>-->scopi praesentiam adducatur, cui episcopus publice singula,
+          <!--<lb ed="#Fb"/>-->sive sint vestes, calix, liber, seu quaevis alia, quae illi iuxta
+          <!--<lb ed="#Fb"/>-->morem ordinandorum clericorum in sua ordinatione ab epi¬
+          <!--<lb ed="#Fb"/>-->scopo fuerint tradita seu collata, singulariter auferat, ab illo
+          <!--<lb ed="#Fb"/>-->vestimento seu ornamento , quod datum vel traditum fuerat
+          <!--<lb ed="#Fb"/>-->ultimo, inchoando, et descendendo gradatim degradationem
+          <!--<lb ed="#Fb"/>-->continuet usque ad primam vestem, quae datur * in colla¬
+          <!--<lb ed="#Fb"/>-->tione tonsurae. Tuncque radatur caput illius seu tondeatur,
+          <!--<lb ed="#Fb"/>-->ne tonsurae seu clericatus vestigium remaneat in eodem.
+          <!--<lb ed="#Fb"/>-->Poterit autem episcopus in degradatione huiusmodi uti
+          <!--<lb ed="#Fb"/>-->verbis aliquibus ad terrorem, illis oppositis, quae in colla¬
+          <!--<lb ed="#Fb"/>-->tione ordinum sunt prolata, dicendo presbytero haec vel
+          <!--<lb ed="#Fb"/>-->similia verba in remotione planetae: „ Auferimus tibi vestem
+          <!--<lb ed="#Fb"/>-->sacerdotalem, et te honore sacerdotali privamus.“ Sicque
+          <!--<lb ed="#Fb"/>-->in remotione reliquorum insignium similibus verbis utens, in
+          <!--<lb ed="#Fb"/>-->ablatione ultimi, quod in collatione ordinum fuit primum,
+          <!--<lb ed="#Fb"/>-->infra scripto vel alio simili modo pronunciet sive dicat:
+          <!--<lb ed="#Fb"/>-->„ Auctoritate Dei omnipotentis Patris et Filii et Spiritus
+          <!--<lb ed="#Fb"/>-->sancti, ac nostra, tibi auferimus habitum clericalem, et de¬
+          <!--<lb ed="#Fb"/>-->ponimus, degradamus, spoliamus et exuimus te omni ordine,
+          <!--<lb ed="#Fb"/>-->beneficio et privilegio clericali.“ </p>
+        
+        
+        
+        
+            </div>
+            <div xml:id="wef6td-d1e1531-Dd1e253">
+               <head xml:id="wef6td-d1e1531-Hd1e255">CAP.; m. </head>
+               <p xml:id="wef6td-d1e1531-d1e258"> Quamvis inventio carceris fuerit ad custodiam, tamen potest quis puniri
+          <!--<lb ed="#Fb"/>-->poena carceris perpetuo et ad tempus. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e1531-d1e263"> Idem. </p>
+               <p xml:id="wef6td-d1e1531-d1e266"> Quamvis ad reorum custodiam, non ad poenam carcer
+          <!--<lb ed="#Fb"/>-->specialiter deputatus esse noscatur: nos tamen non im¬
+          <!--<lb ed="#Fb"/>-->probamus, si subiectos tibi clericos confessos de criminibus
+          <!--<lb ed="#Fb"/>-->seu convictos, eorum excessibus et personis, ceterisque
+          <!--<lb ed="#Fb"/>-->circumstantiis provida deliberatione pensatis, in perpetuum
+          <!--<lb ed="#Fb"/>-->vel ad tempus, prout videris expedire, carceri mancipes ad
+          <!--<lb ed="#Fb"/>-->poenitentiam peragendam. </p>
+               <p xml:id="wef6td-d1e1531-d1e281"> j - .    '    '    .    •    . </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e1531-Dd1e286">
+               <head xml:id="wef6td-d1e1531-Hd1e288">CAP. IV. </head>
+               <p xml:id="wef6td-d1e1531-d1e291"> Poena, alicui imposita et eius posteris, non extenditur ad posteros lineae
+          <!--<lb ed="#Fb"/>-->  &gt;   femineae, nisi aliud in iure vel sententia sit expressum. H. d. Zenz. </p>
+               <p xml:id="wef6td-d1e1531-d1e296"> &lt;    Idem. </p>
+               <p xml:id="wef6td-d1e1531-d1e299"> Ubicunque alicui et eius filiis seu posteris usque in 
+          <!--<lb ed="#Fb"/>--> certam generationem poena imponitur ab homine vel a iure:
+          <!--<lb ed="#Fb"/>-->poena ipsa eos tantum afficit, qui per masculinam, non per
+          <!--<lb ed="#Fb"/>-->femininam lineam descendere dignoscuntur, nisi aliud in
+          <!--<lb ed="#Fb"/>-->iure vel sententia sit expressum. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e1531-Dd1e311">
+               <head xml:id="wef6td-d1e1531-Hd1e313">CAP. V. </head>
+               <p xml:id="wef6td-d1e1531-d1e316"> Primo punit insequentes, percutientes aut capientes cardinales, et eius
+          <!--<lb ed="#Fb"/>-->criminis socios. Secundo eorum filios et nepotes. Tertio ipsis insectatori¬
+          <!--<lb ed="#Fb"/>-->bus poenam addit. Quarto, quam satisfactionem, quum absolventur, facere
+          <!--<lb ed="#Fb"/>-->debeant, et quid per absolutionem consequantur. Quinto de nudis con¬
+          <!--<lb ed="#Fb"/>-->siliariis vel simpliciter faventibus huic crimini. Sexto ad collaterales
+          <!--<lb ed="#Fb"/>-->permittit poenas extendi. Septimo ponit de insequentibus clericos vel
+          <!--<lb ed="#Fb"/>-->religiosos, familiares Papae vel cardinalium. Octavo ponit de occidentibus
+          <!--<lb ed="#Fb"/>-->cardinales. Nono dicit, potestates saeculares nihilominus poenis legalibus
+          <!--<lb ed="#Fb"/>-->contra tales uti debere, et hanc constitutionem etiam facere observari, et
+          <!--<lb ed="#Fb"/>-->contra facientibus poenam imponit. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e1531-d1e337"> Idem. </p>
+        
+               <p xml:id="wef6td-d1e1531-d1e340"> Felicis recordationis Honorii Papae III. praedecessoris
+          <!--<lb ed="#Fb"/>-->nostri vestigiis inhaerentes, quibusdam additis et detractis,
+          <!--<lb ed="#Fb"/>-->de communi fratrum nostrorum consilio hac in perpetuum
+          <!--<lb ed="#Fb"/>-->valitura constitutione sancimus, ut, si quis deinceps in hoc
+          <!--<lb ed="#Fb"/>-->sacrilegii genus irrepserit, quod sanctae Romanae ecclesiae
+          <!--<lb ed="#Fb"/>-->cardinalem fuerit hostiliter insecutus, vel percusserit aut
+          <!--<lb ed="#Fb"/>-->ceperit   \   vel socius fuerit facientis, aut fieri mandaverit vel
+          <!--<lb ed="#Fb"/>-->factum ratum habuerit, aut consilium dederit vel favorem,
+          <!--<lb ed="#Fb"/>-->aut postea receptaverit vel defensaverit scienter eundem,
+          <!--<lb ed="#Fb"/>-->sicut reus criminis laesae maiestatis perpetuo sit infamis,
+          <!--<lb ed="#Fb"/>-->diffidatus nihilominus et bannitus. Sit intestabilis, ut nec
+          <!--<lb ed="#Fb"/>-->testamenti liberam habeat factionem, nec ad alicuius bona
+          <!--<lb ed="#Fb"/>-->ex testamento vel ab intestato vocetur, quatenus ab omni
+          <!--<lb ed="#Fb"/>-->successione repulsus, publicaque repulsa confusus, minus
+          <!--<lb ed="#Fb"/>-->inveniat suae malitiae successorem. Fiant habitationes eius
+          <!--<lb ed="#Fb"/>-->desertae, et, ut non sit qui eas inhabitet, dentur cuncta
+          <!--<lb ed="#Fb"/>-->ipsius aedificia in ruinam, et, ut perpetuae notam infamiae
+          <!--<lb ed="#Fb"/>-->perpetua ruina testetur, nullo tempore reparentur. Nullus
+          <!--<lb ed="#Fb"/>-->ei debita reddere, nullus respondere in iudicio teneatur.
+          <!--<lb ed="#Fb"/>-->Quicquid etiam in bonis invenitur ipsius, fisci vel reipublicae
+          <!--<lb ed="#Fb"/>-->dominio applicetur, ut ex illis nil transmittat ad posteros,
+          <!--<lb ed="#Fb"/>-->sed potius cum ipso quodammodo damnentur et sua. Si
+          <!--<lb ed="#Fb"/>-->qua vero feuda, locationes, officium vel beneficium spirituale
+          <!--<lb ed="#Fb"/>-->vel temporale ab aliquis ecclesiis obtinet: sit eis ipso iure
+          <!--<lb ed="#Fb"/>-->privatus, quae sic libere ad ecclesias revertantur, quod
+          <!--<lb ed="#Fb"/>-->ecclesiarum rectores de ipsis pro sua voluntate disponant.
+          <!--<lb ed="#Fb"/>-->Quodsi quis praedictorum filium vel filios habeat, nepotem
+          <!--<lb ed="#Fb"/>-->vel nepotes per rectam lineam descendentes, beneficiatum
+          <!--<lb ed="#Fb"/>-->seu  beneficiatos quovis beneficio, etiamsi pontificalem
+          <!--<lb ed="#Fb"/>-->adeptus vel adepti fuerint dignitatem: sint eis ipso iure
+          <!--<lb ed="#Fb"/>-->privati, spe promotionis omnino sublata. Nulli praeterea
+          <!--<lb ed="#Fb"/>-->talium filiorum atque nepotum, ex virili sexu descendentium
+          <!--<lb ed="#Fb"/>-->ab eisdem alicuius aperiatur ianua dignitatis aut honoris
+          <!--<lb ed="#Fb"/>-->ecclesiastici vel mundani, seu  ad alicuius loci regimen sit 
+          <!--<lb ed="#Fb"/>--> ascensus. Sit eis * postulandi negata facultas; sit notariae *
+          <!--<lb ed="#Fb"/>-->iudicatus et quodlibet aliud officium seu ministerium publi¬
+          <!--<lb ed="#Fb"/>-->cum interdictum. In iudiciis eorum  assertio contra quem¬
+          <!--<lb ed="#Fb"/>-->quam nihil fidei, nihil credulitatis inveniat, ut ad testimonium
+          <!--<lb ed="#Fb"/>-->prorsus reddantur indigni *. Sit eis ad ordines ascensus
+          <!--<lb ed="#Fb"/>-->inhibitus, sit ad beneficium vel officium ecclesiasticum dene¬
+          <!--<lb ed="#Fb"/>-->gatus * accessus. Et, ut magis famosa sit eorum * infamia,
+          <!--<lb ed="#Fb"/>-->ad actus legitimos nullus eis * pateat aditus, nulla porta
+          <!--<lb ed="#Fb"/>-->pandatur eisdem * super aliquo praemissorum, omni spe
+          <!--<lb ed="#Fb"/>-->dispensationis adempta. Praesenti nihilominus adiicimus
+          <!--<lb ed="#Fb"/>-->sanctioni, ut ex insecutione praedicta, sicut ex iniectione
+          <!--<lb ed="#Fb"/>-->manuum violenta, ipso facto excommunicationis sententiam
+          <!--<lb ed="#Fb"/>-->quis incurrat, et tam insecutor quam alii supra dicti tanti
+          <!--<lb ed="#Fb"/>-->mali participes, quam diu in sua contumacia perdurarint ,
+          <!--<lb ed="#Fb"/>-->singulis diebus dominicis et festivis, pulsatis campanis et
+          <!--<lb ed="#Fb"/>-->candelis accensis, per omnes illius loci ecclesias, in quo
+          <!--<lb ed="#Fb"/>-->tantum facinus fuerit attentatum, nec non civitatum et dioe¬
+          <!--<lb ed="#Fb"/>-->cesum vicinarum excommunicati publice denuncientur *,
+          <!--<lb ed="#Fb"/>-->nec ab alio quam a Romano Pontifice possint absolutionis
+          <!--<lb ed="#Fb"/>-->beneficium obtinere, nisi duntaxat in mortis articulo con¬
+          <!--<lb ed="#Fb"/>-->stituti. Quum autem fuerint absolvendi, primo sufficienter
+          <!--<lb ed="#Fb"/>-->et idonee caveant, quod inferendae poenae parebunt, et
+          <!--<lb ed="#Fb"/>-->auxiliante Domino poenitentiam peragent iniungendam;
+          <!--<lb ed="#Fb"/>-->deinde per omnes illius loci ecclesias principales vicinorum¬
+          <!--<lb ed="#Fb"/>-->que locorum diebus dominicis et sollennibus incedant nudi
+          <!--<lb ed="#Fb"/>-->coram populo, femoralia tantum habentes, et ferulas de¬
+          <!--<lb ed="#Fb"/>-->ferentes * in manibus, cum quibus per easdem ecclesias
+          <!--<lb ed="#Fb"/>-->publice fustigentur, ituri postmodum ultra mare, et ibidem
+          <!--<lb ed="#Fb"/>-->acturi poenitentiam per tres annos ad minus, nec exinde
+          <!--<lb ed="#Fb"/>-->postmodum reversuri absque sedis apostolicae licentia
+          <!--<lb ed="#Fb"/>-->speciali. Verum quum talis gratiam reconciliationis meruerit:
+          <!--<lb ed="#Fb"/>-->beneficio absolutionis obtento indulgeatur ei  licentia, ut
+          <!--<lb ed="#Fb"/>-->suam et suorum iniuriam prosequatur, et debitorum illorum,
+          <!--<lb ed="#Fb"/>-->quae contracta fuerint, de postmodum acquisitis repetitio
+          <!--<lb ed="#Fb"/>-->non negetur. Illud autem non duximus omittendum, quod,
+          <!--<lb ed="#Fb"/>-->si quis fuerit in praemissis nudo consilio aut simplici favore
+          <!--<lb ed="#Fb"/>-->culpabilis, iudex in talem poenam metiatur ex culpa, ut
+          <!--<lb ed="#Fb"/>-->secundum quod excessus exegerit vindicta pocedat. Ce¬
+          <!--<lb ed="#Fb"/>-->terum, quia dignum est, ut nefandi ratione flagitii ultionis
+          <!--<lb ed="#Fb"/>-->severitas amplius extendatur, et propter enormitatem culpa¬
+          <!--<lb ed="#Fb"/>-->rum plagarum modus exuberet, nec poenis solitis contente-
+          <!--<lb ed="#Fb"/>-->tur: statuimus, ut ad collaterales, fratres videlicet, nepotes et
+          <!--<lb ed="#Fb"/>-->pronepotes talium possit extendere poenas in huiusmodi
+          <!--<lb ed="#Fb"/>-->nostra constitutione contentas circumspectio Romani Ponti¬
+          <!--<lb ed="#Fb"/>-->ficis, prout circumstantiae rationabiles suadebunt. Prae¬
+          <!--<lb ed="#Fb"/>-->missis etiam dignum censuimus annectendum, ut, si quis¬
+          <!--<lb ed="#Fb"/>-->quam aliquo praedictorum excessuum quemquam de clericis
+          <!--<lb ed="#Fb"/>-->vel religiosis nostrae familiae vel cardinalium afficere forte
+          <!--<lb ed="#Fb"/>-->praesumpserit, proportionetur poena delicto ita, quod,
+          <!--<lb ed="#Fb"/>-->vindicta ex aequo excessui  respondente, ab offensa nostro¬
+          <!--<lb ed="#Fb"/>-->rum cohibeantur deinceps manus temerariae formidine
+          <!--<lb ed="#Fb"/>-->ultionis, quas Dei vel nostra seu fratrum nostrorum re¬
+          <!--<lb ed="#Fb"/>-->verentia non coercet. Si quis vero per se vel per alium
+          <!--<lb ed="#Fb"/>-->occiderit cardinalem, (quod absit,) vel dederit causam
+          <!--<lb ed="#Fb"/>-->mortis: ultra, quam praemissa contineant, sic in eum
+          <!--<lb ed="#Fb"/>-->potestas iurisdictionis insurgat, sic rigor ultionis insiliat,
+          <!--<lb ed="#Fb"/>-->quod contra vitae subsidium mortis solatium invocet, vivens
+          <!--<lb ed="#Fb"/>-->poenae, non culpae, vindictae speculum, non offensae. Per
+          <!--<lb ed="#Fb"/>-->hoc quoque saecularibus potestatibus non adimimus faculta¬
+          <!--<lb ed="#Fb"/>-->tem utendi legibus contra tales, quas adversus sacrilegos
+          <!--<lb ed="#Fb"/>-->catholici principes ediderunt. Quis enim locus regiminis
+          <!--<lb ed="#Fb"/>-->poterit esse tutus, quis rector securitate gaudebit, si Romana
+          <!--<lb ed="#Fb"/>-->ecclesia, quae omnium ecclesiarum disponente Domino
+          <!--<lb ed="#Fb"/>-->caput est et magistra, casibus istis subiicitur? si eius filii
+          <!--<lb ed="#Fb"/>-->speciales huiusmodi periculis exponuntur? Quem ecclesiae
+          <!--<lb ed="#Fb"/>-->filium, quem fidei zelatorem contumelia tanta non tangeret,
+          <!--<lb ed="#Fb"/>-->et confusio tam aspera non moveret? Porro, si filius est,
+          <!--<lb ed="#Fb"/>-->dolebit, si  fidelis, matre fidei laesa laedetur. Quapropter
+          <!--<lb ed="#Fb"/>-->si princeps, senator, consul, potestas vel alius dominus sive
+          <!--<lb ed="#Fb"/>-->rector contra praesumptores praedictos praesentis constitu¬
+          <!--<lb ed="#Fb"/>-->tionis tenorem non fecerit observari: tam ipse quam officiales
+          <!--<lb ed="#Fb"/>-->ipsius infra mensem, postquam res ad notitiam eorum per¬
+          <!--<lb ed="#Fb"/>-->venerit, eo ipso sententiam excommunicationis incurrant.
+          <!--<lb ed="#Fb"/>-->Civitas vero quaevis alia praeter Urbem, quae talia facienti
+          <!--<lb ed="#Fb"/>-->vel facientibus seu praesumentibus in his consilium vel
+          <!--<lb ed="#Fb"/>-->auxilium dederit aut favorem, vel infra mensem saltem
+          <!--<lb ed="#Fb"/>-->taliter delinquentes, prout tanti facinoris enormitas exegerit,
+          <!--<lb ed="#Fb"/>-->et facultas ei adfuerit, non duxerit puniendos, pontificali et
+          <!--<lb ed="#Fb"/>-->supra sit eo ipso, dignitate privata, et nihilominus, remaneat
+          <!--<lb ed="#Fb"/>-->interdicta. </p>
+            </div>
+      
+      
+         </div>
+      </body>
+   </text>
+</TEI>

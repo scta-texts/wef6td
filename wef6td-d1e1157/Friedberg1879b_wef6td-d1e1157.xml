@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> TITULUS XVIII </title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title> TITULUS XVIII </title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e1157"><!-- wef6td-l3t18 -->
+            <head xml:id="wef6td-d1e1157-Hd1e103"> TITULUS XVIII </head>
+            <p xml:id="wef6td-d1e1157-d1e106"> DE CAPELLIS MONACHORUM. </p>
+            <div xml:id="wef6td-d1e1157-Dd1e109">
+               <head xml:id="wef6td-d1e1157-Hd1e111">CAP. UN. </head>
+               <p xml:id="wef6td-d1e1157-d1e114"> Instituti in ecclesiis monachorum ad curam populi per episcopum ad ipsorum praesentationem, per eundem, si causa subsit, sunt destituendi. </p>
+               <p xml:id="wef6td-d1e1157-d1e117"> H. d. Dominicus. </p>
+               <p xml:id="wef6td-d1e1157-d1e120"> Bonifacius VIII. </p>
+               <p xml:id="wef6td-d1e1157-d1e123"> Presbyteri, qui ad curam populi per monachos in eorum ecclesiis praesentantur episcopis, et instituuntur ab ipsis, quum debeant esse perpetui, consuetudine vel statuto quovis contrario non obstante, ab eisdem nequeunt ecclesiis nisi per episcopos et ex causa rationabili amoveri. </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

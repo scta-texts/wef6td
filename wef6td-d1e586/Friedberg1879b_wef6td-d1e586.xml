@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>TITULUS IV. </title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>TITULUS IV. </title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e586"><!-- wef6td-l2t4 -->
+            <head xml:id="wef6td-d1e586-Hd1e103">TITULUS IV. </head>
+            <p xml:id="wef6td-d1e586-d1e106"> DE IURAMENTO CALUMNIAE. </p>
+            <div xml:id="wef6td-d1e586-Dd1e109">
+               <head xml:id="wef6td-d1e586-Hd1e111">CAP. I. </head>
+               <p xml:id="wef6td-d1e586-d1e114"> Non est de substantia, quod statim post litem contestatam iuretur de calumnia. Ioann. Andr. — §. 1. Non annullatur processus, licet tacite omittatur calumniae iuramentum. H. d. — §. 2. Praecipit, quod in spiritualibus simul de calumnia et de veritate iuretur. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e586-d1e117"> Bonifacius VIII. </p>
+               <p xml:id="wef6td-d1e586-d1e120"> Si de calumnia seu de  veritate dicenda in primo litis exordio non iuretur, ut debet: poterit postmodum in qualibet parte litis iurari, quum huiusmodi iuramenta praestari ab initio de substantia ordinis iudiciarii non exsistat. §. i. Propter omissum quoque tacite in tota causa calumniae iuramentum iudicialis processus, alias factus legitime, non est nullus nec etiam annullandus. §. 2. Quamvis in causis spiritualibus, in quibus debet de veritate dicenda iurari, canones non indicant alicui calumniae iuramentum: nos tamen, quia frequenter calumniari videmus in ipsis, utile reputamus, quod simul, sicut plerique observant, tam de veritate dicenda quam de calumnia, ut via praecludatur calumniis, iurari debeat in eisdem. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e586-Dd1e124">
+               <head xml:id="wef6td-d1e586-Hd1e126">CAP. II. </head>
+               <p xml:id="wef6td-d1e586-d1e129"> In causa appellationis iurari debet de calumnia et veritate dicenda. — §. 1. Procurator, deputatus post iuramentum calumniae, iurabit de calumnia. H. d. — §.2. Iudex, quoties sibi videtur, exigit iuramentum malitiae, etiamsi de calumnia vel veritate iuratum sit. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e586-d1e132"> Idem. </p>
+               <p xml:id="wef6td-d1e586-d1e135"> In appellationis causa, quanquam in principali iuratum fuerit, praestari iubemus calumniae iuramentum, et idem in iuramento de veritate dicenda volumus observari. §. 1. Procuratores quoque, qui post iuramentum calumniae deputantur, teneri volumus, ut calumnia vitetur ab ipsis, ad subeundum huiusmodi iuramentum, etiamsi a suis dominis, quid ponere aut respondere seu agere debeant, sint instructi. §. 2. In omnibus autem causis, nedum ante, sed etiam postquam lis fuerit contestata, sive de veritate sive de calumnia sit iuratum in ipsis, potest iudex a partibus exigere iuramentum malitiae, quoties viderit expedire. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e586-Dd1e139">
+               <head xml:id="wef6td-d1e586-Hd1e141">CAP. HI. </head>
+               <p xml:id="wef6td-d1e586-d1e144"> Procurator, habens speciale mandatum, iurat de calumnia. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e586-d1e147"> Idem. </p>
+               <p xml:id="wef6td-d1e586-d1e150"> Nullam tibi iudex iniuriam fecisse censetur, qui procuratorem tui adversarii constitutum ad causam, habentem super hoc speciale mandatum, admisit ad praestandum in ea calumniae iuramentum. </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

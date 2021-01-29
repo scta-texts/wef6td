@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>TITULUS XIV.</title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>TITULUS XIV.</title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e339"><!-- wef6td-l1t14 -->
+            <head xml:id="wef6td-d1e339-Hd1e103">TITULUS XIV.</head>
+            <p xml:id="wef6td-d1e339-d1e106">DE OFFICIO ET POTESTATE IUDICIS
+        <!--<lb ed="#Fb"/>-->DELEGATI.
+      </p>
+            <div xml:id="wef6td-d1e339-Dd1e111">
+               <head xml:id="wef6td-d1e339-Hd1e113">CAP. i.
+        </head>
+               <p xml:id="wef6td-d1e339-d1e116">Conservator a manifestis defendit iniuriis, et iudicialem indaginem non
+        </p>
+               <p xml:id="wef6td-d1e339-d1e119">exercet.
+        </p>
+               <p xml:id="wef6td-d1e339-d1e122">Innocentius IV.
+               </p>
+               <p xml:id="wef6td-d1e339-d1e125">Statuimus, ut conservatores, quos plerumque concedi¬
+          <!--<lb ed="#Fb"/>-->mus, a manifestis iniuriis et violentiis defendere possint quos
+          <!--<lb ed="#Fb"/>-->eis committimus defendendos. Nec ad alia, quae iudicialem
+          <!--<lb ed="#Fb"/>-->indaginem exigunt, suam possint extendere potestatem.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e339-Dd1e135">
+               <head xml:id="wef6td-d1e339-Hd1e137">CAP. II.
+        </head>
+               <p xml:id="wef6td-d1e339-d1e140">In coactionibus et poenis pontificali dignitati defertur.
+        </p>
+               <p xml:id="wef6td-d1e339-d1e143">Alexander IV.
+               </p>
+               <p xml:id="wef6td-d1e339-d1e146">Quia pontificali dignitate praeditis ob reverentiam sacri
+          <!--<lb ed="#Fb"/>-->officii, quod exercent, plurimum deferri convenit, et eos
+          <!--<lb ed="#Fb"/>-->plus aliis honorari decet, ut, quum a iudicibus vel con¬
+          <!--<lb ed="#Fb"/>-->servatoribus a sede apostolica deputatis contra eos ad
+          <!--<lb ed="#Fb"/>-->coactiones  aliquas sive poenas  fuerit procedendum, gradus
+        </p>
+               <p xml:id="wef6td-d1e339-d1e157">et modestia in huiusmodi processu servetur ita, quod, eis
+          <!--<lb ed="#Fb"/>-->quadam condigna reverentia supportatis, ingressus primo <!--<lb ed="#Fb"/>-->ipsis ecclesiae vel sacerdotale interdicatur ministerium, ac
+          <!--<lb ed="#Fb"/>-->deinde ab officio suspendantur, et subsequenter aggrave-
+          <!--<lb ed="#Fb"/>-->turs censura ecclesiastica contra eos; nisi forte aliter fieri
+          <!--<lb ed="#Fb"/>-->suaserit nimia contumaciae protervitas sive culpa.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e339-Dd1e171">
+               <head xml:id="wef6td-d1e339-Hd1e173">CAP. ni.
+        </head>
+               <p xml:id="wef6td-d1e339-d1e176">Delegato procedente cum duobus subdelegatis non in totum, ad Papam, non
+          <!--<lb ed="#Fb"/>-->ad condelegatos, appellari debet. H. d. Ioann. Andr.
+        </p>
+               <p xml:id="wef6td-d1e339-d1e181">Bonifacius VIII.
+        </p>
+               <p xml:id="wef6td-d1e339-d1e184">Si duo ex tribus, a sede apostolica delegatis, duobus
+          <!--<lb ed="#Fb"/>-->aliis non in totum subdelegaverint vices suas, ipsique sub-
+          <!--<lb ed="#Fb"/>-->delegati cum delegato tertio in causa processerint delegata,
+          <!--<lb ed="#Fb"/>-->si appellatur* ab ipsis, non ad condelegatos, sed ad primum
+          <!--<lb ed="#Fb"/>-->delegantem tantummodo appellari debebit.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e339-Dd1e197">
+               <head xml:id="wef6td-d1e339-Hd1e199">CAP. IY.
+        </head>
+               <p xml:id="wef6td-d1e339-d1e202">Tres casus ponit, in quibus suspicionis causa coram arbitris non tractatur.
+          <!--<lb ed="#Fb"/>-->Primus, quum recusatur unus ex delegatis, datis cum clausula: „Quod si
+          <!--<lb ed="#Fb"/>-->non omnes.“ Secundus, quum recusatur delegatus episcopi. Tertius,
+          <!--<lb ed="#Fb"/>-->quum recusatur officialis. Ioann. Andr.
+        </p>
+               <p xml:id="wef6td-d1e339-d1e211">Idem.
+        </p>
+               <p xml:id="wef6td-d1e339-d1e214">Si contra unum ex duobus iudicibus, cum illa clausula:
+          <!--<lb ed="#Fb"/>-->,, quod si ambo interesse non possunt, alter eorum in causa
+          <!--<lb ed="#Fb"/>-->procedat,“ a sede apostolica delegatis, suspicionis causa
+          <!--<lb ed="#Fb"/>-->legitima proponatur: causa ipsa suspicionis coram non re¬
+          <!--<lb ed="#Fb"/>-->cusato coniudice, ad quem ex vi praedictae clausulae debet
+          <!--<lb ed="#Fb"/>-->ipsius causae cognitio pertinere, probari et ab eo expediri
+          <!--<lb ed="#Fb"/>-->debebit. Ubi vero non est dicta clausula in rescripto, debet
+          <!--<lb ed="#Fb"/>-->super hoc ad arbitros recursus haberi. Quum autem ipse *
+          <!--<lb ed="#Fb"/>-->delegatus episcopi recusatur, recusationis causa coram
+          <!--<lb ed="#Fb"/>-->episcopo est probanda. Idem est, si officialis recusetur
+          <!--<lb ed="#Fb"/>-->eiusdem, licet ad ipsum ab eodem officiali nequeat ap¬
+          <!--<lb ed="#Fb"/>-->pellari.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e339-Dd1e240">
+               <head xml:id="wef6td-d1e339-Hd1e242">CAP. V.
+        </head>
+               <p xml:id="wef6td-d1e339-d1e245">Distinguit tria tempora ad sciendum, an iudex suspectus committere possit;
+          <!--<lb ed="#Fb"/>-->quia aut non est proposita recusatio: et tunc in totum per eum facta com¬
+          <!--<lb ed="#Fb"/>-->missio tenet; aut est proposita, sed nondum pronunciatum super ea; et tunc
+          <!--<lb ed="#Fb"/>-->volente recusatore committere potest, alias non; aut iam pronunciatum est,
+          <!--<lb ed="#Fb"/>-->illum esse suspectum; et tunc,etiam volente recusatore, committere nequit.
+        </p>
+               <p xml:id="wef6td-d1e339-d1e256">Ioann. Andr.
+        </p>
+               <p xml:id="wef6td-d1e339-d1e259">Idem.
+        </p>
+               <p xml:id="wef6td-d1e339-d1e262">Iudex ab apostolica sede datus, quamvis legitime re¬
+          <!--<lb ed="#Fb"/>-->cusari valeat ut suspectus, potest licite vices suas committere,
+          <!--<lb ed="#Fb"/>-->antequam recusatio contra ipsum proponatur. Et si in totum
+          <!--<lb ed="#Fb"/>-->commiserit, recusari ulterius, aut facta per eum commissio
+          <!--<lb ed="#Fb"/>-->impugnari nequibit; quod posset, si sibi de iurisdictione
+          <!--<lb ed="#Fb"/>-->aliquid reservasset. Post recusationem quoque propositam
+          <!--<lb ed="#Fb"/>-->committere, nisi de recusatoris procedat assensu, non
+          <!--<lb ed="#Fb"/>-->potest; sed eo volente hoc potest, etiamsi iam recusatio
+          <!--<lb ed="#Fb"/>-->eadem sit probata, dummodo pronunciatum non fuerit
+          <!--<lb ed="#Fb"/>-->super ea. Extunc enim, quum omnino iudex esse desierit,
+          <!--<lb ed="#Fb"/>-->nulla etiam cum illius assensu potest fieri commissio per
+          <!--<lb ed="#Fb"/>-->eundem.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e339-Dd1e288">
+               <head xml:id="wef6td-d1e339-Hd1e290">CAP. VI.
+        </head>
+               <p xml:id="wef6td-d1e339-d1e293">Delegatus subdelegans, etiam in totum, re integra causam reassumere
+          <!--<lb ed="#Fb"/>-->poterit. H. d. Ioann. Andr.
+        </p>
+               <p xml:id="wef6td-d1e339-d1e298">Idem.
+        </p>
+               <p xml:id="wef6td-d1e339-d1e301">Quamvis alicui vices tuas in causa tibi a sede apostolica
+          <!--<lb ed="#Fb"/>-->delegata in totum commisisse noscaris: si tamen, antequam
+          <!--<lb ed="#Fb"/>-->ille iurisdictione usus fuerit, commissio huiusmodi per te
+          <!--<lb ed="#Fb"/>-->revocetur ab ipso, vel eum rebus eximi contingat humanis,
+          <!--<lb ed="#Fb"/>-->causam ipsam resumere poteris, quum iurisdictio, ex quo
+          <!--<lb ed="#Fb"/>-->ipsa usus non exstitit, non censeatur in eum efficaciter
+          <!--<lb ed="#Fb"/>-->transivisse.
+        </p>
+               <p xml:id="wef6td-d1e339-d1e316">cap. vn.
+        </p>
+               <p xml:id="wef6td-d1e339-d1e320">Si delegatus subdelegavit; „ quoties abesset, “ vel ,, donec revocaret,“ et
+          <!--<lb ed="#Fb"/>-->mortuus sit re non integra, subdelegatus procedit. Et semper de subdelegato
+          <!--<lb ed="#Fb"/>-->ad delegatum, qui sibi aliquid iurisdictionis reservavit, appellari debet,
+          <!--<lb ed="#Fb"/>-->etiam post sententiam. H. d. Io. Andr.
+        </p>
+               <p xml:id="wef6td-d1e339-d1e329">Idem.
+        </p>
+               <p xml:id="wef6td-d1e339-d1e332">Si delegatus, quoties eum abesse contigerit, tibi com¬
+          <!--<lb ed="#Fb"/>-->miserit vices suas, poteris, eo rebus humanis exempto,
+          <!--<lb ed="#Fb"/>-->uum et tunc censeatur abesse, commissum tibi negotium,
+          <!--<lb ed="#Fb"/>-->um tamen illo vivente iurisdictione uti coeperis, libere
+          <!--<lb ed="#Fb"/>-->diffinire. Idem poteris, quando tibi vices etiam* sub ea
+          <!--<lb ed="#Fb"/>-->forma commisit: „donec eas duceret revocandas.^ Nam
+          <!--<lb ed="#Fb"/>-->talis commissio, per quam censetur etiam sententiae pro¬
+          <!--<lb ed="#Fb"/>-->latio, nisi antea fuerit revocata, committi, nequaquam morte
+          <!--<lb ed="#Fb"/>-->committentis exspirat, ex quo res integra non exsistit. Ad
+          <!--<lb ed="#Fb"/>-->eum quoque, qui vices suas committit, donec revocet, vel
+          <!--<lb ed="#Fb"/>-->qui exsecutionem sententiae tantum, aut quicquid aliud de
+          <!--<lb ed="#Fb"/>-->iurisdictione sibi reservat, non ad delegantem primum ap¬
+          <!--<lb ed="#Fb"/>-->pellari debebit, etiamsi post sententiam fuerit appellandum.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e339-Dd1e360">
+               <head xml:id="wef6td-d1e339-Hd1e362">CAP. VIH.
+        </head>
+               <p xml:id="wef6td-d1e339-d1e365">Plurium delegatorum in solidum quilibet cognoscit. Et uno cognoscente
+          <!--<lb ed="#Fb"/>-->alii, nisi ex causa, se non intromittunt. Et perpetuatio unius perpetuat
+          <!--<lb ed="#Fb"/>-->quoad omnes. H. d. Zenz.
+        </p>
+               <p xml:id="wef6td-d1e339-d1e372">Idem.
+        </p>
+               <p xml:id="wef6td-d1e339-d1e375">Quum plures sub illa forma: ,,ut omnes, aut duo, vel
+          <!--<lb ed="#Fb"/>-->unus eorum mandatum apostolicum exsequantur,“ aut*
+          <!--<lb ed="#Fb"/>-->alia consimili iudices vel exsecutores a sede apostolica de¬
+          <!--<lb ed="#Fb"/>-->putari contingit: ipsorum quilibet iniunctum potest libere
+          <!--<lb ed="#Fb"/>-->adimplere mandatum. Porro, uno eorum negotium in¬
+          <!--<lb ed="#Fb"/>-->choante commissum, alii nequibunt se ulterius intromittere
+          <!--<lb ed="#Fb"/>-->de eodem, nisi vel infirmitate vel alia iusta causa illum con¬
+          <!--<lb ed="#Fb"/>-->tingeret impediri, aut si nollet, vel malitiose in eo procedere
+          <!--<lb ed="#Fb"/>-->recusaret. Iurisdictione vero perpetuata mandatore vivente,
+          <!--<lb ed="#Fb"/>-->per unum, eo casu, quo potest, ex iudicibus delegatis per¬
+          <!--<lb ed="#Fb"/>-->petuata intelligitur quod omnes.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e339-Dd1e399">
+               <head xml:id="wef6td-d1e339-Hd1e401">CAP. IX.
+        </head>
+               <p xml:id="wef6td-d1e339-d1e404">Exsecutor, super gratia facta datus a Papa, mortuo Papa etiam re integra
+          <!--<lb ed="#Fb"/>-->gratiam exsequitur. Ioann. Andr.
+        </p>
+               <p xml:id="wef6td-d1e339-d1e409">Idem.
+        </p>
+               <p xml:id="wef6td-d1e339-d1e412">Si super gratia, cuiquam ab apostolica sede facta, ex¬
+          <!--<lb ed="#Fb"/>-->secutores fuerint deputati, aequum esse censemus, ut, sicut
+          <!--<lb ed="#Fb"/>-->ipsa gratia, licet nondum sit in eius exsecutione processum,
+          <!--<lb ed="#Fb"/>-->morte non perimitur concedentis, sic nec etiam re integra
+          <!--<lb ed="#Fb"/>-->perimatur exsecutoribus data potestas, quam, veluti gratiae
+          <!--<lb ed="#Fb"/>-->praedictae accessoriam, naturam sequi congruit principalis;
+          <!--<lb ed="#Fb"/>-->ne gratiam eandem vel reddi quandoque omnino inutilem,
+          <!--<lb ed="#Fb"/>-->vel ipsius effectum in tempus longius cum illius dispendio,
+          <!--<lb ed="#Fb"/>-->cui facta exstitit, differri contingat.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e339-Dd1e432">
+               <head xml:id="wef6td-d1e339-Hd1e434">CAP. X.l
+        </head>
+               <p xml:id="wef6td-d1e339-d1e437">Duos casus ponit, quibus de subdelegato non in totum appellatur ad primum
+          <!--<lb ed="#Fb"/>-->delegatum, scilicet quum delegatus excommunicatus vel mortuus est. Alios
+          <!--<lb ed="#Fb"/>-->casus ponit infra eod. c. Si a subdelegato. Ioann. Andr.
+        </p>
+               <p xml:id="wef6td-d1e339-d1e444">Idem.
+        </p>
+               <p xml:id="wef6td-d1e339-d1e447">Si is, cui causa, licet proprio nomine non expresso, a
+          <!--<lb ed="#Fb"/>-->sede fuerat apostolica delegata, subdelegaverit non in
+          <!--<lb ed="#Fb"/>-->totum vices suas alicui: a subdelegato huiusmodi, si delega¬
+          <!--<lb ed="#Fb"/>-->tum ipsum excommunicari aut de medio tolli contingat, im¬
+          <!--<lb ed="#Fb"/>-->pedimento tali durante ad sedem ipsam, ne absolutionem
+          <!--<lb ed="#Fb"/>-->vel successorem exspectando illius praeiudicari litigantibus
+          <!--<lb ed="#Fb"/>-->vel causa plus debito prorogari valeat, volumus appellari.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e339-Dd1e464">
+               <head xml:id="wef6td-d1e339-Hd1e466">CAP. XI.
+        </head>
+               <p xml:id="wef6td-d1e339-d1e469">Ab arbitris iuris appellatur ad Papam. Ioann. Andr.
+        </p>
+               <p xml:id="wef6td-d1e339-d1e472">Idem.
+        </p>
+               <p xml:id="wef6td-d1e339-d1e475">Ab arbitris, qui secundum formam iuris, ut de proposita
+          <!--<lb ed="#Fb"/>-->contra iudicem suspicionis causa cognoscant, vel qui, quum
+          <!--<lb ed="#Fb"/>-->de revocatione ambigitur literarum, iudicibus nequeuntibus
+          <!--<lb ed="#Fb"/>-->in unam sententiam concordare, ad concertationem huius¬
+          <!--<lb ed="#Fb"/>-->modi sopiendam a partibus eliguntur, est, si gravaverint, ad
+          <!--<lb ed="#Fb"/>-->sedem apostolicam appellandum.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e339-Dd1e489">
+               <head xml:id="wef6td-d1e339-Hd1e491">CAP. XII.
+        </head>
+               <p xml:id="wef6td-d1e339-d1e494">Exsecutor datus a Papa, ut provideat personae, subdelegat, si detur, ut
+          <!--<lb ed="#Fb"/>-->provideat ecclesiae; non expressa persona, non subdelegat, nisi habeat
+          <!--<lb ed="#Fb"/>-->speciale mandatum. H. d. et causam reddit. Ioann. Andr.
+        </p>
+               <p xml:id="wef6td-d1e339-d1e501">Idem.
+        </p>
+               <p xml:id="wef6td-d1e339-d1e504">Is, cui ab apostolica sede committitur certae personae
+        </p>
+               <p xml:id="wef6td-d1e339-d1e507">provisio de beneficio in certa ecclesia, dioecesi vel provincia
+          <!--<lb ed="#Fb"/>-->facienda, potest alii committere licite vices suas. Sed si non
+          <!--<lb ed="#Fb"/>-->expressa certa persona committatur eidem, ut alicui per¬
+          <!--<lb ed="#Fb"/>-->sonae idoneae de certa ecclesia vel beneficio debeat provi¬
+          <!--<lb ed="#Fb"/>-->dere, quia circa eligendam personam eius industria tunc
+          <!--<lb ed="#Fb"/>-->videtur electa, provisionem sibi commissam alteri deman¬
+          <!--<lb ed="#Fb"/>-->dare non potest, nisi forma commissionis habeat, ut per se
+          <!--<lb ed="#Fb"/>-->vel per alium id valeat expedire.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e339-Dd1e525">
+               <head xml:id="wef6td-d1e339-Hd1e527">CAP. XIII.
+        </head>
+               <p xml:id="wef6td-d1e339-d1e530">Is, cui aliquid certo loco expediendum committitur, ex iusta causa illud
+          <!--<lb ed="#Fb"/>-->expedire poterit extra locum. H. d. Ioann. Andr.
+        </p>
+               <p xml:id="wef6td-d1e339-d1e535">Idem.
+        </p>
+               <p xml:id="wef6td-d1e339-d1e538">Statuimus, ut is, per quem ab apostolica sede certo loco
+          <!--<lb ed="#Fb"/>-->inquisitio fieri, vel quicquid aliud expediri mandatur, si
+          <!--<lb ed="#Fb"/>-->propter potentiam vel malitiam illius, contra quem inquiri
+          <!--<lb ed="#Fb"/>-->debet sive procedi, seu fautorum eiusdem non possit hoc
+          <!--<lb ed="#Fb"/>-->exsequi eo loco secure, ne ipse commodum ex dolo vel fraude
+          <!--<lb ed="#Fb"/>-->reportet, ad id exsequendum locum alium eligat idoneum et
+          <!--<lb ed="#Fb"/>-->securum. Idem faciat, si alia rationabilis causa subsit,
+          <!--<lb ed="#Fb"/>-->propter quam in loco decreto perfici nequeat commode quod
+          <!--<lb ed="#Fb"/>-->mandatur, ne tali praetextu impediri contingat mandatum
+          <!--<lb ed="#Fb"/>-->apostolicum vel differri. .
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e339-Dd1e560">
+               <head xml:id="wef6td-d1e339-Hd1e562">CAP. XIV.
+        </head>
+               <p xml:id="wef6td-d1e339-d1e565">Quando a subdelegato non in totum appellatur, quia non admittit exceptio¬
+          <!--<lb ed="#Fb"/>-->nem, per quam denegatur etiam delegatum habere iurisdictionem: ad
+          <!--<lb ed="#Fb"/>-->primum delegantem appellabitur. H. d. Ioann. Andr.
+        </p>
+               <p xml:id="wef6td-d1e339-d1e572">Idem.
+        </p>
+               <p xml:id="wef6td-d1e339-d1e575">Si a subdelegato, cui delegatus non in totum commiserat<!--<lb ed="#Fb"/>-->vices suas, ex eo fuerit appellandum, quia exceptionem coram
+          <!--<lb ed="#Fb"/>-->se propositam, quod, antequam per eum vel per ipsum dele¬
+          <!--<lb ed="#Fb"/>-->gatum in aliquo processum fuisset, delegans viam fuerat uni¬
+          <!--<lb ed="#Fb"/>-->versae carnis ingressus, admittere recusavit: non ad delega¬
+          <!--<lb ed="#Fb"/>-->tum, quum iurisdictionem negetur habere, sed ad delegantem
+          <!--<lb ed="#Fb"/>-->potius appellari debebit. Idem fiet in aliis casibus, in quibus
+          <!--<lb ed="#Fb"/>-->delegatus iurisdictionem habere negatur; alias, si appellari
+          <!--<lb ed="#Fb"/>-->deberet ad ipsum, esset appellans, qui sic fateri videretur,
+          <!--<lb ed="#Fb"/>-->eundem iurisdictionem habere, quod ante negaverat, con¬
+          <!--<lb ed="#Fb"/>-->trarius sibi ipsi.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e339-Dd1e599">
+               <head xml:id="wef6td-d1e339-Hd1e601">CAP. XV.
+        </head>
+               <p xml:id="wef6td-d1e339-d1e604">Ponit hic, qui possint esse conservatores, et ubi cognoscere, et an et quibus
+          <!--<lb ed="#Fb"/>-->possint delegare, et quantum duret eorum potestas, et de expensis talium.
+        </p>
+               <p xml:id="wef6td-d1e339-d1e609">H. d. Zenz.
+        </p>
+               <p xml:id="wef6td-d1e339-d1e612">Idem.
+        </p>
+               <p xml:id="wef6td-d1e339-d1e615">Hac constitutione perpetuo valitura sancimus, ut con-
+        </p>
+               <p xml:id="wef6td-d1e339-d1e619">servatores, qui aliquibus, ut a manifestis iniuriis et violentiis
+          <!--<lb ed="#Fb"/>-->tueantur eosdem, plerumque a sede apostolica conceduntur,
+          <!--<lb ed="#Fb"/>-->de cetero deputari non possint, nisi episcopi vel eorum
+          <!--<lb ed="#Fb"/>-->superiores, aut abbates, seu dignitates vel personatus in
+          <!--<lb ed="#Fb"/>-->Cathedralibus vel collegiatis ecclesiis obtinentes, nullusque
+          <!--<lb ed="#Fb"/>-->deputati sibi conservatoris esse valeat conservator. Nec
+          <!--<lb ed="#Fb"/>-->aliquis, (regibus et reginis, qui, sicut dignitatis altitudine
+          <!--<lb ed="#Fb"/>-->praeeminent, sic praerogativa gratiae ipsos convenit ante¬
+          <!--<lb ed="#Fb"/>-->ferri, duntaxat exceptis,) deinceps conservatorem habeat
+          <!--<lb ed="#Fb"/>-->eum, qui sub ipsius iurisdictione, dominio vel districtu ec¬
+          <!--<lb ed="#Fb"/>-->clesiastico vel temporali consistat. Conservatores autem
+          <!--<lb ed="#Fb"/>-->huiusmodi extra civitates seu dioeceses, in quibus fuerint
+          <!--<lb ed="#Fb"/>-->deputati, contra quoscunque procedere, aut aliquos ultra
+          <!--<lb ed="#Fb"/>-->unam diaetam a fine dioecesum eorundem trahere non prae¬
+          <!--<lb ed="#Fb"/>-->sumant. Vices quoque suas, (citationibus et sententiarum
+          <!--<lb ed="#Fb"/>-->denunciationibus duntaxat exceptis, quas per alios valeant
+          <!--<lb ed="#Fb"/>-->exercere,) nulli committere possint, nisi hoc eis competierit
+          <!--<lb ed="#Fb"/>-->ex beneficio literarum; sea nec tunc, nisi intra* civitates
+          <!--<lb ed="#Fb"/>-->seu dioeceses, in quibus deputati fuerint, et personis tantum,
+          <!--<lb ed="#Fb"/>-->quae superius sunt expressae. Ut autem conservatores
+          <!--<lb ed="#Fb"/>-->limites sibi traditae potestatis, quos frequenter excedunt,
+          <!--<lb ed="#Fb"/>-->metu poenae diligenter observent: decernimus,ut, si de aliis
+          <!--<lb ed="#Fb"/>-->quam de manifestis iniuriis et violentiis scienter se intro¬
+          <!--<lb ed="#Fb"/>-->miserint, seu ad alia, quae iudicialem indaginem exigunt,
+          <!--<lb ed="#Fb"/>-->suam extenderint potestatem, eo ipso per unum annum ab
+          <!--<lb ed="#Fb"/>-->officio sint suspensi. Pars vero, quae hoc fieri procurabit,
+          <!--<lb ed="#Fb"/>-->sententiam excommunicationis incurrat, a qua non possit ab¬
+          <!--<lb ed="#Fb"/>-->solvi, nisi ei, quem sic fatigavit indebite, primo satisfaciat
+          <!--<lb ed="#Fb"/>-->integraliter de expensis. Officium autem quorumcunque
+          <!--<lb ed="#Fb"/>-->conservatorum ipso iure quoad non coepta negotia per
+          <!--<lb ed="#Fb"/>-->obitum concedentis volumus exspirare. Circa munera vero
+          <!--<lb ed="#Fb"/>-->et expensas, assessores ac notarios, et personas testimonii
+          <!--<lb ed="#Fb"/>-->causa vocandas, illa praecipimus in huiusmodi conservato¬
+          <!--<lb ed="#Fb"/>-->ribus per omnia observari, quae in delegatis iudicibus con¬
+          <!--<lb ed="#Fb"/>-->stitutio a nobis super his edita observanda decrevit*. Quic-
+          <!--<lb ed="#Fb"/>-->quid autem contra praemissa vel eorum aliquod attentari
+          <!--<lb ed="#Fb"/>-->contigerit, omnino decernimus irritum et inane.
+        </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

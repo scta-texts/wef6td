@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>TITULUS III.</title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>TITULUS III.</title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e108"><!-- wef6td-l1t3 -->
+            <head xml:id="wef6td-d1e108-Hd1e103">TITULUS III.</head>
+            <p xml:id="wef6td-d1e108-d1e106">DE RESCRIPTIS. .
+      </p>
+      
+            <div xml:id="wef6td-d1e108-Dd1e109">
+               <head xml:id="wef6td-d1e108-Hd1e111">CAP. I.
+        </head>
+               <p xml:id="wef6td-d1e108-d1e114">Rescriptum, impetratum ab excommunicato, est ipso iure nullum, et quic-
+          <!--<lb ed="#Fb"/>-->quid inde secutum est, nisi in causa excommunicationis vel appellationis.
+        </p>
+               <p xml:id="wef6td-d1e108-d1e119">Gregorius IX.
+               </p>
+               <p xml:id="wef6td-d1e108-d1e122">Ipso iure rescriptum, vel processus per ipsum habitus,
+          <!--<lb ed="#Fb"/>-->non valeat, si ab excommunicato super alio quam excom¬
+          <!--<lb ed="#Fb"/>-->municationis vel appellationis articulo fuerit impetratum.
+        </p>
+               <p xml:id="wef6td-d1e108-d1e129">cap. n.
+        </p>
+               <p xml:id="wef6td-d1e108-d1e133">Per clausulam: Quidam alii, possunt soli quatuor conveniri, quorum no¬
+          <!--<lb ed="#Fb"/>-->mina in primo citatorio exprimantur, ne variationi sit locus. Ioann. Andr.
+        </p>
+               <p xml:id="wef6td-d1e108-d1e138">Innocentius IV. in concilio Lugdunensi.
+        </p>
+               <p xml:id="wef6td-d1e108-d1e141">Quum in multis iuris articulis infinitas reprobetur, pro¬
+          <!--<lb ed="#Fb"/>-->vide duximus statuendum, ut per illam generalem clausu¬
+          <!--<lb ed="#Fb"/>-->lam: „ Quidam alii,“ quae frequenter in literis nostris in¬
+          <!--<lb ed="#Fb"/>-->seritur, ultra tres vel quatuor in iudicium non trahantur,
+          <!--<lb ed="#Fb"/>-->quorum nomina in primo citatorio exprimat impetrator, ne
+          <!--<lb ed="#Fb"/>-->locus fraudi forsitan relinquatur, si circa ea possit libere
+          <!--<lb ed="#Fb"/>-->variare *.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e108-Dd1e157">
+               <head xml:id="wef6td-d1e108-Hd1e159">CAP. III.
+        </head>
+               <p xml:id="wef6td-d1e108-d1e162">Si actor contra reum super pluribus personalibus literas impetrat ad
+          <!--<lb ed="#Fb"/>-->diversos, non valent literae, nec processus earum, et reo condemnabitur in
+          <!--<lb ed="#Fb"/>-->expensis. Et idem in reo, conveniente vel reconveniente actorem, eodem
+          <!--<lb ed="#Fb"/>-->durante iudicio. Ioann. Andr.
+        </p>
+               <p xml:id="wef6td-d1e108-d1e171">Idem in eodem.
+        </p>
+               <p xml:id="wef6td-d1e108-d1e174">Dispendia litium aequitatis compendio volentes qua
+          <!--<lb ed="#Fb"/>-->possumus industria coarctare, statutum felicis recordationis
+          <!--<lb ed="#Fb"/>-->Gregorii Papae IX. praedecessoris nostri super hoc edi¬
+          <!--<lb ed="#Fb"/>-->tum ampliantes, decernimus, ut, si quis contra alium plures
+          <!--<lb ed="#Fb"/>-->personales movere voluerit quaestiones, non ad diversos
+          <!--<lb ed="#Fb"/>-->iudices, sed ad eosdem super omnibus huiusmodi quae¬
+          <!--<lb ed="#Fb"/>-->stionibus literas studeat impetrare. Qui vero contrarium
+          <!--<lb ed="#Fb"/>-->fecerit, omni* commodo careat literarum, nec processus
+          <!--<lb ed="#Fb"/>-->habitus valeat per easdem, reo*, si eum per ipsas citaverit
+          <!--<lb ed="#Fb"/>-->vel* fatigaverit, in expensis legitimis comdemnandus.
+          <!--<lb ed="#Fb"/>-->Reus quoque, si eodem durante iudicio actorem sibi ob¬
+          <!--<lb ed="#Fb"/>-->noxium duxerit*, reconventionis beneficio vel conventionis,
+          <!--<lb ed="#Fb"/>-->si contra eum literas impetrare maluerit, de iure suo debet
+        </p>
+               <p xml:id="wef6td-d1e108-d1e201">apud eosdem iudices experiri, nisi eos ut suspectos poterit
+          <!--<lb ed="#Fb"/>-->recusare, simili poena, si contra hoc* fecerit, puniendus.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e108-Dd1e207">
+               <head xml:id="wef6td-d1e108-Hd1e209">CAP. IV.
+        </head>
+               <p xml:id="wef6td-d1e108-d1e212">Receptus per literas facultatis, si ad recipientes spectabat receptio, ipsorum,
+          <!--<lb ed="#Fb"/>-->et non Papae auctoritate intelligitur esse receptus, nisi in literis aliud
+          <!--<lb ed="#Fb"/>-->esset expressum. Si autem receptio non spectabat ad eos, tunc apostolica
+          <!--<lb ed="#Fb"/>-->auctoritate dicitur receptus. Ioann. Andr.
+        </p>
+               <p xml:id="wef6td-d1e108-d1e221">Bonifacius VIII.
+               </p>
+               <p xml:id="wef6td-d1e108-d1e224">Quum aliquibus recipiendi aliquem in canonicum ali¬
+          <!--<lb ed="#Fb"/>-->cuius ecclesiae, non obstantibus eiusdem ecclesiae privi¬
+          <!--<lb ed="#Fb"/>-->legiis, consuetudinibus vel statutis, iuramento, confirmatione
+          <!--<lb ed="#Fb"/>-->apostolica vel quacunque firmitate alia roboratis, per nostras
+          <!--<lb ed="#Fb"/>-->literas concedimus facultatem: si canonicorum receptio alias
+          <!--<lb ed="#Fb"/>-->in ipsa ecclesia non spectat ad eos, quibus huiusmodi literae
+          <!--<lb ed="#Fb"/>-->diriguntur, sed ex earum viribus recipiunt potestatem: is,
+          <!--<lb ed="#Fb"/>-->qui recipitur, auctoritate apostolica dignoscitur esse re¬
+          <!--<lb ed="#Fb"/>-->ceptus. Si vero canonicorum receptio alias pertineat ad
+          <!--<lb ed="#Fb"/>-->eosdem, non apostolica, sed recipientium censetur auctori¬
+          <!--<lb ed="#Fb"/>-->tate receptus, nisi, quod eum auctoritate nostra reciperent,
+          <!--<lb ed="#Fb"/>-->in nostris literis caveretur expresse.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e108-Dd1e251">
+               <head xml:id="wef6td-d1e108-Hd1e253">CAP. v.
+        </head>
+               <p xml:id="wef6td-d1e108-d1e256">Rescriptum papale, quod concedit promoto retentionem primorum bene¬
+          <!--<lb ed="#Fb"/>-->ficiorum usque ad beneplacitum Papae, extinguitur mortuo Papa; secus, si
+          <!--<lb ed="#Fb"/>-->ibi dicatur: „usque ad beneplacitum apostolicae sedis.“ Nec intelligitur
+          <!--<lb ed="#Fb"/>-->tale rescriptum de beneficiis, prius non canonice detentis. H. d. Ioann. Andr.
+        </p>
+               <p xml:id="wef6td-d1e108-d1e265">Idem.
+        </p>
+               <p xml:id="wef6td-d1e108-d1e268">Si gratiose tibi a Romano Pontifice concedatur, ut bene¬
+          <!--<lb ed="#Fb"/>-->ficia, quae tempore tuae promotionis obtinebas*, posses
+          <!--<lb ed="#Fb"/>-->usque ad suae voluntatis beneplacitum retinere: huiusmodi
+          <!--<lb ed="#Fb"/>-->gratia per eius obitum, per quem ipsius beneplacitum
+          <!--<lb ed="#Fb"/>-->omnino exstinguitur, eo ipso exspirat. Secus autem, si
+          <!--<lb ed="#Fb"/>-->usque ad apostolicae sedis beneplacitum gratia concedatur
+          <!--<lb ed="#Fb"/>-->praedicta. Tunc enim, quia sedes ipsa non moritur, durabit
+          <!--<lb ed="#Fb"/>-->perpetuo, nisi a successore fuerit revocata. Praetextu vero
+          <!--<lb ed="#Fb"/>-->talis concessionis, quae debet, quum sit ambitiosa, restringi,
+          <!--<lb ed="#Fb"/>-->ea solum beneficia, quae canonice obtines, potes licite re¬
+          <!--<lb ed="#Fb"/>-->tinere.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e108-Dd1e292">
+               <head xml:id="wef6td-d1e108-Hd1e294">CAP. VI.
+        </head>
+               <p xml:id="wef6td-d1e108-d1e297">Vacatio per mortem et vacatio per renunciationem sunt diversa, et ideo in
+        </p>
+               <p xml:id="wef6td-d1e108-d1e300">literis, ad beneficia impetratis, uno expresso, non venit reliquum.
+        </p>
+               <p xml:id="wef6td-d1e108-d1e303">Idem.
+        </p>
+               <p xml:id="wef6td-d1e108-d1e306">Susceptum ab apostolica sede mandatum, ut, ab aliquo
+          <!--<lb ed="#Fb"/>-->beneficii, quod obtinet, resignatione recepta, ipsum alteri
+          <!--<lb ed="#Fb"/>-->conferas et assignes, adimplere non potes, si ille, antequam
+          <!--<lb ed="#Fb"/>-->resignet, rebus eximatur humanis, quum non per resignatio-
+          <!--<lb ed="#Fb"/>-->nem vacaverit, sed per mortem; nisi de intentione mandantis
+          <!--<lb ed="#Fb"/>-->aliud appareret expresse. Si duo super eodem beneficio
+          <!--<lb ed="#Fb"/>-->literas impetrent, primo eorum, per illius obitum, qui
+          <!--<lb ed="#Fb"/>-->tenebat, secundo vero, per cessionem eiusdem ipsum pro¬
+          <!--<lb ed="#Fb"/>-->ponente vacare: secundus, quum beneficium ipsum cessione,
+          <!--<lb ed="#Fb"/>-->non morte vacaverit, debet primo in ipsius assecutione
+          <!--<lb ed="#Fb"/>-->praeferri.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e108-Dd1e330">
+               <head xml:id="wef6td-d1e108-Hd1e332">CAP. vn.
+        </head>
+               <p xml:id="wef6td-d1e108-d1e335">Licet ignorans, beneficium sibi collatum, in impetratione alterius illius
+          <!--<lb ed="#Fb"/>-->mentionem non fecerit, valent literae; alterum tamen eliget, si de iure
+          <!--<lb ed="#Fb"/>-->simul teneri non possint. Ioann. Andr.
+        </p>
+               <p xml:id="wef6td-d1e108-d1e342">Idem.
+        </p>
+               <p xml:id="wef6td-d1e108-d1e345">Gratia, quam super beneficio a sede apostolica te im¬
+          <!--<lb ed="#Fb"/>-->petrasse proponis, vitiosa reputari non debet, quamvis de
+          <!--<lb ed="#Fb"/>-->alio beneficio, ab episcopo tuo antea tibi absenti et ignoranti
+          <!--<lb ed="#Fb"/>-->collato, nullam, quum tempore impetrationis nescires, feceris
+          <!--<lb ed="#Fb"/>-->mentionem. Utrumque tamen, si talia sint beneficia, quae
+          <!--<lb ed="#Fb"/>-->simul nequeant de iure teneri, habere non potes; sed eligas
+          <!--<lb ed="#Fb"/>-->quod ex eis malueris retinere.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e108-Dd1e361">
+               <head xml:id="wef6td-d1e108-Hd1e363">CAP. VIII.
+        </head>
+               <p xml:id="wef6td-d1e108-d1e366">Si restituatur quis ad gratiam revocatam, sine alterius praeiudicio intel¬
+          <!--<lb ed="#Fb"/>-->ligitur restitutus; unde alteri, ante restitutionem impetranti, praeferri non
+          <!--<lb ed="#Fb"/>-->debet. Ioann. Andr. , .
+        </p>
+               <p xml:id="wef6td-d1e108-d1e373">Idem.
+        </p>
+               <p xml:id="wef6td-d1e108-d1e376">Quamvis is, cuius gratia, per quam mandabatur in certa
+          <!--<lb ed="#Fb"/>-->ecclesia provideri sibi de beneficio proxime vacaturo, per
+          <!--<lb ed="#Fb"/>-->nos fuerat revocata, restituatur a nobis denuo ad eandem:
+          <!--<lb ed="#Fb"/>-->non tamen ei, cui post revocationem, et ante restitutionem
+          <!--<lb ed="#Fb"/>-->praedictas similis in eadem ecclesia gratia facta fuit, nisi
+          <!--<lb ed="#Fb"/>-->de* hoc expresse dixerimus, anteferri debebit, quum talis
+          <!--<lb ed="#Fb"/>-->restitutio, ubi aliud non exprimitur, intelligatur fieri sine
+          <!--<lb ed="#Fb"/>-->iuris praeiudicio alieni.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e108-Dd1e394">
+               <head xml:id="wef6td-d1e108-Hd1e396">CAP. IX.
+        </head>
+               <p xml:id="wef6td-d1e108-d1e399">In literis ad beneficia impetratis inspicitur tempus datae. Unde per illas
+          <!--<lb ed="#Fb"/>-->beneficium curatum obtinere non poterit, qui, licet nunc sit maior, illo
+          <!--<lb ed="#Fb"/>-->tempore minor erat. Ioann. Andr.
+        </p>
+               <p xml:id="wef6td-d1e108-d1e406">Idem.
+        </p>
+               <p xml:id="wef6td-d1e108-d1e409">Si eo tempore, quo tibi de beneficio cum cura vel sine
+          <!--<lb ed="#Fb"/>-->cura mandavimus provideri, ad obtinendum curatum bene¬
+          <!--<lb ed="#Fb"/>-->ficium idoneam non habebas aetatem: tibi, licet nunc legi¬
+          <!--<lb ed="#Fb"/>-->timae effectus sis aetatis, auctoritate literarum huiusmodi,
+          <!--<lb ed="#Fb"/>-->quum tempore datae ipsarum adhuc non esses idoneus, de
+          <!--<lb ed="#Fb"/>-->beneficio curam animarum habente nequaquam poterit pro¬
+          <!--<lb ed="#Fb"/>-->videri. Beneficium autem sine cura, quum ad ipsum suffi¬
+          <!--<lb ed="#Fb"/>-->cientem tunc aetatem haberes, per eas licite poteris obtinere.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e108-Dd1e427">
+               <head xml:id="wef6td-d1e108-Hd1e429">CAP. X.
+        </head>
+               <p xml:id="wef6td-d1e108-d1e432">Gratia generalis non praeiudicat speciali, et debet facere mentionem de
+        </p>
+               <p xml:id="wef6td-d1e108-d1e435">praecedenti privilegio, consuetudine vel statuto. H. d. Zenzel.
+        </p>
+               <p xml:id="wef6td-d1e108-d1e438">Idem.
+        </p>
+               <p xml:id="wef6td-d1e108-d1e441">Si propter tua debita persolvenda fructus beneficiorum
+          <!--<lb ed="#Fb"/>-->primi anni, quae in tua vacabunt dioecesi, tibi, non obstan¬
+          <!--<lb ed="#Fb"/>-->tibus quibuslibet consuetudinibus, privilegiis vel statutis, per
+          <!--<lb ed="#Fb"/>-->quae nostra impediri posset* concessio, usque ad quin¬
+          <!--<lb ed="#Fb"/>-->quennium de speciali gratia concedimus*: intentionis no¬
+          <!--<lb ed="#Fb"/>-->strae nequaquam exsistit, si fructus huiusmodi, ecclesiae
+          <!--<lb ed="#Fb"/>-->tuae fabricae vel alteri usui, seu cuicunque singulari per¬
+          <!--<lb ed="#Fb"/>-->sonae de speciali consuetudine, privilegio vel statuto forsitan
+          <!--<lb ed="#Fb"/>-->debeantur, quod eis per concessionem ipsam, nisi hoc ex¬
+          <!--<lb ed="#Fb"/>-->presse caveatur in ea, praeiudicium aliquod generetur.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e108-Dd1e464">
+               <head xml:id="wef6td-d1e108-Hd1e466">CAP. XI.
+        </head>
+               <p xml:id="wef6td-d1e108-d1e469">Causae ab apostolica sede vel eius legato committi debent dignitatem
+          <!--<lb ed="#Fb"/>-->obtinentibus vel canonicatum ecclesiae Cathedralis. Nec tractari debent,
+          <!--<lb ed="#Fb"/>-->nisi in civitatibus vel locis insignibus. H. d. usque ad §. Quum vero. —
+          <!--<lb ed="#Fb"/>-->§. 1. Actore et reo eiusdem dioecesis exsistentibus, causa committi non
+          <!--<lb ed="#Fb"/>-->debet extra illam, nisi in sex casibus, in quibus tamen non trahetur ultra
+          <!--<lb ed="#Fb"/>-->unam diaetam, et, nisi in duobus ultimis casibus impetrans per iuramentum
+          <!--<lb ed="#Fb"/>-->fidem fecerit de illis, repelletur a iudice, et in expensis condemnabitur.
+          <!--<lb ed="#Fb"/>-->Hoc dicit usque ad §. Quum autem. Dominicus. — §. 2. Actor contra reum
+          <!--<lb ed="#Fb"/>-->diversae dioecesis debet impetrare delegatum vel in dioecesi rei, vel in alia
+          <!--<lb ed="#Fb"/>-->non propria, nec ultra unam- diaetam distante. Dominicus. — §. 3. Delega¬
+          <!--<lb ed="#Fb"/>-->tus extra locum commissionis nec partes citare, nec causam cognoscere
+          <!--<lb ed="#Fb"/>-->potest sine expresso partium consensu, nec subdelegare locis vel personis
+          <!--<lb ed="#Fb"/>-->aliis, quam hic expressis. Ioann. Andr. —• §. 4. Delegatus nihil debet a
+          <!--<lb ed="#Fb"/>-->partibus recipere, nisi esculentum et poculentum libere oblatum, quod
+          <!--<lb ed="#Fb"/>-->paucis possit consumi diebus, vel moderatas expensas, si non sunt pauperes,
+          <!--<lb ed="#Fb"/>-->quando pro necessitate vel utilitate, non malitiose, extra domicilium per¬
+          <!--<lb ed="#Fb"/>-->geret. Dominicus. — §.5. Delegatus, nisi indigeat, non assumat assessorem;
+          <!--<lb ed="#Fb"/>-->alias de suo illi provideat. Si eget, non suspectum partibus assumet, cum
+          <!--<lb ed="#Fb"/>-->moderato salario a partibus solvendo. — §. 6. Delegatus taxare debet sala¬
+          <!--<lb ed="#Fb"/>-->rium notariorum, nec participare debet cum ipsis vel assessoribus in salario.
+          <!--<lb ed="#Fb"/>-->Dom. — §. 7. Delegatus, recipiens aliquid contra prohibitionem huius
+          <!--<lb ed="#Fb"/>-->capituli, tenetur restituere, non obstante dantis remissione. Ioann. Andr.
+          <!--<lb ed="#Fb"/>-->— §. 8. Delegatus non debet vocare testes, nisi statu causae requirente, et
+          <!--<lb ed="#Fb"/>-->producens illis administrare debet expensas in veniendo, stando et re¬
+          <!--<lb ed="#Fb"/>-->deundo. Dominicus. — §. 9. Gesta contra hanc decretalem sunt ipso iure
+          <!--<lb ed="#Fb"/>-->nulla. H. d. et non dividitur.
+        </p>
+               <p xml:id="wef6td-d1e108-d1e522">Idem.
+        </p>
+               <p xml:id="wef6td-d1e108-d1e525">Statutum, quod circa iudices a sede apostolica de¬
+          <!--<lb ed="#Fb"/>-->putandos nuper edidimus , quum quaedam contenta in eo,
+          <!--<lb ed="#Fb"/>-->quae pro communi utilitate credebantur inducta, sicut ex¬
+          <!--<lb ed="#Fb"/>-->perientia docuit, tendere dignoscantur ad noxam, sanctione
+          <!--<lb ed="#Fb"/>-->praesenti, quam irrefragabiliter observari mandamus, sua¬
+          <!--<lb ed="#Fb"/>-->dente utilitate in melius duximus reformandum. Sancimus
+          <!--<lb ed="#Fb"/>-->igitur, ut nullis, nisi dignitate praeditis, aut personatum
+          <!--<lb ed="#Fb"/>-->obtinentibus seu ecclesiarum cathedralium canonicis, causae
+          <!--<lb ed="#Fb"/>-->auctoritate literarum sedis apostolicae vel legatorum eius¬
+          <!--<lb ed="#Fb"/>-->dem de cetero committantur, nec audiantur alibi, quam in
+          <!--<lb ed="#Fb"/>-->civitatibus vel locis insignibus, ubi possit commode copia
+          <!--<lb ed="#Fb"/>-->peritorum haberi. §. i. Quum vero eiusdem civitatis seu<!--<lb ed="#Fb"/>-->dioecesis fuerint actor et reus, extra ipsas causa non com¬
+          <!--<lb ed="#Fb"/>-->mittatur, nec conveniatur aliquis eorundem, nisi ab episcopo
+          <!--<lb ed="#Fb"/>-->contra aliquem de sua dioecesi, vel ab aliquo contra eum,
+          <!--<lb ed="#Fb"/>-->aut contra eius capitulum, seu contra universitatem civitatis,
+          <!--<lb ed="#Fb"/>-->villae aut castri fuerit actio dirigenda, vel nisi actor, eandem
+          <!--<lb ed="#Fb"/>-->civitatem seu dioecesim intrare non audens, aut sui adver¬
+          <!--<lb ed="#Fb"/>-->sarii potentiam merito perhorrescens, eum infra ipsas
+          <!--<lb ed="#Fb"/>-->nequeat convenire secure. In his quippe casibus extra
+          <!--<lb ed="#Fb"/>-->dictas civitatem et dioecesim possit contra praedictos causa
+          <!--<lb ed="#Fb"/>-->committi; nullus tamen eorum ultra unam diaetam a fine
+          <!--<lb ed="#Fb"/>-->suae dioecesis valeat conveniri. Sed et in duobus ultimis
+          <!--<lb ed="#Fb"/>-->casibus, nisi impetrans de praedicto* timore, quem in
+          <!--<lb ed="#Fb"/>-->literis commissionibus exprimere teneatur, primo fidem
+          <!--<lb ed="#Fb"/>-->iudici faciat saltem per proprium iuramentum, iudex ipse
+          <!--<lb ed="#Fb"/>-->nullatenus in causa procedat, sed partes a sua iurisdictione
+          <!--<lb ed="#Fb"/>-->dimittens, impetrantem eundem in expensis legitimis alteri
+          <!--<lb ed="#Fb"/>-->parti condemnet. §. 2. Quum autem actor* et reus civita¬
+          <!--<lb ed="#Fb"/>-->tum et dioecesum fuerint diversarum, si actor in civitate vel
+          <!--<lb ed="#Fb"/>-->dioecesi rei iudicem habere recuset, ipsum non in sua, sed
+          <!--<lb ed="#Fb"/>-->in alia civitate vel dioecesi libere impetrare valeat, reum¬
+          <!--<lb ed="#Fb"/>-->que trahere ad eandem; dummodo locus, ad quem eum
+          <!--<lb ed="#Fb"/>-->traxerit, ultra unam diaetam, sicut in casu alio praemittitur,
+          <!--<lb ed="#Fb"/>-->minime sit remotus. §.3. In nullo quoque casuum prae¬
+          <!--<lb ed="#Fb"/>-->dictorum iudex extra civitatem seu dioecesim, in quibus
+          <!--<lb ed="#Fb"/>-->deputatus fuerit, citet partes, nec de causa sibi commissa
+          <!--<lb ed="#Fb"/>-->cognoscat, nisi ad id expressus accesserit earundem assen¬
+          <!--<lb ed="#Fb"/>-->sus; neque alibi, quam infra illas, et personis duntaxat
+          <!--<lb ed="#Fb"/>-->designatis superius committat quomodolibet vices suas.
+          <!--<lb ed="#Fb"/>-->§. 4. Insuper, ut gratis et cum omni puritate iudicium coram
+          <!--<lb ed="#Fb"/>-->ipso procedat, nullum munus vel quicquid* aliud, nisi
+          <!--<lb ed="#Fb"/>-->forsan esculentum vel poculentum mera liberalitate obla¬
+          <!--<lb ed="#Fb"/>-->tum, quod paucis consumi possit diebus, vel nisi, quum
+          <!--<lb ed="#Fb"/>-->ipsum propter causam sibi commissam contigerit extra
+          <!--<lb ed="#Fb"/>-->suum domicilium proficisci, moderatas expensas recipere
+          <!--<lb ed="#Fb"/>-->ab eisdem partibus qualitercunque praesumat, provisurus
+          <!--<lb ed="#Fb"/>-->attente, quod in ipsis expensis modum nequaquam excedat,
+          <!--<lb ed="#Fb"/>-->nec plus ab una parte quam ab alia exigat, quum commune
+          <!--<lb ed="#Fb"/>-->gerat negotium utriusque; quodque, ubi causae sibi com¬
+          <!--<lb ed="#Fb"/>-->missae utilitas vel necessitas non exegerit, occasionem
+          <!--<lb ed="#Fb"/>-->propter habendas expensas proficiscendi extra domicilium
+          <!--<lb ed="#Fb"/>-->non assumat; sed et, ubi notabiliter fuerint pauperes
+          <!--<lb ed="#Fb"/>-->litigantes, etiam pro expensis nil prorsus exigat ab eisdem.
+          <!--<lb ed="#Fb"/>-->§. 5. Assessorem autem, ut quandoque faciunt aliqui fraudu¬
+          <!--<lb ed="#Fb"/>-->lenter, nisi eo indigeat, quod conscientiae relinquatur eius¬
+          <!--<lb ed="#Fb"/>-->dem, sibi nequaquam adiungat; alioquin de suo proprio
+          <!--<lb ed="#Fb"/>-->providere teneatur eidem. Si autem indigeat: ipsum neutri
+          <!--<lb ed="#Fb"/>-->parti suspectum assumens, ei de competenti salario, provide
+          <!--<lb ed="#Fb"/>-->moderando ab eo, faciat a partibus communiter provideri.
+          <!--<lb ed="#Fb"/>-->§. 6. Notarium vero vel notarios, in causa sibi commissa
+          <!--<lb ed="#Fb"/>-->scribentes, qui ut plurimum in exigendo salario metas
+          <!--<lb ed="#Fb"/>-->rationis excedunt, ut ad ipsius spectat officium, prudenter
+          <!--<lb ed="#Fb"/>-->refrenet, nec cum ipsis aut cum assessore praefato lucrum
+          <!--<lb ed="#Fb"/>-->participet ullo modo. §. 7. Si quid autem contra constitutio¬
+          <!--<lb ed="#Fb"/>-->nem praesentem receperit, ad ipsius restitutionem integram
+          <!--<lb ed="#Fb"/>-->teneatur, nulla eorum, quibus restitutio facienda fuerit,
+          <!--<lb ed="#Fb"/>-->remissione ullatenus profutura eidem. §. 8. Pro ferendo
+          <!--<lb ed="#Fb"/>-->quoque testimonio, praetextu cuius aliqui alios fraudulenter
+          <!--<lb ed="#Fb"/>-->interdum a iudicibus vocari procurant, ut eos laboribus et
+          <!--<lb ed="#Fb"/>-->expensis fatigent, aut extorqueant aliquid ab eisdem, nullum
+          <!--<lb ed="#Fb"/>-->ullatenus convocet, nisi quando conditio et status causae
+          <!--<lb ed="#Fb"/>-->requirent. Sed nec tunc, nisi a producente, competentes
+          <!--<lb ed="#Fb"/>-->vocato pro testimonio veniendo, stando, et redeundo faciat
+          <!--<lb ed="#Fb"/>-->ministrari expensas. §. 9. Quicquid autem contra prae¬
+          <!--<lb ed="#Fb"/>-->missa vel eorum aliquod contigerit attentari, sit ipso iure
+          <!--<lb ed="#Fb"/>-->irritum et inane.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e108-Dd1e681">
+               <head xml:id="wef6td-d1e108-Hd1e683">CAP. XH.
+        </head>
+               <p xml:id="wef6td-d1e108-d1e686">Sola praeventa praesentatio et receptio in canonicum secundi impetrantis
+          <!--<lb ed="#Fb"/>-->in eandem ecclesia, non excludit primum impetrantem a praebenda vacante
+          <!--<lb ed="#Fb"/>-->tempore suae receptionis, vel post a vacante ante suam receptionem vel
+          <!--<lb ed="#Fb"/>-->praesentationem; et hoc, si per processum exsecutoris vel interpositionem
+          <!--<lb ed="#Fb"/>-->decreti pro primo impetrante affecta exstiterat, nisi dolo vel negligentia
+          <!--<lb ed="#Fb"/>-->excluderetur ab eadem. H. d. Dominicus.
+        </p>
+               <p xml:id="wef6td-d1e108-d1e699">Idem.
+        </p>
+               <p xml:id="wef6td-d1e108-d1e702">Tibi, qui gratiam in Biturensi* ecclesia impetrasti a
+          <!--<lb ed="#Fb"/>-->nobis, certo exsecutore concesso, qui te in canonicum recipi
+          <!--<lb ed="#Fb"/>-->faceret, et de praebenda tibi, si qua in eadem ecclesia tunc
+          <!--<lb ed="#Fb"/>-->vacabat, alioquin de vacatura proxime provideret, alius,
+          <!--<lb ed="#Fb"/>-->similem gratiam post tuam impetrationem obtinens in
+          <!--<lb ed="#Fb"/>-->eadem, licet prius quam tu suas literas praesentaverit, et in
+          <!--<lb ed="#Fb"/>-->canonicum sit receptus, in praebenda tempore tuae re¬
+          <!--<lb ed="#Fb"/>-->ceptionis, vel etiam post vacante, ex quo alteri ante tuam
+          <!--<lb ed="#Fb"/>-->receptionem collata non exstitit, anteferri non debet. Idem
+          <!--<lb ed="#Fb"/>-->quoque, si ante receptionem tuam in canonicum vacavisset
+          <!--<lb ed="#Fb"/>-->praebenda per processum tui exsecutoris, qui ei, ad quem
+          <!--<lb ed="#Fb"/>-->praebendae collatio pertinebat, notificaverat, quod eam
+          <!--<lb ed="#Fb"/>-->volebat per huiusmodi potestatem conferre, aut interdixerat,
+          <!--<lb ed="#Fb"/>-->ne conferret eandem, seu illam suae reservaverat collationi,
+          <!--<lb ed="#Fb"/>-->praesertim cum interpositione decreti affecta; tunc enim
+          <!--<lb ed="#Fb"/>-->tibi et non alteri debet praebenda huiusmodi assignari.
+          <!--<lb ed="#Fb"/>-->Quinimmo si ante receptionem et praesentationem etiam
+          <!--<lb ed="#Fb"/>-->tuam praebenda vacavit*, idem erit censendum, si in
+          <!--<lb ed="#Fb"/>-->huiusmodi gratia tibi facta decretum a nobis fuerat irritum
+          <!--<lb ed="#Fb"/>-->et inane quod contra ipsam contingeret attentari. In prae¬
+          <!--<lb ed="#Fb"/>-->dictis itaque casibus debes tu praebendam vacantem potius
+        </p>
+               <p xml:id="wef6td-d1e108-d1e745">quam impetrator ultimus obtinere; dum tamen dolus tibi
+          <!--<lb ed="#Fb"/>-->non possit vel notabilis negligentia imputari.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e108-Dd1e751">
+               <head xml:id="wef6td-d1e108-Hd1e753">CAP. xrn.
+        </head>
+               <p xml:id="wef6td-d1e108-d1e756">Si primo sub conditione provideri mandatur, et secundus, pure impetrans,
+          <!--<lb ed="#Fb"/>-->priusquam veniat conditio, a Papa vel exsecutore suo canonicatum obtineat:
+          <!--<lb ed="#Fb"/>-->in assecutione praebendae primo praefertur. Ioann. Andr.
+        </p>
+               <p xml:id="wef6td-d1e108-d1e763">Idem.
+        </p>
+               <p xml:id="wef6td-d1e108-d1e766">Si pro te alicui directa fuerint scripta nostra, ut tibi de
+          <!--<lb ed="#Fb"/>-->canonicatu et praebenda ecclesiae Biturensis*, si ad id
+          <!--<lb ed="#Fb"/>-->accederet episcopi et capituli ecclesiae praelibatae assensus,
+          <!--<lb ed="#Fb"/>-->auctoritate apostolica provideret: alter, postmodum impe¬
+          <!--<lb ed="#Fb"/>-->trans, qui ex collatione apostolicae sedis vel exsecutoris
+          <!--<lb ed="#Fb"/>-->super hoc deputati provisione, priusquam episcopi et
+          <!--<lb ed="#Fb"/>-->capituli praedictorum assensus* ad provisionem tibi acce¬
+          <!--<lb ed="#Fb"/>-->deret faciendam, canonicatum obtinuit Biturensem*, licet
+          <!--<lb ed="#Fb"/>-->tu, interveniente postea praedictorum assensu, dicti prioris
+          <!--<lb ed="#Fb"/>-->mandati auctoritate in canonicum ipsius ecclesiae sis re¬
+          <!--<lb ed="#Fb"/>-->ceptus, in praebenda vacante tibi merito antefertur.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e108-Dd1e790">
+               <head xml:id="wef6td-d1e108-Hd1e792">CAP. xrv.
+        </head>
+               <p xml:id="wef6td-d1e108-d1e795">Haec est solennis decretalis, et per Ioannem Andreae subtiliter glossata,
+          <!--<lb ed="#Fb"/>-->et potest sic secundum eum summari: Si inter duos impetrantes non
+          <!--<lb ed="#Fb"/>-->apparet prioritas. Haec decretalis duo membra distinguit, et in secundo
+          <!--<lb ed="#Fb"/>-->sub distinguit. Et partes patent secundum Ioannem Andreae, licet glossa
+          <!--<lb ed="#Fb"/>-->prima latius summet.
+        </p>
+               <p xml:id="wef6td-d1e108-d1e806">Idem.
+        </p>
+               <p xml:id="wef6td-d1e108-d1e809">Duobus super provisione simili, sibi facienda in eadem
+          <!--<lb ed="#Fb"/>-->ecclesia, literas a nobis obtinentibus una die, certis eis
+          <!--<lb ed="#Fb"/>-->exsecutoribus deputatis, si non appareat, quis primo impe¬
+          <!--<lb ed="#Fb"/>-->traverit ex eisdem, is eorum, cui canonicatum contulimus,
+          <!--<lb ed="#Fb"/>-->est in praebenda praeferendus alteri, qui a nobis canonica¬
+          <!--<lb ed="#Fb"/>-->tum non exstitit assecutus, licet prius quam alius eis, ad
+          <!--<lb ed="#Fb"/>-->quos spectat canonicorum receptio et collatio praebendarum,
+          <!--<lb ed="#Fb"/>-->suas praesentaverit literas, et ab eis in canonicum sit re¬
+          <!--<lb ed="#Fb"/>-->ceptus. Si vero neutri eorum vel utrique canonicatum con¬
+          <!--<lb ed="#Fb"/>-->tulimus, tunc, ex quo in gratia sunt aequales, is, qui primo
+          <!--<lb ed="#Fb"/>-->praesentaverit, erit potior in praebenda. Quodsi forsan
+          <!--<lb ed="#Fb"/>-->ambo simul in praesentando concurrant, hi, ad quos, ut
+          <!--<lb ed="#Fb"/>-->praemittitur, spectat canonicorum receptio et collatio prae¬
+          <!--<lb ed="#Fb"/>-->bendarum, vel eorum maior pars, ex eis alterum, quem
+          <!--<lb ed="#Fb"/>-->voluerint, eligere teneantur. Quo electo, alius omnino
+          <!--<lb ed="#Fb"/>-->careat impetratis, nisi ex tenore literarum ipsius expresse
+          <!--<lb ed="#Fb"/>-->appareat, quod utrique ipsorum voluerimus providere.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e108-Dd1e845">
+               <head xml:id="wef6td-d1e108-Hd1e847">CAP. xv.
+        </head>
+               <p xml:id="wef6td-d1e108-d1e850">Omnes indulgentiae concessae a Bonifacio, vel suis praedecessoribus,
+          <!--<lb ed="#Fb"/>-->clericis, de percipiendis perpetuo fructibus suorum beneficiorum in ab¬
+          <!--<lb ed="#Fb"/>-->sentia, sunt revocatae. Et profitetur Papa, se illas in posterum non
+          <!--<lb ed="#Fb"/>-->daturum. Ioann. Andr.
+        </p>
+               <p xml:id="wef6td-d1e108-d1e859">Idem.
+        </p>
+               <p xml:id="wef6td-d1e108-d1e862">Quia per ambitiosam importunitatem petentium tam
+          <!--<lb ed="#Fb"/>-->nos quam nonnulli praedecessores nostri Romani Pontifices
+          <!--<lb ed="#Fb"/>-->indulgentias perpetuas multis concessimus de percipiendis
+          <!--<lb ed="#Fb"/>-->fructibus beneficiorum suorum, distributionibus quotidianis
+          <!--<lb ed="#Fb"/>-->duntaxat exceptis, sive in scholis essent, sive in ecclesiarum
+          <!--<lb ed="#Fb"/>-->suarum altera residerent, aut in Romana curia moram
+          <!--<lb ed="#Fb"/>-->traherent, seu alio certo loco, vel etiam ubicunque, ex quo
+          <!--<lb ed="#Fb"/>-->insolentiae oriuntur vagandi, et dissolutionis praeparatur
+          <!--<lb ed="#Fb"/>-->materia, minuitur cultus divinus, quem desideramus augeri,
+          <!--<lb ed="#Fb"/>-->et officium plerumque, propter quod beneficium ecclesiasti¬
+          <!--<lb ed="#Fb"/>-->cum datur, omittitur: nos volentes emendare praeterita, et
+          <!--<lb ed="#Fb"/>-->quantum possumus adversus futura cavere, omnes huius¬
+          <!--<lb ed="#Fb"/>-->modi et similes indulgentias, personis, non ecclesiis vel
+          <!--<lb ed="#Fb"/>-->dignitatibus datas, penitus revocamus, et earum concessio¬
+          <!--<lb ed="#Fb"/>-->nem nostris volumus exsulare temporibus. Quodque nobis
+          <!--<lb ed="#Fb"/>-->licere non patimur, nostris succesoribus indicamus.
+        </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

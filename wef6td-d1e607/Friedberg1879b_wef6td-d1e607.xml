@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>TITULUS V. </title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>TITULUS V. </title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e607"><!-- wef6td-l2t5 -->
+            <head xml:id="wef6td-d1e607-Hd1e103">TITULUS V. </head>
+            <p xml:id="wef6td-d1e607-d1e106"> DE RESTITUTIONE SPOLIATORUM. </p>
+            <div xml:id="wef6td-d1e607-Dd1e109">
+               <head xml:id="wef6td-d1e607-Hd1e111">CAP. I. </head>
+               <p xml:id="wef6td-d1e607-d1e114"> In civilibus non admittitur spoliationis exceptio, facta ab alio quam ab actore. In criminalibus admittitur facta a tertio, dummodo sit de tota substantia vel maiori parte. Exceptio probari debet infra quindecim dies; alias fit condemnatio expensarum. Ioann. Andr. — §. 1. Excipiens de spoliatione facta a tertio, infra certum tempus a iudice statuendum debet restitutionem petere; alias accusabitur exceptione non obstante. Ioann. Andr. — §. 2. Agenti super rebus ecclesiasticis non obstat exceptio spoliationis privatarum rerum vel e converso. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e607-d1e117"> Innocentius IV. in concilio Lugdunensi . </p>
+               <p xml:id="wef6td-d1e607-d1e120"> Frequens et assidua nos querela circumstrepit, quod spoliationis exceptio, nonnunquam in iudiciis calumniose proposita, causas ecclesiasticas impedit et perturbat . Dum enim exceptioni insistitur, appellationes interponi contingit, et sic intermittitur et plerumque perimitur causae cognitio principalis. Et propterea nos, qui voluntarios labores appetimus, ut quietem aliis praeparemus, finem litibus cupientes imponi et calumniae materiam amputare *, statuimus, ut in civilibus negotiis spoliationis obiectu, quae ab alio quam ab  actore facta proponitur, iudex in principali procedere non postponat. Sed si in civilibus ab actore , in criminalibus autem se spoliatum reus asserat a quocunque: infra quindecim dierum spatium post diem, in quo proponitur, quod asserit  comprobabit ; alioquin in expensis, quas in-terim actor ob hoc fecerit, iudiciali taxatione praehabita condemnetur, alias, si iudici aequum visum fuerit, puniendus. Illum autem spoliatum intelligi volumus in   hoc casu, quum criminaliter accusatur, qui tota sua substantia vel maiori parte ipsius se per violentiam destitutum affirmat. Et secundum hoc loqui canones sano credendum est  intellectu, quia nec nudi contendere, nec inermes inimicis opponere nos debemus. Habet enim spoliatus privilegium, ut non possit exui iam nudatus. §. i. Solet autem  inter scholasticos dubitari, si spoliatus   s   a tertio de spoliatione contra suum accusatorem * excipiat, an ei tempus a iudice debeat indulgeri, infra quod restitutionem imploret, ne forte sic velit exsistere  ut omnem accusationem eludat ; quod satis aequitati et iuri consonum aestimamus *. Quodsi  infra tempus indultum restitutionem non petierit, et causam, quum potuerit, non ducat  ad finem: non obstante spoliationis exceptione deinceps poterit accusari. §. 2. Ad hoc sancimus , ut rerum privatarum spoliatio agenti super ecclesiasticis , vel e contrario, nullatenus opponatur. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e607-Dd1e124">
+               <head xml:id="wef6td-d1e607-Hd1e126">CAP.   11  . </head>
+               <p xml:id="wef6td-d1e607-d1e129"> Ecclesia, quae petit restitutionem decimarum, quas se dicit infra parochiam alterius possedisse, non auditur, nisi probet possessionem legitimam. </p>
+               <p xml:id="wef6td-d1e607-d1e132"> Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e607-d1e135"> Bonifacius VIII. </p>
+               <p xml:id="wef6td-d1e607-d1e138"> Ad decimas, quas canonici sancti Nicolai se asserunt infra parochiam ecclesiae B. clerici possedisse aliquamdiu, et eis per eundem clericum spoliatos fuisse, nequaquam debent restitui, nisi evidenter docuerint, quod earum possessionem legitime assecuti fuissent , quia eas occupasse iniuste verisimiliter praesumuntur, quum proveniant ex praediis infra alienam  parochiam constitutis, sitque manifestum, nisi aliud ostendatur, eas de iure communi ad eandem ecclesiam pertinere. </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

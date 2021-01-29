@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>TITULUS XII. </title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>TITULUS XII. </title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e735"><!-- wef6td-l2t12 -->
+            <head xml:id="wef6td-d1e735-Hd1e103">TITULUS XII. </head>
+            <p xml:id="wef6td-d1e735-d1e106"> DE EXCEPTIONIBUS.</p>
+      
+            <div xml:id="wef6td-d1e735-Dd1e109">
+               <head xml:id="wef6td-d1e735-Hd1e111">CAP. I. </head>
+               <p xml:id="wef6td-d1e735-d1e114"> Sex sunt dicta huius decretalis. Primo ponit arengam et ius antiquum, et constitutionis causam. Secundo dicit, quod reus, qui contra actorem de excommunicatione excipit, ut ipsum repellat ab agendo, debet ipsius excommunicationis speciem et nomen excommunicatoris exprimere, et eam infra octo dies probare; alias iudex procedet in causa, et illum in expensis condemnabit. Tertio statuit, quod si iterum obiiciatur et probetur eadem vel alia excommunicatio, actor repellitur; sed quae acta sunt valebunt. Quarto, quod ultra duas vices haec exceptio non opponatur, nisi ex causa. Quinto, quod, si opponitur post rem iudicatam, impeditur exsecutio, sententia nihilominus valet. Sexto dicitur, quod iudex publice excommunicatum, reo non opponente, ex suo officio debet ab agendo repellere. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e735-d1e117"> Innocentius IV. in concilio Lugdunensi . </p>
+               <p xml:id="wef6td-d1e735-d1e120"> Pia consideratione statuit mater ecclesia, quod maioris 
+          excommunicationis exceptio, in quacunque parte iudiciorum opposita, lites differat, et repellat agentes, ut ex hoc magis censura ecclesiastica timeatur, communionis * periculum evitetur, contumaciae vitium reprimatur, et excommunicati, dum a communibus actibus excluduntur, rubore suffusi ad humilitatis gratiam et reconciliationis affectum facilius inclinentur. Sed hominum succrescente  malitia quod provisum est ad remedium tendit ad noxam. Dum enim in causis ecclesiasticis frequentius haec exceptio per malitiam opponitur , contingit interdum  differri negotia, et partes fatigari laboribus et expensis. Proinde , quia morbus iste quasi communis irrepsit, dignum duximus communem adhibere medelam. Si quis igitur excommunicationem opponit , speciem illius  et nomen excommunicatoris exprimat, sciturus eam rem se deferre debere in publicam notionem, quam infra octo dierum spatium, (die, in quo proponitur, minime computato,) probare valeat apertissimis documentis. Quod si non probaverit, iudex in causa procedere non omittat, reum in expensis, quas actor ob hoc diebus illis se fecisse docuerit, praehabita taxatione condemnans. Si vero postmodum, instantia durante iudicii et probationis   copia succedente, de eadem excommunicatione vel alia excipiatur iterum et probetur: actor in sequentibus excludatur, donec meruerit absolutionis gratiam obtinere, iis, quae praecesserunt, nihilominus  in suo robore duraturis; proviso,quod * ultra duas vices haec non opponatur  exceptio, praeterquam si excommunicatio nova emerserit, vel evidens et prompta probatio supervenerit de antiqua. Sed si post rem iudica-tam talis exceptio proponatur, exsecutionem impediet; sed sententia, quae praecessit, non minus robur debitum obtinebit, eo' tamen salvo, ut, si actor excommunicatus sit publice, et hoc iudex noverit, quandocunque, etsi  de hoc reus non excipiat, iudex exs officio suo actorem repellere non postponat. </p>
+            </div>
+            <div xml:id="wef6td-d1e735-Dd1e124">
+               <head xml:id="wef6td-d1e735-Hd1e126"> Cap. II. </head>
+               <p xml:id="wef6td-d1e735-d1e129"> Exceptio rei iudicatae per ecclesiasticum iudicem admitti debet in foro saeculari, et e converso. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e735-d1e132"> Bonifacius VIII . </p>
+        
+               <p xml:id="wef6td-d1e735-d1e135"> Quum quidam saeculares iudices, dum coram eis excipitur de re per ecclesiasticum iudicem iudicata, in casu, quo * ad eum pertinet cognitio de consuetudine vel de iure, recusent excipientes audire in derogationem iurisdictionis ecclesiasticae et contemptum: decernimus, ut per censuram ecclesiasticam ab iniquitate coerceantur huiusmodi, et ad admittendum exceptionem eandem, ubi alias de iure debet admitti, a locorum ordinariis compellantur. Similiter ecclesiastici iudices, si coram ipsis excipiatur de re per saecularem iudicem iudicata, exceptionem ipsam admittant in iis, quae animarum periculum non inducunt, per superiores suos, nisi fecerint, animadversione debita castigandi. </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

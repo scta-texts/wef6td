@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>TITULUS VIII. </title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>TITULUS VIII. </title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e1511"><!-- wef6td-l5t8 -->
+            <head xml:id="wef6td-d1e1511-Hd1e103">TITULUS VIII. </head>
+            <p xml:id="wef6td-d1e1511-d1e106"> DE INIURIIS ET DAMNO DATO. </p>
+            <div xml:id="wef6td-d1e1511-Dd1e109">
+               <head xml:id="wef6td-d1e1511-Hd1e111">CAP. UN. </head>
+               <p xml:id="wef6td-d1e1511-d1e114"> Repressaliae contra personas ecclesiasticas concedi vel concessae extendi
+          <!--<lb ed="#Fb"/>-->non debent; contra facientes, nisi revocent infra mensem, singulares sunt
+          <!--<lb ed="#Fb"/>-->excommunicati, universitates interdictae. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e1511-d1e121"> Gregorius X. in concilio generali Lugdunensi . </p>
+               <p xml:id="wef6td-d1e1511-d1e124"> Etsi pignorationes, quas vulgaris elocutio repressalias
+          <!--<lb ed="#Fb"/>-->nominat, in quibus alius pro alio praegravatur, tanquam
+          <!--<lb ed="#Fb"/>-->graves legibus et aequitati naturali contrariae civili sint con¬
+          <!--<lb ed="#Fb"/>-->stitutione prohibitae, ut tamen earum prohibitio in personis
+          <!--<lb ed="#Fb"/>-->ecclesiasticis tanto amplius timeatur, quanto in illis spe¬
+          <!--<lb ed="#Fb"/>-->cialius  inhibentur: eas concedi contra personas praedictas
+          <!--<lb ed="#Fb"/>-->seu bona ipsorum *, aut quantumcunque generaliter prae¬
+          <!--<lb ed="#Fb"/>-->textu cuiusvis consuetudinis, quam potius reputamus abu¬
+          <!--<lb ed="#Fb"/>-->sum fore *, concessas, ad illas extendi praesenti decreto
+          <!--<lb ed="#Fb"/>-->districtius inhibemus. Illi autem, qui contra fecerint, ad¬
+          <!--<lb ed="#Fb"/>-->versus personas easdem pignorationes seu repressalias con¬
+          <!--<lb ed="#Fb"/>-->cedendo, vel extendendo ad eas, nisi praesumptionem
+          <!--<lb ed="#Fb"/>-->huiusmodi revocaverint a concessionis vel extensionis tem¬
+          <!--<lb ed="#Fb"/>-->pore infra mensem, si personae singulares fuerint, senten¬
+          <!--<lb ed="#Fb"/>-->tiam excommunicationis incurrant, si vero universitas, eccle¬
+          <!--<lb ed="#Fb"/>-->siastico subiaceat interdicto. </p>
+        
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

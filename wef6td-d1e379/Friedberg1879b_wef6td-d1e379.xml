@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>TITULUS XVI.</title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>TITULUS XVI.</title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e379"><!-- wef6td-l1t16 -->
+            <head xml:id="wef6td-d1e379-Hd1e103">TITULUS XVI.</head>
+            <p xml:id="wef6td-d1e379-d1e106">DE OFFICIO ORDINARII.
+      </p>
+            <div xml:id="wef6td-d1e379-Dd1e109">
+               <head xml:id="wef6td-d1e379-Hd1e111">CAP. I.
+        </head>
+               <p xml:id="wef6td-d1e379-d1e114">Archiepiscopus non potest sibi constituere officiales in dioecesi suffraganeo¬
+          <!--<lb ed="#Fb"/>-->rum suorum etiam pro futuris causis per appellationem devolvendis ad
+          <!--<lb ed="#Fb"/>-->ipsum, nisi de consuetudine hoc habeat; et tunc etiam tales officiales
+          <!--<lb ed="#Fb"/>-->inhibere non possunt, priusquam fuerit appellatum. — §. 1. Donec archi¬
+          <!--<lb ed="#Fb"/>-->episcopus de facili potest haberi, officialis eius suflfraganeum excommuni¬
+          <!--<lb ed="#Fb"/>-->care, suspendere aut interdicere non potest, propter ordinis (melius dixisset:
+          <!--<lb ed="#Fb"/>-->,, officii “) episcopalis reverentiam. H. d. in summa Ioann. Andr.
+        </p>
+               <p xml:id="wef6td-d1e379-d1e129">Innocentius IV. in concilio Lugdunensi*.
+          <!--<lb ed="#Fb"/>-->Romana ecclesia (Et infra:) Prohibemus quoque, ne
+          <!--<lb ed="#Fb"/>-->Remensis archiepiscopus in dioecesibus suffraganeorum
+          <!--<lb ed="#Fb"/>-->suorum foraneos officiales constituat, quia, quum metropoli-
+          <!--<lb ed="#Fb"/>-->tanis, ne suorum suffraganeorum ingrediantur dioeceses, ut
+          <!--<lb ed="#Fb"/>-->in eis auctoritate propria iudicent, disponant aliquidve aliud
+          <!--<lb ed="#Fb"/>-->agant,canonica prohibeant instituta, nequaquam hoc possunt
+          <!--<lb ed="#Fb"/>-->in illis per alios exercere. Nec pro eo, quod causas per ap¬
+          <!--<lb ed="#Fb"/>-->pellationem delatas ad ipsos possunt in suffraganeorum suo¬
+          <!--<lb ed="#Fb"/>-->rum dioecesibus delegare, similiter licet eis tales officiales
+          <!--<lb ed="#Fb"/>-->instituere in eisdem, qui eorum vice, quum appellatur ad
+          <!--<lb ed="#Fb"/>-->ipsos, citationes vel inhibitiones faciant, seu compescant in
+          <!--<lb ed="#Fb"/>-->hac parte rebelles; quia in causis per appellationem devolutis
+          <!--<lb ed="#Fb"/>-->ad ipsos iam iurisdictionem obtinere noscuntur, propter quod
+          <!--<lb ed="#Fb"/>-->licite possunt super illis committere vices suas. Non sic
+          <!--<lb ed="#Fb"/>-->autem in aliis, in quibus nondum exstitit appellatum, et id¬
+          <!--<lb ed="#Fb"/>-->circo non debent aliquos constituere pro citationibus in
+          <!--<lb ed="#Fb"/>-->futuris causis appellationum et inhibitionibus faciendis, nisi
+          <!--<lb ed="#Fb"/>-->aliud Remensis ecclesia circa talium officialium institutionem
+          <!--<lb ed="#Fb"/>-->de consuetudine obtineat speciali. A quibus, etiamsi de
+          <!--<lb ed="#Fb"/>-->consuetudine huiusmodi possint in Remensi provincia con¬
+          <!--<lb ed="#Fb"/>-->stitui, inhibitiones tamen*, ne procedatur in causis, prius¬
+          <!--<lb ed="#Fb"/>-->quam ad Remensem curiam appelletur, fieri penitus in¬
+          <!--<lb ed="#Fb"/>-->hibemus. §. i. Officiales autem Remensis archiepiscopi,
+          <!--<lb ed="#Fb"/>-->quamdiu in sua provincia vel circa illam exstiterit, in suffra-
+          <!--<lb ed="#Fb"/>-->ganeos interdicti, suspensionis vel excommunicationis
+          <!--<lb ed="#Fb"/>-->proferre sententias non attentent. Et hoc idem ab officialibus
+          <!--<lb ed="#Fb"/>-->aliorum metropolitanorum circa ipsorum suffraganeos, qui¬
+          <!--<lb ed="#Fb"/>-->bus ob reverentiam pontificalis officii deferri volumus in hac
+          <!--<lb ed="#Fb"/>-->parte, praecipimus observari.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e379-Dd1e191">
+               <head xml:id="wef6td-d1e379-Hd1e193">CAP. II.
+        </head>
+               <p xml:id="wef6td-d1e379-d1e196">Canonici, qui a divinis cessare possunt consuetudine vel alio iure, si
+          <!--<lb ed="#Fb"/>-->cessare volunt, causam suae cessationis exprimant in instrumento publico
+          <!--<lb ed="#Fb"/>-->vel patentibus literis suo vel alio authentico sigillo munitis, et exhibeant
+          <!--<lb ed="#Fb"/>-->illud vel illas illi, contra quem cessant. Hoc praetermisso, vel expressa
+          <!--<lb ed="#Fb"/>-->causanon inventa legitima, quicquid medio tempore perceperint ab ecclesia,
+          <!--<lb ed="#Fb"/>-->restituant, et quae percipere debent non percipiant, et satisfaciant de
+          <!--<lb ed="#Fb"/>-->iniuriis illi, contra quem cessant. Causa legitima inventa, tenetur ille ad
+          <!--<lb ed="#Fb"/>-->interesse canonicis, et ad certam quantitatem ecclesiae, superioris taxan¬
+          <!--<lb ed="#Fb"/>-->dam arbitrio. Ultimo reprobatur consuetudo, qua imagines sanctorum in
+          <!--<lb ed="#Fb"/>-->dicta cessatione spinis et urticis supponebantur. Et statuitur, contrarium
+          <!--<lb ed="#Fb"/>-->facientes graviter puniendos. Ioann. Andr.
+        </p>
+               <p xml:id="wef6td-d1e379-d1e219">Gregorius X. in generali concilio Lugdunensi.
+        </p>
+               <p xml:id="wef6td-d1e379-d1e222">Si canonici a divinis cessare voluerint, prout in ecclesiis
+          <!--<lb ed="#Fb"/>-->aliquibus sibi ex consuetudine vel alias vendicant: antequam
+          <!--<lb ed="#Fb"/>-->ad cessationem huiusmodi quoquo modo procedant, in in¬
+          <!--<lb ed="#Fb"/>-->strumento publico, vel patentibus literis sigillorum suorum
+          <!--<lb ed="#Fb"/>-->aut alterius authentici munimine roboratis, cessationis ipsius
+          <!--<lb ed="#Fb"/>-->causam exprimant, et illud vel illas ei, contra quem cessare
+          <!--<lb ed="#Fb"/>-->intendunt, assignent, scituri, quod, si hoc praetermisso ces¬
+          <!--<lb ed="#Fb"/>-->saverint, vel causa, quam expresserint, non fuerit inventa
+          <!--<lb ed="#Fb"/>-->canonica, omnia, quae de quibuscunque proventibus illius
+          <!--<lb ed="#Fb"/>-->ecclesiae, in qua cessatum fuerit, cessationis tempore per¬
+          <!--<lb ed="#Fb"/>-->ceperint*, restituent. Illa vero, quae pro eodem tempore
+          <!--<lb ed="#Fb"/>-->debentur eisdem, nullo modo percipient, sed ipsi ecclesiae
+          <!--<lb ed="#Fb"/>-->cedere, ac nihilominus ei, contra quem cessaverant, de
+          <!--<lb ed="#Fb"/>-->damnis et iniuriis satisfacere tenebuntur. Si autem causa
+          <!--<lb ed="#Fb"/>-->eadem canonica fuerit iudicata, is, qui occasionem cessationi
+          <!--<lb ed="#Fb"/>-->dederat, ad omne interesse dictis canonicis et ecclesiae, cui
+          <!--<lb ed="#Fb"/>-->debitum officium eius est culpa subtractum, ad certam
+          <!--<lb ed="#Fb"/>-->quantitatem taxandam et in divini cultus augmentum con¬
+          <!--<lb ed="#Fb"/>-->vertendam, superioris arbitrio condemnetur. Ceterum de¬
+          <!--<lb ed="#Fb"/>-->testabilem abusum horrendae indevotionis illorum, qui
+          <!--<lb ed="#Fb"/>-->crucis, beatae Mariae* virginis aliorumque* sanctorum
+          <!--<lb ed="#Fb"/>-->imagines seu statuas irreverenti ausu tractantes, eas in ag-
+          <!--<lb ed="#Fb"/>-->gravationem cessationis huiusmodi prosternunt in terram,
+          <!--<lb ed="#Fb"/>-->et* urticis spinisque supponunt, penitus reprobantes, ali¬
+          <!--<lb ed="#Fb"/>-->quid tale fieri de cetero districtius prohibemus , statuentes,
+          <!--<lb ed="#Fb"/>-->ut in eos, qui contra fecerint, ultrix procedat dura sententia,
+          <!--<lb ed="#Fb"/>-->quae delinquentes sic puniat graviter, quod alios a similium
+          <!--<lb ed="#Fb"/>-->praesumptione compescat.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e379-Dd1e280">
+               <head xml:id="wef6td-d1e379-Hd1e282">CAP. m.
+        </head>
+               <p xml:id="wef6td-d1e379-d1e285">Statuit Papa, quod habentes plures dignitates, vel alia beneficia curam
+          <!--<lb ed="#Fb"/>-->animarum habentia, per ordinarios compellantur ostendere infra tempus
+          <!--<lb ed="#Fb"/>-->competens superioris arbitrio statuendum dispensationes, quas si non
+          <!--<lb ed="#Fb"/>-->ostenderint, perinde procedatur, ac si nullas haberent. Et si ostenderint,
+          <!--<lb ed="#Fb"/>-->et sufficientes, non amplius molestentur, proviso, ne in praedictis beneficiis
+          <!--<lb ed="#Fb"/>-->cura negligatur animarum. Si autem dubitetur de dispensatione, ad sedem
+          <!--<lb ed="#Fb"/>-->apostolicam recurratur. Talibus plura similia beneficia obtinentibus aliud
+          <!--<lb ed="#Fb"/>-->non conferatur beneficium, nisi ostensa dispensatione sufficienti; et tunc
+          <!--<lb ed="#Fb"/>-->ita demum conferatur, si per dispensationem possunt illud cum aliis
+          <!--<lb ed="#Fb"/>-->retinere, vel si prioribus renunciaverint; aliter collatio facta non teneat.
+        </p>
+               <p xml:id="wef6td-d1e379-d1e306">Ioann. Andr.
+        </p>
+               <p xml:id="wef6td-d1e379-d1e309">Idem.
+        </p>
+               <p xml:id="wef6td-d1e379-d1e312">Ordinarii locorum subditos suos, plures dignitates vel
+          <!--<lb ed="#Fb"/>-->ecclesias, quibus animarum cura imminet, obtinentes, seu
+          <!--<lb ed="#Fb"/>-->personatum aut dignitatem cum alio beneficio, cui cura
+          <!--<lb ed="#Fb"/>-->similis est annexa, districte compellant dispensationes, au¬
+          <!--<lb ed="#Fb"/>-->ctoritate quarum huiusmodi ecclesias, personatus seu digni-
+        </p>
+               <p xml:id="wef6td-d1e379-d1e324">tates canonice tenere se asserunt, infra tempus, pro facti
+          <!--<lb ed="#Fb"/>-->qualitate ipsorum ordinariorum moderandum arbitrio, ex¬
+          <!--<lb ed="#Fb"/>-->hibere. Quod si forte iusto impedimento cessante nullam
+          <!--<lb ed="#Fb"/>-->dispensationem infra idem tempus contigerit exhiberi:
+          <!--<lb ed="#Fb"/>-->ecclesiae beneficia, personatus seu dignitates, quae sine
+          <!--<lb ed="#Fb"/>-->dispensatione aliqua eo ipso illicite detineri constabit, per
+          <!--<lb ed="#Fb"/>-->eos, ad quos eorum collatio pertinet, libere personis idoneis
+          <!--<lb ed="#Fb"/>-->conferantur. Ceterum si dispensatio exhibita sufficiens evi¬
+          <!--<lb ed="#Fb"/>-->denter appareat, exhibens nequaquam in beneficiis huius¬
+          <!--<lb ed="#Fb"/>-->modi, quae canonice obtinet, molestetur. Provideat tamen
+          <!--<lb ed="#Fb"/>-->ordinarius, qualiter nec animarum cura in eisdem ecclesiis,
+          <!--<lb ed="#Fb"/>-->personatibus seu dignitatibus negligatur, nec beneficia ipsa
+          <!--<lb ed="#Fb"/>-->debitis obsequiis defraudentur. Si vero de dispensationis
+          <!--<lb ed="#Fb"/>-->exhibitae sufficientia dubitetur, super hoc erit ad sedem apo¬
+          <!--<lb ed="#Fb"/>-->stolicam recurrendum, cuius est aestimare*, quem modum
+          <!--<lb ed="#Fb"/>-->sui beneficii esse velit. In conferendis insuper personatibus,
+          <!--<lb ed="#Fb"/>-->dignitatibus et aliis beneficiis, curam habentibus animarum
+          <!--<lb ed="#Fb"/>-->annexam, iidem ordinarii diligentiam illam observent, ut
+          <!--<lb ed="#Fb"/>-->personatum, dignitatem vel aliud* beneficium, similem
+          <!--<lb ed="#Fb"/>-->curam habens animarum*, alicui plura similia obtinenti non
+          <!--<lb ed="#Fb"/>-->ante conferre praesumant, quam eis super obtentis dispen¬
+          <!--<lb ed="#Fb"/>-->satio evidenter sufficiens ostendatur. Qua etiam ostensa ita
+          <!--<lb ed="#Fb"/>-->demum ad collationem procedi volumus, si appareat per
+          <!--<lb ed="#Fb"/>-->eandem, quod is, cui est collatio facienda, huiusmodi per¬
+          <!--<lb ed="#Fb"/>-->sonatum, dignitatem vel beneficium retinere libere valeat
+          <!--<lb ed="#Fb"/>-->cum obtentis, vel si ea, quae sic obtinet, libere ac sponte
+          <!--<lb ed="#Fb"/>-->resignet. Aliter autem de personatibus, dignitatibus et
+          <!--<lb ed="#Fb"/>-->beneficiis talibus facta collatio nullius penitus sit momenti.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e379-Dd1e383">
+               <head xml:id="wef6td-d1e379-Hd1e385">CAP. IV.
+        </head>
+               <p xml:id="wef6td-d1e379-d1e388">Praecipit Papa, ne praelati subditis interdicant, ne statum ecclesiarum et
+          <!--<lb ed="#Fb"/>-->personarum superioribus inquirentibus manifestent, nec ad id celandum
+          <!--<lb ed="#Fb"/>-->iuramentis, promissionibus, obligationibus aut aliis poenis adstringant.
+          <!--<lb ed="#Fb"/>-->Decernit autem, quod contra factum fuerit, irritum et inane, et sententias,
+          <!--<lb ed="#Fb"/>-->iuramenta, promissiones vel poenas non ligare, et praesumptores praecipit
+          <!--<lb ed="#Fb"/>-->poena condigna a superioribus eisdem puniri. Ioann. Andr.
+        </p>
+               <p xml:id="wef6td-d1e379-d1e401">Bonifacius VIII.
+               </p>
+               <p xml:id="wef6td-d1e379-d1e404">Quia pleri que praelati non sine multa temeritatis
+          <!--<lb ed="#Fb"/>-->audacia suis subditis aliquando interdicunt, ne ipsorum
+          <!--<lb ed="#Fb"/>-->superioribus aut apostolicae sedis legatis, vel inquisitoribus
+          <!--<lb ed="#Fb"/>-->ad inquirendum, corrigendum et reformandum in eorum ec¬
+          <!--<lb ed="#Fb"/>-->clesiis, monasteriis sive locis a sede deputatis eadem, vel
+          <!--<lb ed="#Fb"/>-->aliis quibuscunque personis, per quas ad notitiam praedicto¬
+          <!--<lb ed="#Fb"/>-->rum valeat pervenire, statum ecclesiarum,monasteriorum seu
+          <!--<lb ed="#Fb"/>-->locorum suorum, personarum et rerum ipsorum insinuent
+          <!--<lb ed="#Fb"/>-->vel exponant, in ipsos, si secus egerint excommunicationis,
+          <!--<lb ed="#Fb"/>-->suspensionis vel interdicti sententias proferentes, eosque ad
+          <!--<lb ed="#Fb"/>-->hoc celandum iuramentis, promissionibus et obligationibus
+          <!--<lb ed="#Fb"/>-->aliisque* poenis nihilominus adstringentes: nos, huic mali¬
+          <!--<lb ed="#Fb"/>-->tiae, ne tali praetextu in ecclesiis, monasteriis et locis eisdem
+          <!--<lb ed="#Fb"/>-->inquisitio, correctio seu reformatio, quum faciendae fuerint,
+          <!--<lb ed="#Fb"/>-->valeant impediri, occurrere cupientes, praedicta et eorum
+          <!--<lb ed="#Fb"/>-->quodlibet attentari de cetero districtius inhibemus, de¬
+          <!--<lb ed="#Fb"/>-->cernentes auctoritate apostolica, quicquid contra praesentem
+          <!--<lb ed="#Fb"/>-->inhibitionem attentatum exstiterit, nullius penitus exsistere
+          <!--<lb ed="#Fb"/>-->firmitatis, nec quemquam sententiis, iuramentis, promissio¬
+          <!--<lb ed="#Fb"/>-->nibus, obligationibus vel poenis huiusmodi obligari quo¬
+          <!--<lb ed="#Fb"/>-->modolibet vel adstringi. Praesumptores autem eosdem, ne
+          <!--<lb ed="#Fb"/>-->ipsorum temeritas quoquo modo transeat impunita, a superi¬
+          <!--<lb ed="#Fb"/>-->oribus vel legatis seu inquisitoribus memoratis animadver¬
+          <!--<lb ed="#Fb"/>-->sione condigna praecipimus castigari.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e379-Dd1e454">
+               <head xml:id="wef6td-d1e379-Hd1e456">CAP. v.
+        </head>
+               <p xml:id="wef6td-d1e379-d1e459">Iurisdictio, archiepiscopo attributa in una dioecesi, sibi in aliis non prodest.
+        </p>
+               <p xml:id="wef6td-d1e379-d1e462">H. d. Zenz.
+        </p>
+               <p xml:id="wef6td-d1e379-d1e465">Idem.
+        </p>
+               <p xml:id="wef6td-d1e379-d1e468">Ut litigantes releventur a laboribus et expensis, statui¬
+          <!--<lb ed="#Fb"/>-->mus, ne archiepiscopus causas, quae per appellationem vel
+          <!--<lb ed="#Fb"/>-->alias iure metropolitico deferuntur ad ipsum, alibi, quam in
+          <!--<lb ed="#Fb"/>-->sua propria civitate vel dioecesi, aut in eis, in quibus appel¬
+          <!--<lb ed="#Fb"/>-->latum exstitit, vel causae ipsae consistere dignoscuntur,
+          <!--<lb ed="#Fb"/>-->audiat vel etiam audiendas committat, nisi sibi aliud de con¬
+          <!--<lb ed="#Fb"/>-->suetudine competat in hac parte.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e379-Dd1e484">
+               <head xml:id="wef6td-d1e379-Hd1e486">CAP. VI.
+        </head>
+               <p xml:id="wef6td-d1e379-d1e489">Si episcopus, quum potest, suam dioecesin visitat per alium, habet illi in
+          <!--<lb ed="#Fb"/>-->necessariis providere; visitati autem in victualibus providebunt ipsi vicario
+          <!--<lb ed="#Fb"/>-->visitanti, et non episcopo. H. d. Ioann. Andr.
+        </p>
+               <p xml:id="wef6td-d1e379-d1e496">Idem.
+        </p>
+               <p xml:id="wef6td-d1e379-d1e499">Si episcopus suam dioecesin, ubi ei a iure permittitur,
+          <!--<lb ed="#Fb"/>-->faciat per alium visitari, licet ipse illi habeat in aliis neces¬
+          <!--<lb ed="#Fb"/>-->sariis providere: hi tamen, qui visitantur, ministrare tenentur
+          <!--<lb ed="#Fb"/>-->expensas victualium visitanti, quum secundum Apostolum<!--<lb ed="#Fb"/>-->non sit magnum, si ab eo metantur temporalia, per quem
+          <!--<lb ed="#Fb"/>-->spiritualia seminantur. Idem tamen episcopus, quum per¬
+          <!--<lb ed="#Fb"/>-->sonaliter non visitat*, nil prorsus ab his, qui per illum,
+          <!--<lb ed="#Fb"/>-->quem deputat, fuerint visitati, exigere poterit aut debebit.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e379-Dd1e517">
+               <head xml:id="wef6td-d1e379-Hd1e519">CAP. vn.
+        </head>
+               <p xml:id="wef6td-d1e379-d1e522">In quolibet loco dioecesis non exempto per se et per alium potest episcopus
+          <!--<lb ed="#Fb"/>-->pro tribunali sedere, et libere exsequi quae ad ipsius spectant officium.
+        </p>
+               <p xml:id="wef6td-d1e379-d1e527">Ioann. Andr.
+        </p>
+               <p xml:id="wef6td-d1e379-d1e530">Idem.
+        </p>
+               <p xml:id="wef6td-d1e379-d1e533">Quum episcopus in tota sua dioecesi iurisdictionem ordi¬
+          <!--<lb ed="#Fb"/>-->nariam noscatur habere, dubium non exsistit, quin in quo¬
+          <!--<lb ed="#Fb"/>-->libet loco ipsius dioecesis non exempto per se vel per alium
+          <!--<lb ed="#Fb"/>-->possit pro tribunali sedere, causas ad ecclesiasticum forum
+          <!--<lb ed="#Fb"/>-->spectantes audire, personas ecclesiasticas, quum earum ex¬
+          <!--<lb ed="#Fb"/>-->cessus exegerint, capere ac carceri deputare, nec non et
+          <!--<lb ed="#Fb"/>-->cetera, quae ad ipsius spectant officium, libere exercere.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e379-Dd1e549">
+               <head xml:id="wef6td-d1e379-Hd1e551">CAP. viii.
+        </head>
+               <p xml:id="wef6td-d1e379-d1e554">Canonici, qui a divinis cessare possint, quum cessare voluerint, vocabunt
+          <!--<lb ed="#Fb"/>-->absentes, sicut si immineret electio facienda, cum quibus de cessatione
+          <!--<lb ed="#Fb"/>-->deliberabunt. Et si deliberant cessare, requirent prius eum, contra quem
+          <!--<lb ed="#Fb"/>-->cessant, ut irrogatam offensam emendet. Quod si fecerit, non cessabunt;
+          <!--<lb ed="#Fb"/>-->alioquin cessare poterunt, ita, quod a cessatione infra mensem utraque
+          <!--<lb ed="#Fb"/>-->pars, et cessans et contra quem cessatur, iter arripiat eundi ad Papam vel
+          <!--<lb ed="#Fb"/>-->per se, vel per procuratores sufficienter instructos, nisi interim intervenerit
+          <!--<lb ed="#Fb"/>-->concordia inter ipsos. Et continuatis diaetis, quam cito poterunt, se coram
+          <!--<lb ed="#Fb"/>-->Papa praesentent, ut, utraque parte praesente, vel altera contumaciter
+          <!--<lb ed="#Fb"/>-->absente, Papa diffiniat negotium, et culpabiles puniat, et, si pars cessans
+          <!--<lb ed="#Fb"/>-->praedicta non servet, cessatio non servetur. Ioann. Andr.
+        </p>
+               <p xml:id="wef6td-d1e379-d1e577">Idem.
+        </p>
+               <p xml:id="wef6td-d1e379-d1e580">Quamvis super cessationibus a divinis, quae a capitulis,
+          <!--<lb ed="#Fb"/>-->conventibus sive collegiis saecularium vel regularium eccle¬
+          <!--<lb ed="#Fb"/>-->siarum multoties sine causa rationabili attentantur, manifesta
+          <!--<lb ed="#Fb"/>-->satis a felicis recordationis Innocentio III. et Gregorio X.<!--<lb ed="#Fb"/>-->praedecessoribus nostris manaverint instituta, quia tamen
+        </p>
+               <p xml:id="wef6td-d1e379-d1e591">post illa est plerumque compertum, cessationes easdem irra¬
+          <!--<lb ed="#Fb"/>-->tionabiliter esse factas: nos, ad tam perniciosum evitandum
+          <!--<lb ed="#Fb"/>-->abusum, eadem statuta cum infra scripta moderatione in suo
+          <!--<lb ed="#Fb"/>-->volentes robore perdurare, de fratrum nostrorum consilio
+          <!--<lb ed="#Fb"/>-->districtius inhibemus, ne a saeculari vel regulari capitulo,
+          <!--<lb ed="#Fb"/>-->collegio seu conventu ecclesiae cuiuscunque cessationes
+          <!--<lb ed="#Fb"/>-->ipsae, nisi vocatis omnibus, (prout sunt pro electionis negotio
+          <!--<lb ed="#Fb"/>-->evocandi,) et deliberatione habita diligenti, ac episcopo
+          <!--<lb ed="#Fb"/>-->aliove quocunque clerico sive laico, (cuiuscunque dignitatis,
+          <!--<lb ed="#Fb"/>-->praeeminendae, conditionis aut status exsistat,) propter cuius
+          <!--<lb ed="#Fb"/>-->iniuriam vel offensam eadem videtur cessatio facienda, post
+          <!--<lb ed="#Fb"/>-->praedictas vocationem et deliberationem de cessando habi¬
+          <!--<lb ed="#Fb"/>-->tam requisito, quod irrogatam iniuriam vel offensam emen¬
+          <!--<lb ed="#Fb"/>-->det, aliquatenus attententur, neque tunc etiam, si emendam
+          <!--<lb ed="#Fb"/>-->inde habuerint, vel per eos steterit, quo minus habeant com¬
+          <!--<lb ed="#Fb"/>-->petentem. Si autem, praemissis servatis, capitulum, col¬
+          <!--<lb ed="#Fb"/>-->legium vel conventus alicuius ecclesiae ad cessationem ean¬
+          <!--<lb ed="#Fb"/>-->dem duxerint procedendum: extunc infra unius mensis spa¬
+          <!--<lb ed="#Fb"/>-->tium pars utraque, videlicet ii, qui cessant, et illi etiam,
+          <!--<lb ed="#Fb"/>-->propter quorum factum a divinis cessatur, (nisi superveniente
+          <!--<lb ed="#Fb"/>-->concordia inter eos cessatio illa cesset,) iter arripiant per se
+          <!--<lb ed="#Fb"/>-->vel per procuratores idoneos cum munimentis et actis ad
+          <!--<lb ed="#Fb"/>-->negotium ipsum spectantibus ad sedem apostolicam
+          <!--<lb ed="#Fb"/>-->veniendi, et continuatis diaetis, quam cito commode poterint,
+          <!--<lb ed="#Fb"/>-->se apostolico conspectui repraesentent, ut, partibus prae¬
+          <!--<lb ed="#Fb"/>-->sentibus, aut una praesente, altera non veniente vel mittente,
+          <!--<lb ed="#Fb"/>-->examinato negotio apud sedem eandem, pars, quae culpa¬
+          <!--<lb ed="#Fb"/>-->bilis inventa fuerit in praemissis, praeter alias poenas a dictis
+          <!--<lb ed="#Fb"/>-->canonibus institutas, si Romano Pontifici videbitur expedire,
+          <!--<lb ed="#Fb"/>-->poena docente cognoscat, quantum excesserit, quae cessa¬
+          <!--<lb ed="#Fb"/>-->tioni factae rationabiliter causam dedit, vel quae sine ratio¬
+          <!--<lb ed="#Fb"/>-->nabili et manifesta causa cessavit. Parte insuper a divinis
+          <!--<lb ed="#Fb"/>-->cessante supra scripta tam in cessando quam in veniendo
+          <!--<lb ed="#Fb"/>-->sive mittendo ad sedem apostolicam non servante, non ser¬
+          <!--<lb ed="#Fb"/>-->vetur cessatio; sed ea non obstante ut prius in ipsa ecclesia
+          <!--<lb ed="#Fb"/>-->celebretur.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e379-Dd1e665">
+               <head xml:id="wef6td-d1e379-Hd1e667">CAP. IX.
+        </head>
+               <p xml:id="wef6td-d1e379-d1e670">Primo ponit constitutionem de bonis dignitatum vel ecclesiarum vacantium,
+          <!--<lb ed="#Fb"/>-->non occupandis per eos, ad quos collatio vel custodia pertinet nisi de
+          <!--<lb ed="#Fb"/>-->speciali iure id eis competat; et contra facientibus poenam imponit.
+          <!--<lb ed="#Fb"/>-->Secundo ostendit, de quibus bonis intelligatur, quum de speciali iure id
+          <!--<lb ed="#Fb"/>-->alicui competit. Tertio decretalem Quia saepe, supra eodem libro de elect.,
+          <!--<lb ed="#Fb"/>-->dicit non esse correctam. Ioann. Andr.
+        </p>
+               <p xml:id="wef6td-d1e379-d1e683">Idem.
+        </p>
+               <p xml:id="wef6td-d1e379-d1e686">Praesenti prohibemus edicto, ne episcopi vel eorum
+          <!--<lb ed="#Fb"/>-->superiores, aut abbates seu quivis alii regulares vel saecu¬
+          <!--<lb ed="#Fb"/>-->lares praelati, aut ecclesiasticae quaecunque personae,
+          <!--<lb ed="#Fb"/>-->vacantibus dignitatibus, personatibus, prioratibus vel ec¬
+          <!--<lb ed="#Fb"/>-->clesiis quibuscunque sibi subiectis, seu ad collationem, ordi¬
+          <!--<lb ed="#Fb"/>-->nationem, praesentationem vel custodiam pertinentibus eo¬
+          <!--<lb ed="#Fb"/>-->rundem, bona morientibus eorum rectoribus vel ministris in
+          <!--<lb ed="#Fb"/>-->ipsis inventa, sive vacationis ipsorum tempore obvenientia,
+          <!--<lb ed="#Fb"/>-->quae in utilitatem eorundem expendi vel futuris debent suc¬
+          <!--<lb ed="#Fb"/>-->cessoribus fideliter reservari, occupare, aut in usus suos
+          <!--<lb ed="#Fb"/>-->convertere quoquo modo praesumant, nisi de speciali privi¬
+          <!--<lb ed="#Fb"/>-->legio vel consuetudine iam praescripta legitime, seu alia
+          <!--<lb ed="#Fb"/>-->causa rationabili hoc eisdem competere dignoscatur. Alio¬
+          <!--<lb ed="#Fb"/>-->quin episcopi et eorum superiores ab ingressu ecclesiae,
+          <!--<lb ed="#Fb"/>-->ceteri vero ab officio et beneficio tamdiu eo ipso noverint se
+          <!--<lb ed="#Fb"/>-->suspensos, quousque restitutionem fecerint de praedictis.
+          <!--<lb ed="#Fb"/>-->Porro, ubi ex privilegio vel consuetudine, seu alia de causa
+          <!--<lb ed="#Fb"/>-->rationabili sibi aliquis praedictorum asserit bona competere
+          <!--<lb ed="#Fb"/>-->supra dicta: hoc de illis bonis solum debet intelligi, quae
+          <!--<lb ed="#Fb"/>-->solutis debitis, si qua sint, et his, quae fuerint necessaria pro
+          <!--<lb ed="#Fb"/>-->servitoribus et ministris, ac incumbentibus oneribus usque
+          <!--<lb ed="#Fb"/>-->ad novos reditus supportandis, congrue reservatis, ex ipsis
+          <!--<lb ed="#Fb"/>-->reperta fuerint superesse. Sane constitutionem*, quam
+          <!--<lb ed="#Fb"/>-->superius specialiter edidimus contra capitula, collegia, con¬
+          <!--<lb ed="#Fb"/>-->ventus* seu singulares personas, bona cathedralium vel
+          <!--<lb ed="#Fb"/>-->regularium aut collegiatarum ecclesiarum vacantium occu¬
+          <!--<lb ed="#Fb"/>-->pantes, per constitutionem praesentem, quam in dignitatibus,
+          <!--<lb ed="#Fb"/>-->personatibus, prioratibus et ecclesiis aliis locum habere
+          <!--<lb ed="#Fb"/>-->censemus, nolumus in aliquo derogari.
+        </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

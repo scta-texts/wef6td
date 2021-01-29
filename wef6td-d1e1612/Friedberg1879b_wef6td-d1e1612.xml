@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> DE REGULIS IURIS. </title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title> DE REGULIS IURIS. </title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e1612"><!-- wef6td-l5dri -->
+            <head xml:id="wef6td-d1e1612-Hd1e103"> DE REGULIS IURIS. </head>
+            <p xml:id="wef6td-d1e1612-d1e106"> Bonifacius VIII. </p>
+            <p xml:id="wef6td-d1e1612-d1e109"> Regula I. </p>
+            <p xml:id="wef6td-d1e1612-d1e112"> Beneficium ecclesiasticum non potest licite sine institu¬
+        <!--<lb ed="#Fb"/>-->tione canonica obtineri. </p>
+            <p xml:id="wef6td-d1e1612-d1e117"> Idem. Regula II. </p>
+            <p xml:id="wef6td-d1e1612-d1e121"> Possessor malae fidei ullo tempore non praescribit. </p>
+            <p xml:id="wef6td-d1e1612-d1e124"> Idem. Reg. III. </p>
+            <p xml:id="wef6td-d1e1612-d1e127"> Sine possessione praescriptio non procedit. </p>
+            <p xml:id="wef6td-d1e1612-d1e130"> Idem. Reg. IV. </p>
+            <p xml:id="wef6td-d1e1612-d1e133"> Peccatum non dimittitur, nisi restituatur ablatum. </p>
+            <p xml:id="wef6td-d1e1612-d1e136"> Idem. Reg. V. </p>
+            <p xml:id="wef6td-d1e1612-d1e140"> Peccati venia non datur, nisi correcto. </p>
+            <p xml:id="wef6td-d1e1612-d1e143"> Idem. Reg. VI. </p>
+            <p xml:id="wef6td-d1e1612-d1e146"> Nemo potest ad impossibile obligari. </p>
+            <p xml:id="wef6td-d1e1612-d1e149"> Idem. Reg. VII. </p>
+            <p xml:id="wef6td-d1e1612-d1e152"> Privilegium personale personam sequitur, et exstinguitur
+        <!--<lb ed="#Fb"/>-->cum persona. </p>
+            <p xml:id="wef6td-d1e1612-d1e157"> Idem. Reg. VIII. </p>
+            <p xml:id="wef6td-d1e1612-d1e161"> ( Semel malus semper praesumitur esse malus. </p>
+            <p xml:id="wef6td-d1e1612-d1e164"> Idem. Reg. IX. </p>
+            <p xml:id="wef6td-d1e1612-d1e167"> Ratum quis habere non potest quod ipsius nomine non
+        <!--<lb ed="#Fb"/>-->est gestum. </p>
+            <p xml:id="wef6td-d1e1612-d1e172"> Idem. Reg. X. </p>
+            <p xml:id="wef6td-d1e1612-d1e175"> Ratihabitionem retrotrahi, et mandato non est dubium
+        <!--<lb ed="#Fb"/>-->comparari. </p>
+            <p xml:id="wef6td-d1e1612-d1e180"> Idem. Reg. XI. </p>
+            <p xml:id="wef6td-d1e1612-d1e184"> Quum sunt  partium iura obscura, reo favendum est
+        <!--<lb ed="#Fb"/>-->potius quam actori. </p>
+            <p xml:id="wef6td-d1e1612-d1e189"> Idem. Reg. XII. </p>
+            <p xml:id="wef6td-d1e1612-d1e192"> In iudiciis non est acceptio personarum habenda. </p>
+            <p xml:id="wef6td-d1e1612-d1e195"> Idem. Reg. XIII. </p>
+            <p xml:id="wef6td-d1e1612-d1e198"> Ignorantia facti, non iuris, excusat. </p>
+            <p xml:id="wef6td-d1e1612-d1e201"> Idem. Reg. XIV. </p>
+            <p xml:id="wef6td-d1e1612-d1e205"> Quum quis in ius succedit alterius: iustam ignorantiae
+        <!--<lb ed="#Fb"/>-->causam censetur habere. </p>
+            <p xml:id="wef6td-d1e1612-d1e210"> Idem. Reg. XV. </p>
+            <p xml:id="wef6td-d1e1612-d1e213"> Odia restringi, et favores convenit ampliari. </p>
+            <p xml:id="wef6td-d1e1612-d1e216"> Idem. Reg. XVI. </p>
+            <p xml:id="wef6td-d1e1612-d1e219"> Decet concessum a principe beneficium esse mansurum.
+        <!--<lb ed="#Fb"/>-->  Idem. Reg. XVII. </p>
+            <p xml:id="wef6td-d1e1612-d1e224"> Indultum a iure beneficium non est alicui auferendum.
+        <!--<lb ed="#Fb"/>-->  Idem. Reg. XVIII. </p>
+            <p xml:id="wef6td-d1e1612-d1e230"> Non firmatur tractu temporis quod de iure ab initio non
+        <!--<lb ed="#Fb"/>-->subsistit. </p>
+            <p xml:id="wef6td-d1e1612-d1e235"> Idem. Reg. XIX. </p>
+            <p xml:id="wef6td-d1e1612-d1e238"> Non est sine culpa, qui rei, quae ad eum non pertinet,
+        <!--<lb ed="#Fb"/>-->se immiscet. </p>
+            <p xml:id="wef6td-d1e1612-d1e243"> Idem. Reg. XX.    , </p>
+            <p xml:id="wef6td-d1e1612-d1e246"> Nullus pluribus uti defensionibus prohibetur. </p>
+            <p xml:id="wef6td-d1e1612-d1e249"> Idem. Reg. XXI. </p>
+            <p xml:id="wef6td-d1e1612-d1e253"> Quod semel placuit amplius displicere non potest. </p>
+            <p xml:id="wef6td-d1e1612-d1e256"> Idem. Reg. XXII. </p>
+            <p xml:id="wef6td-d1e1612-d1e259"> Non debet aliquis alterius odio praegravari. </p>
+            <p xml:id="wef6td-d1e1612-d1e262"> Idem. Reg. XXIII. </p>
+            <p xml:id="wef6td-d1e1612-d1e265"> Sine culpa, nisi subsit causa, non est aliquis puniendus. </p>
+            <p xml:id="wef6td-d1e1612-d1e268"> Idem. Reg. XXIV. </p>
+            <p xml:id="wef6td-d1e1612-d1e272"> Quod quis mandato facit iudicis, dolo facere non videtur,
+        <!--<lb ed="#Fb"/>-->quum habeat parere necesse. </p>
+            <p xml:id="wef6td-d1e1612-d1e277"> Idem. Reg. XXV. </p>
+            <p xml:id="wef6td-d1e1612-d1e280"> Mora sua cuilibet est nociva. </p>
+            <p xml:id="wef6td-d1e1612-d1e283"> Idem. Reg. XXVI. </p>
+            <p xml:id="wef6td-d1e1612-d1e286"> Ea, quae fiunt a iudice, si ad eius non spectant  officium,
+        <!--<lb ed="#Fb"/>-->viribus non subsistunt. </p>
+            <p xml:id="wef6td-d1e1612-d1e291"> Idem. Reg. XXVII. </p>
+            <p xml:id="wef6td-d1e1612-d1e295"> Scienti et consentienti non fit iniuria neque dolus. </p>
+            <p xml:id="wef6td-d1e1612-d1e298"> Idem. Reg. XXVIH. </p>
+            <p xml:id="wef6td-d1e1612-d1e301"> Quae a iure communi exorbitant, nequaquam ad conse¬
+        <!--<lb ed="#Fb"/>-->quentiam sunt trahenda. </p>
+            <p xml:id="wef6td-d1e1612-d1e306"> Idem. Reg. XXIX. </p>
+            <p xml:id="wef6td-d1e1612-d1e309"> Quod omnes tangit debet ab omnibus approbari. </p>
+            <p xml:id="wef6td-d1e1612-d1e312"> Idem. Reg. XXX. </p>
+            <p xml:id="wef6td-d1e1612-d1e316"> In obscuris minimum est sequendum. </p>
+      
+      
+      
+            <p xml:id="wef6td-d1e1612-d1e319"> Idem. Reg. XXXI. </p>
+            <p xml:id="wef6td-d1e1612-d1e322"> Eum, qui certus est, certiorari ulterius non oportet.
+        <!--<lb ed="#Fb"/>-->  Idem. Reg. XXXII. </p>
+            <p xml:id="wef6td-d1e1612-d1e327"> Non licet actori quod reo licitum non exsistit. </p>
+            <p xml:id="wef6td-d1e1612-d1e330"> Idem. Reg. XXXIII. </p>
+            <p xml:id="wef6td-d1e1612-d1e333"> Mutare consilium quis non potest in alterius detri¬
+        <!--<lb ed="#Fb"/>-->mentum. </p>
+            <p xml:id="wef6td-d1e1612-d1e339"> Idem. Reg. XXXIV. </p>
+            <p xml:id="wef6td-d1e1612-d1e342"> Generi per speciem derogatur. </p>
+            <p xml:id="wef6td-d1e1612-d1e345"> Idem. Reg. XXXV. </p>
+            <p xml:id="wef6td-d1e1612-d1e348"> Plus semper in se continet quod est minus. </p>
+            <p xml:id="wef6td-d1e1612-d1e351"> Idem. Reg. XXXVI. </p>
+            <p xml:id="wef6td-d1e1612-d1e354"> Pro possessore habetur qui dolo desiit possidere. </p>
+            <p xml:id="wef6td-d1e1612-d1e358"> Idem. Reg. XXXVII
+        <!--<lb ed="#Fb"/>-->  Utile non debet per inutile vitiari. </p>
+            <p xml:id="wef6td-d1e1612-d1e363"> Idem. Reg. XXXVIIL </p>
+            <p xml:id="wef6td-d1e1612-d1e366"> Ex eo non debet quis fructum consequi, quod nisus ex¬
+        <!--<lb ed="#Fb"/>-->stitit impugnare. </p>
+            <p xml:id="wef6td-d1e1612-d1e371"> Idem. Reg. XXXIX. </p>
+            <p xml:id="wef6td-d1e1612-d1e374"> Quum quid prohibetur, prohibentur omnia, quae se¬
+        <!--<lb ed="#Fb"/>-->quuntur ex illo. </p>
+            <p xml:id="wef6td-d1e1612-d1e379"> Idem. Reg. XL. </p>
+            <p xml:id="wef6td-d1e1612-d1e383"> Pluralis locutio duorum numero est contenta. </p>
+            <p xml:id="wef6td-d1e1612-d1e386"> Idem. Reg. XLI. </p>
+            <p xml:id="wef6td-d1e1612-d1e389"> Imputari non debet ei, per quem non stat, si non faciat
+        <!--<lb ed="#Fb"/>-->quod per eum fuerat faciendum. </p>
+            <p xml:id="wef6td-d1e1612-d1e394"> Idem. Reg. XLII. </p>
+            <p xml:id="wef6td-d1e1612-d1e397"> Accessorium naturam sequi congruit principalis. </p>
+            <p xml:id="wef6td-d1e1612-d1e400"> Idem. Reg. XLIII. </p>
+            <p xml:id="wef6td-d1e1612-d1e404"> Qui tacet, consentire videtur. </p>
+            <p xml:id="wef6td-d1e1612-d1e407"> Idem. Reg. XLIV.     </p>
+            <p xml:id="wef6td-d1e1612-d1e410"> Is, qui tacet, non fatetur; sed nec utique negare videtur.
+        <!--<lb ed="#Fb"/>-->  Idem. Reg. XLV. </p>
+            <p xml:id="wef6td-d1e1612-d1e415"> Inspicimus in obscuris quod est verisimilius, vel quod
+        <!--<lb ed="#Fb"/>-->plerumque fieri consuevit. </p>
+            <p xml:id="wef6td-d1e1612-d1e420"> Idem. Reg. XLVI. </p>
+            <p xml:id="wef6td-d1e1612-d1e423"> Is, qui  in ius succedit alterius, eo iure, quo ille, uti
+        <!--<lb ed="#Fb"/>-->debebit. </p>
+            <p xml:id="wef6td-d1e1612-d1e429">     Idem. Reg. XLVII. </p>
+            <p xml:id="wef6td-d1e1612-d1e432"> Praesumitur ignorantia, ubi scientia non probatur. </p>
+            <p xml:id="wef6td-d1e1612-d1e435"> Idem. Reg. XLVIH. </p>
+            <p xml:id="wef6td-d1e1612-d1e438"> Locupletari non debet aliquis cum alterius iniuria vel
+        <!--<lb ed="#Fb"/>-->iactura. </p>
+            <p xml:id="wef6td-d1e1612-d1e443"> Idem. Reg. XLIX.± </p>
+            <p xml:id="wef6td-d1e1612-d1e446"> In poenis benignior est interpretatio facienda. </p>
+            <p xml:id="wef6td-d1e1612-d1e450"> Idem. Reg. L. </p>
+            <p xml:id="wef6td-d1e1612-d1e453"> Actus legitimi conditionem non recipiunt neque diem.
+        <!--<lb ed="#Fb"/>-->  Idem. Reg. LI. </p>
+            <p xml:id="wef6td-d1e1612-d1e458"> Semel Deo dicatum * non est ad usus humanos ulterius
+        <!--<lb ed="#Fb"/>-->transferendum. </p>
+            <p xml:id="wef6td-d1e1612-d1e463"> Idem. Reg. LII. </p>
+            <p xml:id="wef6td-d1e1612-d1e466"> Non praestat impedimentum quod de iure non sortitur
+        <!--<lb ed="#Fb"/>-->effectum. </p>
+            <p xml:id="wef6td-d1e1612-d1e471"> Idem. Reg. LIII. </p>
+            <p xml:id="wef6td-d1e1612-d1e475"> Cui licet quod est plus, licet utique quod est minus.
+        <!--<lb ed="#Fb"/>-->  Idem. Reg. LIV. </p>
+            <p xml:id="wef6td-d1e1612-d1e480">  Qui prior est  tempore potior est iure . </p>
+            <p xml:id="wef6td-d1e1612-d1e483"> Idem. Reg. LV. </p>
+            <p xml:id="wef6td-d1e1612-d1e486"> Qui sentit onus, sentire debet commodum, et e contra. </p>
+            <p xml:id="wef6td-d1e1612-d1e489"> Idem. Reg. LVI. </p>
+            <p xml:id="wef6td-d1e1612-d1e492"> In re communi potior est conditio prohibentis. </p>
+            <p xml:id="wef6td-d1e1612-d1e496"> Idem. Reg. LVH. </p>
+            <p xml:id="wef6td-d1e1612-d1e499"> Contra eum, qui legem dicere potuit apertius, est inter¬
+        <!--<lb ed="#Fb"/>-->pretatio facienda. </p>
+            <p xml:id="wef6td-d1e1612-d1e504"> Idem. Reg. LVIII. </p>
+            <p xml:id="wef6td-d1e1612-d1e507"> Non est obligatorium contra bonos mores praestitum
+        <!--<lb ed="#Fb"/>-->iuramentum. </p>
+            <p xml:id="wef6td-d1e1612-d1e512"> Idem. Reg. LIX. </p>
+            <p xml:id="wef6td-d1e1612-d1e515"> Dolo facit, qui petit quod restituere oportet eundem.
+        <!--<lb ed="#Fb"/>-->  Idem. Reg. LX. </p>
+            <p xml:id="wef6td-d1e1612-d1e521"> Non est in mora qui potest exceptione legitima se tueri.
+        <!--<lb ed="#Fb"/>-->  Idem. Reg. LXI. </p>
+            <p xml:id="wef6td-d1e1612-d1e526"> Quod ob gratiam alicuius conceditur, non est in eius
+        <!--<lb ed="#Fb"/>-->dispendium retorquendum. </p>
+      
+            <p xml:id="wef6td-d1e1612-d1e531"> Idem; Reg. LXH. </p>
+            <p xml:id="wef6td-d1e1612-d1e534"> Nullus  ex consilio, dummodo fraudulentum non fuerit,
+        <!--<lb ed="#Fb"/>-->obligatur. </p>
+            <p xml:id="wef6td-d1e1612-d1e539"> Idem. Reg. LXIII. </p>
+            <p xml:id="wef6td-d1e1612-d1e542"> Exceptionem obiiciens non videtur de intentione ad¬
+        <!--<lb ed="#Fb"/>-->versarii confiteri. </p>
+            <p xml:id="wef6td-d1e1612-d1e548"> Idem. Reg. LXIV. </p>
+            <p xml:id="wef6td-d1e1612-d1e551"> Quae contra ius fiunt debent utique pro infectis haberi. </p>
+            <p xml:id="wef6td-d1e1612-d1e554"> Idem. Reg. LXV. </p>
+            <p xml:id="wef6td-d1e1612-d1e557"> In pari delicto vel causa potior est conditio possidentis. </p>
+            <p xml:id="wef6td-d1e1612-d1e560"> Idem. Reg. LXVI. </p>
+            <p xml:id="wef6td-d1e1612-d1e563"> Quum non  stat per eum, ad quem pertinet, quo minus
+        <!--<lb ed="#Fb"/>-->conditio impleatur: haberi debet perinde, ac si impleta
+        <!--<lb ed="#Fb"/>-->fuisset; </p>
+            <p xml:id="wef6td-d1e1612-d1e571"> Idem. Reg. LXV1I. </p>
+            <p xml:id="wef6td-d1e1612-d1e574"> Quod alicui suo non licet nomine, nec alieno licebit. </p>
+            <p xml:id="wef6td-d1e1612-d1e577"> Idem. Reg. LXVHI. </p>
+            <p xml:id="wef6td-d1e1612-d1e580"> Potest quis  per alium, quod potest facere per se ipsum. </p>
+            <p xml:id="wef6td-d1e1612-d1e583"> Idem. Reg. LXIX. </p>
+            <p xml:id="wef6td-d1e1612-d1e586"> In malis promissis fidem non expedit observari. </p>
+            <p xml:id="wef6td-d1e1612-d1e590"> Idem. Reg. LXX. </p>
+            <p xml:id="wef6td-d1e1612-d1e593"> In alternativis debitoris est electio, et sufficit alterum
+        <!--<lb ed="#Fb"/>-->adimpleri. </p>
+            <p xml:id="wef6td-d1e1612-d1e598"> Idem. Reg. LXXI. </p>
+            <p xml:id="wef6td-d1e1612-d1e601"> Qui ad agendum admittitur, est ad excipiendum multo
+        <!--<lb ed="#Fb"/>-->magis admittendus. </p>
+            <p xml:id="wef6td-d1e1612-d1e606"> Idem. Reg. LXXH. </p>
+            <p xml:id="wef6td-d1e1612-d1e609"> Qui facit per alium, est perinde, ac si faciat  per se
+        <!--<lb ed="#Fb"/>-->ipsum. </p>
+            <p xml:id="wef6td-d1e1612-d1e615"> Idem. Reg. LXXIII. </p>
+            <p xml:id="wef6td-d1e1612-d1e618"> Factum legitime retractari non debet, licet casus postea
+        <!--<lb ed="#Fb"/>-->eveniat, a quo non potuit  inchoari. </p>
+            <p xml:id="wef6td-d1e1612-d1e623"> Idem. Reg. LXXIV. </p>
+            <p xml:id="wef6td-d1e1612-d1e626"> Quod alicui gratiose conceditur, trahi non debet ab
+        <!--<lb ed="#Fb"/>-->aliis in exemplum. </p>
+            <p xml:id="wef6td-d1e1612-d1e631"> Idem. Reg. LXXV. </p>
+            <p xml:id="wef6td-d1e1612-d1e634"> Frustra sibi fidem quis postulat ab eo servari, cui fidem
+        <!--<lb ed="#Fb"/>-->a se praestitam servare recusat. </p>
+            <p xml:id="wef6td-d1e1612-d1e640"> Idem. Reg. LXXVI. </p>
+            <p xml:id="wef6td-d1e1612-d1e643"> Delictum personae non debet in detrimentum ecclesiae
+        <!--<lb ed="#Fb"/>-->redundare. </p>
+            <p xml:id="wef6td-d1e1612-d1e648"> Idem. Reg. LXXVII. </p>
+            <p xml:id="wef6td-d1e1612-d1e651"> Rationi congruit, ut succedat in onere, qui substituitur
+        <!--<lb ed="#Fb"/>-->in honore. </p>
+            <p xml:id="wef6td-d1e1612-d1e656"> Idem. Reg. LXXVUI. </p>
+            <p xml:id="wef6td-d1e1612-d1e659"> In argumentum trahi nequeunt, quae propter necessi¬
+        <!--<lb ed="#Fb"/>-->tatem aliquando sunt concessa. </p>
+            <p xml:id="wef6td-d1e1612-d1e665"> Idem. Reg. LXXIX. </p>
+            <p xml:id="wef6td-d1e1612-d1e668"> Nemo potest plus iuris transferre in alium, quam sibi
+        <!--<lb ed="#Fb"/>-->competere dinoscatur. </p>
+            <p xml:id="wef6td-d1e1612-d1e673"> Idem. Reg. LXXX. </p>
+            <p xml:id="wef6td-d1e1612-d1e676"> In toto partem non est dubium contineri. </p>
+            <p xml:id="wef6td-d1e1612-d1e679"> Idem. Reg. LXXXI. </p>
+            <p xml:id="wef6td-d1e1612-d1e682"> In generali concessione non veniunt ea , quae quis non
+        <!--<lb ed="#Fb"/>-->esset verisimiliter in specie concessurus. </p>
+            <p xml:id="wef6td-d1e1612-d1e688"> Idem. Reg. LXXXII. </p>
+            <p xml:id="wef6td-d1e1612-d1e691"> Qui contra iura mercatur, bonam fidem praesumitur
+        <!--<lb ed="#Fb"/>-->non habere. </p>
+            <p xml:id="wef6td-d1e1612-d1e696"> Idem. Reg. LXXXIII. </p>
+            <p xml:id="wef6td-d1e1612-d1e699"> Bona fides non patitur, ut semel exactum iterum exigatur. </p>
+            <p xml:id="wef6td-d1e1612-d1e702"> Idem. Reg. LXXXIV. </p>
+            <p xml:id="wef6td-d1e1612-d1e705"> Quum quid una via prohibetur alicui, ad id alia non
+        <!--<lb ed="#Fb"/>-->debet admitti. </p>
+            <p xml:id="wef6td-d1e1612-d1e711"> Idem. Reg. LXXXV. </p>
+            <p xml:id="wef6td-d1e1612-d1e714"> Contractus ex conventione legem accipere dinoscuntur. </p>
+            <p xml:id="wef6td-d1e1612-d1e717"> Idem. Reg. LXXXVI. </p>
+            <p xml:id="wef6td-d1e1612-d1e720"> Damnum, quod quis sua culpa sentit, sibi debet, non
+        <!--<lb ed="#Fb"/>-->aliis *, imputare. </p>
+            <p xml:id="wef6td-d1e1612-d1e725"> Idem. Reg. LXXXVII. </p>
+            <p xml:id="wef6td-d1e1612-d1e728"> Infamibus portae non pateant dignitatum. </p>
+            <p xml:id="wef6td-d1e1612-d1e732"> Idem. Reg. LXXXVDI. </p>
+            <p xml:id="wef6td-d1e1612-d1e735"> Certum est, quod is committit in legem, qui, legis verba
+        <!--<lb ed="#Fb"/>-->complectens, contra legis nititur voluntatem. </p>
+            <p xml:id="wef6td-d1e1612-d1e740"> Data * Romae apud sanctum Petrum, V. Nonas Martii,
+        <!--<lb ed="#Fb"/>-->Pontificatus nostri anno quarto. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

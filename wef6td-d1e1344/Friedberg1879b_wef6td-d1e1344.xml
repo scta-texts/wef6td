@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> TITULUS III. </title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title> TITULUS III. </title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e1344"><!-- wef6td-l4t3 -->
+            <head xml:id="wef6td-d1e1344-Hd1e103"> TITULUS III. </head>
+            <p xml:id="wef6td-d1e1344-d1e106"> DE COGNATIONE SPIRITUALI. </p>
+            <div xml:id="wef6td-d1e1344-Dd1e109">
+               <head xml:id="wef6td-d1e1344-Hd1e111">CAP. I. </head>
+               <p xml:id="wef6td-d1e1344-d1e114"> Inter baptizatum et levantem, filios et uxorem levantis, ante carnaliter cognitam, et suscipientem et patrem et matrem suscepti, et similiter de baptizante, spiritualis contrahitur cognatio. H. d. usque ad §. Ex confirmatione. Domin. — §. 1. Confirmatio frontis inducit spiritualem cognationem, sicut baptisma. H. d. Domin. </p>
+               <p xml:id="wef6td-d1e1344-d1e117"> “ ’^Bonifacius VIII. </p>
+               <p xml:id="wef6td-d1e1344-d1e120"> Nedum inter baptizatum et illum, qui eum suscepit * de </p>
+        
+               <p xml:id="wef6td-d1e1344-d1e123"> baptismo, ac inter eundem baptizatum et suscipientis filios et uxorem, ante susceptionem carnaliter cognitam ab eodem, immo etiam inter suscipientem, patremque baptizati et matrem, cognationem spiritualem in baptismo contrahi iure constat, quae cognatio et contrahendum matrimonium impedit, et dirimit post contractum. Et eadem, quae de susci- </p>
+               <p xml:id="wef6td-d1e1344-d1e127"> g  iente sunt dicta, sunt etiam de baptizante censenda. §. i. </p>
+               <p xml:id="wef6td-d1e1344-d1e130"> ',x     confirmatione quoque seu frontis chrismatione  spiritualis cognatio eisdem modis contrahitur, matrimonia similiter impediens contrahenda, et dirimens post contracta. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e1344-Dd1e134">
+               <head xml:id="wef6td-d1e1344-Hd1e136">CAP. II. </head>
+               <p xml:id="wef6td-d1e1344-d1e139"> Compaternitas per catechismum contracta impedit matrimonium, sed non dirimit. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e1344-d1e142"> Idem. </p>
+               <p xml:id="wef6td-d1e1344-d1e145"> Per catechismum, qui praecedit baptismum, sacramentorum fundamentum et ianuam reliquorum, cognatio spiritualis contrahitur, per quam contrahendum matrimonium impeditur, ut ex praedecessoris nostri Clementis Papae III. decretali colligitur evidenter. Dicendo enim, quod talis res vix contrahendo matrimonio impedimentum afferret, velle videtur, quod afferat. Nam quod vix fit, fieri tamen dubium non exsistit. Per illam tamen cognationem matrimonium, post eam  contractum minime separatur. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e1344-Dd1e149">
+               <head xml:id="wef6td-d1e1344-Hd1e151">CAP. ni. </head>
+               <p xml:id="wef6td-d1e1344-d1e154"> Unus tantum intervenire debet in levatione infantis de sacro fonte, vel chrismatione frontis; tamen, si plures interveniunt, cognationem contrahunt spiritualem. Et ex aliis sacramentis cognatio non contrahitur. H. d. Domin. </p>
+               <p xml:id="wef6td-d1e1344-d1e157"> Idem. </p>
+               <p xml:id="wef6td-d1e1344-d1e160"> Quamvis non plures, quam unus vir, vel una mulier accedere debeant ad suscipiendum de baptismo infantem iuxta sacrorum canonum instituta: si tamen plures accesserint, spiritualis cognatio inde contrahitur matrimonia  contrahenda impediens, et etiam post contracta dissolvens. De confirmatione insuper, quantum ad hoc, idem iudicium est habendum. Ex datione vero aliorum sacramentorum cognatio spiritualis nequaquam oritur, quae matrimonium impediat vel dissolvat. </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

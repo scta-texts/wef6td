@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>TITULUS IV. </title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>TITULUS IV. </title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e1430"><!-- wef6td-l5t4 -->
+            <head xml:id="wef6td-d1e1430-Hd1e103">TITULUS IV. </head>
+            <p xml:id="wef6td-d1e1430-d1e106"> DE HOMICIDIO. </p>
+            <div xml:id="wef6td-d1e1430-Dd1e109">
+               <head xml:id="wef6td-d1e1430-Hd1e111">CAP. I </head>
+               <p xml:id="wef6td-d1e1430-d1e114"> Per assassinos faciens vel tantum mandans aliquem interfici, tanquam ab
+          <!--<lb ed="#Fb"/>-->omnibus diffidatus absque alicuius prolatione sententias incurrit excom¬
+          <!--<lb ed="#Fb"/>-->municationis et depositionis ab officio et beneficio. H. d. secundum Zenz. </p>
+               <p xml:id="wef6td-d1e1430-d1e121"> Innocentius IV. in concilio Lugdunensi . </p>
+               <p xml:id="wef6td-d1e1430-d1e124"> Pro humani redemptione generis de summis coelorum
+          <!--<lb ed="#Fb"/>-->ad ima mundi descendens, et mortem tandem subiens
+          <!--<lb ed="#Fb"/>-->temporalem  Dei Filius Iesus Christus, ne gregem sui pretio
+          <!--<lb ed="#Fb"/>-->sanguinis gloriosi redemptum, adscensurus post resur¬
+          <!--<lb ed="#Fb"/>-->rectionem ad Patrem, absque pastore desereret, ipsius
+          <!--<lb ed="#Fb"/>-->curam B. Petro Apostolo, ut suae stabilitate fidei ceteros in
+          <!--<lb ed="#Fb"/>-->Christiana religione firmaret eorumque mentes ad salutis
+          <!--<lb ed="#Fb"/>-->opera suae accenderet devotionis ardore, commisit. Unde
+          <!--<lb ed="#Fb"/>-->nos, eiusdem Apostoli effecti disponente Domino, licet im¬
+          <!--<lb ed="#Fb"/>-->meriti, successores, et ipsius redemptoris locum in terris,
+          <!--<lb ed="#Fb"/>-->quanquam indigne, tenentes, circa gregis eiusdem custodiam
+          <!--<lb ed="#Fb"/>-->sollicitis excitati vigiliis et animarum saluti iugis attentione  c
+          <!--<lb ed="#Fb"/>--> cogitationis intendere submovendo noxia et agendo pro¬
+          <!--<lb ed="#Fb"/>-->futura debemus, ut, excusso  a nobis negligentiae somno,
+          <!--<lb ed="#Fb"/>-->nostrique cordis oculis diligentia sedula vigilantibus,
+          <!--<lb ed="#Fb"/>-->animas * Deo lucrifacere sua nobis cooperante gratia
+          <!--<lb ed="#Fb"/>-->valeamus. §. i. Quum igitur illi, qui sic horrenda in¬
+          <!--<lb ed="#Fb"/>-->humanitate detestandaque saevitia mortem sitiunt aliorum,
+          <!--<lb ed="#Fb"/>-->ut ipsos faciant per assassinos occidi, non solum corporum,
+          <!--<lb ed="#Fb"/>-->sed mortem procurent etiam animarum, nisi eos exuberans
+          <!--<lb ed="#Fb"/>-->gratia divina praevenerit , ut sint armis spiritualibus prae¬
+          <!--<lb ed="#Fb"/>-->muniti, ac omnis potestas tribuatur a Domino ad iustitiam
+          <!--<lb ed="#Fb"/>-->rectumque iudicium exercendum: nos, tanto periculo
+          <!--<lb ed="#Fb"/>-->volentes occurrere animarum, et tam nefarias prae¬
+          <!--<lb ed="#Fb"/>-->sumptiones * ecclesiasticae animadversionis mucrone ferire,
+          <!--<lb ed="#Fb"/>-->ut metus poenae meta huiusmodi praesumptionis exsistat,
+          <!--<lb ed="#Fb"/>-->praesertim quum nonnulli magnates, taliter perimi formi¬
+          <!--<lb ed="#Fb"/>-->dantes, coacti fuerint securitatem ab eorundem assassino-
+          <!--<lb ed="#Fb"/>-->rum domino impetrare, sicque ab eo non absque Christianae
+          <!--<lb ed="#Fb"/>-->dignitatis opprobrio redimere quodammodo vitam suam:
+          <!--<lb ed="#Fb"/>-->§. 2. Sacri approbatione concilii statuimus, ut, quicunque
+          <!--<lb ed="#Fb"/>-->princeps, praelatus seu quaevis alia ecclesiastica saecularisve
+          <!--<lb ed="#Fb"/>-->persona quempiam Christianorum per dictos * assassinos
+          <!--<lb ed="#Fb"/>-->interfici fecerit vel etiam mandaverit, (quanquam mors ex
+          <!--<lb ed="#Fb"/>-->hoc forsitan non sequatur,) aut eos receptaverit vel de¬
+          <!--<lb ed="#Fb"/>-->fenderit seu occultaverit, excommunicationis et depositionis
+          <!--<lb ed="#Fb"/>-->a dignitate, honore, ordine, officio et beneficio incurrat
+          <!--<lb ed="#Fb"/>-->sententias ipso facto, et illas * libere aliis per illos, ad quos
+          <!--<lb ed="#Fb"/>-->eorum pollatio pertinet, conferantur. Sit * etiam cum suis
+          <!--<lb ed="#Fb"/>-->bonis mundanis omnibus tanquam Christianae religionis
+          <!--<lb ed="#Fb"/>-->aemulus a toto Christiano populo perpetuo  diffidatus, et,
+          <!--<lb ed="#Fb"/>-->postquam probabilibus constiterit argumentis , aliquem
+          <!--<lb ed="#Fb"/>-->scelus tam exsecrabile commisisse, nullatenus alia excom¬
+          <!--<lb ed="#Fb"/>-->municationis vel depositionis seu diffidationis adversus eum
+          <!--<lb ed="#Fb"/>-->sententia requiratur. </p>
+               <p xml:id="wef6td-d1e1430-d1e215"> cap.   n. </p>
+               <p xml:id="wef6td-d1e1430-d1e219"> Sine poena irregularitatis possunt clerici de suis malefactoribus conqueri
+          <!--<lb ed="#Fb"/>-->coram iudice saeculari, etiam de criminibus, ex quibus debetur poena
+          <!--<lb ed="#Fb"/>-->sanguinis, expresse protestando, quod ad poenam sanguinis non intendunt. </p>
+               <p xml:id="wef6td-d1e1430-d1e226"> H. d. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e1430-d1e229"> Bonifacius VIII. </p>
+               <p xml:id="wef6td-d1e1430-d1e232"> Praelatis vel clericis quibuscunque, qui, de laicis suis
+          <!--<lb ed="#Fb"/>-->malefactoribus querelam penes saecularem iudicem  de¬
+          <!--<lb ed="#Fb"/>-->ponentes, petunt emendam sibi fieri, et provideri, ne contra
+          <!--<lb ed="#Fb"/>-->eos talia de cetero praesumantur, protestando expresse, </p>
+        
+        
+        
+               <p xml:id="wef6td-d1e1430-d1e241"> quod ad vindictam seu poenam sanguinis non intendunt,
+          <!--<lb ed="#Fb"/>-->imputari non debet, quamvis alias in tali casu de iure debeat
+          <!--<lb ed="#Fb"/>-->poena sanguinis irrogari, si iudex mortem illis inferat
+          <!--<lb ed="#Fb"/>-->iustitia exigente. Alioquin si praelati aut  clerici propter
+          <!--<lb ed="#Fb"/>-->metum huiusmodi, quia iudex ad poenam sanguinis posset
+          <!--<lb ed="#Fb"/>-->procedere, de suis malefactoribus taliter conqueri non
+          <!--<lb ed="#Fb"/>-->auderent: daretur plerisque materia trucidandi eosdem, et
+          <!--<lb ed="#Fb"/>-->ipsorum bona libere depraedandi. </p>
+               <p xml:id="wef6td-d1e1430-d1e258"> cap.   m. </p>
+               <p xml:id="wef6td-d1e1430-d1e262"> Mandanti aliquem verberari secuta mors imputatur. H. d. secundum Zenz. </p>
+               <p xml:id="wef6td-d1e1430-d1e265"> Idem. ■ </p>
+               <p xml:id="wef6td-d1e1430-d1e268"> Is, qui mandat aliquem verberari, licet expresse in¬
+          <!--<lb ed="#Fb"/>-->hibeat, ne occidatur ullatenus vel membro aliquo mutiletur,
+          <!--<lb ed="#Fb"/>-->irregularis efficitur, si mandatarius, fines mandati excedens,
+          <!--<lb ed="#Fb"/>-->mutilet vel occidat, quum mandando in culpa fuerit, et, hoc
+          <!--<lb ed="#Fb"/>-->evenire posse, debuerit cogitare. </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

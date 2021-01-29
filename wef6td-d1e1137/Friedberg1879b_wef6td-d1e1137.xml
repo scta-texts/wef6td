@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> TITULUS XVII. </title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title> TITULUS XVII. </title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e1137"><!-- wef6td-l3t17 -->
+            <head xml:id="wef6td-d1e1137-Hd1e103"> TITULUS XVII. </head>
+            <p xml:id="wef6td-d1e1137-d1e106"> DE RELIGIOSIS DOMIBUS. </p>
+            <div xml:id="wef6td-d1e1137-Dd1e109">
+               <head xml:id="wef6td-d1e1137-Hd1e111">CAP. UN. </head>
+               <p xml:id="wef6td-d1e1137-d1e114"> Non licet novum ordinem vel religionem, aut habitum novae religionis creare et assumere. Et revocati sunt ordines Mendicantium, per Papam non approbati, creati post concilium. Dominicus. — §. 1. Religiosi mendicantes, per Papam post concilium approbati et instituti non possunt aliquem ad professionem recipere, domum vel locum de novo acquirere, nec acquisita sine licentia alienare, nec extraneis praedicare, confessiones eorum audire, vel ad sepulturam admittere. Et contra factum non tenet, et contra faciens excommunicatus est. H. d. Dominicus. — §. 2. Revocatio ordinum Mendicantium Praedicatores, Minores, Eremitanos et Carmelitas non comprehendit. Hoc dicit Dominicus. — §. 3. Exsistens de ordinibus revocatis non collegi aliter, sed singulariter ad alios ordines transire potest. </p>
+               <p xml:id="wef6td-d1e1137-d1e117"> H. d. Dominic. </p>
+               <p xml:id="wef6td-d1e1137-d1e120"> Gregorius X. in concilio generali Lugdunensi . </p>
+               <p xml:id="wef6td-d1e1137-d1e123"> Religionum diversitatem nimiam, ne confusionem induceret, generale concilium  consulta prohibitione vetavit *. Sed quia non solum importuna petentium inhiatio illarum postmodum multiplicationem extorsit, verum etiam  aliquorum praesumptuosa temeritas diversorum ordinum, praecipue Mendicantium, quorum nondum approbationis meruere principium, effrenatam quasi multitudinem adinvenit: repetita constitutione districtius inhibentes, ne aliquis de cetero novum ordinem aut religionem adinveniat *, vel habitum novae religionis assumat, cunctas  affatim religiones et ordines mendicantes, post dictum concilium adinventos, qui nullam confirmationem sedis apostolicae meruerunt, perpetuae prohibitioni subiicimus, et quatenus processerant revocamus. §. i. Confirmatos autem per sedem eandem, post idem tamen concilium institutos, quibus ad congruam sustentationem reditus aut possessiones habere professio sive regula * quaelibet interdicunt, sed per quaestum publicum tribuere victum solet incerta mendicitas, modo decernimus subsistere  infra scripto, ut videlicet  professoribus eorundem ordinum ita liceat in illis remanere, si velint, quod nullum deinceps ad eorum professionem admittant, ne de novo domum vel  aliquem locum acquirant, nec domus seu loca, quae habent, alienare valeant sine sedis eiusdem licentia speciali. Nos enim ea dispositioni sedis apostolicae reservamus, in terrae sanctae subsidium, vel pauperum vel * alios pios usus per locorum ordinarios, vel eos, quibus sedes ipsa commiserit, convertenda. Si vero secus praesumptum fuerit: nec personarum receptio, nec domorum vel locorum acquisitio aut ipsorum ceterorumque bonorum alienatio valeat, et nihilominus contrarium facientes sententiam excommunicationis incurrant. Personis quoque ipsorum ordinum  omnino interdicimus quoad extraneos praedicationis et audiendae confessionis officium aut * etiam sepulturam. §. 2. Sane ad Praedicatorum et Minorum ordines, quos evidens ex eis utilitas ecclesiae universali proveniens   s   perhibet approbatos, praesentem non patimur constitutionem extendi. Ceterum Eremitarum sancti Augustini et Carmelitarum ordines, quorum institutio dictum concilium generale praecessit, in solido statu  volumus permanere. §. 3. Ad  haec personis ordinum, ad quos constitutio praesens extenditur, transeundi ad reliquos ordines approbatos licentiam cedimus generalem ita, quod nullus ordo ad alium, vel conventus ad conventum se ac loca sua totaliter transferat, sedis eiusdem super hoc permissione specialiter non obtenta.; 
+        </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

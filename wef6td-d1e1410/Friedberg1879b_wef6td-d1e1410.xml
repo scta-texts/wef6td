@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>TITULUS III. </title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>TITULUS III. </title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e1410"><!-- wef6td-l5t3 -->
+            <head xml:id="wef6td-d1e1410-Hd1e103">TITULUS III. </head>
+            <p xml:id="wef6td-d1e1410-d1e106"> DE SCHISMATICIS. </p>
+            <div xml:id="wef6td-d1e1410-Dd1e109">
+               <head xml:id="wef6td-d1e1410-Hd1e111">CAP. UN. </head>
+               <p xml:id="wef6td-d1e1410-d1e114"> In prima parte ponit arengam usque ad vers. Iacobum videlicet, in qua
+          <!--<lb ed="#Fb"/>-->dicit, quod Columnenses Iacobus et Petrus, olim cardinales et filii Ioannis,
+          <!--<lb ed="#Fb"/>-->fratres scilicet dicti Petri, diutius exspectati, noluerunt ad eorredire, sed
+          <!--<lb ed="#Fb"/>-->in profundum malorum descendentes sua aggravabant delicta; quare varias
+          <!--<lb ed="#Fb"/>-->poenas tulit in eos, quas ad certitudinem praesentium et memoriam futuro¬
+          <!--<lb ed="#Fb"/>-->rum hic inserit. Secundo ponit poenas, quas protulit in ipsos Iacobum et
+          <!--<lb ed="#Fb"/>-->Petrum, usque ad vers. Contra natos. Ibi tertio ponit poenas, quas tulit
+          <!--<lb ed="#Fb"/>-->contra filios et posteros dicti Ioannis, usque ad vers. Omnem. Ibi quarto
+          <!--<lb ed="#Fb"/>-->imponit poenas iis, qui de cetero deliberate dictos Iacobum et Petrum pro
+          <!--<lb ed="#Fb"/>-->cardinalibus habuerint, vel eis vel praedictis natis Ioannis favorem prae¬
+          <!--<lb ed="#Fb"/>-->buerint, usque ad vers. Haec et alia. Ibi quinto et ultimo ratificat, innovat
+          <!--<lb ed="#Fb"/>-->et confirmat praedicta, et ea praecipit inviolabiliter observari, et iubet
+          <!--<lb ed="#Fb"/>-->similes excessus puniri similibus poenis in posterum. H. d. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e1410-d1e141"> Bonifacius VIII.  </p>
+               <p xml:id="wef6td-d1e1410-d1e144"> Ad succidendos infructuosos palmites pestiferos et; 
+          nocivos, quos, quasi ficus fatua, domus de Columna pro¬
+          <!--<lb ed="#Fb"/>-->duxit, nescientes in semitis iustitiae dirigere gressus suos,
+          <!--<lb ed="#Fb"/>-->ad cor reverti, et agere poenitentiae dignos fructus, licet
+          <!--<lb ed="#Fb"/>-->diutius exspectatos, (Iacobum videlicet de Columna, et
+          <!--<lb ed="#Fb"/>-->Petrum nepotem ipsius, olim sanctae Romanae ecclesiae
+          <!--<lb ed="#Fb"/>-->cardinales, et filios quondam Ioannis de Columna, fratris
+          <!--<lb ed="#Fb"/>-->dicti Iacobi, et patris Petri praefati posteros, et  fautores et
+          <!--<lb ed="#Fb"/>-->sequaces eorum,) in virtute Altissimi exsurgentes, spiritua¬
+          <!--<lb ed="#Fb"/>-->liter et temporaliter contra eos duximus procedendum.
+          <!--<lb ed="#Fb"/>-->Consequenter dictis  Iacobo et Petro, descendentibus in
+          <!--<lb ed="#Fb"/>-->profundum malorum, et molientibus inconsutilem tunicam
+          <!--<lb ed="#Fb"/>-->Domini, sanctae videlicet ecclesiae scindere unitatem, et ut
+          <!--<lb ed="#Fb"/>-->gladium acuentibus linguas suas, et prorumpentibus non
+          <!--<lb ed="#Fb"/>-->tam in verba blasphemiae * et schismatica, quam insana,
+          <!--<lb ed="#Fb"/>-->quae in scriptis redacta sub sigillis, quibus, antequam essent
+          <!--<lb ed="#Fb"/>-->depositi, utebantur, per Urbem et diversa mundi climata
+          <!--<lb ed="#Fb"/>-->destinaverunt, aestimantes  loquacitatem facundiam, et
+          <!--<lb ed="#Fb"/>-->maledicere conscientiae bonae signum, et conficta materia
+          <!--<lb ed="#Fb"/>-->disputandi, quia veritate non poterant, nos saltem lacerare
+          <!--<lb ed="#Fb"/>-->conviciis praesumpserunt. Quorum dicta licet possemus
+          <!--<lb ed="#Fb"/>-->superiori assertione convincere, et luce clarioribus rationibus
+          <!--<lb ed="#Fb"/>-->confutare, duximus eorum latratibus non dare responsum,
+          <!--<lb ed="#Fb"/>-->ut contrita eorum rabies auctoritate sonora praesidentis in
+          <!--<lb ed="#Fb"/>-->supremo iudicii solio frangeretur, et patens veritas per se
+          <!--<lb ed="#Fb"/>-->ipsam veniret in publicam notionem, nostrumque silentium
+          <!--<lb ed="#Fb"/>-->in supplicium eis foret. Processus tamen contra ipsos et
+          <!--<lb ed="#Fb"/>-->alios fecimus successive varios, diversisque temporibus
+          <!--<lb ed="#Fb"/>-->spirituales et temporales poenas et sententias continentes et
+          <!--<lb ed="#Fb"/>-->mulctas. Quorum, (quia totum tenorem constitutionis * in
+          <!--<lb ed="#Fb"/>-->praesenti inserere longum esset,) ex eis quaedam com¬
+          <!--<lb ed="#Fb"/>-->pendiose collata * huic nostrae constitutioni duximus in¬
+          <!--<lb ed="#Fb"/>-->serenda ad certitudinem praesentium et memoriam futuro¬
+          <!--<lb ed="#Fb"/>-->rum, videlicet: quod ex causis, quae rationabiliter nos
+          <!--<lb ed="#Fb"/>-->moverunt, de fratrum nostrorum consilio deposuimus dictos
+          <!--<lb ed="#Fb"/>-->Iacobum et Petrum a cardinalatibus eiusdem ecclesiae et ab
+          <!--<lb ed="#Fb"/>-->omni cardinalatus commodo et honore, ipsosque iudica-
+          <!--<lb ed="#Fb"/>-->vimus schismaticos et blasphemos, et tanquam haereticos
+          <!--<lb ed="#Fb"/>-->puniendos, expositis personis eorum a fidelibus capiendis,
+          <!--<lb ed="#Fb"/>-->omnibus beneficiis, officiis, honoribus, dignitatibus et prae¬
+          <!--<lb ed="#Fb"/>-->laturis perpetuo privantes eosdem, et reddentes inhabiles
+          <!--<lb ed="#Fb"/>-->ad habenda, cunctis eorum bonis mobilibus et immobilibus,
+          <!--<lb ed="#Fb"/>-->iuribus et iurisdictionibus publicatis. Contra natos insuper
+          <!--<lb ed="#Fb"/>-->et posteros dicti Ioannis spiritualiter et temporaliter duxi¬
+          <!--<lb ed="#Fb"/>-->mus multipliciter procedendum, eorum bonis et iuribus
+          <!--<lb ed="#Fb"/>-->publicatis et confiscatis, ipsisque   posteris dicti Ioannis, per
+          <!--<lb ed="#Fb"/>-->masculinam et femininam lineam descendentibus, indignis
+          <!--<lb ed="#Fb"/>-->perpetuo redditis ad cardinalatus honorem et quaelibet
+          <!--<lb ed="#Fb"/>-->officia, beneficia et ministeria in ecclesia memorata vel eius
+          <!--<lb ed="#Fb"/>-->curia, alibi vero usque ad quartam generationem. Omnem
+          <!--<lb ed="#Fb"/>-->personam, praesentem et futuram, cuiuscunque fuerit prae¬
+          <!--<lb ed="#Fb"/>-->eminendae *, conditionis, dignitatis aut status ecclesiastici
+          <!--<lb ed="#Fb"/>-->vel mundani, (etiamsi foret sanctae Romanae ecclesiae
+          <!--<lb ed="#Fb"/>-->cardinalis,) quae ipsos Iacobum et Petrum, vel eorum
+          <!--<lb ed="#Fb"/>-->alterum scienter et deliberate pro cardinalibus habuerit et
+          <!--<lb ed="#Fb"/>-->tenuerit, aut ad cardinalatum admiserit, seu votum eorum
+          <!--<lb ed="#Fb"/>-->vel  alicuius ipsorum suffragium in electione Romani Ponti¬
+          <!--<lb ed="#Fb"/>-->ficis admiserit, aut in Pontificem Romanum elegerit, nomi¬
+          <!--<lb ed="#Fb"/>-->naverit, assumpserit vel receperit, seu dederit in his vel ad
+          <!--<lb ed="#Fb"/>-->hoc auxilium, consilium vel favorem, excommunicationis
+          <!--<lb ed="#Fb"/>-->sententia duximus innodandum, a qua absque expressa
+          <!--<lb ed="#Fb"/>-->licentia Romani Pontificis non possit absolvi, nec etiam per
+          <!--<lb ed="#Fb"/>-->collegium apostolicae sedis eadem sede vacante. Eamque
+          <!--<lb ed="#Fb"/>-->praelatione, dignitate, statu et honore ecclesiasticis omnino
+          <!--<lb ed="#Fb"/>-->privamus, nihilominus omnes, qui dictis Iacobo et Petro
+          <!--<lb ed="#Fb"/>-->alias et natis dicti Ioannis favorem praebuerint vel auxilium
+          <!--<lb ed="#Fb"/>-->in rebellione vel schismate persistentibus, excommunica¬
+          <!--<lb ed="#Fb"/>-->tionis sententia innodantes. Haec et alia, per nos facta in
+          <!--<lb ed="#Fb"/>-->praedictis nostris processibus, et in literis nostris bullatis
+          <!--<lb ed="#Fb"/>-->super eis confectis contenta, hac constitutione perpetuo
+          <!--<lb ed="#Fb"/>-->valitura ratificamus, confirmamus et etiam innovamus,
+          <!--<lb ed="#Fb"/>-->eandemque  de novo facimus de fratrum nostrorum con¬
+          <!--<lb ed="#Fb"/>-->silio praedictorum. Et ut dictorum malitia non inveniat
+          <!--<lb ed="#Fb"/>-->successorem, et punitae transgressionis exemplar retrahat
+          <!--<lb ed="#Fb"/>-->alios ab offensa, ac in oblivionem veritas veniens non
+          <!--<lb ed="#Fb"/>-->vagetur incerta: statuimus atque decrevimus, ut et ipsa in¬
+          <!--<lb ed="#Fb"/>-->violabiliter observentur, et quod similes excessus et culpae
+          <!--<lb ed="#Fb"/>-->poenis similibus in posterum puniantur. </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

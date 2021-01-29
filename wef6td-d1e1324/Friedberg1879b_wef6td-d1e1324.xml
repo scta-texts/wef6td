@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> TITULUS II. </title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title> TITULUS II. </title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e1324"><!-- wef6td-l4t2 -->
+            <head xml:id="wef6td-d1e1324-Hd1e103"> TITULUS II. </head>
+            <p xml:id="wef6td-d1e1324-d1e106"> DE DESPONSATIONE IMPUBERUM. </p>
+            <div xml:id="wef6td-d1e1324-Dd1e109">
+               <head xml:id="wef6td-d1e1324-Hd1e111">CAP. UN. </head>
+               <p xml:id="wef6td-d1e1324-d1e114"> Sponsalia amborum infantium, vel alterius tantum, per supervenientiam maioris aetatis non validantur nec publicam honestatem inducunt, nisi fuerint ratificata tacite vel expresse. H. d. usque ad §. Idem quoque. Domin. — §. 1. Sponsalia, per verba de praesenti contracta inter impuberem et puberem, vel inter impuberes, non proximos pubertati, valent ut sponsalia de futuro; nec in matrimonium transeunt ex sola perseverantia aetatis, nisi aliter approbentur; inducunt tamen publicam honestatem. H. d. Dom. — §. 2. Sponsalia pro absentibus filiis non tenent, nisi ipsis praesentibus, vel nisi approbaverint tacite vel expresse ex postfacto, H. d. Domin. </p>
+               <p xml:id="wef6td-d1e1324-d1e117"> Bonifacius VIII . </p>
+               <p xml:id="wef6td-d1e1324-d1e120"> Si infantes ad invicem, vel unus maior septennio, et alter minor, sponsalia contraxerint ipsi, vel parentes pro eis, nisi per cohabitationem eorum mutuam, seu alias verbo vel facto ipsorum liquido appareat , eosdem in eadem voluntate factos maiores septennio perdurare: sponsalia huiusmodi, quae ab initio nulla erant, per lapsum dicti temporis minime convalescunt, et ideo, quum sint nulla, ratione defectus consensus publicae honestatis iustitiam non inducunt. §. i. Idem quoque, si pubes et impubes, vel duo impuberes non proximi pubertati, et in quibus aetatem malitia non supplebat, per verba contraxerint de praesenti. Sponsalia enim illa, quae iuris interpretatione tantum fuerunt sponsalia de futuro, licet verba consensum exprimentia de praesenti haberent, et matrimonium contrahere intenderent contrahentes, per adventum pubertatis in matrimonium non transeunt de praesenti. Nec matrimonium, quod ut matrimonium aetate non tenuit prohibente, per lapsum dicti temporis convalescit, nisi per carnis copulam subsecutam, vel aliquem modum alium  contrahentes eosdem cum eiusdem perseverantia voluntatis ad pubertatis tempora pervenisse constiterit evidenter;' per dictum tamen contractum, qui valuit, ut potuit, non sicuti agebatur, publicae honestatis iustitia est inducta. §. 2. Porro ex sponsalibus, quae parentes pro filiis puberibus vel impuberibus plerumque contrahunt, ipsi filii, si expresse consenserint vel tacite, ut * si praesentes fuerint, nec contradixerint, obligantur, et ex  eis oritur iustitia publicae honestatis. Et est idem, si filii, tempore sponsaliorum absentes, et etiam ignorantes, eadem sponsalia post scientes ratificaverunt tacite vel expresse ; alias ex sponsalibus, contractis a parentibus pro filiis, nec ipsi filii obligantur, nec publicae honestatis iustitia inde surgit., </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

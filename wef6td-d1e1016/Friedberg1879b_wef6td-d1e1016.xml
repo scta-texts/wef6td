@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> TITULUS XI. </title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title> TITULUS XI. </title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e1016"><!-- wef6td-l3t11 --> 
+            <head xml:id="wef6td-d1e1016-Hd1e103"> TITULUS XI. </head>
+            <p xml:id="wef6td-d1e1016-d1e106"> DE TESTAMENTIS ET ULTIMIS VOLUNTATIBUS. </p>
+      
+            <div xml:id="wef6td-d1e1016-Dd1e109">
+               <head xml:id="wef6td-d1e1016-Hd1e111">CAP. I. </head>
+               <p xml:id="wef6td-d1e1016-d1e114"> In fideicommissariis substitutionibus locum habet quartarum deductio; in directis non. Et substitutiones interpretari debemus directas, dummodo conveniant verbis et personis institutis. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e1016-d1e117"> Bonifacius VIII.  </p>
+               <p xml:id="wef6td-d1e1016-d1e120"> Si pater, filium et filiam habens impuberes et uxorem, filiam in re certa, filium vero in ceteris bonis suis universalem heredem instituit, et uxori aliqua in suo testamento legavit, adiiciens, ut, si decederet filia sine liberis, eidem filio, et, si ipse absque liberis obiret, filius praefatae filiae moreretur, Christi pauperes instituendo heredes, si utrumque sine liberis mori contingeret filiorum: testatore mortuo, ac deinde filio, subsequenter et filia superstite matre defunctis ante tempora pubertatis, absque deductione Trebellianicae sive partis iure naturae debitae facienda, ipsis pauperibus bona omnia deferuntur. Praemissae namque substitutiones, factae de filio ad filiam, et e contra, et de illis ad pauperes, directae debent intelligi pupillares, quum in substitutionibus semper sit interpretatio facienda, (dummodo, sicut in casu proposito, earum verbis et personis conveniat institutis,) ut substitutio directa intelligatur potius quam obliqua, quanquam directa interdum ad fideicommissum ex causa trahatur . Licet autem filius testamento suo matrem portione iure naturae debita privare non possit: pater tamen in testamento, quod filio impuberi
+          facit, potest. Nam testamentum huiusmodi pupillare paternum, vel paterni pars potius est censendum. </p>
+            </div>
+            <div xml:id="wef6td-d1e1016-Dd1e124">
+               <head xml:id="wef6td-d1e1016-Hd1e126"> CAP. II. </head>
+               <p xml:id="wef6td-d1e1016-d1e129"> Superior habet consentire religiosis, deputatis exsecutoribus. Hoc dicit, secundum Zenz. — §. 1. Pluribus exsecutoribus datis, uno mortuo, vel in remotis exsistente, vel exsequi nolente, unus officium exsecutionis exercebit, ne impediatur testatoris voluntas; nisi aliud per testatorem disponeretur. </p>
+               <p xml:id="wef6td-d1e1016-d1e132"> H. d. secundum Zenz. </p>
+               <p xml:id="wef6td-d1e1016-d1e135"> Idem. </p>
+               <p xml:id="wef6td-d1e1016-d1e138"> Religiosus, exsecutor ab aliquo in sua voluntate ultima deputatus, non potest, quum velle vel nolle non habeat, huiusmodi officium suscipere vel exsequi, nisi a superiore suo petita super hoc licentia et obtenta. §. i. Sane, pluribus a testatore simpliciter exsecutoribus deputatis, uno eorum mortuo, vel in remotis agente, aut id exsequi forte nolente, ne voluntatem testatoris impediri vel nimium differri contingat, poterit alius, nisi testator aliud expresserit, officium exsecutionis iniunctae libere adimplere. </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

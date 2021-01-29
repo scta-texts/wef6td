@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>TITULUS VII. </title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>TITULUS VII. </title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e1491"><!-- wef6td-l5t7 -->
+            <head xml:id="wef6td-d1e1491-Hd1e103">TITULUS VII. </head>
+            <p xml:id="wef6td-d1e1491-d1e106"> DE PRIVILEGIIS. </p>
+            <div xml:id="wef6td-d1e1491-Dd1e109">
+               <head xml:id="wef6td-d1e1491-Hd1e111">CAP. I. </head>
+               <p xml:id="wef6td-d1e1491-d1e114"> Exempti vel privilegiati, ut non teneantur nisi sub certo iudice respondere,
+          <!--<lb ed="#Fb"/>-->ratione delicti, contractus aut rei, si haec sint inita vel sita in loco non
+          <!--<lb ed="#Fb"/>-->exempto, conveniuntur coram ordinario; sed ratione domicilii non. — §. 1.
+          <!--<lb ed="#Fb"/>-->Monasterio privilegiato, ut eius monachi a quocunque interdici, suspendi
+          <!--<lb ed="#Fb"/>-->vel excommunicari non possint, cessat in illis ordinariorum iurisdictio
+          <!--<lb ed="#Fb"/>-->quoad illa, nisi illi monachi mitterentur ad prioratus subiectos ordinariis,
+          <!--<lb ed="#Fb"/>-->quia tunc, etiam licet utrobique sint monachi, ordinarii etiam quoad prae¬
+          <!--<lb ed="#Fb"/>-->dicta illos iudicant, quamdiu ibi manent. Hoc dicit. </p>
+               <p xml:id="wef6td-d1e1491-d1e131"> Innocentius IV. in * concilio generali
+          <!--<lb ed="#Fb"/>-->Lugdunensi . </p>
+               <p xml:id="wef6td-d1e1491-d1e136"> Volentes libertatem, quam nonnullis apostolica sedes 
+          privilegio exemptionis indulsit, sic integram observari , ut
+          <!--<lb ed="#Fb"/>-->et * illam alii non infringant, et ipsi eius limites non ex¬
+          <!--<lb ed="#Fb"/>-->cedant, declaratione irrefragabili diffinimus, quod , quan¬
+          <!--<lb ed="#Fb"/>-->tumcunque  sic exempti gaudeant libertate, nihilominus
+          <!--<lb ed="#Fb"/>-->tamen ratione delicti, sive contractus, aut rei, de qua contra
+          <!--<lb ed="#Fb"/>-->ipsos agitur, rite possunt * coram locorum ordinariis con¬
+          <!--<lb ed="#Fb"/>-->veniri, et illi quoad hoc  suam in ipsos iurisdictionem, prout
+          <!--<lb ed="#Fb"/>-->ius exigit, exercere. Numquid ergo carent omnino in his
+          <!--<lb ed="#Fb"/>-->commodo libertatis? Non utique, quia nec coram ordinariis
+          <!--<lb ed="#Fb"/>-->ipsis, dummodo  sit in loco exempto commissum delictum,
+          <!--<lb ed="#Fb"/>-->vel contractus initus, aut res litigiosa, nec ubi domicilium
+          <!--<lb ed="#Fb"/>-->habent, si alibi delinquant, vel contrahant, aut res ipsa
+          <!--<lb ed="#Fb"/>-->consistat, conveniri possunt aliquatenus super istis: nec
+          <!--<lb ed="#Fb"/>-->domiciliorum praetextu locorum dioecesani, (si, ubi  de¬
+          <!--<lb ed="#Fb"/>-->liquerunt , vel contraxerunt, aut res ipsa consistit, illi con¬
+          <!--<lb ed="#Fb"/>-->veniantur,) remittendi eos illuc, vel ipsis, ut illic respondeant,
+          <!--<lb ed="#Fb"/>-->iniungendi habeant aliquam potestatem, salvis nihilominus
+          <!--<lb ed="#Fb"/>-->casibus aliis, in cpiibus eos episcoporum iurisdictioni subesse
+          <!--<lb ed="#Fb"/>-->canonica praecipiunt instituta. Et id ipsum decernimus
+          <!--<lb ed="#Fb"/>-->circa illos , quibus,ut non nisi sub uno certo iudice teneantur
+          <!--<lb ed="#Fb"/>-->de se conquerentibus respondere, apostolico privilegio est
+          <!--<lb ed="#Fb"/>-->concessum. §. i. In eos autem, quibus, ne interdici,
+          <!--<lb ed="#Fb"/>-->suspendi vel excommunicari a quoquam valeant, a sede
+          <!--<lb ed="#Fb"/>-->apostolica est indultum, sicut sunt religiosi quam plures, in
+          <!--<lb ed="#Fb"/>-->quorum privilegiis continetur, ne quisquam episcopus vel
+          <!--<lb ed="#Fb"/>-->archiepiscopus monasteriorum suorum monachos pro ulla
+          <!--<lb ed="#Fb"/>-->causa ullove  loco interdicere, suspendere vel excommuni¬
+          <!--<lb ed="#Fb"/>-->care praesumat, iidem ordinarii iurisdictionem suam *
+          <!--<lb ed="#Fb"/>-->quantum ad ista, ubicunque illi fuerint, penitus exercere
+          <!--<lb ed="#Fb"/>-->non possint *: nisi forsan ipsi monachi ad monasteriorum
+          <!--<lb ed="#Fb"/>-->suorum prioratus ordinariis eisdem subiectos, ut vel gerant
+          <!--<lb ed="#Fb"/>-->eorum * regimen, vel in eis tanquam proprii locorum
+          <!--<lb ed="#Fb"/>-->ipsorum monachi resideant, fuerint destinati. Tunc enim,
+          <!--<lb ed="#Fb"/>-->etsi libere possint ad eadem monasteria revocari, ac tam
+          <!--<lb ed="#Fb"/>-->illorum quam ipsorum prioratuum monachi reputentur,
+          <!--<lb ed="#Fb"/>-->quum non sit inconveniens, aliquem utrobique * locum
+          <!--<lb ed="#Fb"/>-->habere monachicum, unum alteri subesse monasterio, vel
+          <!--<lb ed="#Fb"/>-->ab ipso  noscitur dependere, ratione tamen eorundem
+          <!--<lb ed="#Fb"/>-->prioratuum dicti ordinarii sua iurisdictione in ipsis etiam
+          <!--<lb ed="#Fb"/>-->quoad praemissa, quamdiu morantur in illis, licite uti
+          <!--<lb ed="#Fb"/>-->possunt. </p>
+            </div>
+            <div xml:id="wef6td-d1e1491-Dd1e220">
+               <head xml:id="wef6td-d1e1491-Hd1e222"> cap. II </head>
+               <p xml:id="wef6td-d1e1491-d1e225"> Curia Romana habet studium generale et eius privilegia. H. d.Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e1491-d1e228"> Idem . </p>
+               <p xml:id="wef6td-d1e1491-d1e231"> Quum de diversis mundi partibus multi confluant ad </p>
+        
+               <p xml:id="wef6td-d1e1491-d1e234"> sedem apostolicam quasi matrem: nos, ad communem tam
+          <!--<lb ed="#Fb"/>-->ipsorum quam aliorum omnium  commodum et profectum
+          <!--<lb ed="#Fb"/>-->paterna sollicitudine intendentes, ut sit eis mora huiusmodi
+          <!--<lb ed="#Fb"/>-->fructuosa, providimus, quod ibidem de cetero regatur  et
+          <!--<lb ed="#Fb"/>-->vigeat studium iuris divini et humani, canonici videlicet et
+          <!--<lb ed="#Fb"/>-->civilis. Unde volumus et statuimus, ut studentes in scholis
+          <!--<lb ed="#Fb"/>-->ipsis penes sedem eandem talibus privilegiis omnino, liber¬
+          <!--<lb ed="#Fb"/>-->tatibus et immunitatibus gaudeant, quibus gaudent studentes
+          <!--<lb ed="#Fb"/>-->in scholis, ubi generale regitur studium, ac recipiant integre
+          <!--<lb ed="#Fb"/>-->proventus suos ecclesiasticos sicut illi. </p>
+            </div>
+            <div xml:id="wef6td-d1e1491-Dd1e256">
+               <head xml:id="wef6td-d1e1491-Hd1e258">Cap. III</head>
+               <p xml:id="wef6td-d1e1491-d1e261"> Dicit, quomodo intelligatur privilegium, quod habent quidam abbates de
+          <!--<lb ed="#Fb"/>-->populo benedicendo, et quibus possint abbates conferre tonsuram. </p>
+               <p xml:id="wef6td-d1e1491-d1e266"> Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e1491-d1e269"> Alexander IV.  </p>
+               <p xml:id="wef6td-d1e1491-d1e272"> Abbates, quos apostolica sedes in exhibitione bene¬
+          <!--<lb ed="#Fb"/>-->dictionis super populum speciali privilegio insignivit, in
+          <!--<lb ed="#Fb"/>-->ecclesiis, quae ad eos pertinent pleno iure, quando in eis
+          <!--<lb ed="#Fb"/>-->divina officia celebrant, possunt post missarum solennia et
+          <!--<lb ed="#Fb"/>-->vespertinas ac matutinas laudes benedictionem solennem
+          <!--<lb ed="#Fb"/>-->super populum elargiri . Alibi autem publice, aut per vias,
+          <!--<lb ed="#Fb"/>-->civitates, castra et villas, populis et plebibus benedictionem
+          <!--<lb ed="#Fb"/>-->facere  vel impertiri non valeant, nisi hoc eis expresso *
+          <!--<lb ed="#Fb"/>-->apostolico privilegio sit concessum. Nec eis licitum sit ,
+          <!--<lb ed="#Fb"/>-->aliis quam monasteriorum suorum conversis, et qui  ad illa
+          <!--<lb ed="#Fb"/>-->convolaverint, et in quos ecclesiasticam et quasi episcopa¬
+          <!--<lb ed="#Fb"/>-->lem iurisdictionem obtinent, primam clericalem conferre
+          <!--<lb ed="#Fb"/>-->tonsuram, nisi eis id competat ex pleno praefatae sedis
+          <!--<lb ed="#Fb"/>-->induito  . </p>
+            </div>
+            <div xml:id="wef6td-d1e1491-Dd1e303">
+               <head xml:id="wef6td-d1e1491-Hd1e305">CAP. IV. </head>
+               <p xml:id="wef6td-d1e1491-d1e308"> Exempti in locis non exemptis oratoria vel capellas sine dioecesanorum
+          <!--<lb ed="#Fb"/>-->licentia construere non possunt, nec in exemptis sine licentia Papae. Nec
+          <!--<lb ed="#Fb"/>-->possunt exempti assumere causas proprias suorum liberorum hominum in
+          <!--<lb ed="#Fb"/>-->se, etiamsi illi sint sui censuales. Ioannes Andreae. </p>
+               <p xml:id="wef6td-d1e1491-d1e317"> Idem . </p>
+               <p xml:id="wef6td-d1e1491-d1e320"> Auctoritate sedis apostolicae de fratrum nostrorum con¬
+          <!--<lb ed="#Fb"/>-->silio statuimus, quod oratoria vel capellas in locis non ex¬
+          <!--<lb ed="#Fb"/>-->emptis sine dioecesanorum locorum ipsorum licentia exempti
+          <!--<lb ed="#Fb"/>-->construere non praesumant, neque in sic constructis, nec
+          <!--<lb ed="#Fb"/>-->tempore interdicti, (casibus expressis in iure duntaxat
+          <!--<lb ed="#Fb"/>-->exceptis,) celebrent vel faciant celebrari divina. Quodsi
+          <!--<lb ed="#Fb"/>-->talia praesumpserint: ab his per locorum ipsorum ordinarios
+          <!--<lb ed="#Fb"/>-->compescantur, et, si quas propter hoc exemptorum ipsorum
+          <!--<lb ed="#Fb"/>-->conservatores in eos sententias protulerint, illas penitus 
+          revocamus. Inhibemus insuper , ne in locis etiam exemptis
+          <!--<lb ed="#Fb"/>-->hoc ipsi exempti facere audeant, nisi super his licentiam vel
+          <!--<lb ed="#Fb"/>-->privilegium habeant sedis rapostolicae speciale. Causas
+          <!--<lb ed="#Fb"/>-->quoque sive lites proprias suorum hominum liberorum, quae
+          <!--<lb ed="#Fb"/>-->videlicet tantum ad ipsos homines pertinent, iidem exempti
+          <!--<lb ed="#Fb"/>-->suo nomine, sive ut actores sive ut defensores, aliquatenus
+          <!--<lb ed="#Fb"/>-->non assumant, etiamsi sint ipsis dicti homines censuales;
+          <!--<lb ed="#Fb"/>-->quum id nequaquam licitum sit eisdem. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e1491-Dd1e354">
+               <head xml:id="wef6td-d1e1491-Hd1e356">CAP. V. </head>
+               <p xml:id="wef6td-d1e1491-d1e359"> Privilegium Papae, quod quis excommunicari, suspendi vel interdici non
+          <!--<lb ed="#Fb"/>-->possit, non extenditur ad sententias ordinariorum, nisi tale privilegium sit
+          <!--<lb ed="#Fb"/>-->concessum regibus, reginis vel ipsorum filiis, vel religioso loco vel ordini. </p>
+               <p xml:id="wef6td-d1e1491-d1e366"> H. d. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e1491-d1e369"> Clemens IV.  </p>
+               <p xml:id="wef6td-d1e1491-d1e372"> Ne aliqui, de induitis apostolicis confidentes, alios con¬
+          <!--<lb ed="#Fb"/>-->fidentius in suo iure molestent, et ordinariorum iuris¬
+          <!--<lb ed="#Fb"/>-->dictionem contemnant pariter et eludant: omnes in¬
+          <!--<lb ed="#Fb"/>-->dulgentias et privilegia, quibuscunque singularibus personis
+          <!--<lb ed="#Fb"/>-->ecclesiasticis vel saecularibus , cuiuscunque sint prae¬
+          <!--<lb ed="#Fb"/>-->eminendae, dignitatis, conditionis aut status, quod interdici
+          <!--<lb ed="#Fb"/>-->a quocunque vel excommunicari non possint, nec terrae vel
+          <!--<lb ed="#Fb"/>-->ecclesiae ipsorum ecclesiastico interdicto supponi, sub qua¬
+          <!--<lb ed="#Fb"/>-->cunque forma verborum concessa, (illis, per quae regibus et
+          <!--<lb ed="#Fb"/>-->reginis eorumque filiis, nec non et religiosis quibuscunque,
+          <!--<lb ed="#Fb"/>-->non personarum tantum , sed ordinum privilegiatorum vel
+          <!--<lb ed="#Fb"/>-->locorum ratione in hoc immunitas huiusmodi conceditur,
+          <!--<lb ed="#Fb"/>-->duntaxat exceptis,) de fratrum nostrorum consilio ad
+          <!--<lb ed="#Fb"/>-->ordinariorum sententias et processus edicto perpetuo pro¬
+          <!--<lb ed="#Fb"/>-->hibemus extendi. </p>
+        
+        
+            </div>
+            <div xml:id="wef6td-d1e1491-Dd1e404">
+               <head xml:id="wef6td-d1e1491-Hd1e406">CAP. VI. </head>
+               <p xml:id="wef6td-d1e1491-d1e409"> Inferiores praelati, quibus per privilegium conceditur usus mitrae, si sunt
+          <!--<lb ed="#Fb"/>-->exempti, in provincialibus et episcopalibus conciliis uti possunt mitris
+          <!--<lb ed="#Fb"/>-->aurifrisiatis, non habentibus laminas aut gemmas. Et si non sunt exempti,
+          <!--<lb ed="#Fb"/>-->albis et planis utentur; in aliis locis utantur, ut indulta permittunt. </p>
+               <p xml:id="wef6td-d1e1491-d1e418"> Idem . </p>
+               <p xml:id="wef6td-d1e1491-d1e421"> Ut apostolicae sedis benignitas, quae nonnullis abbati¬
+          <!--<lb ed="#Fb"/>-->bus aliisque praelatis, quibus non competit ex propria
+          <!--<lb ed="#Fb"/>-->dignitate, concessit in ecclesiarum suarum glqpam et
+          <!--<lb ed="#Fb"/>-->honorem, quod mitra et aliis pontificalibus uti possint, pro¬
+          <!--<lb ed="#Fb"/>-->videat, ne inde scandala oriantur, sic tamen, quod ipsi
+          <!--<lb ed="#Fb"/>-->privilegiati suorum privilegiorum non frustrentur effectu, et
+          <!--<lb ed="#Fb"/>-->ex maioritate ac decore maiori ornatuum maioritas appareat
+          <!--<lb ed="#Fb"/>-->dignitatum: de fratrum nostrorum consilio praesenti decreto
+          <!--<lb ed="#Fb"/>-->statuimus, ut abbates et alii, cpiibus mitrae usus est ab
+          <!--<lb ed="#Fb"/>-->eadem sede concessus, exempti quidem in provincialibus
+          <!--<lb ed="#Fb"/>-->conciliis et episcopalibus synodis, quibus nonnulli eorum
+          <!--<lb ed="#Fb"/>-->'interesse tenentur, mitris tantummodo aurifrisiatis, (non
+          <!--<lb ed="#Fb"/>-->tamen aureas vel argenteas laminas aut  gemmas 
+          haben<!--<lb ed="#Fb"/>-->tibus,) uti possint, non exempti vero simplicibus et albis ac 
+          <!--<lb ed="#Fb"/>--> planis utantur; in aliis vero locis exemptis et non exemptis
+          <!--<lb ed="#Fb"/>-->mitris liceat illis uti, prout concessa eis ab eadem sede in-
+          <!--<lb ed="#Fb"/>-->dulta permittunt. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e1491-Dd1e457">
+               <head xml:id="wef6td-d1e1491-Hd1e459">CAP. VII. </head>
+               <p xml:id="wef6td-d1e1491-d1e462"> In prima parte demonstrat, quid iuris, quum quis solo privilegio se dicit
+          <!--<lb ed="#Fb"/>-->exemptum. In secunda, ibi: Si autem, quid iuris, quum super hoc prae¬
+          <!--<lb ed="#Fb"/>-->scriptionem allegat. In tertia, ibi: Quodsi tales, quid iuris, quum allegat
+          <!--<lb ed="#Fb"/>-->utrumque. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e1491-d1e471"> Bonifacius VIII.  </p>
+               <p xml:id="wef6td-d1e1491-d1e474"> S  uum personae ecclesiasticae tam religiosae quam
+          <!--<lb ed="#Fb"/>-->ares plura praesumant, quae ipsis infamiam pariunt,
+          <!--<lb ed="#Fb"/>-->et aliis inferunt laesionem, praetextu exemptionis vel liber¬
+          <!--<lb ed="#Fb"/>-->tatis, quam asserunt se habere, ordinariorum correctiones
+          <!--<lb ed="#Fb"/>-->et ordihationes subterfugientes, ac eorum forum sive
+          <!--<lb ed="#Fb"/>-->iudicium declinantes: nos, volentes super hoc de salubri
+          <!--<lb ed="#Fb"/>-->remedio providere, statuimus, ut hi, qui se asserunt per
+          <!--<lb ed="#Fb"/>-->privilegia seu indulgentias apostolicae sedis exemptos, a
+          <!--<lb ed="#Fb"/>-->locorum ordinariis requisiti huiusmodi privilegia vel  in¬
+          <!--<lb ed="#Fb"/>-->dulgentias, quibus se dicunt fore munitos, ipsis ordinariis in
+          <!--<lb ed="#Fb"/>-->loco congruo et securo, aut aliquibus prudentibus viris omni
+          <!--<lb ed="#Fb"/>-->suspicione carentibus, ad hoc per dictos ordinarios deputatis,
+          <!--<lb ed="#Fb"/>-->infra terminum competentem, pro facti 'qualitate ipsorum
+          <!--<lb ed="#Fb"/>-->ordinariorum vel delegatorum suorum arbitrio moderandum,
+          <!--<lb ed="#Fb"/>-->iusto impedimento cessante ostendere, ac ad legendum
+          <!--<lb ed="#Fb"/>-->integraliter exhibere, nec non de articulis, de quibus con¬
+          <!--<lb ed="#Fb"/>-->troversia fuerit, transscriptum tradere teneantur. Si autem
+          <!--<lb ed="#Fb"/>-->ad fundandam intentionem suam super huiusmodi libertate
+          <!--<lb ed="#Fb"/>-->solummodo praescriptionem canonicam duxerint opponen¬
+          <!--<lb ed="#Fb"/>-->dam : eisdem ordinariis vel delegatis ab eis viris prudentibus
+          <!--<lb ed="#Fb"/>-->non suspectis de praescriptione huiusmodi facere debent
+          <!--<lb ed="#Fb"/>-->fidem. Quodsi tales privilegio et praescriptione asserant 
+          <!--<lb ed="#Fb"/>--> se munitos: privilegium quidem ipsum exhibeant, ut in
+          <!--<lb ed="#Fb"/>-->primo huiusmodi constitutionis articulo superius est expres¬
+          <!--<lb ed="#Fb"/>-->sum. Et si privilegium exhibitum non ad plenum per se
+          <!--<lb ed="#Fb"/>-->sufficiat ad exemptionem seu libertatem huiusmodi com¬
+          <!--<lb ed="#Fb"/>-->probandam, sed tale est, quod saltem causam praebeat
+          <!--<lb ed="#Fb"/>-->praescribendi; coram personis praedictis annorum XL.
+          <!--<lb ed="#Fb"/>-->praescriptionem teneantur probare, praescriptionisque pro¬
+          <!--<lb ed="#Fb"/>-->batione pendente, licet ordinariorum intentio de iure com¬
+          <!--<lb ed="#Fb"/>-->muni fundetur, tamen, quia de privilegio, quod saltem
+          <!--<lb ed="#Fb"/>-->causam praescribendi praebet, faciunt fidem, in libertatis
+          <!--<lb ed="#Fb"/>-->vel exemptionis possessione non violenta, non clandestina,
+          <!--<lb ed="#Fb"/>-->nec concessa precario, de qua fidem coram eisdem fecerint,
+          <!--<lb ed="#Fb"/>-->non turbentur. Si vero privilegium per se sufficiens, quando
+          <!--<lb ed="#Fb"/>-->solo privilegio se defendunt, vel saltem tale, quod prae¬
+          <!--<lb ed="#Fb"/>-->scriptioni canonicae causam praestet, quum praescriptionem
+          <!--<lb ed="#Fb"/>-->allegant, non exhibuerint, ut est dictum: quum de iure
+          <!--<lb ed="#Fb"/>-->communi ordinariorum intentio sit fundata, sua iurisdictione
+          <!--<lb ed="#Fb"/>-->uti possint in eosdem libere, donec de praescriptione
+          <!--<lb ed="#Fb"/>-->canonica, ut praemissum est, fecerint plenam fidem. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e1491-Dd1e558">
+               <head xml:id="wef6td-d1e1491-Hd1e560">CAP. VIII. </head>
+               <p xml:id="wef6td-d1e1491-d1e563"> Interdictus est ingressus ecclesiae regularibus vel saecularibus, quamvis
+          <!--<lb ed="#Fb"/>-->exemptis, qui scienter celebrant vel celebrari faciunt divina in civitatibus
+          <!--<lb ed="#Fb"/>-->vel locis interdictis, nisi secundum permissionem iuris, vel qui excommuni¬
+          <!--<lb ed="#Fb"/>-->catos vel interdictos publice ad divina officia, sacramenta vel sepulturam
+          <!--<lb ed="#Fb"/>-->admittunt. H. d. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e1491-d1e574"> Idem. </p>
+               <p xml:id="wef6td-d1e1491-d1e577"> Episcoporum et aliorum praelatorum querelis fre¬
+          <!--<lb ed="#Fb"/>-->quentibus et querulosis clamoribus excitati, praesenti de¬
+          <!--<lb ed="#Fb"/>-->creto duximus statuendum, ne aliqui saeculares aut regulares,
+          <!--<lb ed="#Fb"/>-->quantumcunque exemptionis seu libertatis sedis apostolicae
+          <!--<lb ed="#Fb"/>-->privilegiis communiti, cuiuscunque ordinis, religionis, status
+          <!--<lb ed="#Fb"/>-->vel conditionis exsistant, scienter celebrent vel faciant
+          <!--<lb ed="#Fb"/>-->celebrari divina in civitatibus, castris, villis, (nisi quatenus
+          <!--<lb ed="#Fb"/>-->eis a iure conceditur,) seu locis aliis interdictis ab ordinariis
+          <!--<lb ed="#Fb"/>-->sive delegatis iudicibus vel a iure, aut excommunicatos
+          <!--<lb ed="#Fb"/>-->publice vel interdictos ad divina officia seu ecclesiastica
+          <!--<lb ed="#Fb"/>-->sacramenta vel ecclesiasticam  sepulturam admittant. Qui
+          <!--<lb ed="#Fb"/>-->vero contra praesumpserint, praeter alias poenas a iure
+          <!--<lb ed="#Fb"/>-->statutas ingressum ecclesiae sibi noverint interdictum, donec
+          <!--<lb ed="#Fb"/>-->de transgressione huiusmodi ad arbitrium eius, cuius senten¬
+          <!--<lb ed="#Fb"/>-->tiam contempserunt , satisfecerint competenter. </p>
+        
+        
+            </div>
+            <div xml:id="wef6td-d1e1491-Dd1e609">
+               <head xml:id="wef6td-d1e1491-Hd1e611">CAP. IX. </head>
+               <p xml:id="wef6td-d1e1491-d1e614"> Primo ponit, quando eximitur ecclesia, quid importet. Secundo, quando
+          <!--<lb ed="#Fb"/>-->ipsius canonici. Tertio, quando clerici. Et ista ordinate declarat, in
+          <!--<lb ed="#Fb"/>-->qualibet partium affirmative et negative loquendo, secundum Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e1491-d1e621"> Idem . </p>
+               <p xml:id="wef6td-d1e1491-d1e624"> Per exemptionem ecclesiae concessam ipsa ecclesia et
+          <!--<lb ed="#Fb"/>-->ipsius monachi vel canonici, clerici etiam et  conversi per-
+          <!--<lb ed="#Fb"/>-->petuoque oblati, non autem ecclesiae eiusdem presbyter,
+          <!--<lb ed="#Fb"/>-->qui parochianorum curam habet, quoad ea, quae ad curam
+          <!--<lb ed="#Fb"/>-->eandem pertinent, nec ipsi parochiani etiam intelliguntur
+          <!--<lb ed="#Fb"/>-->exempti. Verum si canonici alicuius ecclesiae eximantur,
+          <!--<lb ed="#Fb"/>-->ipsi soli canonici, non autem ecclesia vel alii eius clerici
+          <!--<lb ed="#Fb"/>-->sunt exempti. Si autem clerici cuiusvis ecclesiae eximantur,
+          <!--<lb ed="#Fb"/>-->tunc tam canonici quam alii clerici eximuntur, non tamen
+          <!--<lb ed="#Fb"/>-->ecclesia, nisi aliud in exemptionis privilegio exprimatur. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e1491-Dd1e647">
+               <head xml:id="wef6td-d1e1491-Hd1e649">CAP. x. </head>
+               <p xml:id="wef6td-d1e1491-d1e652"> Formas privilegiorum ponit haec decretalis, quarum quaedam exemptionem
+          <!--<lb ed="#Fb"/>-->conferunt, quaedam non. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e1491-d1e657"> Idem. </p>
+               <p xml:id="wef6td-d1e1491-d1e660"> Si Papa in aliquo privilegio vel scriptura, non facta
+          <!--<lb ed="#Fb"/>-->principaliter super donatione  vel sententia exemptionis seu
+          <!--<lb ed="#Fb"/>-->etiam libertatis, aliquam ecclesiam ad ius et proprietatem
+          <!--<lb ed="#Fb"/>-->Romanae ecclesiae pertinere, vel consimilia verba narret:
+          <!--<lb ed="#Fb"/>-->non propterea  illius ecclesiae exemptio est probata, nisi de
+          <!--<lb ed="#Fb"/>-->libertate aliter doceatur. Si autem  ecclesiae vel mona¬
+          <!--<lb ed="#Fb"/>-->sterio exemptionis privilegium concedendo, vel super ipsius
+          <!--<lb ed="#Fb"/>-->exemptione sententiando, (quum de ipsius exemptionis ne¬
+          <!--<lb ed="#Fb"/>-->gotio ageretur,) asserat, ipsam ecclesiam fore exemptam,
+          <!--<lb ed="#Fb"/>-->aut eam iuris beati Petri exsistere, sive ad ius et proprieta¬
+          <!--<lb ed="#Fb"/>-->tem Romanae ecclesiae, vel ad Romanam ecclesiam specia¬
+          <!--<lb ed="#Fb"/>-->liter, aut sine medio, vel etiam simpliciter pertinere: per hoc
+          <!--<lb ed="#Fb"/>-->plene debet exempta huiusmodi ecclesia iudicari. Quum
+          <!--<lb ed="#Fb"/>-->enim iure communi omnes ecclesiae per orbem diffusae ad
+          <!--<lb ed="#Fb"/>-->Romanam ecclesiam pertineant , si id alicui concedatur
+          <!--<lb ed="#Fb"/>-->ecclesiae , vel de ea per sententiam iudicetur: ex hoc ipsius
+          <!--<lb ed="#Fb"/>-->comprobatur exemptio, ut privilegii nihil alias allatura con¬
+          <!--<lb ed="#Fb"/>-->cessio ei, cui conceditur, et sententia nullum aliter datura
+          <!--<lb ed="#Fb"/>-->subsidium ecclesiae, pro qua fertur, praerogativam, quum
+          <!--<lb ed="#Fb"/>-->verba aliquid operari debeant, conferat gratiae specialis .
+          <!--<lb ed="#Fb"/>-->Et est idem, si privilegium contineat, vel  ipse Papa per
+          <!--<lb ed="#Fb"/>-->modum exprimat supra scriptum, quod ecclesia sit libera,
+          <!--<lb ed="#Fb"/>-->seu quod potiatur Romana ecclesiae libertate, vel quod in
+          <!--<lb ed="#Fb"/>-->hoc praerogativa gaudeat speciali;. aut si dicat indiffinite,
+          <!--<lb ed="#Fb"/>-->quod ecclesiae Romanae annuum censum solvat ad perceptae
+          <!--<lb ed="#Fb"/>-->indicium libertatis, sive quod ipsam ecclesiam eximit ab
+          <!--<lb ed="#Fb"/>-->ordinarii potestate, vel quod non audeat illic episcopus ca¬
+          <!--<lb ed="#Fb"/>-->thedram collocare, aut imperandi seu ordinationem quamvis
+          <!--<lb ed="#Fb"/>-->levissimam faciendi exercere aliquam potestatem. Similiter,
+          <!--<lb ed="#Fb"/>-->si aliqui recipiantur in proprios et speciales subiectos, cen¬
+          <!--<lb ed="#Fb"/>-->sentur exempti. Non sic, si in proprios et speciales filios
+          <!--<lb ed="#Fb"/>-->Romanae ecclesiae sint suscepti: tales quippe exempti pro¬
+          <!--<lb ed="#Fb"/>-->pterea non exsistunt. Si vero dicatur simpliciter, quod
+          <!--<lb ed="#Fb"/>-->aliqua ecclesia Romanae ecclesiae annuum censum solvat:
+          <!--<lb ed="#Fb"/>-->non propter hoc exempta ecclesia dici debet. Idem dicimus,
+          <!--<lb ed="#Fb"/>-->si circa aliqua per privilegium concedatur libertas, et clau¬
+          <!--<lb ed="#Fb"/>-->sula de censu annuo persolvendo sequatur, ut si aliquibus,
+          <!--<lb ed="#Fb"/>-->quod ab alio quam a Papa seu eius legato excommunicari,
+          <!--<lb ed="#Fb"/>-->suspendi aut interdici non possint, vel aliquid aliud specia¬
+          <!--<lb ed="#Fb"/>-->liter a sede apostolica sit indultum, vel etiam dicatur, quod
+          <!--<lb ed="#Fb"/>-->in speciales Romanae ecclesiae filios sint assumpti, et se¬
+          <!--<lb ed="#Fb"/>-->quatur in privilegio, quod ecclesiae Romanae ad indicium 
+          <!--<lb ed="#Fb"/>--> libertatis perceptae annuum censum solvant. His enim et
+          <!--<lb ed="#Fb"/>-->consimilibus casibus sic in certis privilegiati articulis ordi¬
+          <!--<lb ed="#Fb"/>-->nariorum iurisdictioni quantum ad alia sunt subiecti. Licet </p>
+        
+        
+        
+               <p xml:id="wef6td-d1e1491-d1e751"> autem sic diversos privilegiorum, quibus ecclesiae ac mona¬
+          <!--<lb ed="#Fb"/>-->steria eximuntur, tenores ad litium materiam amputandam
+          <!--<lb ed="#Fb"/>-->duxerimus designandos: per hoc tamen aliis exemptionum,
+          <!--<lb ed="#Fb"/>-->si reperiantur, seu aliarum libertatum modis vel eorum
+          <!--<lb ed="#Fb"/>-->effectibus nolumus aliquatenus derogari. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e1491-Dd1e763">
+               <head xml:id="wef6td-d1e1491-Hd1e765">CAP. XI. </head>
+               <p xml:id="wef6td-d1e1491-d1e768"> Privilegiati, ut tempore interdicti celebrare possint divina clausis ecclesiis,
+          <!--<lb ed="#Fb"/>-->alios etiam extraneos admittere non possunt. Et si fuerit singularis persona
+          <!--<lb ed="#Fb"/>-->super hoc privilegiata, familiares suos admittit; secus in familia conventus
+          <!--<lb ed="#Fb"/>-->taliter privilegiati. Hoc privilegio non gaudet ille, cuius culpa ponitur
+          <!--<lb ed="#Fb"/>-->interdictum. H. d. Dominicus. </p>
+               <p xml:id="wef6td-d1e1491-d1e779"> Idem. </p>
+               <p xml:id="wef6td-d1e1491-d1e782"> Licet vobis concessum exsistat, ut interdicti tempore,
+          <!--<lb ed="#Fb"/>-->ianuis clausis, excommunicatis et interdictis exclusis, voce
+          <!--<lb ed="#Fb"/>-->submissa divina celebrare possitis: ad ea tamen aliquos,
+          <!--<lb ed="#Fb"/>-->etiamsi aliunde venerint, nisi super hoc privilegiati exsistant,
+          <!--<lb ed="#Fb"/>-->recipere nulla ratione debetis. Quum conceditur singulari
+          <!--<lb ed="#Fb"/>-->personae, ut modo praemisso tempore interdicti celebrare
+          <!--<lb ed="#Fb"/>-->valeat vel audire divina: eius familiares domestici ad
+          <!--<lb ed="#Fb"/>-->audiendum cum ea et celebrandum sibi divinum officium
+          <!--<lb ed="#Fb"/>-->licite admittuntur . Non sic autem in familiaribus alicuius
+          <!--<lb ed="#Fb"/>-->conventus seu collegii est censendum. Illi enim, nisi privi¬
+          <!--<lb ed="#Fb"/>-->legiati fuerint, admitti non debent. Huiusmodi quoque con¬
+          <!--<lb ed="#Fb"/>-->cessione gaudere non potest is, cuius causa seu culpa, dolo
+          <!--<lb ed="#Fb"/>-->vel fraude, fuit sententia interdicti prolata, seu qui ad per¬
+          <!--<lb ed="#Fb"/>-->petrandum delictum, cuius occasione lata exstitit, praebuit
+          <!--<lb ed="#Fb"/>-->consilium, auxilium vel favorem. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e1491-Dd1e814">
+               <head xml:id="wef6td-d1e1491-Hd1e816">CAP. XII. </head>
+               <p xml:id="wef6td-d1e1491-d1e819"> Episcopi cum altari viatico celebrare possunt et sibi facere celebrari, ita
+          <!--<lb ed="#Fb"/>-->tamen, quod non violent interdictum. H. d. Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e1491-d1e824"> Idem. </p>
+               <p xml:id="wef6td-d1e1491-d1e827"> Quoniam episcopi eorumque superiores se habent
+          <!--<lb ed="#Fb"/>-->diversis ex causis a suis ecclesiis et dioecesibus absentare
+          <!--<lb ed="#Fb"/>-->frequenter, nec semper possunt commode ad ecclesias ac¬
+          <!--<lb ed="#Fb"/>-->cedere pro missa celebranda vel audienda in ipsis, sine 
+          <!--<lb ed="#Fb"/>--> qua eos transire non decet absque causa rationabili ullam
+          <!--<lb ed="#Fb"/>-->diem : praesenti constitutione indulgemus eisdem, ut altare
+          <!--<lb ed="#Fb"/>-->possint habere viaticum, et in eo celebrare ac facere cele¬
+          <!--<lb ed="#Fb"/>-->brari, ubicunque absque interdicti transgressione illis per¬
+          <!--<lb ed="#Fb"/>-->mittitur celebrare vel audire divina. </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

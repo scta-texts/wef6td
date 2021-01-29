@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>TITULUS VIII.</title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>TITULUS VIII.</title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e218"><!-- wef6td-l1t8 -->
+            <head xml:id="wef6td-d1e218-Hd1e103">TITULUS VIII.</head>
+            <p xml:id="wef6td-d1e218-d1e106">DE SUPPLENDA NEGLIGENTIA
+        <!--<lb ed="#Fb"/>-->PRAELATORUM.
+      </p>
+            <div xml:id="wef6td-d1e218-Dd1e111">
+               <head xml:id="wef6td-d1e218-Hd1e113">CAP. I.
+        </head>
+               <p xml:id="wef6td-d1e218-d1e116">Iurisdictio suffraganei excommunicati ad metropolitanum non devolvitur,
+          <!--<lb ed="#Fb"/>-->Ioann. Andr.
+        </p>
+               <p xml:id="wef6td-d1e218-d1e121">Innocentius lV.
+               </p>
+               <p xml:id="wef6td-d1e218-d1e124">Romana ecclesia (Et infra:) Edictum vero per Remen-
+          <!--<lb ed="#Fb"/>-->sem provinciam publicatum, ut a subditis episcoporum ipsius
+          <!--<lb ed="#Fb"/>-->provinciae pro audiendis et terminandis eorum causis libere
+          <!--<lb ed="#Fb"/>-->ad Remensem curiam accedatur, penitus revocamus, quia,
+          <!--<lb ed="#Fb"/>-->etiamsi tenerentur iidem episcopi pro suis culpis vinculo
+          <!--<lb ed="#Fb"/>-->excommunicationis adstricti, non tamen ex culpis ipsis,
+          <!--<lb ed="#Fb"/>-->quum id non inveniatur a iure concessum, ad Remensem
+          <!--<lb ed="#Fb"/>-->archiepiscopum iurisdictio devolveretur eorum. Sed alia
+          <!--<lb ed="#Fb"/>-->forte pro illis  poena ipsis canonica posset infligi.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e218-Dd1e144">
+               <head xml:id="wef6td-d1e218-Hd1e146">CAP. II.
+        </head>
+               <p xml:id="wef6td-d1e218-d1e149">Si ille, qui praeest, est negligens et remissus, debet superior illi dare
+          <!--<lb ed="#Fb"/>-->idoneum coadiutorem. H. d. Ioann. Andr.
+        </p>
+               <p xml:id="wef6td-d1e218-d1e154">Idem Baronibus et Comitibus* regni
+          <!--<lb ed="#Fb"/>-->Portugalliae.
+        </p>
+               <p xml:id="wef6td-d1e218-d1e159">Grandi non immerito (Et infra:) Mandamus, quatenus
+        </p>
+               <p xml:id="wef6td-d1e218-d1e162">dilectum filium nobilem virum, comitem Boloniensem,
+          <!--<lb ed="#Fb"/>-->praefati regis Portugalliae  fratrem, de devotione, probi¬
+          <!--<lb ed="#Fb"/>-->tate ac circumspectione multipliciter commendatum, qui
+          <!--<lb ed="#Fb"/>-->eidem regi, si absque legitimo decederet filio, iure regni
+          <!--<lb ed="#Fb"/>-->succederet, quique examinatae dilectionis affectu, quo vos
+          <!--<lb ed="#Fb"/>-->et praedictum regnum prosequitur, magnanimitate ac
+          <!--<lb ed="#Fb"/>-->potentia sibi plurimum suffragantibus, regnum ipsum ma¬
+          <!--<lb ed="#Fb"/>-->turius  reformaturus firma credulitate speratur, praesertim
+          <!--<lb ed="#Fb"/>-->quum ad curam et administrationem generalem et liberam
+          <!--<lb ed="#Fb"/>-->regni eiusdem, tam* pros saepe dicti regis quam ipsius
+          <!--<lb ed="#Fb"/>-->regni utilitate, si provide attendatur, ac ad defensionem
+          <!--<lb ed="#Fb"/>-->ecclesiarum, monasteriorum aliorumque piorum locorum
+          <!--<lb ed="#Fb"/>-->regni praefati, et personarum ecclesiasticarum tam religio¬
+          <!--<lb ed="#Fb"/>-->sarum quam saecularium, nec non viduarum, orphanorum et
+          <!--<lb ed="#Fb"/>-->ceterorum ibidem degentium, ac deperditorum inibi re¬
+          <!--<lb ed="#Fb"/>-->cuperationem salubriter, ut in Domino confidimus, sit
+          <!--<lb ed="#Fb"/>-->assumptus: quum ad vos accesserit, (fidelitate, homagio,
+          <!--<lb ed="#Fb"/>-->iuramento seu pacto, si aliquibus forte praefato regi vel
+          <!--<lb ed="#Fb"/>-->cuicunque alii personae tenemini, aut etiam ipsius regis
+          <!--<lb ed="#Fb"/>-->prohibitione, dummodo personam eius et vitam, ac legitimi
+          <!--<lb ed="#Fb"/>-->sui filii, si aliquem ipsum habere contigerit, fideliter con¬
+          <!--<lb ed="#Fb"/>-->servetis debitum eis exhibentes honorem, nequaquam
+          <!--<lb ed="#Fb"/>-->obstantibus,) in civitatibus, castris, villis et munitionibus
+          <!--<lb ed="#Fb"/>-->regni praedicti cum omnibus suis recipere, ac eius disposi¬
+          <!--<lb ed="#Fb"/>-->tioni, ordinationi et mandatis universaliter singuli et sin¬
+          <!--<lb ed="#Fb"/>-->gulariter universi per omnia et in omnibus intendere absque
+          <!--<lb ed="#Fb"/>-->difficultate qualibet procuretis, impendentes sibi contra
+          <!--<lb ed="#Fb"/>-->quoslibet repugnantes ac etiam violentos consilium, auxilium
+          <!--<lb ed="#Fb"/>-->et favorem, de reditibus, proventibus omnibusque praefati<!--<lb ed="#Fb"/>-->regni iuribus sine diminutione aliqua plenarie respondendo,
+          <!--<lb ed="#Fb"/>-->ut de illis dicto regi, secundum quod suam decet excellen¬
+          <!--<lb ed="#Fb"/>-->tiam, sibi ac suis et praefati regni necessitatibus pro
+          <!--<lb ed="#Fb"/>-->tempore  ac negotiorum emergentium qualitate valeat pro¬
+          <!--<lb ed="#Fb"/>-->videre. Alioquin venerabilibus fratribus nostris Bracharensi
+          <!--<lb ed="#Fb"/>-->archiepiscopo et episcopo Colimbriensi damus nostris literis
+          <!--<lb ed="#Fb"/>-->in praeceptis, ut vos ad id monitione praemissap per cen¬
+          <!--<lb ed="#Fb"/>-->suram ecclesiasticam appellatione remota compellant. Per
+          <!--<lb ed="#Fb"/>-->hoc autem non intendimus memorato regi vel ipsius legitimo
+          <!--<lb ed="#Fb"/>-->filio, si quem habuerit, praedictum regnum adimere; sed
+          <!--<lb ed="#Fb"/>-->potius sibi et eidem regno destructioni exposito, ac vobis
+          <!--<lb ed="#Fb"/>-->ipsis in vita ipsius* regis per sollicitudinem et providen¬
+          <!--<lb ed="#Fb"/>-->tiam comitis consulere supra dicti.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e218-Dd1e248">
+               <head xml:id="wef6td-d1e218-Hd1e250">Cap. III.</head>
+               <p xml:id="wef6td-d1e218-d1e253">Episcopo a paganis vel a schismaticis capto, non archiepiscopus, sed
+          <!--<lb ed="#Fb"/>-->capitulum administrat, nisi Papa, quam cito hoc fieri poterit, super hoc per
+          <!--<lb ed="#Fb"/>-->capitulum consulendus, aliter ordinaret. Ioann. Andr.
+        </p>
+               <p xml:id="wef6td-d1e218-d1e260">Bonifacius VIII.
+        </p>
+               <p xml:id="wef6td-d1e218-d1e263">Si episcopus a paganis aut schismaticis capiatur, non
+          <!--<lb ed="#Fb"/>-->archiepiscopus, sed capitulum, ac si sedes per mortem
+          <!--<lb ed="#Fb"/>-->vacaret illius, in spiritualibus et temporalibus ministrare
+          <!--<lb ed="#Fb"/>-->debebit, donec eum libertati restitui, vel per sedem apostoli¬
+          <!--<lb ed="#Fb"/>-->cam, (cuius interest ecclesiarum providere necessitatibus,)
+          <!--<lb ed="#Fb"/>-->super hoc per ipsum capitulum quam cito commode poterit
+          <!--<lb ed="#Fb"/>-->consulendam, aliud contigerit ordinari.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e218-Dd1e280">
+               <head xml:id="wef6td-d1e218-Hd1e282">CAP. iv.
+        </head>
+               <p xml:id="wef6td-d1e218-d1e285">Ecclesia cathedrali vacante solus Papa visitatorem deputat, nisi archi¬
+          <!--<lb ed="#Fb"/>-->episcopus propter negligentiam vel dolosam capituli administrationem
+          <!--<lb ed="#Fb"/>-->cum causae cognitione deputaret. Hoc dicit Dominicus. — §. 1. Visitator
+          <!--<lb ed="#Fb"/>-->ecclesiae vacantis, ab inferiore a Papa deputatus, temporalia et spiritualia
+          <!--<lb ed="#Fb"/>-->administrat, excepta beneficiorum collatione ad episcopum pertinente.
+        </p>
+               <p xml:id="wef6td-d1e218-d1e296">H. d. Dominicus.
+        </p>
+               <p xml:id="wef6td-d1e218-d1e299">Idem.
+        </p>
+               <p xml:id="wef6td-d1e218-d1e302">Ecclesiae cathedrali vacanti visitator ab alio quam a
+          <!--<lb ed="#Fb"/>-->Romano Pontifice deputari non potest, nisi forte capitulum
+          <!--<lb ed="#Fb"/>-->in spiritualibus et temporalibus negligenter aut perperam
+          <!--<lb ed="#Fb"/>-->administret. Tunc enim archiepiscopus ob negligentiam
+          <!--<lb ed="#Fb"/>-->vel malitiam capituli, eo vocato, causaeque super hoc cogni¬
+          <!--<lb ed="#Fb"/>-->tione praemissa, visitatorem seu administratorem eidem
+          <!--<lb ed="#Fb"/>-->ecclesiae licite poterit deputare. §. i. Huiusmodi quoque
+          <!--<lb ed="#Fb"/>-->visitator, quanquam spiritualium et temporalium administra¬
+          <!--<lb ed="#Fb"/>-->tionem legitimam censeatur habere, beneficia tamen, quae
+          <!--<lb ed="#Fb"/>-->ad collationem pertinent episcopi, conferre non potest, si ab
+          <!--<lb ed="#Fb"/>-->alio quam a Romano Pontifice fuerit deputatus.
+        </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

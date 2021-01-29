@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>TITULUS XXII.</title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>TITULUS XXII.</title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e500"><!-- wef6td-l1t22 -->
+            <head xml:id="wef6td-d1e500-Hd1e103">TITULUS XXII.</head>
+            <p xml:id="wef6td-d1e500-d1e106">DE ARBITRIS.
+      </p>
+            <div xml:id="wef6td-d1e500-Dd1e109">
+               <head xml:id="wef6td-d1e500-Hd1e111">CAP. I.
+        </head>
+               <p xml:id="wef6td-d1e500-d1e114">Si ex tribus arbitris duo concordant in summa, tenet illorum sententia; si
+          <!--<lb ed="#Fb"/>-->omnes discordant, tenet sententia de summa minori.
+        </p>
+               <p xml:id="wef6td-d1e500-d1e119">Bonifacius VIII.
+        </p>
+               <p xml:id="wef6td-d1e500-d1e122">Si ex tribus arbitris te duo in X., et tertius in V. con¬
+          <!--<lb ed="#Fb"/>-->demnent, debet sententia praevalere duorum; licet, quum
+          <!--<lb ed="#Fb"/>-->unus in XV., alius in X., tertius vero in V. pronunciant,
+          <!--<lb ed="#Fb"/>-->illius, qui dixit de summa minori, (quum in illa omnes con¬
+          <!--<lb ed="#Fb"/>-->cordes exsistant,) sententia efficax censeatur.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e500-Dd1e134">
+               <head xml:id="wef6td-d1e500-Hd1e136">CAP. II.
+        </head>
+               <p xml:id="wef6td-d1e500-d1e139">Si ex tribus arbitris unus nolit examinando vel diffiniendo negotio in¬
+          <!--<lb ed="#Fb"/>-->teresse: duo procedere poterunt, ac si ille praesens esset. Circa iudices
+          <!--<lb ed="#Fb"/>-->autem antiqua iura serventur. Ioann. Andr.
+        </p>
+               <p xml:id="wef6td-d1e500-d1e146">Idem.
+        </p>
+               <p xml:id="wef6td-d1e500-d1e149">Ut quaestionibus, quae plerumque propter arbitrorum
+          <!--<lb ed="#Fb"/>-->voluntariam seu malitiosam absentiam remanent indecisae,
+          <!--<lb ed="#Fb"/>-->finis celerius imponatur, statuimus, ut, si ex* tribus arbitris
+          <!--<lb ed="#Fb"/>-->a partibus electis eorum aliquis, ab aliis legitime requisitus,
+          <!--<lb ed="#Fb"/>-->ad examinandum vel diffiniendum una cum eis negotium,
+          <!--<lb ed="#Fb"/>-->super quo in ipsos exstitit compromissum, non curaverit,
+          <!--<lb ed="#Fb"/>-->cessante impedimento legitimo, convenire, duo praesentes,
+          <!--<lb ed="#Fb"/>-->penes quos, licet lex civilis aliud innuere videatur, totalem
+          <!--<lb ed="#Fb"/>-->eo casu remanere decernimus potestatem, possint,malitiosa
+          <!--<lb ed="#Fb"/>-->seu voluntaria illius absentia non obstante, dictum exa¬
+          <!--<lb ed="#Fb"/>-->minare negotium et libere diffinire, sicut possent illo prae¬
+          <!--<lb ed="#Fb"/>-->sente, nec volente cum eis in unam sententiam concordare;
+          <!--<lb ed="#Fb"/>-->ut sic ipsius absentia, praesentia repleta divina, eum re¬
+          <!--<lb ed="#Fb"/>-->putari faciat pro praesente. Circa iudices vero antiqua
+          <!--<lb ed="#Fb"/>-->iura nolumus immutari.
+        </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

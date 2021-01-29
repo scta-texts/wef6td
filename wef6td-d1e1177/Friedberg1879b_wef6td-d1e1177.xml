@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> TITULUS XIX. </title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title> TITULUS XIX. </title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e1177"><!-- wef6td-l3t19 -->
+            <head xml:id="wef6td-d1e1177-Hd1e103"> TITULUS XIX. </head>
+            <p xml:id="wef6td-d1e1177-d1e106"> DE IURE PATRONATUS. </p>
+            <div xml:id="wef6td-d1e1177-Dd1e109">
+               <head xml:id="wef6td-d1e1177-Hd1e111">CAP. UN. </head>
+               <p xml:id="wef6td-d1e1177-d1e114"> Donatio iuris patronatus laici, facta loco ecclesiastico, etiam sine consensu episcopi tenet; non tamen praeiudicat iuri episcopi. H. d. Dominic. — §. 1. Laicus quadrimestre tempus habet ad praesentandum, ecclesia vero semestre, licet a laico acquisiverit ius patronatus. Hoc dicit Dominicus. </p>
+               <p xml:id="wef6td-d1e1177-d1e117"> Bonifacius VIII. </p>
+        
+               <p xml:id="wef6td-d1e1177-d1e120"> Si laicus ius patronatus ecclesiae sibi competens eidem vel alteri ecclesiae seu loco religioso duxerit conferendum : •huiusmodi collatio, quamvis absque assensu episcopi facta fuerit, efficax est censenda, per praefatam tamen collationem iuri episcopi, qui eidem assensum non praebuit, nolumus in aliquo derogari. §. 1. Verum licet patronus laicus ad praesentandum tempus habeat quadrimestre duntaxat: ecclesia tamen vel monasterium, cui facta est a laico iuris patronatus collatio, tempus habet semestre, et omnino, quantum ad praesentationem pertinet, non ut patronus laicus, sed ut patronus debet ecclesiasticus reputari. </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

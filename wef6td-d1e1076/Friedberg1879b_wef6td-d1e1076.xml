@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title> TITULUS XIV. </title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title> TITULUS XIV. </title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e1076"><!-- wef6td-l3t14 -->
+            <head xml:id="wef6td-d1e1076-Hd1e103"> TITULUS XIV. </head>
+      
+            <p xml:id="wef6td-d1e1076-d1e106"> DE REGULARIBUS ET TRANSEUNTIBUS AD RELIGIONEM. </p>
+            <div xml:id="wef6td-d1e1076-Dd1e109">
+               <head xml:id="wef6td-d1e1076-Hd1e111">CAP. 1.</head>
+               <p xml:id="wef6td-d1e1076-d1e114"> Si minor XIV. annis ingreditur religionem, in XV. anno liber exit, nisi in ipso XV. anno professionem fecerit, vel habitum professorum receperit, vel expresse ratam habuerit professionem prius a se factam. Si autem per totum XV. annum portavit habitum, ubi non est distinctus: intelligitur professus, nisi tanta sit indistinctio, quod viventes cum eis simili habitu induantur. Si maior XIV. annis ingreditur, si portat habitum per annum: quantum cunque sit indistinctus, intelligitur professus. Ioann. Andr, — §. 1. Hic declarat, qui sunt habitus distincti. Hoc dic. </p>
+               <p xml:id="wef6td-d1e1076-d1e117"> Innocentius IV.  </p>
+               <p xml:id="wef6td-d1e1076-d1e120"> Is, qui monasterium ante XIV. annum, ut monachus 
+          efficiatur, ingreditur, nisi eo completo professionem faciat in sequenti, vel habitum religionis suscipiat, qui dari profiten-tibus consuevit, seu professionem a se prius factam ratam expresse habeat, libere potest infra sequentem * annum ad saeculum remeare. Quodsi per totum sequentem annum in monasterio permanserit, ubi professorum et novitiorum sunt habitus indistincti: professionem per hoc fecisse, vel, si quam prius fecerat, ratam habuisse videtur, nisi tanta in-distinctio ibi habitus habeatur, quod et professi et novitii, ac etiam alii, communem vitam cum eis ducentes, simili penitus habitu induantur. Qui vero post quartum decimum annum habitum religionis assumpserit, si per annum illum gestaverit, extunc religionem assumptam praesumitur veraciter esse professus, ubi professi a novitiis dissimilitudine habitus minime distinguuntur, etiamsi alii, degentes cum eis, similibus vestibus coutantur; quoniam, quum iam hic ad discretionis annos pervenerit, quid agat agnoscit, et * ideo susceptum discretionis tempore ordinem, postquam hunc anni probaverit spatio, intelligitur firmiter approbasse. Secus autem in illo, qui ante discretionis annos habitum induit regularem, quum eorum, quae tunc agit, plenum non habeat intellectum. §. i. Distinctos quoque seu dissimiles intelligimus esse habitus, sive novitiis sive professis dissimiles vestes dentur, sive benedicantur, quum profitentibus conceduntur, sive etiam aliquid aliud fiat, per quod novitiorum a professorum habitu discernatur. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e1076-Dd1e124">
+               <head xml:id="wef6td-d1e1076-Hd1e126">CAP. II. </head>
+               <p xml:id="wef6td-d1e1076-d1e129"> Praedicatores et Minores infra annum probationis quemquam ad sui ordinis professionem recipere non possunt. Quodsi fecerint, receptus alligatus non est eorum ordini, et ipsi a receptione professionis aliorum sunt suspensi, et puniendi poena, quae pro gravioribus culpis eis consuevit infligi. </p>
+               <p xml:id="wef6td-d1e1076-d1e132"> Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e1076-d1e135"> Alexander IV. * fratribus Praedicatoribus et Minoribus . </p>
+               <p xml:id="wef6td-d1e1076-d1e138"> Non solum    (Et infra:)   Licet  zelum animarum habentes eas lucrari Domino sollicite cupiatis, quia tamen decet et expedit, ut conscientiae puritati non desit iudicium rationis, ne, unde spiritualis profectus quaeritur, salutis  dispendium subsequatur: vobis de fratrum nostrorum consilio in virtute obedientiae et  sub poena excommunicationis auctoritate praesentium districtius inhibemus, ne ante annum probationis elapsum, qui est maxime in subsidium fragilitatis humanae regulariter institutus, quemquam ad professionem vestri ordinis seu renunciationem  in * saeculo  faciendam recipere, nec constitutum infra huiusmodi annum aliquatenus impedire, quo minus infra ipsum ad aliam religionem, quam maluerit, transeat, vel, nisi, maior tamen quatuordecim annis exsistens, professus sit tacite vel expresse, aut evidenter constet, illum vitam voluisse mutare, quod tamen non praesumitur, nisi clara probatione vel competentibus indiciis ostendatur, omnino ad saeculum redeat, sicut de sua voluntate processerit, praesumatis. Quodsi forte contra hanc nostram prohibitionem quem quam   s   recipere praesumpseritis : decernimus, eum, qui taliter receptus fuerit, nullatenus vestro esse ordini alligatum, vosque a receptione quorumlibet ad professionem  eiusdem  ordinis fore ipso facto suspensos, et insuper poenae subiiciendos, quae fratribus ipsius ordinis pro culpis infligi gravioribus consuevit. </p>
+            </div>
+            <div xml:id="wef6td-d1e1076-Dd1e142">
+               <head xml:id="wef6td-d1e1076-Hd1e144">CAP. III. </head>
+               <p xml:id="wef6td-d1e1076-d1e147"> Decretalis Non solum extenditur ad omnes Mendicantes; in aliis vero professio expressa religioni, cui fit, tacita autem generaliter obligat infra annum. H. d. secundum Zenz. </p>
+               <p xml:id="wef6td-d1e1076-d1e150"> Bonifacius VIII. </p>
+               <p xml:id="wef6td-d1e1076-d1e153"> Constitutionem Innocentianam, quae prohibet conversorum professionem recipi ante annum probationis elapsum, piae memoriae Alexander Papa IV. praedecessor noster ad fratrum Praedicatorum et Minorum ordines duntaxat declaravit  extendi. Unde nos, pari  similitudine rationis inducti, declarationem eandem ad aliorum Mendicantium ordines prorogamus. In aliis autem religionibus professio expresse vel tacite fieri potest licite infra annum. Sed expresse emissa, etiam saeculari habitu non mutato, illi religioni praecise obligat, quam profitens est professus. Tacite  vero facta infra probationis annum per susceptionem habitus, qui profitentibus tantum datur, non illi specialiter, cuius habitus est susceptus, sed generaliter religioni alicui recipientem obligat, si aetatis aptae sit, si sciens et voluntarius, ac triduo perseveret. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e1076-Dd1e158">
+               <head xml:id="wef6td-d1e1076-Hd1e160">CAP. IV. </head>
+               <p xml:id="wef6td-d1e1076-d1e163"> Beneficium ingredientis religionem infra annum probationis, exceptis casibus bis expressis, non est alteri conferendum; interim tamen debebit per alium beneficio deserviri, assignata eidem substituto congrua portione, unde vivere possit. H. d. Ioann. de Fan. </p>
+               <p xml:id="wef6td-d1e1076-d1e166"> Idem Parisiensi Capitulo. </p>
+               <p xml:id="wef6td-d1e1076-d1e169"> Beneficium illius, qui religionem ingreditur, non est infra probationis annum alicui conferendum, nisi ad id ipsius accedat assensus, aut constet, quod vitam voluerit absolute mutare, vel professionem expressam fecerit, seu scienter habitum receperit professorum. Sed interim eidem beneficio per alium deserviri debebit, assignata sibi congrua de ipsius proventibus portione. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e1076-Dd1e173">
+               <head xml:id="wef6td-d1e1076-Hd1e175">CAP.   v. </head>
+               <p xml:id="wef6td-d1e1076-d1e178"> Secundum votum solenne religionis derogat priori simplici. H. d. Ioann. </p>
+               <p xml:id="wef6td-d1e1076-d1e181"> de Fan. </p>
+               <p xml:id="wef6td-d1e1076-d1e184"> Idem. </p>
+               <p xml:id="wef6td-d1e1076-d1e187"> Qui post votum, a se de certa religione intranda emissum, religionem aliam etiam laxiorem ingreditur et profitetur in ipsa, potest, voto non obstante priori, cui tanquam simplici per secundum solenne noscitur derogatum, manere * licite in eadem, pro voto tamen non completo erit eidem poenitentia imponenda. </p>
+        
+            </div>
+            <div xml:id="wef6td-d1e1076-Dd1e191">
+               <head xml:id="wef6td-d1e1076-Hd1e193">CAP.   vi. </head>
+               <p xml:id="wef6td-d1e1076-d1e196"> Vacante monasterio conventus novum recipit monachum, si communiter ad abbatem et eos spectat; si ad abbatem solum, secus. H. d. Dominicus. </p>
+               <p xml:id="wef6td-d1e1076-d1e199"> Idem. </p>
+               <p xml:id="wef6td-d1e1076-d1e202"> Si ad solum abbatem pertineat creatio monachorum: </p>
+        
+        
+        
+               <p xml:id="wef6td-d1e1076-d1e205"> eo defuncto nequibit novus monachus a conventu creari; alias poterit, si eorum creatio spectat * insimul ad utrumque. </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

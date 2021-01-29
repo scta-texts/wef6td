@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>TITULUS IV.</title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>TITULUS IV.</title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e137"><!-- wef6td-l1t4 -->
+            <head xml:id="wef6td-d1e137-Hd1e103">TITULUS IV.</head>
+            <p xml:id="wef6td-d1e137-d1e106">DE CONSUETUDINE.
+      </p>
+            <div xml:id="wef6td-d1e137-Dd1e109">
+               <head xml:id="wef6td-d1e137-Hd1e111">CAP. i.
+        </head>
+               <p xml:id="wef6td-d1e137-d1e114">Praetextu consuetudinis etiam iuratae, vel quantocunque tempore observa¬
+          <!--<lb ed="#Fb"/>-->tae, non potest quis nisi unicum personatum, dignitatem, vel aliud perpe¬
+          <!--<lb ed="#Fb"/>-->tuum officium, simul cum canonica et praebenda in aliqua ecclesia absque
+          <!--<lb ed="#Fb"/>-->dispensatione sedis apostolicae obtinere, vel iam obtenta tenere: et contra
+          <!--<lb ed="#Fb"/>-->praesumptum irritum est omnino. Ioann. Andr.
+        </p>
+               <p xml:id="wef6td-d1e137-d1e125">Bonifacius VIII.
+        </p>
+               <p xml:id="wef6td-d1e137-d1e128">Consuetudinem, quam in vestra ecclesia servatam as¬
+          <!--<lb ed="#Fb"/>-->seritis tanto tempore, quod in contrarium memoria non
+          <!--<lb ed="#Fb"/>-->exsistit, videlicet, quod ipsius ecclesiae canonici duos per¬
+          <!--<lb ed="#Fb"/>-->sonatus, aut duas dignitates, vel praeposituras seu admini-
+          <!--<lb ed="#Fb"/>-->strationes, aut duo officia vel eorum alterum cum reliquo
+          <!--<lb ed="#Fb"/>-->insimul et praebendam possint in ea licite absque dispensa¬
+          <!--<lb ed="#Fb"/>-->tione sedis apostolicae obtinere, corruptelam, quum sacris
+          <!--<lb ed="#Fb"/>-->sit inimica canonibus et de ambitionis radice processerit,
+          <!--<lb ed="#Fb"/>-->merito reputantes, eam auctoritate apostolica reprobamus,
+          <!--<lb ed="#Fb"/>-->vosque ad ipsius observantiam, etiamsi iuramento firmata
+          <!--<lb ed="#Fb"/>-->exstiterit, (quum iuramentum iniquitatis vinculum non ex¬
+          <!--<lb ed="#Fb"/>-->sistat), decernimus non teneri, statuentes, ut, (quum unum
+          <!--<lb ed="#Fb"/>-->officium vix digne valeat aliquis adimplere), nulli liceat de
+          <!--<lb ed="#Fb"/>-->cetero, nisi unicum personatum, vel dignitatem, aut prae¬
+          <!--<lb ed="#Fb"/>-->posituram, sive administrationem vel officium perpetuum*,
+          <!--<lb ed="#Fb"/>-->quocunque nomine censeantur, cum praebenda insimul
+          <!--<lb ed="#Fb"/>-->absque dispensatione dictae sedis in eadem ecclesia ob¬
+          <!--<lb ed="#Fb"/>-->tinere, vel iam obtenta tenere. Quodsi a quoquam secus
+          <!--<lb ed="#Fb"/>-->praesumptum fuerit, irritum sit omnino .
+        </p>
+               <p xml:id="wef6td-d1e137-d1e167">cap. n.
+        </p>
+               <p xml:id="wef6td-d1e137-d1e171">Non valet consuetudo, quod ab officiali episcopi ad episcopum appelletur.
+        </p>
+               <p xml:id="wef6td-d1e137-d1e174">Ioann. Andr.
+        </p>
+               <p xml:id="wef6td-d1e137-d1e177">Idem.
+        </p>
+               <p xml:id="wef6td-d1e137-d1e180">Non putamus illam consuetudinem, quantocunque tem¬
+          <!--<lb ed="#Fb"/>-->pore de facto servatam, consonam rationi, quod ab officiali
+          <!--<lb ed="#Fb"/>-->episcopi ad eundem episcopum valeat appellari: ne ab
+          <!--<lb ed="#Fb"/>-->eodem ad se ipsum, quum sit idem auditorium utriusque,
+          <!--<lb ed="#Fb"/>-->appellatio interposita videatur.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e137-Dd1e192">
+               <head xml:id="wef6td-d1e137-Hd1e194">CAP. HI.
+        </head>
+               <p xml:id="wef6td-d1e137-d1e197">Valet consuetudo praescripta, quod episcopus in inquirendo, puniendo, et
+          <!--<lb ed="#Fb"/>-->corrigendo subditorum excessus sui capituli consilium requirere non
+          <!--<lb ed="#Fb"/>-->teneatur. Ioann. Andr.
+        </p>
+               <p xml:id="wef6td-d1e137-d1e204">Idem.
+        </p>
+               <p xml:id="wef6td-d1e137-d1e207">Non est, dum tamen alias sit praescripta canonice, con¬
+          <!--<lb ed="#Fb"/>-->suetudo, quam allegat episcopus, reprobanda, quod in in¬
+          <!--<lb ed="#Fb"/>-->quirendis, puniendis et corrigendis subditorum excessibus
+          <!--<lb ed="#Fb"/>-->consilium sui capituli requirere minime teneatur.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e137-Dd1e217">
+               <head xml:id="wef6td-d1e137-Hd1e219">CAP. IV.
+        </head>
+               <p xml:id="wef6td-d1e137-d1e222">Per rescriptum apostolicum, quo de praebenda primo vacatura mandabatur
+          <!--<lb ed="#Fb"/>-->alicui provideri, laudabilis illius ecclesiae consuetudo non tollitur. Hinc
+          <!--<lb ed="#Fb"/>-->est, quod, si ibi est consuetudo, quod antiquiores canonici vacantes prae¬
+          <!--<lb ed="#Fb"/>-->bendas possint optare gradatim, illo non obstante mandato, poterit antiquior
+          <!--<lb ed="#Fb"/>-->vacantem optare praebendam, et, exspectatis per XX. dies optare volentibus,
+          <!--<lb ed="#Fb"/>-->exsecutor de non optata providebit eidem. Si autem praebendam vacantem
+          <!--<lb ed="#Fb"/>-->in curia Papa conferret, tunc illam antiquior optare non poterit.
+        </p>
+               <p xml:id="wef6td-d1e137-d1e237">Ioann. Andr.
+        </p>
+               <p xml:id="wef6td-d1e137-d1e240">Idem.
+        </p>
+               <p xml:id="wef6td-d1e137-d1e243">Quum tua in ecclesia, in qua consuetudo habetur, quod
+          <!--<lb ed="#Fb"/>-->antiquiores canonici gradatim meliores, si voluerint, possint,
+          <!--<lb ed="#Fb"/>-->quum vacant, per se vel per alios optare praebendas, pro¬
+          <!--<lb ed="#Fb"/>-->videri mandamus alicui de praebenda, nulli alii de iure
+          <!--<lb ed="#Fb"/>-->debita, proximo inibi vacatura: huiusmodi non obstante
+          <!--<lb ed="#Fb"/>-->mandato poterunt ipsi antiquiores iuxta consuetudinem
+          <!--<lb ed="#Fb"/>-->eandem optare, quum praebenda vacabit, et illa, quae
+          <!--<lb ed="#Fb"/>-->optata non fuerit, si nulli sit debita, erit illi, pro quo scripsi¬
+          <!--<lb ed="#Fb"/>-->mus, conferenda. In praebendis vero apud sedem apostoli¬
+          <!--<lb ed="#Fb"/>-->cam vacantibus, quum de ipsis per Romanum Pontificem
+          <!--<lb ed="#Fb"/>-->ordinatur, locus praedictae consuetudini non exsistit. Ne
+          <!--<lb ed="#Fb"/>-->autem praetextu eiusdem consuetudinis provisiones, auctori¬
+          <!--<lb ed="#Fb"/>-->tate apostolica faciendae, ultra debitum differantur: statui¬
+          <!--<lb ed="#Fb"/>-->mus, ut exsecutores, super ipsis provisionibus deputati,
+        </p>
+               <p xml:id="wef6td-d1e137-d1e273">optare volentes per viginti dies dunta^t exspectent, quibus
+          <!--<lb ed="#Fb"/>-->elapsis libere in non optatis ad exsequenda sibi mandata
+          <!--<lb ed="#Fb"/>-->procedant, praefata consuetudine non obstante.
+        </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

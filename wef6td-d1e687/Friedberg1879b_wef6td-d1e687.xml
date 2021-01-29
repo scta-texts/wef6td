@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>TITULUS IX. </title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>TITULUS IX. </title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e687"><!-- wef6td-l2t9 -->
+            <head xml:id="wef6td-d1e687-Hd1e103">TITULUS IX. </head>
+            <p xml:id="wef6td-d1e687-d1e106"> DE CONFESSIS. </p>
+            <div xml:id="wef6td-d1e687-Dd1e109">
+               <head xml:id="wef6td-d1e687-Hd1e111">CAP. I. </head>
+               <p xml:id="wef6td-d1e687-d1e114"> Super facto negativo, per partem improbabili, si iudici videbitur, est admittenda positio. Dominicus. </p>
+               <p xml:id="wef6td-d1e687-d1e117"> Innocentius IV. in concilio Lugdunensi . </p>
+               <p xml:id="wef6td-d1e687-d1e120"> Statuimus, ut positiones negativas, quae probari non possunt nisi per confessionem adversarii, iudices admittere possint, si aequitate suadente viderint expedire. </p>
+            </div>
+            <div xml:id="wef6td-d1e687-Dd1e124">
+               <head xml:id="wef6td-d1e687-Hd1e126">CAP. II.</head>
+               <p xml:id="wef6td-d1e687-d1e129"> Si reus iussus positionibus respondere recusat, vel si contumaciter recedit, habebuntur pro confessatis; secus, si prius, quam sic iussus esset, contumax fuerat. Nam tunc procedetur contra eum tanquam contra contumacem. </p>
+               <p xml:id="wef6td-d1e687-d1e132"> Ioann. Andr. </p>
+               <p xml:id="wef6td-d1e687-d1e135"> Bonifacius VIII . </p>
+               <p xml:id="wef6td-d1e687-d1e138"> Si post praestitum veritatis aut calumniae iuramentum reus vel procurator ipsius, positionibus ab adversario sibi factis interrogatus iussusque a iudice respondere, absque rationabili causa recuset, aut nolit, seu contumaciter se absentet: haberi debet super iis, de quibus in eisdem positionibus interrogatus exstitit, pro confesso. Verum si, antequam respondere sic iussus fuerit, eum contumaciter absentari contingat: tunc pro confesso non debet haberi; sed est alias contra eum, tanquam contra contumacem, prout ratio dictaverit, procedendum. </p>
+        
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

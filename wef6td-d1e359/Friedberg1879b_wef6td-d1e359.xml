@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>TITULUS XV.</title>
+            <author ref="#BonifaceVIII">Boniface VIII</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>TITULUS XV.</title>
+               <date when="2021-01-29">January 29, 2021</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2021-01-29" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on"/>
+      </front>
+      <body>
+         <div xml:id="wef6td-d1e359"><!-- wef6td-l1t15 -->
+            <head xml:id="wef6td-d1e359-Hd1e103">TITULUS XV.</head>
+            <p xml:id="wef6td-d1e359-d1e106">DE OFFICIO LEGATI.
+      </p>
+            <div xml:id="wef6td-d1e359-Dd1e109">
+               <head xml:id="wef6td-d1e359-Hd1e111">CAP. I.
+        </head>
+               <p xml:id="wef6td-d1e359-d1e114">Legati non cardinales sine speciali mandato iure legationis beneficia con¬
+          <!--<lb ed="#Fb"/>-->ferre non possunt, sed legati cardinales hoc bene possunt. Ioann. Andr.
+        </p>
+               <p xml:id="wef6td-d1e359-d1e119">Innocentius IV.
+               </p>
+               <p xml:id="wef6td-d1e359-d1e122">Officii nostri debitum remediis invigilat subditorum*,
+          <!--<lb ed="#Fb"/>-->quia, dum eorum excutimus onera, dum scandala remove¬
+          <!--<lb ed="#Fb"/>-->mus, nos in eorum quiete quiescimus et fovemur in pace.
+        </p>
+               <p xml:id="wef6td-d1e359-d1e129">Proinde praesenti decreto statuimus, ut ecclesiae Romanae
+          <!--<lb ed="#Fb"/>-->legati, quantumcunque plenam legationem obtineant, sive a
+          <!--<lb ed="#Fb"/>-->nobis missi fuerint sive suarum praetextu ecclesiarum lega¬
+          <!--<lb ed="#Fb"/>-->tionis sibi vendicent dignitatem, ex ipsius legationis munere
+          <!--<lb ed="#Fb"/>-->conferendi beneficia nullam habeant potestatem, nisi hoc
+          <!--<lb ed="#Fb"/>-->alicui specialiter duxerimus indulgendum. Quod* in fra¬
+          <!--<lb ed="#Fb"/>-->tribus nostris legatione fungentibus nolumus observari, quia
+          <!--<lb ed="#Fb"/>-->sicut honoris praerogativa laetantur, sic eos auctoritate fungi
+          <!--<lb ed="#Fb"/>-->volumus ampliori.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e359-Dd1e149">
+               <p xml:id="wef6td-d1e359-d1e151">Cap. II.
+        </p>
+               <p xml:id="wef6td-d1e359-d1e154">Legatus habet ordinariam, unde per mortem Papae non exspirat eius
+          <!--<lb ed="#Fb"/>-->officium. H. d. Ioann. Andr.
+        </p>
+               <p xml:id="wef6td-d1e359-d1e159">Clemens IV. S. tit. sanctae Caeciliae Presbytero
+          <!--<lb ed="#Fb"/>-->cardinali apostolicae sedis Legato.
+        </p>
+               <p xml:id="wef6td-d1e359-d1e164">Legatos, quibus in certis provinciis committitur lega¬
+          <!--<lb ed="#Fb"/>-->tionis officium, ut ibidem evellant et* dissipent, aedificent
+          <!--<lb ed="#Fb"/>-->atque plantent, provinciarum sibi commissarum ad instar
+          <!--<lb ed="#Fb"/>-->proconsulum ceterorumque praesidum, quibus certae sunt
+          <!--<lb ed="#Fb"/>-->decretae provinciae moderandae, ordinarios reputantes,
+          <!--<lb ed="#Fb"/>-->praesenti declaramus edicto, commissum tibi a praedeces¬
+          <!--<lb ed="#Fb"/>-->sore nostro legationis officium nequaquam per ipsius obitum
+          <!--<lb ed="#Fb"/>-->exspirasse.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e359-Dd1e182">
+               <head xml:id="wef6td-d1e359-Hd1e184">CAP. III.
+        </head>
+               <p xml:id="wef6td-d1e359-d1e187">Finita legatione exspirant reservationes legatorum, et omnis processus
+          <!--<lb ed="#Fb"/>-->habitus super illis, nisi tunc illa beneficia iam vacantia sint collata. Demum
+          <!--<lb ed="#Fb"/>-->dicitur, quod, pendente una sua reservatione in ecclesia collegiata, vel de
+          <!--<lb ed="#Fb"/>-->beneficio spectante ad collationem alicuius, legatus in eadem ecclesia vel
+          <!--<lb ed="#Fb"/>-->beneficio spectante ad collationem eiusdem, aliam facere non potest, et,
+          <!--<lb ed="#Fb"/>-->quod fit contra praedicta, irritum decernit. Ioann. Andr.
+        </p>
+               <p xml:id="wef6td-d1e359-d1e200">Bonifacius VIII.
+        </p>
+               <p xml:id="wef6td-d1e359-d1e203">Praesenti declaramus edicto, reservationes quorumcun¬
+          <!--<lb ed="#Fb"/>-->que beneficiorum, ab apostolicae sedis legato suae legationis
+          <!--<lb ed="#Fb"/>-->auctoritate factas, et decreta interposita super ipsis, nec non
+          <!--<lb ed="#Fb"/>-->denunciationes, inhibitiones et processus quoslibet, per eum
+          <!--<lb ed="#Fb"/>-->vel per exsecutores deputatos ab eo habitos circa ipsas,
+          <!--<lb ed="#Fb"/>-->(dummodo ad collationem eorundem beneficiorum iam va¬
+          <!--<lb ed="#Fb"/>-->cantium minime sit processum,) eo ipso, quod illius finitur
+          <!--<lb ed="#Fb"/>-->legatio, viribus penitus vacuari, nec exsecutores eosdem
+          <!--<lb ed="#Fb"/>-->posse ulterius beneficia taliter reservata conferre. Ceterum
+          <!--<lb ed="#Fb"/>-->reservationes huiusmodi, per quas interdum praelati et ec¬
+          <!--<lb ed="#Fb"/>-->clesiae nimium onerantur, restringere cupientes, prohibe¬
+          <!--<lb ed="#Fb"/>-->mus, ne, postquam legatus in aliqua cathedrali vel collegiata
+          <!--<lb ed="#Fb"/>-->ecclesia reservationem aliquam duxerit faciendam, aliam illa
+          <!--<lb ed="#Fb"/>-->pendente faciat aliquatenus in eadem. Nec etiam, postquam
+          <!--<lb ed="#Fb"/>-->alibi reservaverit aliquod beneficium, ad collationem per¬
+          <!--<lb ed="#Fb"/>-->tinens cuiuscunque, aliud, quod ad illius collationem per¬
+          <!--<lb ed="#Fb"/>-->tineat, quamdiu reservatio pendet alterius, sibi quoquo modo
+          <!--<lb ed="#Fb"/>-->reservet. Quicquid autem contra praemissa contigerit at¬
+          <!--<lb ed="#Fb"/>-->tentari, eo ipso viribus non subsistat.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e359-Dd1e244">
+               <head xml:id="wef6td-d1e359-Hd1e246">CAP. IV.
+        </head>
+               <p xml:id="wef6td-d1e359-d1e249">Cathedrales, vel regulares vel collegiatas ecclesias legati reservare vel
+          <!--<lb ed="#Fb"/>-->conferre non possunt. Idem in dignitatibus ecclesiarum cathedralium, quae
+          <!--<lb ed="#Fb"/>-->sunt maiores post episcopos, si ipsarum praelati per electionem debent
+          <!--<lb ed="#Fb"/>-->assumi; et contra hoc factum est irritum.— §. 1. Delegatus non potest
+          <!--<lb ed="#Fb"/>-->alicui committere, quod recipiat resignationem beneficii, et postea illud
+          <!--<lb ed="#Fb"/>-->conferat, et contra factum vel faciendum decernit irritum. H. d.
+        </p>
+               <p xml:id="wef6td-d1e359-d1e262">Ioann. Andr.
+        </p>
+               <p xml:id="wef6td-d1e359-d1e265">Idem.
+        </p>
+               <p xml:id="wef6td-d1e359-d1e268">Deliberatione provida duximus inhibendum, ne aliquis
+          <!--<lb ed="#Fb"/>-->apostolicae sedis legatus, quantumcunque legationem ob¬
+          <!--<lb ed="#Fb"/>-->tinere plenariam dignoscatur, cathedrales, vel regulares aut
+          <!--<lb ed="#Fb"/>-->collegiatas ecclesias, seu ipsarum ecclesiarum cathedralium
+          <!--<lb ed="#Fb"/>-->dignitates, ad quas hi, qui praeficiuntur eisdem, maiores in
+          <!--<lb ed="#Fb"/>-->earum capitulis post episcopos exsistentes, habent per viam
+          <!--<lb ed="#Fb"/>-->electionis assumi, suae ordinationi, collationi, provisioni,
+          <!--<lb ed="#Fb"/>-->electioni aut dispositioni quomodocunque reservet, nec de
+          <!--<lb ed="#Fb"/>-->ipsis ordinandis, conferendis vel disponendis se aliquatenus
+          <!--<lb ed="#Fb"/>-->intromittat, neque aliquod, quo minus hi, ad quos pertinuerit,
+          <!--<lb ed="#Fb"/>-->eligere aut postulare libere valeant, quum vacabunt, obsta¬
+          <!--<lb ed="#Fb"/>-->culum quomodolibet interponat, decernentes, quicquid contra
+          <!--<lb ed="#Fb"/>-->hoc actum exstiterit, eo ipso irritum et inane. §. i. Pro¬
+          <!--<lb ed="#Fb"/>-->hibemus insuper, ne legatus ipse in genere aut in specie
+          <!--<lb ed="#Fb"/>-->cuicunque concedat, ut ab his, qui, beneficia infra legatio¬
+          <!--<lb ed="#Fb"/>-->nem eiusdem habentes, ea in illius manibus voluerint libere
+          <!--<lb ed="#Fb"/>-->resignare, ipsorum resignatione recepta, illa valeat idoneis
+          <!--<lb ed="#Fb"/>-->conferre personis, quum per hoc aperiri posset via contra
+          <!--<lb ed="#Fb"/>-->Lateranense concilium ad beneficia vacatura. Nos enim
+          <!--<lb ed="#Fb"/>-->concessionem, quam contra hoc contigerit attentari, et quic¬
+          <!--<lb ed="#Fb"/>-->quid ex ea vel ob eam secutum exstiterit, nullam prorsus
+          <!--<lb ed="#Fb"/>-->habere statuimus roboris firmitatem, volentes non solum ad
+          <!--<lb ed="#Fb"/>-->futura, sed etiam ad praeterita et adhuc pendentia negotia
+          <!--<lb ed="#Fb"/>-->hoc extendi.
+        </p>
+            </div>
+            <div xml:id="wef6td-d1e359-Dd1e318">
+               <head xml:id="wef6td-d1e359-Hd1e320">CAP. v.
+        </head>
+               <p xml:id="wef6td-d1e359-d1e323">Collatio legati per taciturnitatem prioris beneficii vitiatur. Hoc dicit Zenz.
+        </p>
+               <p xml:id="wef6td-d1e359-d1e326">Idem.
+        </p>
+               <p xml:id="wef6td-d1e359-d1e329">Collatio beneficii, per legatum sedis apostolicae tibi
+          <!--<lb ed="#Fb"/>-->facta, nullius momenti exsistit, si in ea non fuerit habita
+          <!--<lb ed="#Fb"/>-->mentio de alio beneficio, quod primitus obtinebas.
+        </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
