@@ -1,82 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>TITULUS PRIMUS.</title>
-            <author ref="#BonifaceVIII">Boniface VIII</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>TITULUS PRIMUS.</title>
-               <date when="2021-01-29">January 29, 2021</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2021-01-29" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on"/>
-      </front>
-      <body>
-         <div xml:id="wef6td-d1e68"><!-- wef6td-l1t1 -->
-            <head xml:id="wef6td-d1e68-Hd1e103">TITULUS PRIMUS.</head>
-            <head xml:id="wef6td-d1e68-Hd1e106" type="question-title">DE SUMMA TRINITATE ET FIDE CATHOLICA.</head>
-            <div xml:id="wef6td-d1e68-Dd1e109">
-               <head xml:id="wef6td-d1e68-Hd1e111">CAP. UN.</head>
-               <p xml:id="wef6td-d1e68-d1e114">Spiritus sanctus aeternaliter a Patre et Filio tanquam ab uno principio et
-          <!--<lb ed="#Fb"/>-->unica spiratione procedit. Ioann. Andr.
-        </p>
-               <p xml:id="wef6td-d1e68-d1e119">Gregorius X. in generali concilio Lugdunensi.
-        </p>
-               <p xml:id="wef6td-d1e68-d1e122">Fideli ac devota professione fatemur, quod Spiritus
-          <!--<lb ed="#Fb"/>-->sanctus aeternaliter ex Patre et Filio, non tanquam ex duo¬
-          <!--<lb ed="#Fb"/>-->bus principiis, sed tanquam ex uno principio, non duabus<!--<lb ed="#Fb"/>-->spirationibus, sed unica spiratione procedit. Hoc professa
-          <!--<lb ed="#Fb"/>-->est hactenus, praedicavit et docuit, hoc firmiter tenet et<!--<lb ed="#Fb"/>-->praedicat, profitetur et docet sacrosancta Romana ecclesia,
-          <!--<lb ed="#Fb"/>-->mater omnium fidelium et magistra; hoc habet orthodoxo¬
-          <!--<lb ed="#Fb"/>-->rum Patrum atque doctorum Latinorum pariter et Graecorum
-          <!--<lb ed="#Fb"/>-->incommutabilis et vera sententia. Sed quia nonnulli propter
-          <!--<lb ed="#Fb"/>-->irrefragabilis praemissae veritatis ignorantiam in errores
-          <!--<lb ed="#Fb"/>-->varios sunt prolapsi: nos, huiusmodi erroribus viam prae¬
-          <!--<lb ed="#Fb"/>-->cludere cupientes, hoc sacro approbante concilio damnamus
-          <!--<lb ed="#Fb"/>-->et reprobamus omnes, qui negare praesumpserint, aeterna¬
-          <!--<lb ed="#Fb"/>-->liter Spiritum sanctum ex Patre et Filio procedere, sive
-          <!--<lb ed="#Fb"/>-->etiam temerario ausu asserere, quod Spiritus sanctus ex
-          <!--<lb ed="#Fb"/>-->Patre et Filio tanquam ex duobus principiis, et non tanquam
-          <!--<lb ed="#Fb"/>-->ex uno procedat.
-        </p>
-            </div>
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TITULUS PRIMUS.</title>
+        <author ref="#BonifaceVIII">Boniface VIII</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>TITULUS PRIMUS.</title>
+          <date when="2021-01-29">January 29, 2021</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-01-29" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="wef6td-d1e68"><!-- wef6td-l1t1 -->
+        <head xml:id="wef6td-d1e68-Hd1e103">TITULUS PRIMUS.</head>
+        <head xml:id="wef6td-d1e68-Hd1e106" type="question-title">DE SUMMA TRINITATE ET FIDE CATHOLICA.</head>
+        <div xml:id="wef6td-d1e68-Dd1e109">
+          <head xml:id="wef6td-d1e68-Hd1e111">CAP. UN.</head>
+          <!--<p xml:id="wef6td-d1e68-d1e114">Spiritus sanctus aeternaliter a Patre et Filio tanquam ab uno principio et
+            <!-\-<lb ed="#Fb"/>-\->unica spiratione procedit. Ioann. Andr.
+          </p>-->
+          
+          <p xml:id="wef6td-d1e68-d1e122"><ref>Gregorius X. in generali concilio Lugdunensi.</ref> Fideli ac devota professione fatemur, quod Spiritus
+            <!--<lb ed="#Fb"/>-->sanctus aeternaliter ex Patre et Filio, non tanquam ex 
+            duo<!--<lb ed="#Fb"/>-->bus principiis, sed tanquam ex uno principio, non duabus 
+            <!--<lb ed="#Fb"/>-->spirationibus, sed unica spiratione procedit. Hoc professa
+            <!--<lb ed="#Fb"/>-->est hactenus, praedicavit et docuit, hoc firmiter tenet et 
+            <!--<lb ed="#Fb"/>-->praedicat, profitetur et docet sacrosancta Romana ecclesia,
+            <!--<lb ed="#Fb"/>-->mater omnium fidelium et magistra; hoc habet 
+            orthodoxo<!--<lb ed="#Fb"/>-->rum Patrum atque doctorum Latinorum pariter et Graecorum
+            <!--<lb ed="#Fb"/>-->incommutabilis et vera sententia. Sed quia nonnulli propter
+            <!--<lb ed="#Fb"/>-->irrefragabilis praemissae veritatis ignorantiam in errores
+            <!--<lb ed="#Fb"/>-->varios sunt prolapsi: nos, huiusmodi erroribus viam 
+            prae<!--<lb ed="#Fb"/>-->cludere cupientes, hoc sacro approbante concilio damnamus
+            <!--<lb ed="#Fb"/>-->et reprobamus omnes, qui negare praesumpserint, 
+            aeterna<!--<lb ed="#Fb"/>-->liter Spiritum sanctum ex Patre et Filio procedere, sive
+            <!--<lb ed="#Fb"/>-->etiam temerario ausu asserere, quod Spiritus sanctus ex
+            <!--<lb ed="#Fb"/>-->Patre et Filio tanquam ex duobus principiis, et non tanquam
+            <!--<lb ed="#Fb"/>-->ex uno procedat.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
 </TEI>
