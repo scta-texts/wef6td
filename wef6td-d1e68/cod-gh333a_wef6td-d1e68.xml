@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TITULUS PRIMUS.</title>
+        <author ref="#BonifaceVIII">Boniface VIII</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>TITULUS PRIMUS.</title>
+          <date when="2024-01-24">January 24, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-gh333a">Paris, 1535</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-01-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="11-r"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="wef6td-d1e68"><!-- wef6td-l1t1 -->
+        <head xml:id="wef6td-d1e68-Hd1e103">Titulus 1</head>
+        <head xml:id="wef6td-d1e68-Hd1e106" type="question-title">De summa trinitate et fide catholica</head>
+        <p xml:id="wef6td-d1e68-d1e107">
+          <lb ed="#P" n="51" type="fixed=10-r"/>¶ De Summa trinitate &amp; fide 
+          <lb ed="#P" n="52"/>Catholica. Rubrica. 
+        </p>
+        <div xml:id="wef6td-d1e68-Dd1e109">
+          <head xml:id="wef6td-d1e68-Hd1e111">Capitulum 1</head>
+          <!--<p xml:id="wef6td-d1e68-d1e119">
+            <!-\- not chapter heading here-\->
+          </p>-->
+          <p xml:id="wef6td-d1e68-d1e122">
+            <lb ed="#P" n="36" type="fixed=11-r"/>¶ <ref xml:id="wef6td-d1e68-Rd1e121">Gregorius. X in generali 
+              con<lb ed="#P" n="37" break="no"/>cilio Lugdunensi</ref>. 
+              <lb ed="#P" n="38"/>Fideli ac deuota 
+              profes<lb ed="#P" n="39" break="no"/>sione fatemur quod 
+              sp<lb ed="#P" n="40" break="no"/>ritus sanctus eternalite: 
+              <lb ed="#P" n="41"/>ex patre &amp; filio non 
+              tan<lb ed="#P" n="42" break="no"/>quam ex duobus principii 
+              <lb ed="#P" n="43"/>ied tamquam ex vno 
+              princi<lb ed="#P" n="44" break="no"/>pio. non duabus 
+              spiratio<lb ed="#P" n="45" break="no"/>
+              <!-- line coord error -->
+              <lb ed="#P" n="46"/>nibus, sed vnica 
+              spiratio<lb ed="#P" n="47" break="no"/>ne procedit. Noc professa est hactenus 
+              praedi<lb ed="#P" n="48" break="no"/>cauit &amp; docuit hoc firmiter tenet, &amp; praedicat 
+              <lb ed="#P" n="49"/>profitetur &amp; docet Sacro. Ro. Eccle. mater 
+              om<lb ed="#P" n="50" break="no"/>nium fidelium e magistra. hoc habet 
+              orthodo<lb ed="#P" n="51" break="no"/>xorum patrum atque doctorum latinorum 
+              pari<lb ed="#P" n="52" break="no"/>ter &amp; graecorum incommutabilis &amp; vera sententia¬ 
+            </p>
+            <p xml:id="wef6td-d1e68-d1e144">
+              <lb ed="#P" n="53"/>¶ Sed quia nonnulli propter irrefragabilis 
+              prae<lb ed="#P" n="54" break="no"/>missae veritatis ignorantiam in errores varios 
+              <lb ed="#P" n="55"/>sunt prolapsi.
+            </p>
+            <p xml:id="wef6td-d1e68-d1e152">
+              ¶ Nos huiusmodi erroribus viam 
+              <lb ed="#P" n="56"/>praecludere cupientes hoc sacro approbante 
+              con<lb ed="#P" n="57" break="no"/>cilio damnamus &amp; reprobamus omnes, qui 
+              ne<lb ed="#P" n="58" break="no"/>gare praesumpserint. eternaliter spiritum 
+              san<lb ed="#P" n="59" break="no"/>ctum ex patre &amp; filio procedere, siue etiam 
+              te<lb ed="#P" n="60" break="no"/>merario ausu asserere, quod spiritus sanctus 
+              ex<lb ed="#P" n="61" break="no"/>patre &amp; filio tanquam ex duobus principiis. &amp; 
+              <lb ed="#P" n="62"/>non tanquam ex vno procedat. 
+            </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

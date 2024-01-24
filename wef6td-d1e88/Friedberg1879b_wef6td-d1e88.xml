@@ -1,99 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>TITULUS II.</title>
-            <author ref="#BonifaceVIII">Boniface VIII</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>TITULUS II.</title>
-               <date when="2021-01-29">January 29, 2021</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2021-01-29" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on"/>
-      </front>
-      <body>
-         <div xml:id="wef6td-d1e88"><!-- wef6td-l1t2 -->
-            <head xml:id="wef6td-d1e88-Hd1e103">TITULUS II.</head>
-            <p xml:id="wef6td-d1e88-d1e106">DE CONSTITUTIONIBUS.
-      </p>
-            <div xml:id="wef6td-d1e88-Dd1e109">
-               <head xml:id="wef6td-d1e88-Hd1e111">CAP. I.
-        </head>
-               <p xml:id="wef6td-d1e88-d1e114">Nova constitutio principalis tollit primani contrariam, quamvis id non
-          <!--<lb ed="#Fb"/>-->exprimat; speciales consuetudines et statuta rationabilia non tollit, nisi id
-          <!--<lb ed="#Fb"/>-->exprimat. Ioann. Andr.
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TITULUS II.</title>
+        <author ref="#BonifaceVIII">Boniface VIII</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>TITULUS II.</title>
+          <date when="2021-01-29">January 29, 2021</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-01-29" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#Fb" n="469"/>
+        <cb ed="#Fb" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="wef6td-d1e88"><!-- wef6td-l1t2 -->
+        <head xml:id="wef6td-d1e88-Hd1e103">Titulus 2</head>
+        <head xml:id="wef6td-d1e88-Hd1e104" type="question-title">De constitutionibus</head>
+        <p xml:id="wef6td-d1e88-d1e106">
+          <lb ed="#Fb" n="26"/>TITULUS II.
+          <lb ed="#Fb" n="27"/>DE CONSTITUTIONIBUS.
         </p>
-               <p xml:id="wef6td-d1e88-d1e121">Bonifacius VIII.
-        </p>
-               <p xml:id="wef6td-d1e88-d1e124">Licet Romanus Pontifex, qui iura omnia in scrinio pecto¬
-          <!--<lb ed="#Fb"/>-->ris sui censetur habere, constitutionem condendo posterio¬
-          <!--<lb ed="#Fb"/>-->rem, priorem, quamvis de ipsa mentionem non faciat,
-          <!--<lb ed="#Fb"/>-->revocare noscatur: quia tamen locorum specialium* et
-          <!--<lb ed="#Fb"/>-->personarum singularium consuetudines et statuta, quum
-          <!--<lb ed="#Fb"/>-->sint facti et in facto consistant, potest probabiliter ignorare:
-          <!--<lb ed="#Fb"/>-->ipsis, dum tamen sint rationabilia, per constitutionem a se
-          <!--<lb ed="#Fb"/>-->noviter editam, nisi expresse caveatur in ipsa, non intelligi¬
-          <!--<lb ed="#Fb"/>-->tur in aliquo derogare.
-        </p>
-            </div>
-            <div xml:id="wef6td-d1e88-Dd1e144">
-               <head xml:id="wef6td-d1e88-Hd1e146">CAP. H.
-        </head>
-               <p xml:id="wef6td-d1e88-d1e149">Duo sunt dicta: primum, quod statuta ordinariorum non ligant probabiliter
-          <!--<lb ed="#Fb"/>-->ignorantes; secundum, quod statutum episcopi extra suam dioecesim sub¬
-          <!--<lb ed="#Fb"/>-->ditum non ligat. Ioann. Andr.
-        </p>
-               <p xml:id="wef6td-d1e88-d1e156">Idem.
-        </p>
-               <p xml:id="wef6td-d1e88-d1e159">Ut animarum periculis obvietur, sententiis per statuta
-        </p>
-               <p xml:id="wef6td-d1e88-d1e162">quorumcunque ordinariorum prolatis ligari nolumus igno¬
-          <!--<lb ed="#Fb"/>-->rantes : dum tamen eorum ignorantia crassa non fuerit aut
-          <!--<lb ed="#Fb"/>-->supina. Statuto episcopi, quo in omnes, qui furtum com¬
-          <!--<lb ed="#Fb"/>-->miserint, excommunicationis sententia promulgatur, subditi
-          <!--<lb ed="#Fb"/>-->eius, furtum extra ipsius dioecesim committentes, minime
-          <!--<lb ed="#Fb"/>-->ligari noscuntur, quum extra territorium ius dicenti non
-          <!--<lb ed="#Fb"/>-->pareatur impune.
-        </p>
-            </div>
-         </div>
-      </body>
-   </text>
+        <div xml:id="wef6td-d1e88-Dd1e109">
+          <head xml:id="wef6td-d1e88-Hd1e111">Capitulum 1</head>
+          <p xml:id="wef6td-d1e88-d1e119">
+            <lb ed="#Fb" n="28"/>CAP. I.
+          </p>
+          <!--<p xml:id="wef6td-d1e88-d1e114">
+            <lb ed="#Fb" n="29"/>Nova constitutio principalis tollit primani contrariam, quamvis id non
+            <lb ed="#Fb" n="30"/>exprimat; speciales consuetudines et statuta rationabilia non tollit, nisi id
+            <lb ed="#Fb" n="31"/>exprimat. Ioann. Andr.
+          </p>-->
+          <p xml:id="wef6td-d1e88-d1e124">
+            <lb ed="#Fb" n="32"/><ref xml:id="wef6td-d1e88-Rd1e129">Bonifacius VIII.</ref> 
+            <lb ed="#Fb" n="33"/><pc type="indent"/> Licet Romanus Pontifex, qui iura omnia in scrinio pecto¬
+            <lb ed="#Fb" n="34"/>ris sui censetur habere, constitutionem condendo posterio¬
+            <lb ed="#Fb" n="35"/>rem, priorem, quamvis de ipsa mentionem non faciat,
+            <lb ed="#Fb" n="36"/>revocare noscatur: quia tamen locorum specialium* et
+            <lb ed="#Fb" n="37"/>personarum singularium consuetudines et statuta, quum
+            <lb ed="#Fb" n="38"/>sint facti et in facto consistant, potest probabiliter ignorare:
+            <lb ed="#Fb" n="39"/>ipsis, dum tamen sint rationabilia, per constitutionem a se
+            <lb ed="#Fb" n="40"/>noviter editam, nisi expresse caveatur in ipsa, non intelligi¬
+            <lb ed="#Fb" n="41"/>tur in aliquo derogare.
+          </p>
+        </div>
+        <div xml:id="wef6td-d1e88-Dd1e144">
+          <head xml:id="wef6td-d1e88-Hd1e146">Capitulum 2</head>
+          <p xml:id="wef6td-d1e88-d1e158">
+            <lb ed="#Fb" n="42"/>CAP. II.
+          </p>
+          <!--<p xml:id="wef6td-d1e88-d1e149">
+            <lb ed="#Fb" n="43"/>Duo sunt dicta: primum, quod statuta ordinariorum non ligant probabiliter
+            <lb ed="#Fb" n="44"/>ignorantes; secundum, quod statutum episcopi extra suam dioecesim sub¬
+            <lb ed="#Fb" n="45"/>ditum non ligat. Ioann. Andr.
+          </p>-->
+          <p xml:id="wef6td-d1e88-d1e159">
+            <lb ed="#Fb" n="46"/><ref xml:id="wef6td-d1e88-Rd1e168">Idem.</ref> 
+            <lb ed="#Fb" n="47"/><pc type="indent"/> Ut animarum periculis obvietur, sententiis per 
+            statuta<cb ed="#Fb" n="c"/><lb ed="#Fb" n="48"/>quorumcunque ordinariorum prolatis ligari nolumus igno¬
+            <lb ed="#Fb" n="49"/>rantes : dum tamen eorum ignorantia crassa non fuerit aut
+            <lb ed="#Fb" n="50"/>supina.
+          </p>
+          <p xml:id="wef6td-d1e88-d1e182">
+            Statuto episcopi, quo in omnes, qui furtum com¬
+            <lb ed="#Fb" n="51"/>miserint, excommunicationis sententia promulgatur, subditi
+            <lb ed="#Fb" n="52"/>eius, furtum extra ipsius dioecesim committentes, minime
+            <lb ed="#Fb" n="53"/>ligari noscuntur, quum extra territorium ius dicenti non
+            <lb ed="#Fb" n="54"/>pareatur impune.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
 </TEI>

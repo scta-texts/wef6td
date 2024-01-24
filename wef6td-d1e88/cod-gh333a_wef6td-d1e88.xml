@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TITULUS II.</title>
+        <author ref="#BonifaceVIII">Boniface VIII</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>TITULUS II.</title>
+          <date when="2024-01-24">January 24, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-gh333a">Paris, 1535</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-01-24" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="11-v"/>
+        <cb ed="#P" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="wef6td-d1e88"><!-- wef6td-l1t2 -->
+        <head xml:id="wef6td-d1e88-Hd1e103">Titulus 2</head>
+        <head xml:id="wef6td-d1e88-Hd1e104" type="question-title">De constitutionibus</head>
+        <p xml:id="wef6td-d1e88-d1e106">
+          <lb ed="#P" n="92" type="fixed=11-v"/>¶ De constitutionibus, Rubrica.
+        </p>
+        <div xml:id="wef6td-d1e88-Dd1e109">
+          <head xml:id="wef6td-d1e88-Hd1e111">Capitulum 1</head>
+          <!--<p xml:id="wef6td-d1e88-d1e119">
+            <!-\- not chapter heading -\->
+          </p>-->
+          <p xml:id="wef6td-d1e88-d1e124">
+            <lb ed="#P" n="138" type="fixed=11-v"/>¶ <ref xml:id="wef6td-d1e88-Rd1e129">Bonifacius octauus.</ref> 
+            <lb ed="#P" n="139"/>Licet Romanus ponti. 
+            qui<lb ed="#P" n="140" break="no"/>iura omnia in scrinio 
+            <lb ed="#P" n="141"/>pectoris sui censetum 
+            <lb ed="#P" n="142"/>habere constitutionem 
+            <lb ed="#P" n="143"/>condendo posteriorem 
+            <lb ed="#P" n="144"/>priorem (quamuis de 
+            <lb ed="#P" n="145"/>ipsa mentionem non 
+            fa<lb ed="#P" n="146" break="no"/>ciat (reuocare noscatur 
+            <lb ed="#P" n="147"/>corum &amp; personarum singularium 
+            <lb ed="#P" n="148"/>consuetudines &amp; statuta (cum sint facti &amp; inla¬ 
+            <!--cod-gh333a-0146.xml-->
+            <pb ed="#P" n="12-r"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>cto consistant) potest probabiliter igfiorare. 
+            lp<lb ed="#P" n="2" break="no"/>sis (dum tamen sint rationabilia) per 
+            constitu<lb ed="#P" n="3" break="no"/>tionem a se nouiter editam, (nisi expresse 
+            ca<lb ed="#P" n="4" break="no"/>ueatur in ipsa) non intelligitur in aliquo 
+            de<lb ed="#P" n="5" break="no"/>rogare. 
+          </p>
+        </div>
+        <div xml:id="wef6td-d1e88-Dd1e144">
+          <head xml:id="wef6td-d1e88-Hd1e146">Capitulum 2</head>
+          <!--<p xml:id="wef6td-d1e88-d1e158">
+            <!-\- no chapter heading -\->
+          </p>-->
+          
+          <p xml:id="wef6td-d1e88-d1e159">
+            <lb ed="#P" n="108" type="fixed=13-v"/>¶ <ref xml:id="wef6td-d1e88-Rd1e168">Bonifacius octauus.</ref> 
+            <lb ed="#P" n="109"/>UT animarum periculis 
+            obui<lb ed="#P" n="110" break="no"/>etur, sententiis per statuta. 
+            <lb ed="#P" n="111"/>quoruncunque ordinariorum 
+            <lb ed="#P" n="112"/>prolatis ligari nolumus 
+            igno<lb ed="#P" n="113" break="no"/>rates, dum tamen eorum 
+            igno<lb ed="#P" n="114" break="no"/>rantia crassa non fuerit 
+            aui<lb ed="#P" n="115" break="no"/>supina.
+          </p>
+          <p xml:id="wef6td-d1e88-d1e182">
+            ¶ Statuto episcopi. 
+            <lb ed="#P" n="116"/>quo in omnes qui furtum commilerint. 
+            excom<lb ed="#P" n="117" break="no"/>municationis sententia promulgatur subditi et 
+            <lb ed="#P" n="118"/>furtum extra ipsius dioce. committentes 
+            min<lb ed="#P" n="119" break="no"/>me ligari noscuntur, cum extra territorium ius 
+            <lb ed="#P" n="120"/>dicenti non pareatur impune.
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

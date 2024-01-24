@@ -46,35 +46,53 @@
   </teiHeader>
   <text xml:lang="la">
     <front>
-      <div xml:id="starts-on"/>
+      <div xml:id="starts-on">
+        <pb ed="#Fb" n="469"/>
+        <cb ed="#Fb" n="b"/>
+      </div>
     </front>
     <body>
       <div xml:id="wef6td-d1e68"><!-- wef6td-l1t1 -->
-        <head xml:id="wef6td-d1e68-Hd1e103">TITULUS PRIMUS.</head>
-        <head xml:id="wef6td-d1e68-Hd1e106" type="question-title">DE SUMMA TRINITATE ET FIDE CATHOLICA.</head>
+        <head xml:id="wef6td-d1e68-Hd1e103">Titulus 1</head>
+        <head xml:id="wef6td-d1e68-Hd1e106" type="question-title">De summa trinitate et fide catholica</head>
+        <p xml:id="wef6td-d1e68-d1e107">
+          <lb ed="#Fb" n="3"/>TITULUS PRIMUS.
+          <lb ed="#Fb" n="4"/>DE SUMMA TRINITATE ET FIDE CATHOLICA.
+        </p>
         <div xml:id="wef6td-d1e68-Dd1e109">
-          <head xml:id="wef6td-d1e68-Hd1e111">CAP. UN.</head>
-          <!--<p xml:id="wef6td-d1e68-d1e114">Spiritus sanctus aeternaliter a Patre et Filio tanquam ab uno principio et
-            <!-\-<lb ed="#Fb"/>-\->unica spiratione procedit. Ioann. Andr.
-          </p>-->
+          <head xml:id="wef6td-d1e68-Hd1e111">Capitulum 1</head>
+          <p xml:id="wef6td-d1e68-d1e119">
+            <lb ed="#Fb" n="5"/>CAP. UN.
+          </p>
+          <!--<p xml:id="wef6td-d1e68-d1e114"><lb ed="#Fb" n="6"/>Spiritus sanctus aeternaliter a Patre et Filio tanquam ab uno principio et
+            <lb ed="#Fb" n="7"/>unica spiratione procedit. Ioann. Andr.
+            </p>-->
           
-          <p xml:id="wef6td-d1e68-d1e122"><ref>Gregorius X. in generali concilio Lugdunensi.</ref> Fideli ac devota professione fatemur, quod Spiritus
-            <!--<lb ed="#Fb"/>-->sanctus aeternaliter ex Patre et Filio, non tanquam ex 
-            duo<!--<lb ed="#Fb"/>-->bus principiis, sed tanquam ex uno principio, non duabus 
-            <!--<lb ed="#Fb"/>-->spirationibus, sed unica spiratione procedit. Hoc professa
-            <!--<lb ed="#Fb"/>-->est hactenus, praedicavit et docuit, hoc firmiter tenet et 
-            <!--<lb ed="#Fb"/>-->praedicat, profitetur et docet sacrosancta Romana ecclesia,
-            <!--<lb ed="#Fb"/>-->mater omnium fidelium et magistra; hoc habet 
-            orthodoxo<!--<lb ed="#Fb"/>-->rum Patrum atque doctorum Latinorum pariter et Graecorum
-            <!--<lb ed="#Fb"/>-->incommutabilis et vera sententia. Sed quia nonnulli propter
-            <!--<lb ed="#Fb"/>-->irrefragabilis praemissae veritatis ignorantiam in errores
-            <!--<lb ed="#Fb"/>-->varios sunt prolapsi: nos, huiusmodi erroribus viam 
-            prae<!--<lb ed="#Fb"/>-->cludere cupientes, hoc sacro approbante concilio damnamus
-            <!--<lb ed="#Fb"/>-->et reprobamus omnes, qui negare praesumpserint, 
-            aeterna<!--<lb ed="#Fb"/>-->liter Spiritum sanctum ex Patre et Filio procedere, sive
-            <!--<lb ed="#Fb"/>-->etiam temerario ausu asserere, quod Spiritus sanctus ex
-            <!--<lb ed="#Fb"/>-->Patre et Filio tanquam ex duobus principiis, et non tanquam
-            <!--<lb ed="#Fb"/>-->ex uno procedat.
+          <p xml:id="wef6td-d1e68-d1e122">
+            <lb ed="#Fb" n="8" type="fixed=469"/><ref xml:id="wef6td-d1e68-Rd1e121">Gregorius X. in generali concilio Lugdunensi.</ref> 
+            <lb ed="#Fb" n="9"/><pc type="indent"/>Fideli ac devota professione fatemur, quod Spiritus
+            <lb ed="#Fb" n="10"/>sanctus aeternaliter ex Patre et Filio, non tanquam ex 
+            duo<lb ed="#Fb" n="11"/>bus principiis, sed tanquam ex uno principio, non duabus 
+            <lb ed="#Fb" n="12"/>spirationibus, sed unica spiratione procedit. Hoc professa
+            <lb ed="#Fb" n="13"/>est hactenus, praedicavit et docuit, hoc firmiter tenet et 
+            <lb ed="#Fb" n="14"/>praedicat, profitetur et docet sacrosancta Romana ecclesia,
+            <lb ed="#Fb" n="15"/>mater omnium fidelium et magistra; hoc habet 
+            orthodoxo<lb ed="#Fb" n="16"/>rum Patrum atque doctorum Latinorum pariter et Graecorum
+            <lb ed="#Fb" n="17"/>incommutabilis et vera sententia.
+          </p>
+          <p xml:id="wef6td-d1e68-d1e144">
+            Sed quia nonnulli propter
+            <lb ed="#Fb" n="18"/>irrefragabilis praemissae veritatis ignorantiam in errores
+            <lb ed="#Fb" n="19"/>varios sunt prolapsi:
+          </p>
+          <p xml:id="wef6td-d1e68-d1e152">
+            nos, huiusmodi erroribus viam 
+            prae<lb ed="#Fb" n="20"/>cludere cupientes, hoc sacro approbante concilio damnamus
+            <lb ed="#Fb" n="21"/>et reprobamus omnes, qui negare praesumpserint, 
+            aeterna<lb ed="#Fb" n="22"/>liter Spiritum sanctum ex Patre et Filio procedere, sive
+            <lb ed="#Fb" n="23"/>etiam temerario ausu asserere, quod Spiritus sanctus ex
+            <lb ed="#Fb" n="24"/>Patre et Filio tanquam ex duobus principiis, et non tanquam
+            <lb ed="#Fb" n="25"/>ex uno procedat.
           </p>
         </div>
       </div>
