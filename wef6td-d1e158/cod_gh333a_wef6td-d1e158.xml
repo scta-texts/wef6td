@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TITULUS V.</title>
+        <author ref="#BonifaceVIII">Boniface VIII</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>TITULUS V.</title>
+          <date when="2024-02-16">February 16, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-gh333a">Paris, 1535</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-02-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="56-r"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="wef6td-d1e158"><!-- wef6td-l1t5 -->
+        <head xml:id="wef6td-d1e158-Hd1e103">Titulus 5</head>
+        <head xml:id="wef6td-d1e158-Hd1e104" type="question-title">De postulatione praelatorum</head>
+        <p xml:id="wef6td-d1e158-d1e106">
+          <lb ed="#P" n="77" type="fixed=56-r"/>¶ De Postulatione Praelatorum, Rubrica.
+        </p>
+        <div xml:id="wef6td-d1e158-Dd1e109">
+          <head xml:id="wef6td-d1e158-Hd1e111">Capitulum 1</head>
+          <!--<p xml:id="wef6td-d1e158-d1e119">
+          </p>-->
+          <p xml:id="wef6td-d1e158-d1e133">
+            <lb ed="#P" n="145" type="fixed=56-v"/>¶ <ref xml:id="wef6td-d1e158-Rd1e129">Bonifacius octauus.</ref> Cap. vnicum 
+            <lb ed="#P" n="146"/>PErpetuo prohibemus 
+            <lb ed="#P" n="147"/>edicto ne sub aliqua 
+            ex<lb ed="#P" n="148" break="no"/>his formis quas 
+            perni<lb ed="#P" n="149" break="no"/>ciosa curici, cus 
+            adinue<lb ed="#P" n="150" break="no"/>nit eligo postulando &amp; 
+            <lb ed="#P" n="151"/>postulo eligendo. aut 
+            <lb ed="#P" n="152"/>eligo postulandum 
+            seu<lb ed="#P" n="153" break="no"/>postulo eligendum, cum 
+            <!--cod-gh333a-0238.xml-->
+            <pb ed="#P" n="57-r"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>nec vera electio nec vera postulatio resulten 
+            <lb ed="#P" n="2"/>ex ipsis, quin sibi potius inuicem aduersentur. 
+            <lb ed="#P" n="3"/>aut sub illis verbis eligo in postulandum, vel 
+            <lb ed="#P" n="4"/>postulo in eligendum, cum rem imperfectam 
+            <lb ed="#P" n="5"/>significare noscantur, ad faciendas electione 
+            <lb ed="#P" n="6"/>vel postulationes de caetero procedatur, si 
+            secu<lb ed="#P" n="7" break="no"/>actum suerit eo ipso irritum decernentes. 
+            <lb ed="#P" n="8"/>¶ Sub ea etiam forma eligo &amp; postulo prout 
+            <lb ed="#P" n="9"/>potest melius de iure valere (cum 
+            incertitudi<lb ed="#P" n="10" break="no"/>nem contineat) quemquam postulari vel eligi 
+            pro<lb ed="#P" n="11" break="no"/>hibemus statuentes, quod contra factum 
+            fue<lb ed="#P" n="12" break="no"/>rit viribus omnino carere. nisi quando 
+            proba<lb ed="#P" n="13" break="no"/>biliter dubitatur. vtrum quis sit eligendus 
+            vel<lb ed="#P" n="14" break="no"/>potius postulandus, quo casu is qui sic 
+            postula<lb ed="#P" n="15" break="no"/>tus fuerit, &amp; electus consensus tempore viam 
+            <lb ed="#P" n="16"/>electionis vel postulationis, ne in incerto vago 
+            <lb ed="#P" n="17"/>tur eligere necessario teneatur. redeundi ad 
+            <lb ed="#P" n="18"/>aliam (postquam vnam elegerit) sibi licentia 
+            <lb ed="#P" n="19"/>penitus interdicta. 
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

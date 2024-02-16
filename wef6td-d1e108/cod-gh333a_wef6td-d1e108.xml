@@ -13,7 +13,7 @@
       <editionStmt>
         <edition n="0.0.0-dev">
           <title>TITULUS III.</title>
-          <date when="2021-01-29">January 29, 2021</date>
+          <date when="2024-01-29">January 29, 2024</date>
         </edition>
       </editionStmt>
       <publicationStmt>
@@ -25,7 +25,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+          <witness xml:id="P" n="cod-gh333a">Paris, 1535</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
@@ -38,7 +38,7 @@
     </encodingDesc>
     <revisionDesc status="draft">
       <listChange>
-        <change when="2021-01-29" status="draft" n="0.0.0">
+        <change when="2024-01-29" status="draft" n="0.0.0">
           <p>Created file for the first time.</p>
         </change>
       </listChange>
@@ -78,7 +78,6 @@
             <lb ed="#Fb" n="64"/>Cap. II
           </p>-->
           <p xml:id="wef6td-d1e108-d1e141">
-            
             <lb ed="#P" n="66" type="fixed=26-v"/><ref xml:id="wef6td-d1e108-Rd1e163">¶ Innocentius Quartus, in concilio Lugdunen.</ref> 
             <lb ed="#P" n="67"/>CVm in multis iuris 
             ar<lb ed="#P" n="68" break="no"/>ticulis infinitas 
@@ -101,7 +100,6 @@
           <!--<p xml:id="wef6td-d1e108-d1e188">
             <lb ed="#Fb" n="75"/>CAP. III.
           </p>-->
-          
           <p xml:id="wef6td-d1e108-d1e174">
             <lb ed="#P" n="38" type="fixed=27-v"/><ref xml:id="wef6td-d1e108-Rd1e207">Innocentius Quartus in 
             Con<lb ed="#P" n="39" break="no"/>cilio Lugdunensi.</ref> 

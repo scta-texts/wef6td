@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TITULUS IV.</title>
+        <author ref="#BonifaceVIII">Boniface VIII</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>TITULUS IV.</title>
+          <date when="2024-02-16">February 16, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="P" n="cod-gh333a">Paris, 1535</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-02-16" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#P" n="47-r"/>
+        <cb ed="#P" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="wef6td-d1e137"><!-- wef6td-l1t4 -->
+        <head xml:id="wef6td-d1e137-Hd1e103">Titulus 4</head>
+        <head xml:id="wef6td-d1e137-Hd1e104" type="question-title">De consuetudine</head>
+        <p xml:id="wef6td-d1e137-d1e106">
+          <pb ed="#P" n="47-r"/>
+          <cb ed="#P" n="a"/>
+          <lb ed="#P" n="1" type="fixed=47-r"/>De Consuetudine.
+        </p>
+        <div xml:id="wef6td-d1e137-Dd1e109">
+          <head xml:id="wef6td-d1e137-Hd1e111">Capitulum 1</head>
+          <!--<p xml:id="wef6td-d1e137-d1e119">
+            <lb ed="#Fb" n="67"/>CAP. I
+          </p>-->
+          <p xml:id="wef6td-d1e137-d1e128">
+            <lb ed="#P" n="5" type="fixed=49-r"/>¶ <ref xml:id="wef6td-d1e137-Rd1e143">Bonifacius octauus.</ref> 
+            <lb ed="#P" n="6"/>Cap. Primum. 
+            <lb ed="#P" n="7"/>COnsuetudinem quam. 
+            <lb ed="#P" n="8"/>in vestra ecclesia 
+            ser<lb ed="#P" n="9" break="no"/>uatam asseritis, tanto 
+            temi<lb ed="#P" n="10" break="no"/>pore quod in 
+            contrari<lb ed="#P" n="11" break="no"/>um memoria non 
+            exi<lb ed="#P" n="12" break="no"/>istit. videlicet quod 
+            ip<lb ed="#P" n="13" break="no"/>sius ecclesiae canonici. 
+            <lb ed="#P" n="14"/>duos personatus, aut 
+            du<lb ed="#P" n="15" break="no"/>as dignitates vel praeposituras seu 
+            administra<lb ed="#P" n="16" break="no"/>tiones, aut duo officia, vel eorum alterum 
+            <lb ed="#P" n="17"/>tum reliquo insimul &amp; praebendam possint in 
+            <lb ed="#P" n="18"/>ca licite absque dispensatione sedis apostolica 
+            <lb ed="#P" n="19"/>obtinere,. corruptelam (cum sacris sit 
+            inimica<lb ed="#P" n="20" break="no"/>canonibus, &amp; de ambitionis radice 
+            procaesse<lb ed="#P" n="21" break="no"/>rit) merito reputantes, eam auctoritate apo. 
+            re<lb ed="#P" n="22" break="no"/>probamus, vosque ad ipsius obseruantiam, etiam 
+            <lb ed="#P" n="23"/>si iuramento firmata extiterit (cum 
+            iuramen<lb ed="#P" n="24" break="no"/>tum iniquitatis vinculum non existat) 
+            decer<lb ed="#P" n="25" break="no"/>nimus non teneri. ¶ Statuentes vt cum vnum 
+            <lb ed="#P" n="26"/>offi. vix digne valeat aliquis adimplere. 
+            nul<lb ed="#P" n="27" break="no"/>li liceat de caetero nisi vnicum personatum 
+            ve<lb ed="#P" n="28" break="no"/>dignitatem aut praeposituram siue 
+            administra<lb ed="#P" n="29" break="no"/>tionem vel officium perpetuum, quocunque 
+            no<lb ed="#P" n="30" break="no"/>mine censeantur cum praebenda insimul 
+            abs<lb ed="#P" n="31" break="no"/>que dispensatione dictae sedis in eadem 
+            eccle<lb ed="#P" n="32" break="no"/>sia obtinere. vel iam obtenta tenere. quod 
+            si<lb ed="#P" n="33" break="no"/>a quoquam secus praesumptum fuerit irritum. 
+            <lb ed="#P" n="34"/>sit omnino. 
+          </p>
+        </div>
+        <div xml:id="wef6td-d1e137-Dd1e188">
+          <head xml:id="wef6td-d1e137-Hd1e190">Capitulum 2</head>
+          <!--<p xml:id="wef6td-d1e137-d1e167">
+            <lb ed="#Fb" n="93"/>Cap. II.
+          </p>-->
+          <p xml:id="wef6td-d1e137-d1e180">
+            <lb ed="#P" n="148" type="fixed=50-v"/>¶ <ref xml:id="wef6td-d1e137-Rd1e207">Bonifacius Octauus.</ref> 
+            <lb ed="#P" n="149"/>Cap. ii. 
+            <!--cod-gh333a-0226.xml-->
+            <pb ed="#P" n="51-r"/>
+            <cb ed="#P" n="a"/>
+            <lb ed="#P" n="1"/>NOn putamus illam 
+            com<lb ed="#P" n="2" break="no"/>suetudinem quantocum. 
+            <lb ed="#P" n="3"/>que tempore de facto. 
+            <lb ed="#P" n="4"/>leruatam consonam 
+            ra<lb ed="#P" n="5" break="no"/>tioni quod ab officiali 
+            <lb ed="#P" n="6"/>episcopi ad eudem 
+            epi<lb ed="#P" n="7" break="no"/>scopum valeat 
+            appella<lb ed="#P" n="8" break="no"/>ri. ne ab eodem ad 
+            se<lb ed="#P" n="9" break="no"/>ipsum (cum sit idem auditorium vtriusque) 
+            ap<lb ed="#P" n="10" break="no"/>pellatio interposita videatur. 
+          </p>
+        </div>
+        <div xml:id="wef6td-d1e137-Dd1e192">
+          <head xml:id="wef6td-d1e137-Hd1e194">Capitulum 3</head>
+          <!--<p xml:id="wef6td-d1e137-d1e228">
+            <lb ed="#Fb" n="102"/>CAP. III
+          </p>-->
+          <p xml:id="wef6td-d1e137-d1e207">
+            <lb ed="#P" n="93" type="fixed=51-v"/>¶ <ref xml:id="wef6td-d1e137-Rd1e245">Bonifacius octauus.</ref> Cap. iii. 
+            <lb ed="#P" n="94"/>Ou est (dum tamen ab 
+            <lb ed="#P" n="95"/>as sit praescripta 
+            cano<lb ed="#P" n="96" break="no"/>nice) consuetudo quam. 
+            <lb ed="#P" n="97"/>allegatepiicopus 
+            rerr<lb ed="#P" n="98" break="no"/>banda, quod in 
+            inquin<lb ed="#P" n="99" break="no"/>rendis puniendis &amp; 
+            cor<lb ed="#P" n="100" break="no"/>rigendis subditorum 
+            ex<lb ed="#P" n="101" break="no"/>cessibus consilium 
+            su<lb ed="#P" n="102" break="no"/>capituli requirere minime teneatur.
+          </p>
+        </div>
+        <div xml:id="wef6td-d1e137-Dd1e217">
+          <head xml:id="wef6td-d1e137-Hd1e219">Capitulum 4</head>
+          <p xml:id="wef6td-d1e137-d1e262">
+            <lb ed="#Fb" n="111"/>CAP. IV.
+          </p>
+          <p xml:id="wef6td-d1e137-d1e243">
+            <lb ed="#P" n="64" type="fixed=52-r"/>¶ <ref xml:id="wef6td-d1e137-Rd1e293">Bonifacius octauus.</ref> Cap. iiii. 
+            <lb ed="#P" n="65"/>Vm in tua ecclesia in 
+            <lb ed="#P" n="66"/>qua consuetudo 
+            habe<lb ed="#P" n="67" break="no"/>tur quod antiquiores 
+            ca<lb ed="#P" n="68" break="no"/>nonici gradatim melio 
+            <lb ed="#P" n="69"/>res (sivoluerint) possint 
+            <lb ed="#P" n="70"/>cum vacant per se vel 
+            <lb ed="#P" n="71"/>per alios optare 
+            praeben<lb ed="#P" n="72" break="no"/>das prouideri 
+            manda<lb ed="#P" n="73" break="no"/>mus alicui de praebenda nulli alii de iure debi¬ 
+            <!--cod-gh333a-0228.xml-->
+            <cb ed="#P" n="b"/>
+            <lb ed="#P" n="74"/>ta proximo inibi vacatura. huiusmodi non 
+            ob<lb ed="#P" n="75" break="no"/>stante mandato poterunt ipsi antiquiores 
+            iux<lb ed="#P" n="76" break="no"/>ta consuetudinem eandem optare, cum 
+            praeben<lb ed="#P" n="77" break="no"/>da vacabit, &amp; illa quae optata non fuerit (
+            si<lb ed="#P" n="78" break="no"/>nulli sit debita) erit illi, proquo scripsimus 
+            con<lb ed="#P" n="79" break="no"/>ferenda. ¶ in praebendis vero apud sedem 
+            apo<lb ed="#P" n="80" break="no"/>stolicam vacantibus cum de ipsis per romanum: 
+            <lb ed="#P" n="81"/>pontificem ordinatur locus praedicte 
+            consuetu<lb ed="#P" n="82" break="no"/>dini non existit. ¶ Ne autem praetextu eiusdem 
+            <lb ed="#P" n="83"/>consuetudinis proui siones autoritate 
+            apostoli<lb ed="#P" n="84" break="no"/>ca faciendae vltra debitum differentur. Statui 
+            <lb ed="#P" n="85"/>mus vt executores super ipsis prouisionibus 
+            de<lb ed="#P" n="86" break="no"/>putati optare volentes, per. X. dies duntaxat 
+            <lb ed="#P" n="87"/>expectent, quibus elapsis libere in non optatis 
+            <lb ed="#P" n="88"/>ad exequenda sibi mandata procedant. praefata. 
+            <lb ed="#P" n="89"/>consuetudine non obstante. 
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
