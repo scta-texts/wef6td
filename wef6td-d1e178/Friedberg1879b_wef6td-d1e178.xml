@@ -683,7 +683,7 @@
           </p> -->
           <p xml:id="wef6td-d1e178-d1e1149">
             <lb ed="#Fb" n="122"/><ref xml:id="wef6td-d1e178-Rd1e1381">Idem in eodem.</ref>
-            <lb ed="#Fb" n="123"/>Licet canon, a felicis recordationis <ref xml:id="wef6td-d1e178-Rd1e1385">Alexandro Papa III.</ref> 
+            <lb ed="#Fb" n="123"/>Licet canon, a felicis recordationis Alexandro Papa III. 
             <lb ed="#Fb" n="124"/>praedecessore nostro editus inter cetera statuerit, ut nullus
             <cb ed="#Fb" n="b"/>
             <lb ed="#Fb" n="125"/>regimen ecclesiae parochialis suscipiat, nisi XXV. annum
@@ -1149,7 +1149,7 @@
           </p>
         </div>
         <div xml:id="wef6td-d1e178-Dd1e1995">
-          <head xml:id="wef6td-d1e178-Hd1e1997">Cappitulum 21</head>
+          <head xml:id="wef6td-d1e178-Hd1e1997">Capitulum 21</head>
           <p xml:id="wef6td-d1e178-d1e2369">
             <lb ed="#Fb" n="86"/>CAP. XXI.
           </p>
@@ -1183,7 +1183,7 @@
           </p> -->
           <p xml:id="wef6td-d1e178-d1e2042">
             <lb ed="#Fb" n="7"/><ref xml:id="wef6td-d1e178-Rd1e2431">Idem.</ref>
-            <lb ed="#Fb" n="8"/>Statutum felicis recordationis <ref xml:id="wef6td-d1e178-Rd1e2435">Gregorii Papae X.</ref> 
+            <lb ed="#Fb" n="8"/>Statutum felicis recordationis Gregorii Papae X. 
             prae<lb ed="#Fb" break="no" n="9"/>decessoris nostri de his, qui ad parochialium ecclesiarum
             <lb ed="#Fb" n="10"/>regimen assumuntur, promovendis ad sacerdotium infra
             <lb ed="#Fb" n="11"/>annum, alioquin eisdem ecclesiis sint privati, quod, quum
@@ -1340,7 +1340,10 @@
             <lb ed="#Fb" n="116"/>dare ipsam valeat, non petita licentia et obtenta, 
             prae<lb ed="#Fb" break="no" n="117"/>sumpserit consentire: consensus sic praestitus non teneat,
             <lb ed="#Fb" n="118"/>et in poenam praesumptionis illius electio eadem ipso facto
-            <lb ed="#Fb" n="119"/>viribus vacuetur omnino. §. i. Quia vero, utrum religiosis
+            <lb ed="#Fb" n="119"/>viribus vacuetur omnino. 
+          </p>
+          <p xml:id="wef6td-d1e178-d1e2445">
+            §. i. Quia vero, utrum religiosis
             <lb ed="#Fb" n="120"/>consentiendi electionibus de se factis, et ad praelationes, ad
             <lb ed="#Fb" n="121"/>quas electi fuerint, transeundi a suis superioribus sine
             <lb ed="#Fb" n="122"/>fratrum consilio licentia dari possit, quum iura super hoc
@@ -1412,7 +1415,7 @@
             <lb ed="#Fb" n="19"/>percipere posset in ipsa ecclesia residendo. Ioann. Andr.
           </p>-->
           <p xml:id="wef6td-d1e178-d1e2409">
-            <lb ed="#Fb" n="20"/>Idem.
+            <lb ed="#Fb" n="20"/><ref xml:id="wef6td-d1e178-Rd1e2910">Idem.</ref>
             <lb ed="#Fb" n="21"/>Quum non deceat alicui suum officium esse damnosum,
             <lb ed="#Fb" n="22"/>statuimus, ut ii, qui iuxta constitutionem felicis recordationis
             <lb ed="#Fb" n="23"/>Nicolai Papae tertii praedecessoris nostri super hoc editam
@@ -1462,11 +1465,11 @@
             <cb ed="#Fb" n="b"/>
             <lb ed="#Fb" n="53"/>CAP. XXXII.
           </p>
-          <p xml:id="wef6td-d1e178-d1e2488">
+          <!--<p xml:id="wef6td-d1e178-d1e2488">
             <lb ed="#Fb" n="54"/>Canonicus impubes, ad electionem non vocatus, non agit de comtemptu. —
             <lb ed="#Fb" n="55"/>§. 1. Non professi cum professis, vel conversi laici cum clericis electioni
             <lb ed="#Fb" n="56"/>interesse non debent. H. d.
-          </p>
+          </p>-->
           <p xml:id="wef6td-d1e178-d1e2498">
             <lb ed="#Fb" n="57"/><ref xml:id="wef6td-d1e178-Rd1e3001">Idem.</ref>
             <lb ed="#Fb" n="58"/>Ex eo, quod ad electionem episcopi, quae, te in pupillari
@@ -1753,8 +1756,6 @@
             regulari<lb ed="#Fb" break="no" n="141"/>bus ac collegiatis ecclesiis vacantibus, capitula, conventus,
             <lb ed="#Fb" n="142"/>collegia et singulares earundem* personae bona, a 
             prae<lb ed="#Fb" break="no" n="143"/>latis ipsarum* dimissa, vel vacationis tempore obvenientia,
-          </p>
-          <p xml:id="wef6td-d1e178-d1e2972">
             <pb ed="#Fb" n="484"/>
             <cb ed="#Fb" n="a"/>
             <lb ed="#Fb" n="1"/>quae in utilitatem dictarum ecclesiarum expendi vel futuris
@@ -1930,7 +1931,10 @@
             in<lb ed="#Fb" break="no" n="138"/>quisitum, confirmatio vel infirmatio differatur; sed interim,
             <lb ed="#Fb" n="139"/>ut praedicitur, libere administret, nisi forsan pars 
             oppo<lb ed="#Fb" break="no" n="140"/>nentium exstiterit duplo maior. Tunc enim administrare
-            <lb ed="#Fb" n="141"/>ipsam nolumus, sed litis eventum potius exspectare. §. 3.
+            <lb ed="#Fb" n="141"/>ipsam nolumus, sed litis eventum potius exspectare.
+          </p>
+          <p xml:id="wef6td-d1e178-d1e3950">
+            §. 3.
             <lb ed="#Fb" n="142"/>Porro si in huiusmodi electionum negotiis contigerit, in illis
             <lb ed="#Fb" n="143"/>duntaxat casibus, in quibus oppositiones iuxta praemissa
             <lb ed="#Fb" n="144"/>fuerint admittendae, ad sedem apostolicam appellari: 
@@ -1994,9 +1998,6 @@
             con<lb ed="#Fb" break="no" n="30"/>firmatione et consecratione suspensus est per annum. H. d. Dominicus de
             <lb ed="#Fb" n="31"/>sancto Geminiano.
           </p>-->
-          <p xml:id="wef6td-d1e178-d1e3375">
-            
-          </p>
           <p xml:id="wef6td-d1e178-d1e3378">
             <lb ed="#Fb" n="32"/><ref xml:id="wef6td-d1e178-Rd1e4075">Idem.</ref>
             <lb ed="#Fb" n="33"/>Provida consideratione generale concilium Lugdunense
