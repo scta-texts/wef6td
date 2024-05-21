@@ -1,750 +1,789 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>TITULUS II. </title>
-            <author ref="#BonifaceVIII">Boniface VIII</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>TITULUS II. </title>
-               <date when="2021-01-29">January 29, 2021</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2021-01-29" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on"/>
-      </front>
-      <body>
-         <div xml:id="wef6td-d1e1390"><!-- wef6td-l5t2 -->
-            <head xml:id="wef6td-d1e1390-Hd1e103">TITULUS II. </head>
-            <p xml:id="wef6td-d1e1390-d1e106"> DE HAERETICIS. </p>
-            <div xml:id="wef6td-d1e1390-Dd1e109">
-               <head xml:id="wef6td-d1e1390-Hd1e111">CAP. I. </head>
-               <p xml:id="wef6td-d1e1390-d1e114"> Propter crimen haeresis clericum, in quibuscunque sacris ordinibus con¬
-          <!--<lb ed="#Fb"/>-->stitutum, solus eius episcopus degradare poterit. H. d. Domin. </p>
-               <p xml:id="wef6td-d1e1390-d1e119"> Gregorius IX. Remensi Archiepiscopo et suis *
-          <!--<lb ed="#Fb"/>-->Suffraganeis*. </p>
-               <p xml:id="wef6td-d1e1390-d1e124"> Quoniam episcoporum numerus, ad degradationem
-          <!--<lb ed="#Fb"/>-->clericorum a canonibus constitutus, non potest de facili con¬
-          <!--<lb ed="#Fb"/>-->venire: concedimus, ut sacerdotem vel alium clericum in
-          <!--<lb ed="#Fb"/>-->sacris ordinibus constitutum, quum pro haeresi fuerit curiae
-          <!--<lb ed="#Fb"/>-->saeculari relinquendus, aut perpetuo immurandus , convo¬
-          <!--<lb ed="#Fb"/>-->catis abbatibus, aliisque praelatis et religiosis personis ac
-          <!--<lb ed="#Fb"/>-->literatis suae dioecesis, de quibus expedire videbitur, suus
-          <!--<lb ed="#Fb"/>-->solus possit episcopus degradare. </p>
-        
-            </div>
-            <div xml:id="wef6td-d1e1390-Dd1e142">
-               <head xml:id="wef6td-d1e1390-Hd1e144">CAP. II. </head>
-               <p xml:id="wef6td-d1e1390-d1e147"> Excommunicationem incurrit sepeliens scienter haereticos, vel eorum
-          <!--<lb ed="#Fb"/>-->receptatores, defensores vel fautores; nec absolvitur, nisi exhumet eorum
-          <!--<lb ed="#Fb"/>-->corpora; locus vero privatur sepultura. H. d. usque ad §. Inhibemus.
-          <!--<lb ed="#Fb"/>-->Domin. — §. 1. Excommunicari debent laici, publice vel occulte dispu¬
-          <!--<lb ed="#Fb"/>-->tantes de fide. H. d. Domin. — §. 2. Non valet promotio haereticorum, eis
-          <!--<lb ed="#Fb"/>-->credentium, fautorum, receptatorum, et defensorum eorum, nec filiorum
-          <!--<lb ed="#Fb"/>-->suorum usque ad secundam generationem ad beneficia ecclesiastica vel
-          <!--<lb ed="#Fb"/>-->officia publica. H. d. Dominic. — §. 3. Privati sunt habentes beneficia
-          <!--<lb ed="#Fb"/>-->ecclesiastica ad preces haereticorum, et inhabiles efficiuntur ad alia
-          <!--<lb ed="#Fb"/>-->obtinenda, si scienter talia receperunt, H. d. Domin. — §. 4. Nulla est
-          <!--<lb ed="#Fb"/>-->emancipatio filiorum vel subditorum per haereticos facta, etiamsi postea
-          <!--<lb ed="#Fb"/>-->vitium detegatur. H. d. Dominicus. </p>
-               <p xml:id="wef6td-d1e1390-d1e172"> Alexander IV.  </p>
-        
-               <p xml:id="wef6td-d1e1390-d1e175"> Quicunque haereticos, credentes, receptatores, defen¬
-          <!--<lb ed="#Fb"/>-->sores vel fautores eorum scienter praesumpserint ecclesia¬
-          <!--<lb ed="#Fb"/>-->sticae tradere sepulturae, usque ad satisfactionem idoneam
-          <!--<lb ed="#Fb"/>-->excommunicationis sententiae se noverint subiacere, nec ab¬
-          <!--<lb ed="#Fb"/>-->solutionis beneficium mereantur, nisi propriis manibus
-          <!--<lb ed="#Fb"/>-->publice extumulent, et proiiciant huiusmodi corpora damna¬
-          <!--<lb ed="#Fb"/>-->torum, et locus ille perpetua careat sepultura. §. i. Inhibe¬
-          <!--<lb ed="#Fb"/>-->mus quoque, ne cuiquam laicae personae liceat publice vel
-          <!--<lb ed="#Fb"/>-->privatim de fide catholica disputare. Qui vero contra fecerit,
-          <!--<lb ed="#Fb"/>-->excommunicationis laqueo innodetur. §. 2. Haeretici autem,
-          <!--<lb ed="#Fb"/>-->credentes, receptatores, defensores et fautores eorum, ipso¬
-          <!--<lb ed="#Fb"/>-->rumque filii usque ad secundam generationem, ad nullum
-          <!--<lb ed="#Fb"/>-->ecclesiasticum beneficium seu officium publicum admittan¬
-          <!--<lb ed="#Fb"/>-->tur. Quod si secus actum fuerit, decernimus irritum et inane.
-          <!--<lb ed="#Fb"/>-->§. 3. Ad haec quoscunque viros ecclesiasticos, qui ad preces
-          <!--<lb ed="#Fb"/>-->huiusmodi pestilentium personarum dignitates, personatus
-          <!--<lb ed="#Fb"/>-->et quaecunque alia ecclesiastica beneficia sunt adepti, ex
-          <!--<lb ed="#Fb"/>-->nunc privamus taliter acquisitis, volentes, quod tales et
-          <!--<lb ed="#Fb"/>-->habitis careant perpetuo, et, si receperunt illa scienter, ad
-          <!--<lb ed="#Fb"/>-->alia vel similia nequaquam in posterum admittantur. §. 4.
-          <!--<lb ed="#Fb"/>-->Illorum autem filiorum emancipationem, quorum parentes
-          <!--<lb ed="#Fb"/>-->post emancipationem etiam huiusmodi apparuerit  ante
-          <!--<lb ed="#Fb"/>-->ipsam a via veritatis ad haereticae superstitionis invium de¬
-          <!--<lb ed="#Fb"/>-->clinasse, nullius volumus esse momenti, velut factam de
-          <!--<lb ed="#Fb"/>-->hominibus sui iuris, quum dignum sit, ut propter tanti atro¬
-          <!--<lb ed="#Fb"/>-->citatem delicti filii esse in parentum haereticorum desierint
-          <!--<lb ed="#Fb"/>-->potestate. </p>
-        
-            </div>
-            <div xml:id="wef6td-d1e1390-Dd1e231">
-               <head xml:id="wef6td-d1e1390-Hd1e233">CAP. HI.ia </head>
-               <p xml:id="wef6td-d1e1390-d1e236"> Filii et heredes petentium in infirmitate sua haereticorum consolationem,
-          <!--<lb ed="#Fb"/>-->non admittuntur ad probandum, quod non sana mente vel perdita loquela
-          <!--<lb ed="#Fb"/>-->susceperint, si constat, quod erant sanae mentis, vel prius suspecti vel
-          <!--<lb ed="#Fb"/>-->diffamati erant de haeresi; alias admittuntur, scilicet per testes fide dignos,
-          <!--<lb ed="#Fb"/>-->non suspectos. Hoc dicit Dominicus. </p>
-               <p xml:id="wef6td-d1e1390-d1e247"> Idem Inquisitoribus haereticae pravitatis . </p>
-               <p xml:id="wef6td-d1e1390-d1e250"> Filii vel heredes illorum, qui, dum in aegritudinis lecto
-          <!--<lb ed="#Fb"/>-->decumberent, petierunt haereticos consolaturos , ut ab eis
-          <!--<lb ed="#Fb"/>-->per manus impositionem consolationem reciperent secun¬
-          <!--<lb ed="#Fb"/>-->dum pessimam consuetudinem eorundem, sicque viam fue¬
-          <!--<lb ed="#Fb"/>-->rint universae carnis ingressi, ad probandum, quod ipsi de¬
-          <!--<lb ed="#Fb"/>-->functi consolationem illam, immo verius desolationem, non
-          <!--<lb ed="#Fb"/>-->sanae mentis effecti susceperint, vel post perditam iam
-          <!--<lb ed="#Fb"/>-->loquelam, (quum tamen moris sit, ut dicitur, apud eos, quod
-          <!--<lb ed="#Fb"/>-->nullum taliter consolentur, qui non sit sanae mentis, et me¬
-          <!--<lb ed="#Fb"/>-->moriam habeat ordinatam,) admitti non debent , si, dum
-          <!--<lb ed="#Fb"/>-->vivebant, diffamati erant de haeresi vel  suspecti, aut legi¬
-          <!--<lb ed="#Fb"/>-->time constiterit, quod sanae mentis exsistentes huiusmodi
-          <!--<lb ed="#Fb"/>--> haereticos petierunt. Alioquin admitti poterunt praedicti
-          <!--<lb ed="#Fb"/>-->filii vel heredes ad probandum praemissa, non tamen per
-          <!--<lb ed="#Fb"/>-->uxores, filios, familiares, vel de suis aliquos, sed per testes
-          <!--<lb ed="#Fb"/>-->alios fide dignos, et specialiter fidei zelatores. </p>
-        
-            </div>
-            <div xml:id="wef6td-d1e1390-Dd1e285">
-               <head xml:id="wef6td-d1e1390-Hd1e287">CAP. IV. </head>
-               <p xml:id="wef6td-d1e1390-d1e290"> Relapsi in haeresim sunt tradendi curiae saeculari, licet poeniteat eos, et
-          <!--<lb ed="#Fb"/>-->ad fidem redeant; non tamen denegantur eis sacramenta poenitentiae et'
-          <!--<lb ed="#Fb"/>-->eucharistiae. H. d. Domin. </p>
-               <p xml:id="wef6td-d1e1390-d1e297"> Idem eisdem. </p>
-               <p xml:id="wef6td-d1e1390-d1e300"> Super eo, quod scriptum legitur: „Ecclesia nulli claudit
-          <!--<lb ed="#Fb"/>-->gremium redeunti, “ quodque hi, qui post abiurationem
-          <!--<lb ed="#Fb"/>-->erroris, vel postquam se proprii antistitis examinatione pur¬
-          <!--<lb ed="#Fb"/>-->gaverint, si deprehensi fuerint in abiuratam haeresim reci¬
-          <!--<lb ed="#Fb"/>-->disse, saeculari decernuntur iudicio sine ulla penitus audi¬
-          <!--<lb ed="#Fb"/>-->entia relinquendi, quum scripturae huiusmodi videantur sibi
-          <!--<lb ed="#Fb"/>-->invicem adversari, quid tenendum sit per sedem edoceri
-          <!--<lb ed="#Fb"/>-->apostolicam postulastis. Nos itaque inquisitioni vestrae de </p>
-        
-        
-        
-               <p xml:id="wef6td-d1e1390-d1e317"> fratrum nostrorum consilio respondemus, quod taliter de¬
-          <!--<lb ed="#Fb"/>-->prehensis, etiamsi , (ut dictum est,) sine ulla penitus
-          <!--<lb ed="#Fb"/>-->audientia relinquendi sint  iudicio saeculari, si tamen post¬
-          <!--<lb ed="#Fb"/>-->modum poeniteant, et poenitentiae signa in eis apparuerint
-          <!--<lb ed="#Fb"/>-->manifesta, nequaquam sunt humiliter petita sacramenta
-          <!--<lb ed="#Fb"/>-->poenitentiae ac  eucharistiae deneganda. </p>
-               <p xml:id="wef6td-d1e1390-d1e331"> cap. y. </p>
-               <p xml:id="wef6td-d1e1390-d1e334"> Excommunicati participes et socii criminis admittuntur in testes contra
-          <!--<lb ed="#Fb"/>-->haereticos, si sciunt verisimiliter veritatem deponere. H. d. Dom. </p>
-               <p xml:id="wef6td-d1e1390-d1e339"> Idem eisdem . </p>
-               <p xml:id="wef6td-d1e1390-d1e342"> In fidei favorem concedimus, ut in negotio inquisitionis
-          <!--<lb ed="#Fb"/>-->haereticae pravitatis excommunicati et participes vel socii
-          <!--<lb ed="#Fb"/>-->criminis ad testimonium admittantur, praesertim in proba¬
-          <!--<lb ed="#Fb"/>-->tionum aliarum defectum, contra haereticos, credentes, fau¬
-          <!--<lb ed="#Fb"/>-->tores, receptatores et defensores eorum, si ex verisimilibus
-          <!--<lb ed="#Fb"/>-->coniecturis, et  ex numero testium aut personarum tam de¬
-          <!--<lb ed="#Fb"/>-->ponentium, quam eorum, contra quos deponitur, qualitate,
-          <!--<lb ed="#Fb"/>-->ac aliis circumstantiis sic testificantes falsa non dicere prae¬
-          <!--<lb ed="#Fb"/>-->sumantur. </p>
-        
-            </div>
-            <div xml:id="wef6td-d1e1390-Dd1e362">
-               <head xml:id="wef6td-d1e1390-Hd1e364">CAP. vi. </head>
-               <p xml:id="wef6td-d1e1390-d1e367"> Ordinarii vel eorum delegati, et inquisitores sine poena excommunicationis
-          <!--<lb ed="#Fb"/>-->facere habent exsecutionem iustitiae contra haereticos per habentes iuris¬
-          <!--<lb ed="#Fb"/>-->dictionem saecularem in loco, licet excommunicati sint, vel de facto tantum
-          <!--<lb ed="#Fb"/>-->illam iurisdictionem possideant. H. d. Dominic. </p>
-               <p xml:id="wef6td-d1e1390-d1e376"> Idem eisdem . </p>
-               <p xml:id="wef6td-d1e1390-d1e379"> Praesidentes regimini alicuius regni, provinciae sive
-          <!--<lb ed="#Fb"/>-->loci, licet excommunicati, vel de facto tantum, et non de iure
-          <!--<lb ed="#Fb"/>-->iurisdictionem habentes, ac eorum officiales ad requisitio¬
-          <!--<lb ed="#Fb"/>-->nem ordinariorum vel delegatorum ipsorum, aut inquisito¬
-          <!--<lb ed="#Fb"/>-->rum haereticae pravitatis, non valentium sine morae dispen¬
-          <!--<lb ed="#Fb"/>-->dio vel negotii periculo recursum habere ad superiores, qui
-          <!--<lb ed="#Fb"/>-->legitime in locis ipsis possint iustitiam exsequi, possunt et
-          <!--<lb ed="#Fb"/>-->debent contra haereticos, credentes, fautores, receptatores
-          <!--<lb ed="#Fb"/>-->et defensores eorum iustitiam et suum officium exercere.
-          <!--<lb ed="#Fb"/>-->Nec requirentes huiusmodi excommunicatos propter hoc
-          <!--<lb ed="#Fb"/>-->sententiam excommunicationis incurrunt. Non tamen prae¬
-          <!--<lb ed="#Fb"/>-->sidentibus praelibatis vel officialibus eorundem propterea  in
-          <!--<lb ed="#Fb"/>-->aliis casibus intelligatur concessum aliquid vel permissum. </p>
-        
-            </div>
-            <div xml:id="wef6td-d1e1390-Dd1e407">
-               <head xml:id="wef6td-d1e1390-Hd1e409">CAP. vn. </head>
-               <p xml:id="wef6td-d1e1390-d1e412"> Excommunicatus propter contumaciam non respondendi super haeresi, de
-          <!--<lb ed="#Fb"/>-->qua erat suspectus, post annum damnatur ut haereticus. H. d. Dom. </p>
-               <p xml:id="wef6td-d1e1390-d1e417"> Idem eisdem . </p>
-               <p xml:id="wef6td-d1e1390-d1e420"> Quum contumacia, in causa praesertim fidei, suspicioni
-          <!--<lb ed="#Fb"/>-->praesumptionem adiiciat, vehementem; si suspectus de
-          <!--<lb ed="#Fb"/>-->haeresi, vocatus a vobis, ut de fide respondeat, excommuni¬
-          <!--<lb ed="#Fb"/>-->cationis vinculo pro eo, quod parere subterfugit, aut con¬
-          <!--<lb ed="#Fb"/>-->tumaciter se absentat, per vos fuerit innodatus, quam si 
-          <!--<lb ed="#Fb"/>--> per annum animo sustineat  pertinaci, extunc velut haere¬
-          <!--<lb ed="#Fb"/>-->ticus condemnetur. </p>
-        
-            </div>
-            <div xml:id="wef6td-d1e1390-Dd1e436">
-               <head xml:id="wef6td-d1e1390-Hd1e438">CAP. VIII. </head>
-               <p xml:id="wef6td-d1e1390-d1e441"> Abiurans in iudicio haeresim propter vehementem praesumptionem, si
-          <!--<lb ed="#Fb"/>-->iterato labitur, licet non fuisset probatum plene, relapsus dicitur; secus, si
-          <!--<lb ed="#Fb"/>-->levis erat praesumptio. H. d. usque ad §. Eum vero. Dominicus. — §. 1.
-          <!--<lb ed="#Fb"/>-->Culpabilis in uno articulo haeresis, generaliter postea abiurando relapsus
-          <!--<lb ed="#Fb"/>-->dicitur, si committit etiam in alium articulum separatum. H. d. Domin. —
-          <!--<lb ed="#Fb"/>-->§. 2. Qui post abiurationem haeresis, de qua convictus fuerat, vel postea
-          <!--<lb ed="#Fb"/>-->convincitur, facto vel verbo haereticis communicat in rebus hic prohibitis,
-          <!--<lb ed="#Fb"/>-->relapsus dicitur. H. d. Domin. — §. 3. Testis, in causa haeresis falsum
-          <!--<lb ed="#Fb"/>-->deponens, licet periurus sit, probat dicendo contrarium; dum tamen ex
-          <!--<lb ed="#Fb"/>-->iudiciis constet, dictum non corruptionem, sed veritatem continere. H. d.—
-          <!--<lb ed="#Fb"/>-->§. 4. Inquisitores, super haeresi deputati, non se intromittant de divinatio¬
-          <!--<lb ed="#Fb"/>-->nibus vel sortilegiis, non sapientibus haeresim manifestam. H. d. Dominic.
-          <!--<lb ed="#Fb"/>-->— §. 5. Inquisitores haeresis de quaestionibus usurarum se intromittere
-          <!--<lb ed="#Fb"/>-->non possunt. H. d. — §. 6. Inquisitores possunt compellere heredes fauto¬
-          <!--<lb ed="#Fb"/>-->rum haereticorum, qui tamen haeretici non erant, ad implendum poeniten¬
-          <!--<lb ed="#Fb"/>-->tiam iniunctam in bonis temporalibus; secus, si mortui sint, antequam
-          <!--<lb ed="#Fb"/>-->fuerit poenitentia iniuncta. H. d. Dom. — §. 7. Post mortem haeretici
-          <!--<lb ed="#Fb"/>-->declarari potest, eum haereticum fuisse, ad finem confiscandi. Dom. — §. 8.
-          <!--<lb ed="#Fb"/>-->Clerici, instruentes testes, ne inquisitores veritatem investigent, puniri
-          <!--<lb ed="#Fb"/>-->possunt per eos; et religiosi gravius puniuntur. Hoc dicit Dominicus. </p>
-               <p xml:id="wef6td-d1e1390-d1e482"> Idem eisdem. </p>
-        
-               <p xml:id="wef6td-d1e1390-d1e485"> Accusatus de haeresi vel suspectus, contra quem de hoc
-          <!--<lb ed="#Fb"/>-->crimine magna et vehemens suspicio orta erat, si haeresim
-          <!--<lb ed="#Fb"/>-->in iudicio abiuravit, et postea committit in ipsa, censeri
-          <!--<lb ed="#Fb"/>-->debet quadam iuris fictione relapsus, licet ante abiurationem
-          <!--<lb ed="#Fb"/>-->suam haeresis crimen plene probatum non fuerit contra
-          <!--<lb ed="#Fb"/>-->ipsum. Si autem levis et modica suspicio  illa fuerit , quan-
-          <!--<lb ed="#Fb"/>-->quam ex hoc sit gravius puniendus: non tamen debet in
-          <!--<lb ed="#Fb"/>-->haeresim relapsorum poena puniri. §. i. Eum vero, qui in
-          <!--<lb ed="#Fb"/>-->una haeresis specie vel secta commisit, aut in uno fidei arti¬
-          <!--<lb ed="#Fb"/>-->culo seu ecclesiae sacramento erravit, et postmodum haere¬
-          <!--<lb ed="#Fb"/>-->sim simpliciter vel generaliter abiuravit, si extunc in aliam 
-          <!--<lb ed="#Fb"/>--> etiam haeresis speciem sive sectam, aut alio articulo seu
-          <!--<lb ed="#Fb"/>-->sacramento committat, volumus ut relapsum in haeresim
-          <!--<lb ed="#Fb"/>-->iudicari. §. 2. Ille quoque, de cuius lapsu in haeresim ante
-          <!--<lb ed="#Fb"/>-->abiurationem constiterat , vel nunc constat, si post illam
-          <!--<lb ed="#Fb"/>-->haereticos receptet, deducat, visitet sive associet, aut dona
-          <!--<lb ed="#Fb"/>-->vel munera eis donet vel mittat, seu favorem eis impendat,
-          <!--<lb ed="#Fb"/>-->qui excusari non possit etiam sine adoratione, (ut verbis
-          <!--<lb ed="#Fb"/>-->vestris utamur,) merito debet iudicari relapsus, quum illum
-          <!--<lb ed="#Fb"/>-->ex approbati a se prius erroris consequentia non sit dubium
-          <!--<lb ed="#Fb"/>-->id fecisse. §. 3. Licet vero periuri a testimonio etiam post
-          <!--<lb ed="#Fb"/>-->poenitentiam repellantur, si tamen ii, qui, coram inquisitori¬
-          <!--<lb ed="#Fb"/>-->bus iurantes tam de se quam de aliis super facto haeresis
-          <!--<lb ed="#Fb"/>-->dicere veritatem, eam celando deierent , et postmodum
-          <!--<lb ed="#Fb"/>-->velint corrigere dictum suum, contra se ac alios suos com¬
-          <!--<lb ed="#Fb"/>-->plices deponendo: quum crimen huiusmodi sit exceptum, si
-          <!--<lb ed="#Fb"/>-->ex manifestis indiciis apparuerit, tales non animi levitate,
-          <!--<lb ed="#Fb"/>-->aut odii fomite, seu corruptione pecuniae, sed zelo fidei
-          <!--<lb ed="#Fb"/>-->orthodoxae dictum suum velle corrigere, ac modo quae 
-          <!--<lb ed="#Fb"/>--> prius tacuerant revelare: in favorem fidei,nisi aliud obsistat ,
-          <!--<lb ed="#Fb"/>-->stari debet tam contra se quam contra reliquos attestatio¬
-          <!--<lb ed="#Fb"/>-->nibus eorundem. §. 4. Sane, quum negotium fidei, (quod
-          <!--<lb ed="#Fb"/>-->summe privilegiatum exsistit), per occupationes alias non
-          <!--<lb ed="#Fb"/>-->debeat impediri: pestis inquisitores haereticae, a sede apo¬
-          <!--<lb ed="#Fb"/>-->stolica deputati, de divinationibus aut sortilegiis, nisi haere¬
-          <!--<lb ed="#Fb"/>-->sim saperent manifeste, intromittere se non debent, nec
-          <!--<lb ed="#Fb"/>-->punire talia exercentes, sed eos relinquere suis iudicibus
-          <!--<lb ed="#Fb"/>-->puniendos. §. 5. De quaestionibus praeterea usurarum,
-          <!--<lb ed="#Fb"/>-->motis etiam contra illos, quibus restitutionem usurarum in
-          <!--<lb ed="#Fb"/>-->poenitentia pro haeresis crimine iniunxerunt, ac  illi se et
-          <!--<lb ed="#Fb"/>-->sua ad hoc faciendum in iudicio ecclesiae obligarunt, intro¬
-          <!--<lb ed="#Fb"/>-->mittere se non possunt, ne per causas huiusmodi offendi¬
-          <!--<lb ed="#Fb"/>-->culum negotio fidei praeparetur. §. 6. Si vero pro his, quae
-          <!--<lb ed="#Fb"/>-->in haeresi, receptando vel defendendo haereticos, seu eis
-          <!--<lb ed="#Fb"/>-->favendo, non tamen exsistens haereticus, quis commiserit *,
-          <!--<lb ed="#Fb"/>-->sub obligatione bonorum suorum inquisitoribus se adstrinxit
-          <!--<lb ed="#Fb"/>-->ad recipiendam ab eis poenitentiam et complendam, et, ea
-          <!--<lb ed="#Fb"/>-->licet iniuncta, non tamen peracta, decessit; si per huiusmodi
-          <!--<lb ed="#Fb"/>-->poenitentiam onus impositum fuerit proficiens ad salutem,
-          <!--<lb ed="#Fb"/>-->in bonis eius temporalibus exsequendum, ad complementum
-          <!--<lb ed="#Fb"/>-->ipsius per inquisitores cogi debent heredes vel alii, ad quos
-          <!--<lb ed="#Fb"/>-->cum suo onere bona huiusmodi devenerunt. Porro, si propter
-          <!--<lb ed="#Fb"/>-->huiusmodi haereticorum receptationem, defensionem seu
-          <!--<lb ed="#Fb"/>-->favorem quis ad faciendam poenitentiam, quam inquisitores
-          <!--<lb ed="#Fb"/>-->ipsi iniungere vellent, bona sua obligaverit  eisdem, et, ante¬
-          <!--<lb ed="#Fb"/>-->quam ei poenitentia iniungeretur, decesserit: eius heredibus
-          <!--<lb ed="#Fb"/>-->non est satisfactio pro exstincto iam crimine iniungenda.
-          <!--<lb ed="#Fb"/>-->§. 7. In eo vero casu, quo heredes ad successionem non
-          <!--<lb ed="#Fb"/>-->debent ob haeresim sui auctoris  admitti, non obstante,
-          <!--<lb ed="#Fb"/>-->quod auctore  ipso vivente hoc non fuerit, interveniente
-          <!--<lb ed="#Fb"/>-->ipsius morte, per sententiam declaratum, ad confiscationem 
-          <!--<lb ed="#Fb"/>--> bonorum post mortem eiusdem nihilominus procedatur.
-          <!--<lb ed="#Fb"/>-->§. 8. Sacerdotes insuper et alii clerici, qui negotium inquisi¬
-          <!--<lb ed="#Fb"/>-->tionis instruendo citatos haereticos vel eorum credentes de
-          <!--<lb ed="#Fb"/>-->celanda veritate vel dicenda falsitate, seu eos indebite
-          <!--<lb ed="#Fb"/>-->liberando inventi fuerint impedire, quum non sit dubium,
-          <!--<lb ed="#Fb"/>-->eos ipsa * facere in favorem haereticae pravitatis, per in¬
-          <!--<lb ed="#Fb"/>-->quisitores a talibus compesci possunt, et poena debita casti¬
-          <!--<lb ed="#Fb"/>-->gari tam per captionem personarum quam alias, prout culpa
-          <!--<lb ed="#Fb"/>-->exegerit delinquentis. Religiosi etiam sunt immurationis
-          <!--<lb ed="#Fb"/>-->poena vel alia gravius puniendi quam saeculares, si inventi
-          <!--<lb ed="#Fb"/>-->fuerint in haeresi, vel consimilibus deliquisse. </p>
-        
-        
-        
-        
-            </div>
-            <div xml:id="wef6td-d1e1390-Dd1e631">
-               <head xml:id="wef6td-d1e1390-Hd1e633">CAP. IX. </head>
-               <p xml:id="wef6td-d1e1390-d1e636"> Non valent statuta, per quae inquisitoris haeresis officium impeditur, vel
-          <!--<lb ed="#Fb"/>-->retardatur. </p>
-               <p xml:id="wef6td-d1e1390-d1e641"> Urbanus IV. </p>
-               <p xml:id="wef6td-d1e1390-d1e644"> Statutum civitatis, castri, villae vel alterius loci, per
-          <!--<lb ed="#Fb"/>-->quod negotium inquisitionis haereticae pravitatis directe vel
-          <!--<lb ed="#Fb"/>-->indirecte, ne in eo libere procedi valeat, contigerit impediri
-          <!--<lb ed="#Fb"/>-->vel quomodolibet retardari, nullius exsistere firmitatis,
-          <!--<lb ed="#Fb"/>-->ipsiusque civitatis vel loci dominum, potestatem, capita-
-          <!--<lb ed="#Fb"/>-->neum, consules vel rectores, per quem vel quos  eadem
-          <!--<lb ed="#Fb"/>-->civitas seu  locus regitur, quocunque nomine censeantur, ad
-          <!--<lb ed="#Fb"/>-->statutum huiusmodi loci dioecesano vel eius vicario, aut in¬
-          <!--<lb ed="#Fb"/>-->quisitori seu inquisitoribus labis praefatae sine morae dis¬
-          <!--<lb ed="#Fb"/>-->pendio exhibendum, et, si tale inventum fuerit, revocandum
-          <!--<lb ed="#Fb"/>-->omnino, vel saltem eatenus moderandum, quod per illud
-          <!--<lb ed="#Fb"/>-->inquisitionis processus non impediantur  vel aliquatenus
-          <!--<lb ed="#Fb"/>-->retardentur, per censuram ecclesiasticam decernimus com¬
-          <!--<lb ed="#Fb"/>-->pellendos. </p>
-        
-            </div>
-            <div xml:id="wef6td-d1e1390-Dd1e674">
-               <head xml:id="wef6td-d1e1390-Hd1e676">CAP. x. </head>
-               <p xml:id="wef6td-d1e1390-d1e679"> Officium inquisitoris haeresis morte concedentis non exspirat, etiam quoad
-          <!--<lb ed="#Fb"/>-->negotia prius non coepta vel exorta. H. d. </p>
-               <p xml:id="wef6td-d1e1390-d1e684"> Clemens IV. Inquisitoribus haereticae
-          <!--<lb ed="#Fb"/>-->pravitatis . </p>
-               <p xml:id="wef6td-d1e1390-d1e689"> Ne aliqui, dubitationem  sollicitam excitantes, in dubium
-          <!--<lb ed="#Fb"/>-->revocent, an  officium inquisitionis haereticae pravitatis,
-          <!--<lb ed="#Fb"/>-->sollicitudini vestrae intra  certos limites ab apostolica sede
-          <!--<lb ed="#Fb"/>-->commissum, exspiret per mortem Romani Pontificis, qui com¬
-          <!--<lb ed="#Fb"/>-->misit: praesenti declaramus edicto, ipsum officium non
-          <!--<lb ed="#Fb"/>-->solum quoad negotia vivente mandatore incepta, immo etiam
-          <!--<lb ed="#Fb"/>-->quoad integra et non coepta, et quod plus est, quantum ad
-          <!--<lb ed="#Fb"/>-->ea, quae tunc nequaquam emerserant, in favorem fidei post
-          <!--<lb ed="#Fb"/>-->comittentis obitum perdurare. </p>
-        
-            </div>
-            <div xml:id="wef6td-d1e1390-Dd1e710">
-               <head xml:id="wef6td-d1e1390-Hd1e712">CAP. XI. </head>
-               <p xml:id="wef6td-d1e1390-d1e715"> Informat inquisitores ad Deum, ut eius timorem hominum metui ante¬
-          <!--<lb ed="#Fb"/>-->ponant, in procedendo simul vel separatim contra haereticos et suos
-          <!--<lb ed="#Fb"/>-->fautores, et etiam in eos absolvendo, quum vere redierint. — §. 1. Instruit
-          <!--<lb ed="#Fb"/>-->inquisitores in modo examinationis testium, et in personis, quae testificata
-          <!--<lb ed="#Fb"/>-->scribere debeant. H. d. — §. 2. Instruit inquisitores circa personas per quas
-          <!--<lb ed="#Fb"/>-->impediri posset vel differri inquisitionis negotium. H. d. </p>
-               <p xml:id="wef6td-d1e1390-d1e728"> Idem eisdem. </p>
-        
-               <p xml:id="wef6td-d1e1390-d1e731"> Ut officium inquisitionis contra haereticos in provincia,
-          <!--<lb ed="#Fb"/>-->in qua vobis idem officium est commissum, auctoritate apo¬
-          <!--<lb ed="#Fb"/>-->stolica possitis efficacius adimplere: discretioni vestrae per
-          <!--<lb ed="#Fb"/>-->apostolica scripta mandamus, quatenus ubique in praefata
-          <!--<lb ed="#Fb"/>-->provincia simul vel separatim aut singulariter, prout negotii
-          <!--<lb ed="#Fb"/>-->utilitas suadebit, contra haereticos, credentes, receptatores,
-          <!--<lb ed="#Fb"/>-->fautores et defensores eorum, nec non contra infamatos de
-          <!--<lb ed="#Fb"/>-->haeresi vel suspectos, iuxta sanctiones canonicas, hominum
-          <!--<lb ed="#Fb"/>-->metu divino timori postposito, procedatis. Si vero aliquis
-          <!--<lb ed="#Fb"/>-->ex praedictis, haeretica labe primitus abiurata, redire voluerit
-          <!--<lb ed="#Fb"/>-->ad ecclesiae unitatem: ei iuxta formam ecclesiae absolutionis
-          <!--<lb ed="#Fb"/>-->beneficium impendatis, et iniungatis eidem quod iniungi
-          <!--<lb ed="#Fb"/>-->talibus consuevit, proviso sollerter, ne simulata conversione
-          <!--<lb ed="#Fb"/>-->redeant fraudulenter, et vos , immo se ipsos, fallentes sub
-          <!--<lb ed="#Fb"/>-->agni specie lupum gerant. §. i. Verum, quia in tam gravi
-          <!--<lb ed="#Fb"/>-->crimine cum multa oportet cautela procedi, ut in reos sine
-          <!--<lb ed="#Fb"/>-->ullo proferatur errore durae ac dignae severitas ultionis:
-          <!--<lb ed="#Fb"/>-->volumus et mandamus, ut in examinatione testium, quas re¬
-          <!--<lb ed="#Fb"/>-->cipi super crimine praedicto ipsumque contingentibus opor¬
-          <!--<lb ed="#Fb"/>-->tuerit, adhibeatis duas religiosas et  discretas personas, in
-          <!--<lb ed="#Fb"/>-->quarum praesentia per publicam, si commode potestis
-          <!--<lb ed="#Fb"/>-->habere, personam, aut per duos viros idoneos, fideliter eo¬
-          <!--<lb ed="#Fb"/>-->rundem depositiones testium conscribantur . Ad conscri¬
-          <!--<lb ed="#Fb"/>-->bendas quoque huiusmodi depositiones testium, et ad facien¬
-          <!--<lb ed="#Fb"/>-->dum omnia, quae in commisso vobis officio ad scriniarii seu
-          <!--<lb ed="#Fb"/>-->tabellionis officium pertinent, teneri districte praecipimus,
-          <!--<lb ed="#Fb"/>-->quum per vos  fuerint requisiti, omnes et singulos vestri
-          <!--<lb ed="#Fb"/>-->ordinis fratres, qui, dum essent in saeculo, tabellionatus 
-          <!--<lb ed="#Fb"/>--> officium habuisse aut  exercuisse noscuntur, et illos etiam,
-          <!--<lb ed="#Fb"/>-->quibus idem tabellionatus officium ratione praefati negotii
-          <!--<lb ed="#Fb"/>-->fidei fuit ab apostolica sede commissum et in posterum com¬
-          <!--<lb ed="#Fb"/>-->mittetur, concedentes huiusmodi fratribus, nec non et aliis
-          <!--<lb ed="#Fb"/>-->religiosis quibuslibet, qui similiter, dum essent in saeculo,
-          <!--<lb ed="#Fb"/>-->tabellionatus  officium habuerunt  et exercuerunt, quibusvis
-          <!--<lb ed="#Fb"/>-->etiam clericis saecularibus officium ipsum habentibus, etiam¬
-          <!--<lb ed="#Fb"/>-->si iidem fratres religiosi et clerici sint in sacris ordinibus
-          <!--<lb ed="#Fb"/>-->constituti, exercendi libere officium ipsum quoad praemissa,
-          <!--<lb ed="#Fb"/>-->non obstante statuto aliquo contrario canonis vel ordinis
-          <!--<lb ed="#Fb"/>-->quocunque vallato munimine, potestatem . §. 2. Com¬
-          <!--<lb ed="#Fb"/>-->pescendi praeterea monitione praemissa per censuram ec¬
-          <!--<lb ed="#Fb"/>-->clesiasticam, appellatione postposita, praedicatores quae¬
-          <!--<lb ed="#Fb"/>-->stuarios, (ubi contigerit pro inquisitionis seu fidei negotio
-          <!--<lb ed="#Fb"/>-->congregationem fieri, vel alias eidem negotio quomodolibet
-          <!--<lb ed="#Fb"/>-->ex hoc impedimentum aliquod afferri,) a praedicationis
-          <!--<lb ed="#Fb"/>-->officio, quod ad ipsos nullatenus pertinet, (quorum interest
-          <!--<lb ed="#Fb"/>-->tantum caritativa subsidia suppliciter  petere, ac indulgen¬
-          <!--<lb ed="#Fb"/>-->tiam, si forte habent, exponere,) liberam vobis et singulis
-          <!--<lb ed="#Fb"/>-->vestrum concedimus auctoritate praesentium facultatem.
-          <!--<lb ed="#Fb"/>-->Denique, ut circa praemissa plene vobis et singulis vestrum
-          <!--<lb ed="#Fb"/>-->coercitionis expedita et inviolabilis adsit auctoritas, volumus,
-          <!--<lb ed="#Fb"/>-->ut ea omnia viriliter exsequamini, si opus fuerit, invocato
-          <!--<lb ed="#Fb"/>-->auxilio brachii saecularis, contradictores per censuram ec¬
-          <!--<lb ed="#Fb"/>-->clesiasticam appellatione postposita compescendo, non ob¬
-          <!--<lb ed="#Fb"/>-->stantibus aliquibus privilegiis vel indulgentiis quibuscunque
-          <!--<lb ed="#Fb"/>-->personis cuiusvis conditionis, dignitatis vel gradus, religionis
-          <!--<lb ed="#Fb"/>-->vel ordinis, comitatibus vel universitatibus civitatum et loco¬
-          <!--<lb ed="#Fb"/>-->rum specialiter vel generaliter sub quacunque verborum
-          <!--<lb ed="#Fb"/>-->expressione vel forma a memorata sede concessis, vel in
-          <!--<lb ed="#Fb"/>-->posterum concedendis, quum ex huiusmodi vel aliis privi¬
-          <!--<lb ed="#Fb"/>-->legiis vel  indulgentiis nullum vobis  in tantae pietatis ne¬
-          <!--<lb ed="#Fb"/>-->gotio velimus  obstaculum interponi, et constitutione de
-          <!--<lb ed="#Fb"/>-->duabus diaetis edita in concilio generali. Statuimus, in¬
-          <!--<lb ed="#Fb"/>-->super, ut potestas, capitaneus, seu rector vel consules, seu
-          <!--<lb ed="#Fb"/>-->quivis alii, qui civitati praesunt vel loco alteri ad praesens,
-          <!--<lb ed="#Fb"/>-->aut praeerunt * in futurum, ad requisitionem dioecesanorum
-          <!--<lb ed="#Fb"/>-->vel vicariorum suorum, seu inquisitorum haereticae pravi¬
-          <!--<lb ed="#Fb"/>-->tatis, iurent praecise attendere inviolabiliter et  observare 
-          <!--<lb ed="#Fb"/>--> ac facere a suis subditis observari toto tempore sui regiminis
-          <!--<lb ed="#Fb"/>-->in terris suae iurisdictioni regiminive subiectis constitutiones
-          <!--<lb ed="#Fb"/>-->contra haereticos, credentes, receptatores, fautores et de¬
-          <!--<lb ed="#Fb"/>-->fensores eorum, ipsorumque filios et nepotes a sede apo¬
-          <!--<lb ed="#Fb"/>-->stolica promulgatas ac etiam approbatas, quas * qui iurare
-          <!--<lb ed="#Fb"/>-->noluerit et servare, ut infamis, et tanquam haereticorum
-          <!--<lb ed="#Fb"/>-->fautor ac de fide suspectus officio et honore sui regiminis
-          <!--<lb ed="#Fb"/>-->spolietur, nec ulterius potestas, capitaneus, consul vel rector
-          <!--<lb ed="#Fb"/>-->habeatur in aliquo, aut de cetero in * aliquam dignitatem
-          <!--<lb ed="#Fb"/>-->vel officium publicum ulterius assumatur, et quae ut po¬
-          <!--<lb ed="#Fb"/>-->testas, ballivus, consul vel rector fecerit, nullam obtineant
-          <!--<lb ed="#Fb"/>-->firmitatem. </p>
-        
-        
-        
-               <p xml:id="wef6td-d1e1390-d1e890"> ,    cap, xn. </p>
-               <p xml:id="wef6td-d1e1390-d1e894"> Comprehendit ista decretalis plura utilia pro expediendo officio inquisi-
-          <!--<lb ed="#Fb"/>-->'torum. Dat enim eis potestatem committendi citationes et sententiarum
-          <!--<lb ed="#Fb"/>-->denunciationes. Dat potestatem vocandi peritos, clerum et populum, ut eis
-          <!--<lb ed="#Fb"/>-->assistant. Dat potestatem procedendi contra illos, qui de sua in aliam pro¬
-          <!--<lb ed="#Fb"/>-->vinciam se transtulerunt. Dat potestatem repetendi libros et processus,
-          <!--<lb ed="#Fb"/>-->commutandi et mitigandi poenas, privandi et privatos nunciandi officiis et
-          <!--<lb ed="#Fb"/>-->honoribus haereticos, fautores et defensores eorum, ita tamen, quod hoc fiat
-          <!--<lb ed="#Fb"/>-->de dioecesanorum, vel, in eorum absentia, vicariorum suorum consilio, nisi </p>
-               <p xml:id="wef6td-d1e1390-d1e911"> iidem scienter talibus beneficia contulissent. H. d. Ioann. Andr. </p>
-               <p xml:id="wef6td-d1e1390-d1e914"> Bonifacius VIII. Inquisitoribus  haereticae
-          <!--<lb ed="#Fb"/>-->pravitatis. </p>
-               <p xml:id="wef6td-d1e1390-d1e919"> Ut commissi vobis officii debitum utilius et uberius  ex¬
-          <!--<lb ed="#Fb"/>-->sequamini, sanctae memoriae Innocentii, Alexandri et Cle¬
-          <!--<lb ed="#Fb"/>-->mentis praedecessorum nostrorum vestigiis inhaerentes,
-          <!--<lb ed="#Fb"/>-->vobis et vestrum singulis committendi citationes et denun¬
-          <!--<lb ed="#Fb"/>-->ciationes sententiarum, quas in quoslibet haereticos, cre¬
-          <!--<lb ed="#Fb"/>-->dentes, receptatores, defensores et fautores eorum tuleritis;
-          <!--<lb ed="#Fb"/>-->advocandi quoque, prout expedierit, peritos quoslibet, ut
-          <!--<lb ed="#Fb"/>-->vobis assistant et in huiusmodi ferendis sententiis praebeant
-          <!--<lb ed="#Fb"/>-->consilium opportunum, ac eis, quod super his vobis  humi¬
-          <!--<lb ed="#Fb"/>-->liter pareant, in virtute obedientiae iniungendi; convocandi
-          <!--<lb ed="#Fb"/>-->fetiam clerum et populum civitatum, castrorum aliorumque
-          <!--<lb ed="#Fb"/>-->locorum, prout dicto negotio fidei videritis expedire, et
-          <!--<lb ed="#Fb"/>-->contra illos, quos in provincia , in qua vobis inquisitionis
-          <!--<lb ed="#Fb"/>-->officium est commissum, haeresis * crimen constiterit com¬
-          <!--<lb ed="#Fb"/>-->misisse, (licet ad alias partes se transferendos duxerint,) pro¬
-          <!--<lb ed="#Fb"/>-->cedendi; nec non faciendi a quibuslibet assignari vobis
-          <!--<lb ed="#Fb"/>-->libros, seu quaternos et alia scripta, in quibus inquisitiones
-          <!--<lb ed="#Fb"/>-->factae, ac processus per quoscunque auctoritate sedis apo¬
-          <!--<lb ed="#Fb"/>-->stolicae vel legatorum eius habiti contra haereticos com
-          <!--<lb ed="#Fb"/>-->tinentur; et illorum, qui, vestris mandatis obedientes humi¬
-          <!--<lb ed="#Fb"/>-->liter, stant  propter haeresim in carcere vel muro reclusi,
-          <!--<lb ed="#Fb"/>-->poenam una cum praelatis, quorum iurisdictioni subsunt,
-          <!--<lb ed="#Fb"/>-->mitigandi vel mutandi, quum videritis expedire; privandi
-          <!--<lb ed="#Fb"/>-->praeterea vel privatos  nunciandi dignitatibus ac aliis bene¬
-          <!--<lb ed="#Fb"/>-->ficiis ecclesiasticis de dioecesanorum, vel, eis absentibus,
-          <!--<lb ed="#Fb"/>-->vicariorum suorum consilio, et officiis publicis ac honoribus
-          <!--<lb ed="#Fb"/>-->quibuscunque eosdem haereticos, credentes, receptatores
-          <!--<lb ed="#Fb"/>-->et defensores ipsorum , eorumque filios et nepotes , plenam
-          <!--<lb ed="#Fb"/>-->concedimus facultatem. Sunt autem dioecesani in privando
-          <!--<lb ed="#Fb"/>-->tales vel nunciando privatos beneficiis et * huiusmodi
-          <!--<lb ed="#Fb"/>-->requirendi, nisi forte constaret legitime, quod iidem scienter
-          <!--<lb ed="#Fb"/>-->huiusmodi personis eadem beneficia contulissent. Tunc
-          <!--<lb ed="#Fb"/>-->enim eos in his requirendos non esse censemus, sed potius
-          <!--<lb ed="#Fb"/>-->a suo iudice puniendos. </p>
-        
-            </div>
-            <div xml:id="wef6td-d1e1390-Dd1e989">
-               <head xml:id="wef6td-d1e1390-Hd1e991">CAP.   xm. </head>
-               <p xml:id="wef6td-d1e1390-d1e994"> Christiani, ad Iudaismum transeuntes et redeuntes, haeretici reputantur. </p>
-               <p xml:id="wef6td-d1e1390-d1e997"> H. d. secundum Zenz. </p>
-               <p xml:id="wef6td-d1e1390-d1e1000"> Idem. </p>
-               <p xml:id="wef6td-d1e1390-d1e1003"> Contra Christianos, qui ad ritum transierint vel redierint
-          <!--<lb ed="#Fb"/>-->ludaeorum, etiamsi huiusmodi redeuntes, dum erant in¬
-          <!--<lb ed="#Fb"/>-->fantes, aut mortis metu, non tamen absolute aut  praecise
-          <!--<lb ed="#Fb"/>-->coacti, baptizati fuerunt , erit  tanquam contra haereticos, si
-          <!--<lb ed="#Fb"/>-->fuerint de hoc confessi, aut per Christianos seu Iudaeos
-          <!--<lb ed="#Fb"/>-->convicti, et, sicut contra fautores, receptatores et defensores
-          <!--<lb ed="#Fb"/>-->haereticorum, sic  contra fautores, receptatores et de¬
-          <!--<lb ed="#Fb"/>-->fensores talium est  procedendum. </p>
-        
-            </div>
-            <div xml:id="wef6td-d1e1390-Dd1e1021">
-               <head xml:id="wef6td-d1e1390-Hd1e1023">CAP. xiv. </head>
-               <p xml:id="wef6td-d1e1390-d1e1026"> Non confiscantur dotes uxorum innocentium propter haeresim maritorum. </p>
-               <p xml:id="wef6td-d1e1390-d1e1029"> H. d. secundum Zenz. </p>
-               <p xml:id="wef6td-d1e1390-d1e1032"> Idem. </p>
-               <p xml:id="wef6td-d1e1390-d1e1035"> Decrevit felicis recordationis Innocentius Papa IV.,
-          <!--<lb ed="#Fb"/>-->quod propter haeresim maritorum uxorum catholicarum
-          <!--<lb ed="#Fb"/>-->dotes non debeant confiscari. Quod intelligendum fore
-          <!--<lb ed="#Fb"/>-->censemus, nisi forte mulieres ipsae cum viris matrimonia
-          <!--<lb ed="#Fb"/>-->contraxissent, quos haereticos tunc sciebant. </p>
-        
-            </div>
-            <div xml:id="wef6td-d1e1390-Dd1e1047">
-               <head xml:id="wef6td-d1e1390-Hd1e1049">CAP. xv. </head>
-               <p xml:id="wef6td-d1e1390-d1e1052"> Filii haereticorum usque ad secundam lineam paternam, ad primam vero
-          <!--<lb ed="#Fb"/>-->maternam, sunt inhabiles ad beneficium ecclesiasticum vel officium sae¬
-          <!--<lb ed="#Fb"/>-->culare, si patres ante mortem ecclesiae reincorporati non fuerint. H. d.
-          <!--<lb ed="#Fb"/>-->secundum Dom. </p>
-               <p xml:id="wef6td-d1e1390-d1e1061"> Idem. </p>
-        
-               <p xml:id="wef6td-d1e1390-d1e1064"> Statutum felicis recordationis Innocentii  et Alexandri
-          <!--<lb ed="#Fb"/>-->praedecessorum nostrorum, ne videlicet haeretici, credentes,
-          <!--<lb ed="#Fb"/>-->receptatores, defensores et fautores eorum, ipsorumque filii
-          <!--<lb ed="#Fb"/>-->usque ad secundam generationem, ad aliquod beneficium
-          <!--<lb ed="#Fb"/>-->ecclesiasticum seu publicum officium admittantur, quod, si
-          <!--<lb ed="#Fb"/>-->secus actum fuerit, sit irritum et inane, primum et secundum
-          <!--<lb ed="#Fb"/>-->gradum per paternam lineam comprehendere declaramus;
-          <!--<lb ed="#Fb"/>-->per maternam vero ad primum duntaxat volumus hoc ex¬
-          <!--<lb ed="#Fb"/>-->tendi. Hoc sane de filiis et nepotibus haereticorum ,
-          <!--<lb ed="#Fb"/>-->credentium et aliorum huiusmodi, qui tales esse vel tales
-          <!--<lb ed="#Fb"/>-->etiam  decessisse probantur, intelligendum esse videtur,
-          <!--<lb ed="#Fb"/>-->non autem illorum, quos emendatos esse constiterit et
-          <!--<lb ed="#Fb"/>-->reincorporatos ecclesiae unitati, et pro culpa huiusmodi ad
-          <!--<lb ed="#Fb"/>-->mandatum ecclesiae poenitentiam recepisse, quam ipsi vel
-          <!--<lb ed="#Fb"/>-->iam perfecerunt, vel humiliter prosecutioni eius insistunt,
-          <!--<lb ed="#Fb"/>-->vel parati fuerint ad recipiendam eandem. </p>
-        
-            </div>
-            <div xml:id="wef6td-d1e1390-Dd1e1098">
-               <head xml:id="wef6td-d1e1390-Hd1e1100">CAP. XVI. </head>
-               <p xml:id="wef6td-d1e1390-d1e1103"> Inquisitor Papae super haeresi sine speciali mandato non inquirit contra
-          <!--<lb ed="#Fb"/>-->episcopum, sed, si eum culpabilem sciverit, nunciabit Papae. H. d. </p>
-               <p xml:id="wef6td-d1e1390-d1e1108"> Ioann. Andr. </p>
-               <p xml:id="wef6td-d1e1390-d1e1111"> Idem. </p>
-               <p xml:id="wef6td-d1e1390-d1e1114"> Inquisitores haereticae pravitatis, ab apostolica sede
-          <!--<lb ed="#Fb"/>-->seu alio vel aliis quibuslibet deputati, de huiusmodi crimine
-          <!--<lb ed="#Fb"/>-->inquirere contra episcopos nequeunt, aut eius praetextu
-          <!--<lb ed="#Fb"/>-->procedere contra eos, nisi in literis commissionis apostolicae,
-          <!--<lb ed="#Fb"/>-->quod hoc possint, contineatur expresse. Si tamen inqui¬
-          <!--<lb ed="#Fb"/>-->sitores ipsi episcopos vel alios superiores praelatos sciverint
-          <!--<lb ed="#Fb"/>-->vel invenerint circa crimen haereseos commisisse, aut eos
-          <!--<lb ed="#Fb"/>-->de hoc diffamatos exsistere vel suspectos: id tenebuntur
-          <!--<lb ed="#Fb"/>-->sedi apostolicae nunciare. </p>
-        
-            </div>
-            <div xml:id="wef6td-d1e1390-Dd1e1134">
-               <head xml:id="wef6td-d1e1390-Hd1e1136">CAP. XVII. </head>
-               <p xml:id="wef6td-d1e1390-d1e1139"> Non derogatur ordinariis super processu haereticorum, licet Papa genera¬
-          <!--<lb ed="#Fb"/>-->liter alteri deleget. Et super eodem facto episcopus et inquisitor possunt
-          <!--<lb ed="#Fb"/>-->procedere communiter vel divisim, vel proferre sententiam; in qua si
-          <!--<lb ed="#Fb"/>-->discordant, debent Papae referre. Et episcopi, qualitercunque procedant, </p>
-               <p xml:id="wef6td-d1e1390-d1e1148"> debent servare modum inquisitoribus impositum. H. d. Domin. </p>
-               <p xml:id="wef6td-d1e1390-d1e1151"> Idem. </p>
-               <p xml:id="wef6td-d1e1390-d1e1154"> Per hoc, quod negotium haereticae pravitatis alicui vel
-          <!--<lb ed="#Fb"/>-->aliquibus ab apostolica sede generaliter in aliqua provincia,
-          <!--<lb ed="#Fb"/>-->civitate vel dioecesi delegatur, dioecesanis episcopis, quin
-          <!--<lb ed="#Fb"/>-->et ipsi auctoritate ordinaria vel delegata, si habent, in eodem
-          <!--<lb ed="#Fb"/>-->procedere valeant, nolumus derogari. Verum, ut dictum
-          <!--<lb ed="#Fb"/>-->inquisitionis negotium efficacius, melius utiliusque pro¬
-          <!--<lb ed="#Fb"/>-->cedat, concedimus, quod per episcopos ipsos et per inqui¬
-          <!--<lb ed="#Fb"/>-->sitores de facto eodem inquiri valeat communiter vel divi¬
-          <!--<lb ed="#Fb"/>-->sim. Et si divisim processerint, teneantur sibi invicem
-          <!--<lb ed="#Fb"/>-->communicare processus, ut per hoc possit melius veritas
-          <!--<lb ed="#Fb"/>-->inveniri. Et nisi hoc casu inquisitores in sententiae pro¬
-          <!--<lb ed="#Fb"/>-->latione dioecesanis vel econtra duxerint deferendum, per
-          <!--<lb ed="#Fb"/>-->utrosque simul sententia proferatur. In qua ferenda si non
-          <!--<lb ed="#Fb"/>-->convenerint, per utrosque negotium sufficienter instructum
-          <!--<lb ed="#Fb"/>-->ad sedem apostolicam remittatur. Sive autem ordinaria
-          <!--<lb ed="#Fb"/>-->sive delegata episcopi potestate procedant: illum in pro¬
-          <!--<lb ed="#Fb"/>-->cedendo modum observent, quem inquisitores possunt et
-          <!--<lb ed="#Fb"/>-->debent per iura communia, vel per speciales concessiones
-          <!--<lb ed="#Fb"/>-->seu ordinationes sedis apostolicae observare. </p>
-        
-            </div>
-            <div xml:id="wef6td-d1e1390-Dd1e1195">
-               <head xml:id="wef6td-d1e1390-Hd1e1197">CAP. XVIII. </head>
-               <p xml:id="wef6td-d1e1390-d1e1200"> Episcopis et inquisitoribus haeresis non resistant, sed omnino pareant
-          <!--<lb ed="#Fb"/>-->domini temporales, et de eo crimine non cognoscant; alias, prout dicitur
-          <!--<lb ed="#Fb"/>-->hic, puniuntur. H. d. secundum Zenz. </p>
-               <p xml:id="wef6td-d1e1390-d1e1207"> Idem. </p>
-               <p xml:id="wef6td-d1e1390-d1e1210"> Ut inquisitionis negotium contra haereticam pravitatem
-          <!--<lb ed="#Fb"/>-->ad Dei gloriam et augmentum fidei nostris temporibus pro¬
-          <!--<lb ed="#Fb"/>-->speretur, leges quasdam, perFedericum olim Romanorum
-          <!--<lb ed="#Fb"/>-->imperatorem, tunc in devotione Romanae persistentem
-          <!--<lb ed="#Fb"/>-->ecclesiae, promulgatas, quatenus Dei et ecclesiae sanctae
-          <!--<lb ed="#Fb"/>-->suae honorem promovent, et haereticorum exterminium
-          <!--<lb ed="#Fb"/>-->prosequuntur, et statutis canonicis non obsistunt, appro¬
-          <!--<lb ed="#Fb"/>-->bantes et observari volentes, universos  saeculi potestates
-          <!--<lb ed="#Fb"/>-->et dominos temporales, ac provinciarum, terrarum, civita¬
-          <!--<lb ed="#Fb"/>-->tum aliorumque locorum rectores, quibuscunque dignitatibus
-          <!--<lb ed="#Fb"/>-->vel officiis aut nominibus censeantur, requirimus et mone¬
-          <!--<lb ed="#Fb"/>-->mus, ut, sicut reputari cupiunt et haberi fideles, ita pro </p>
-        
-        
-        
-               <p xml:id="wef6td-d1e1390-d1e1235"> defensione fidei dioecesanis episcopis et inquisitoribus
-          <!--<lb ed="#Fb"/>-->haereticae pravitatis, a sede apostolica deputatis aut in
-          <!--<lb ed="#Fb"/>-->posterum deputandis, pareant, et intendant in haereticorum,
-          <!--<lb ed="#Fb"/>-->credentium, fautorum, receptatorum et defensorum ipsorum
-          <!--<lb ed="#Fb"/>-->investigatione, captione ac custodia diligenti, quum ab eis
-          <!--<lb ed="#Fb"/>-->fuerint requisiti, et ut praefatas personas pestiferas in pote¬
-          <!--<lb ed="#Fb"/>-->statem seu carcerem episcoporum aut  inquisitorum dicto¬
-          <!--<lb ed="#Fb"/>-->rum , vel ad locum, de quo ipsi vel aliqui ex eis mandaverint,
-          <!--<lb ed="#Fb"/>-->infra eorundem dominorum potestatem  vel rectorum di¬
-          <!--<lb ed="#Fb"/>-->strictum ducant vel duci faciant sine mora, ubi per viros
-          <!--<lb ed="#Fb"/>-->catholicos a praefatis episcopis seu inquisitoribus , vel
-          <!--<lb ed="#Fb"/>-->eorum aliquo deputatos sub arcta et diligenti custodia
-          <!--<lb ed="#Fb"/>-->teneantur, donec eorum negotium per ecclesiae iudicium
-          <!--<lb ed="#Fb"/>-->terminetur, utque de haeresi a dioecesano episcopo vel in¬
-          <!--<lb ed="#Fb"/>-->quisitore seu inquisitoribus condemnatos praefati potestates,
-          <!--<lb ed="#Fb"/>-->domini  temporales sive rectores, vel eorum officiales seu
-          <!--<lb ed="#Fb"/>-->nuncii sibi relictos statim recipiant  indilate animadversione
-          <!--<lb ed="#Fb"/>-->debita puniendos, non obstantibus appellationibus seu pro-
-          <!--<lb ed="#Fb"/>-->clamationibus praedictorum nequitiae filiorum, quum tam
-          <!--<lb ed="#Fb"/>-->secundum ordinationem praedecessorum nostrorum, quam
-          <!--<lb ed="#Fb"/>-->secundum legem imperialem appellationis et proclamationis
-          <!--<lb ed="#Fb"/>-->beneficium expresse sit haereticis et credentibus, ac eorum
-          <!--<lb ed="#Fb"/>-->receptatoribus, fautoribus et defensoribus interdictum.
-          <!--<lb ed="#Fb"/>-->Prohibemus quoque districtius potestatibus, dominis tem¬
-          <!--<lb ed="#Fb"/>-->poralibus et rectoribus eorundemque  officialibus supra
-          <!--<lb ed="#Fb"/>-->dictis, ne ipsi de hoc crimine, quum mere sit ecclesiasticum,
-          <!--<lb ed="#Fb"/>-->quoquo modo  cognoscant vel iudicent, sive captos pro
-          <!--<lb ed="#Fb"/>-->eodem crimine absque dictorum episcoporum sive inqui¬
-          <!--<lb ed="#Fb"/>-->sitorum, aut saltem alterius eorundem licentia vel mandato
-          <!--<lb ed="#Fb"/>-->a carcere  liberent, aut exsecutionem, sibi pro huiusmodi
-          <!--<lb ed="#Fb"/>-->crimine a dioecesano vel inquisitoribus seu inquisitore in-
-          <!--<lb ed="#Fb"/>-->iunctam, prompte, prout ad suum spectat officium, facere
-          <!--<lb ed="#Fb"/>-->seu adimplere detrectent, vel alias dioecesanorum * aut 
-          <!--<lb ed="#Fb"/>--> inquisitorum iudicium, sententiam seu processum directe
-          <!--<lb ed="#Fb"/>-->vel indirecte impedire praesumant. Si quis vero de prae¬
-          <!--<lb ed="#Fb"/>-->dictis potestatibus, dominis temporalibus, rectoribus, vel
-          <!--<lb ed="#Fb"/>-->/eorum officialibus seu ballivis, contra praedicta fecerit, aut
-          <!--<lb ed="#Fb"/>-->praefato fidei negotio, saepe fatis dioecesano episcopo
-          <!--<lb ed="#Fb"/>-->vel inquisitoribus incumbenti, se opponere forte prae¬
-          <!--<lb ed="#Fb"/>-->sumpserit  vel ipsum aliquatenus impedire, nec non et qui
-          <!--<lb ed="#Fb"/>-->scienter in praedictis dederit auxilium consilium vel favorem:
-          <!--<lb ed="#Fb"/>-->excommunicationis se noverit mucrone percussum. Quam
-          <!--<lb ed="#Fb"/>-->si per annum animo sustinuerit pertinaci: extunc velut
-          <!--<lb ed="#Fb"/>-->haereticus condemnetur. </p>
-        
-            </div>
-            <div xml:id="wef6td-d1e1390-Dd1e1325">
-               <head xml:id="wef6td-d1e1390-Hd1e1327">CAP. XIX. </head>
-               <p xml:id="wef6td-d1e1390-d1e1330"> Bona haereticorum ipso iure sunt confiscata, quod probatur triplici argu¬
-          <!--<lb ed="#Fb"/>-->mento legali. Sed apprehensio bonorum fieri non debet per dominum
-          <!--<lb ed="#Fb"/>-->saecularem, nisi prius pronunciatum fuerit super crimine per iudicem
-          <!--<lb ed="#Fb"/>-->ecclesiasticum, qui hoc possit. Ioann. Andr. </p>
-               <p xml:id="wef6td-d1e1390-d1e1339"> Idem. </p>
-               <p xml:id="wef6td-d1e1390-d1e1342"> Quum, secundum leges civiles, nefarias, naturae con¬
-          <!--<lb ed="#Fb"/>-->trarias, incestas  nuptias contrahentes eo ipso suarum
-          <!--<lb ed="#Fb"/>-->dominium rerum perdant *, et mulier, humanam legem
-          <!--<lb ed="#Fb"/>-->transgrediens, et, praesertim parentibus suis non con¬
-          <!--<lb ed="#Fb"/>-->sentientibus, raptoris nuptias eligens, bona omnia, quae
-          <!--<lb ed="#Fb"/>-->per legem sibi obvenerant a raptore ac aliis consortibus
-          <!--<lb ed="#Fb"/>-->raptus , ipso iure amittat, certoque casu deferantur in
-          <!--<lb ed="#Fb"/>-->fiscum, ac etiam illicitas species transvehens, aut rerum
-          <!--<lb ed="#Fb"/>-->vectarum professionem omittens earundem specierum et
-          <!--<lb ed="#Fb"/>-->rerum proprietate  hoc ipso privetur, et fisco rerum et
-          <!--<lb ed="#Fb"/>-->specierum dictarum proprietas acquiratur: bona haeretico¬
-          <!--<lb ed="#Fb"/>-->rum, qui gravius, horribilius ac detestabilius quam praedicti
-          <!--<lb ed="#Fb"/>-->delinquunt, ipso iure de fratrum nostrorum consilio de¬
-          <!--<lb ed="#Fb"/>-->cernimus  confiscata. Confiscationis tamen huiusmodi ex¬
-          <!--<lb ed="#Fb"/>-->secutio vel bonorum ipsorum occupatio fieri non debet per
-          <!--<lb ed="#Fb"/>-->principes aut alios dominos temporales iuxta Gregorii Papae
-          <!--<lb ed="#Fb"/>-->praedecessoris nostri declarationem, antequam per epi¬
-          <!--<lb ed="#Fb"/>-->scopum loci, vel aliam personam ecclesiasticam, quae super
-          <!--<lb ed="#Fb"/>-->hoc habeat potestatem, sententia super eodem crimine
-          <!--<lb ed="#Fb"/>-->fuerit promulgata. </p>
-        
-        
-            </div>
-            <div xml:id="wef6td-d1e1390-Dd1e1384">
-               <head xml:id="wef6td-d1e1390-Hd1e1386">CAP. XX. </head>
-               <p xml:id="wef6td-d1e1390-d1e1389"> In causa haeresis proceditur simpliciter et de plano, et dicta testium et
-          <!--<lb ed="#Fb"/>-->accusatorum non publicantur, si periculum timeatur. H.d. secundum Zenz. </p>
-               <p xml:id="wef6td-d1e1390-d1e1394"> Idem. </p>
-               <p xml:id="wef6td-d1e1390-d1e1397"> Statuta quaedam felicis recordationis Innocentii, Ale¬
-          <!--<lb ed="#Fb"/>-->xandri et  Clementis praedecessorum nostrorum, quibusdam
-          <!--<lb ed="#Fb"/>-->declaratis et additis, recensentes, concedimus, quod in 
-          <!--<lb ed="#Fb"/>--> inquisitionis haereticae pravitatis negotio procedi possit
-          <!--<lb ed="#Fb"/>-->simpliciter et de plano, et absque advocatorum ac iudiciorum
-          <!--<lb ed="#Fb"/>-->strepitu et figura. Iubemus tamen, quod, si accusatoribus
-          <!--<lb ed="#Fb"/>-->vel testibus in causa haeresis intervenientibus seu de¬
-          <!--<lb ed="#Fb"/>-->ponentibus propter potentiam personarum, contra quas in¬
-          <!--<lb ed="#Fb"/>-->quiritur, videant episcopus vel inquisitores grave periculum
-          <!--<lb ed="#Fb"/>-->imminere, si contingat fieri publicationem nominum eorun¬
-          <!--<lb ed="#Fb"/>-->dem, ipsorum nomina  non publice, sed secreto coram
-          <!--<lb ed="#Fb"/>-->dioecesano episcopo, vel, eo absente, ipsius vicario, quando
-          <!--<lb ed="#Fb"/>-->inquisitores procedunt, quando vero procedit episcopus,
-          <!--<lb ed="#Fb"/>-->coram inquisitoribus, si haberi commode possit  copia
-          <!--<lb ed="#Fb"/>-->eorundem, ac nihilominus, sive episcopus sive inquisitores
-          <!--<lb ed="#Fb"/>-->processerint, aliquibus aliis personis providis et honestis
-          <!--<lb ed="#Fb"/>-->iurisque peritis, quas ad hoc vocari, et eis per totum pro¬
-          <!--<lb ed="#Fb"/>-->cessum, super quo deliberandum est, seriose manifestari ac
-          <!--<lb ed="#Fb"/>-->integraliter explicari, et de ipsorum consilio ad sententiam
-          <!--<lb ed="#Fb"/>-->vel condemnationem procedi volumus, exprimantur, sicque,
-          <!--<lb ed="#Fb"/>-->(non obstante, quod illis, contra quos huiusmodi deposue¬
-          <!--<lb ed="#Fb"/>-->runt, nomina ipsorum  non fuerint publicata,) adhibeatur ad
-          <!--<lb ed="#Fb"/>-->cognitionem iudicis instruendam plena fides depositionibus
-          <!--<lb ed="#Fb"/>-->testium eorundem. Et ut eorundem  accusatorum et testium
-          <!--<lb ed="#Fb"/>-->periculis efficacius occurratur, et cautius in  inquisitionis
-          <!--<lb ed="#Fb"/>-->negotio procedatur: praesentis constitutionis auctoritate
-          <!--<lb ed="#Fb"/>-->permittimus , quod episcopus vel inquisitores secretum
-          <!--<lb ed="#Fb"/>-->possint indicere illis, quibus, (ut praemissum est), processum
-          <!--<lb ed="#Fb"/>-->huiusmodi explicabunt, et in eos, si arcana consilii seu pro¬
-          <!--<lb ed="#Fb"/>-->cessus, sibi sub secreto ab eisdem episcopo vel inquisi¬
-          <!--<lb ed="#Fb"/>-->toribus patefacta, praeter eorum licentiam aliis patefecerint,
-          <!--<lb ed="#Fb"/>-->excommunicationis sententiam, quam ex secreti violatione
-          <!--<lb ed="#Fb"/>-->ipso facto incurrant, (si eis expedire videbitur,) promulgare,
-          <!--<lb ed="#Fb"/>-->sic tamen, quod inquisitores episcopum, vel episcopus 
-          <!--<lb ed="#Fb"/>--> inquisitores non excommunicent hac de causa, sed ipsi ex
-          <!--<lb ed="#Fb"/>-->iniuneto ex nunc  a nobis sub virtute sanctae obedientiae
-          <!--<lb ed="#Fb"/>-->districto  praecepto ad secretum huiusmodi teneantur.
-          <!--<lb ed="#Fb"/>-->Cessante vero periculo supra dicto, accusatorum et testium
-          <!--<lb ed="#Fb"/>-->nomina, prout in aliis sit iudiciis, publicentur . Ceterum
-          <!--<lb ed="#Fb"/>-->in his omnibus praecipimus  tam episcopos quam inqui¬
-          <!--<lb ed="#Fb"/>-->sitores puram et providam intentionem habere, ne ad
-          <!--<lb ed="#Fb"/>-->accusatorum vel testium nomina supprimenda, ubi est
-          <!--<lb ed="#Fb"/>-->securitas, periculum esse dicant, nec in eorum  discrimen
-          <!--<lb ed="#Fb"/>-->securitatem asserant, ubi tale periculum immineret, super
-          <!--<lb ed="#Fb"/>-->hoc eorundem conscientias onerantes. Constitutiones vero,
-          <!--<lb ed="#Fb"/>-->ordinationes et mandata alia praedecessorum nostrorum,
-          <!--<lb ed="#Fb"/>-->in  negotio haereticae pravitatis facta, concessa seu etiam
-          <!--<lb ed="#Fb"/>-->ad consulta responsa, quae constitutionibus supra scriptis,
-          <!--<lb ed="#Fb"/>-->super eadem editis pravitate, non obvient, in suo volumus
-          <!--<lb ed="#Fb"/>-->robore permanere. </p>
-            </div>
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>TITULUS II. </title>
+        <author ref="#BonifaceVIII">Boniface VIII</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>TITULUS II. </title>
+          <date when="2021-01-29">January 29, 2021</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="Fb" n="Friedberg1879b">Friedberg 1879, Volume 2</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2021-01-29" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="wef6td-d1e1390"><!-- wef6td-l5t2 -->
+        <head xml:id="wef6td-d1e1390-Hd1e103">TITULUS II. </head>
+        <p xml:id="wef6td-d1e1390-d1e106"> DE HAERETICIS. </p>
+        <div xml:id="wef6td-d1e1390-Dd1e109">
+          <head xml:id="wef6td-d1e1390-Hd1e111">CAP. I. </head>
+          <p xml:id="wef6td-d1e1390-d1e114"> Propter crimen haeresis clericum, in quibuscunque sacris ordinibus con¬
+            <!--<lb ed="#Fb"/>-->stitutum, solus eius episcopus degradare poterit. H. d. Domin. </p>
+          <p xml:id="wef6td-d1e1390-d1e124"> 
+            <ref xml:id="wef6td-d1e1390-Rd1e114">Gregorius IX. Remensi Archiepiscopo et suis *
+            <!--<lb ed="#Fb"/>-->Suffraganeis*.</ref> 
+            Quoniam episcoporum numerus, ad degradationem
+            <!--<lb ed="#Fb"/>-->clericorum a canonibus constitutus, non potest de facili con¬
+            <!--<lb ed="#Fb"/>-->venire: concedimus, ut sacerdotem vel alium clericum in
+            <!--<lb ed="#Fb"/>-->sacris ordinibus constitutum, quum pro haeresi fuerit curiae
+            <!--<lb ed="#Fb"/>-->saeculari relinquendus, aut perpetuo immurandus , convo¬
+            <!--<lb ed="#Fb"/>-->catis abbatibus, aliisque praelatis et religiosis personis ac
+            <!--<lb ed="#Fb"/>-->literatis suae dioecesis, de quibus expedire videbitur, suus
+            <!--<lb ed="#Fb"/>-->solus possit episcopus degradare. </p>
+          
+        </div>
+        <div xml:id="wef6td-d1e1390-Dd1e142">
+          <head xml:id="wef6td-d1e1390-Hd1e144">CAP. II. </head>
+          <p xml:id="wef6td-d1e1390-d1e147"> Excommunicationem incurrit sepeliens scienter haereticos, vel eorum
+            <!--<lb ed="#Fb"/>-->receptatores, defensores vel fautores; nec absolvitur, nisi exhumet eorum
+            <!--<lb ed="#Fb"/>-->corpora; locus vero privatur sepultura. H. d. usque ad §. Inhibemus.
+            <!--<lb ed="#Fb"/>-->Domin. — §. 1. Excommunicari debent laici, publice vel occulte dispu¬
+            <!--<lb ed="#Fb"/>-->tantes de fide. H. d. Domin. — §. 2. Non valet promotio haereticorum, eis
+            <!--<lb ed="#Fb"/>-->credentium, fautorum, receptatorum, et defensorum eorum, nec filiorum
+            <!--<lb ed="#Fb"/>-->suorum usque ad secundam generationem ad beneficia ecclesiastica vel
+            <!--<lb ed="#Fb"/>-->officia publica. H. d. Dominic. — §. 3. Privati sunt habentes beneficia
+            <!--<lb ed="#Fb"/>-->ecclesiastica ad preces haereticorum, et inhabiles efficiuntur ad alia
+            <!--<lb ed="#Fb"/>-->obtinenda, si scienter talia receperunt, H. d. Domin. — §. 4. Nulla est
+            <!--<lb ed="#Fb"/>-->emancipatio filiorum vel subditorum per haereticos facta, etiamsi postea
+            <!--<lb ed="#Fb"/>-->vitium detegatur. H. d. Dominicus. </p>
+          
+          <p xml:id="wef6td-d1e1390-d1e175"><ref xml:id="wef6td-d1e1390-Rd1e166">Alexander IV.</ref> Quicunque haereticos, credentes, receptatores, defen¬
+            <!--<lb ed="#Fb"/>-->sores vel fautores eorum scienter praesumpserint ecclesia¬
+            <!--<lb ed="#Fb"/>-->sticae tradere sepulturae, usque ad satisfactionem idoneam
+            <!--<lb ed="#Fb"/>-->excommunicationis sententiae se noverint subiacere, nec ab¬
+            <!--<lb ed="#Fb"/>-->solutionis beneficium mereantur, nisi propriis manibus
+            <!--<lb ed="#Fb"/>-->publice extumulent, et proiiciant huiusmodi corpora damna¬
+            <!--<lb ed="#Fb"/>-->torum, et locus ille perpetua careat sepultura.
+          </p>
+          <p xml:id="wef6td-d1e1390-d1e181">
+            §. 1. Inhibe¬
+            <!--<lb ed="#Fb"/>-->mus quoque, ne cuiquam laicae personae liceat publice vel
+            <!--<lb ed="#Fb"/>-->privatim de fide catholica disputare. Qui vero contra fecerit,
+            <!--<lb ed="#Fb"/>-->excommunicationis laqueo innodetur.
+          </p>
+          <p xml:id="wef6td-d1e1390-d1e190">
+            §. 2. Haeretici autem,
+            <!--<lb ed="#Fb"/>-->credentes, receptatores, defensores et fautores eorum, ipso¬
+            <!--<lb ed="#Fb"/>-->rumque filii usque ad secundam generationem, ad nullum
+            <!--<lb ed="#Fb"/>-->ecclesiasticum beneficium seu officium publicum admittan¬
+            <!--<lb ed="#Fb"/>-->tur. Quod si secus actum fuerit, decernimus irritum et inane.
+          </p>
+          <p xml:id="wef6td-d1e1390-d1e202">
+            <!--<lb ed="#Fb"/>-->§. 3. Ad haec quoscunque viros ecclesiasticos, qui ad preces
+            <!--<lb ed="#Fb"/>-->huiusmodi pestilentium personarum dignitates, personatus
+            <!--<lb ed="#Fb"/>-->et quaecunque alia ecclesiastica beneficia sunt adepti, ex
+            <!--<lb ed="#Fb"/>-->nunc privamus taliter acquisitis, volentes, quod tales et
+            <!--<lb ed="#Fb"/>-->habitis careant perpetuo, et, si receperunt illa scienter, ad
+            <!--<lb ed="#Fb"/>-->alia vel similia nequaquam in posterum admittantur.
+          </p>
+          <p xml:id="wef6td-d1e1390-d1e217">
+            §. 4.
+            <!--<lb ed="#Fb"/>-->Illorum autem filiorum emancipationem, quorum parentes
+            <!--<lb ed="#Fb"/>-->post emancipationem etiam huiusmodi apparuerit  ante
+            <!--<lb ed="#Fb"/>-->ipsam a via veritatis ad haereticae superstitionis invium de¬
+            <!--<lb ed="#Fb"/>-->clinasse, nullius volumus esse momenti, velut factam de
+            <!--<lb ed="#Fb"/>-->hominibus sui iuris, quum dignum sit, ut propter tanti atro¬
+            <!--<lb ed="#Fb"/>-->citatem delicti filii esse in parentum haereticorum desierint
+            <!--<lb ed="#Fb"/>-->potestate. 
+          </p>
+        </div>
+        <div xml:id="wef6td-d1e1390-Dd1e231">
+          <head xml:id="wef6td-d1e1390-Hd1e233">CAP. III</head>
+          <p xml:id="wef6td-d1e1390-d1e236"> Filii et heredes petentium in infirmitate sua haereticorum consolationem,
+            <!--<lb ed="#Fb"/>-->non admittuntur ad probandum, quod non sana mente vel perdita loquela
+            <!--<lb ed="#Fb"/>-->susceperint, si constat, quod erant sanae mentis, vel prius suspecti vel
+            <!--<lb ed="#Fb"/>-->diffamati erant de haeresi; alias admittuntur, scilicet per testes fide dignos,
+            <!--<lb ed="#Fb"/>-->non suspectos. Hoc dicit Dominicus. </p>
+          <p xml:id="wef6td-d1e1390-d1e250"> 
+            <ref xml:id="wef6td-d1e1390-Rd1e253">Idem Inquisitoribus haereticae pravitatis.</ref> 
+            Filii vel heredes illorum, qui, dum in aegritudinis lecto
+            <!--<lb ed="#Fb"/>-->decumberent, petierunt haereticos consolaturos , ut ab eis
+            <!--<lb ed="#Fb"/>-->per manus impositionem consolationem reciperent secun¬
+            <!--<lb ed="#Fb"/>-->dum pessimam consuetudinem eorundem, sicque viam fue¬
+            <!--<lb ed="#Fb"/>-->rint universae carnis ingressi, ad probandum, quod ipsi de¬
+            <!--<lb ed="#Fb"/>-->functi consolationem illam, immo verius desolationem, non
+            <!--<lb ed="#Fb"/>-->sanae mentis effecti susceperint, vel post perditam iam
+            <!--<lb ed="#Fb"/>-->loquelam, (quum tamen moris sit, ut dicitur, apud eos, quod
+            <!--<lb ed="#Fb"/>-->nullum taliter consolentur, qui non sit sanae mentis, et me¬
+            <!--<lb ed="#Fb"/>-->moriam habeat ordinatam,) admitti non debent , si, dum
+            <!--<lb ed="#Fb"/>-->vivebant, diffamati erant de haeresi vel  suspecti, aut legi¬
+            <!--<lb ed="#Fb"/>-->time constiterit, quod sanae mentis exsistentes huiusmodi
+            <!--<lb ed="#Fb"/>--> haereticos petierunt. Alioquin admitti poterunt praedicti
+            <!--<lb ed="#Fb"/>-->filii vel heredes ad probandum praemissa, non tamen per
+            <!--<lb ed="#Fb"/>-->uxores, filios, familiares, vel de suis aliquos, sed per testes
+            <!--<lb ed="#Fb"/>-->alios fide dignos, et specialiter fidei zelatores. </p>
+          
+        </div>
+        <div xml:id="wef6td-d1e1390-Dd1e285">
+          <head xml:id="wef6td-d1e1390-Hd1e287">CAP. IV. </head>
+          <p xml:id="wef6td-d1e1390-d1e290"> Relapsi in haeresim sunt tradendi curiae saeculari, licet poeniteat eos, et
+            <!--<lb ed="#Fb"/>-->ad fidem redeant; non tamen denegantur eis sacramenta poenitentiae et'
+            <!--<lb ed="#Fb"/>-->eucharistiae. H. d. Domin. </p>
+          <p xml:id="wef6td-d1e1390-d1e300"> 
+            <ref xml:id="wef6td-d1e1390-Rd1e302">Idem eisdem.</ref>
+            Super eo, quod scriptum legitur: „Ecclesia nulli claudit
+            <!--<lb ed="#Fb"/>-->gremium redeunti, “ quodque hi, qui post abiurationem
+            <!--<lb ed="#Fb"/>-->erroris, vel postquam se proprii antistitis examinatione pur¬
+            <!--<lb ed="#Fb"/>-->gaverint, si deprehensi fuerint in abiuratam haeresim reci¬
+            <!--<lb ed="#Fb"/>-->disse, saeculari decernuntur iudicio sine ulla penitus audi¬
+            <!--<lb ed="#Fb"/>-->entia relinquendi, quum scripturae huiusmodi videantur sibi
+            <!--<lb ed="#Fb"/>-->invicem adversari, quid tenendum sit per sedem edoceri
+            <!--<lb ed="#Fb"/>-->apostolicam postulastis. Nos itaque inquisitioni vestrae de
+            <!--<lb ed="#Fb"/>-->fratrum nostrorum consilio respondemus, quod taliter de¬
+            <!--<lb ed="#Fb"/>-->prehensis, etiamsi , (ut dictum est,) sine ulla penitus
+            <!--<lb ed="#Fb"/>-->audientia relinquendi sint  iudicio saeculari, si tamen post¬
+            <!--<lb ed="#Fb"/>-->modum poeniteant, et poenitentiae signa in eis apparuerint
+            <!--<lb ed="#Fb"/>-->manifesta, nequaquam sunt humiliter petita sacramenta
+            <!--<lb ed="#Fb"/>-->poenitentiae ac  eucharistiae deneganda. 
+          </p>
+        </div>
+        <div xml:id="wef6td-d1e1390-Dd1e332">
+          <head xml:id="wef6td-d1e1390-Hd1e334">CAP. V</head>
+          <p xml:id="wef6td-d1e1390-d1e334"> Excommunicati participes et socii criminis admittuntur in testes contra
+            <!--<lb ed="#Fb"/>-->haereticos, si sciunt verisimiliter veritatem deponere. H. d. Dom. </p>
+          <p xml:id="wef6td-d1e1390-d1e342"> 
+            <ref xml:id="wef6td-d1e1390-Rd1e343">Idem eisdem .</ref>
+            In fidei favorem concedimus, ut in negotio inquisitionis
+            <!--<lb ed="#Fb"/>-->haereticae pravitatis excommunicati et participes vel socii
+            <!--<lb ed="#Fb"/>-->criminis ad testimonium admittantur, praesertim in proba¬
+            <!--<lb ed="#Fb"/>-->tionum aliarum defectum, contra haereticos, credentes, fau¬
+            <!--<lb ed="#Fb"/>-->tores, receptatores et defensores eorum, si ex verisimilibus
+            <!--<lb ed="#Fb"/>-->coniecturis, et  ex numero testium aut personarum tam de¬
+            <!--<lb ed="#Fb"/>-->ponentium, quam eorum, contra quos deponitur, qualitate,
+            <!--<lb ed="#Fb"/>-->ac aliis circumstantiis sic testificantes falsa non dicere prae¬
+            <!--<lb ed="#Fb"/>-->sumantur. </p>
+          
+        </div>
+        <div xml:id="wef6td-d1e1390-Dd1e362">
+          <head xml:id="wef6td-d1e1390-Hd1e364">CAP. vi. </head>
+          <p xml:id="wef6td-d1e1390-d1e367"> Ordinarii vel eorum delegati, et inquisitores sine poena excommunicationis
+            <!--<lb ed="#Fb"/>-->facere habent exsecutionem iustitiae contra haereticos per habentes iuris¬
+            <!--<lb ed="#Fb"/>-->dictionem saecularem in loco, licet excommunicati sint, vel de facto tantum
+            <!--<lb ed="#Fb"/>-->illam iurisdictionem possideant. H. d. Dominic. </p>
+          <p xml:id="wef6td-d1e1390-d1e379">
+            <ref xml:id="wef6td-d1e1390-Rd1e379">Idem eisdem .</ref>
+            Praesidentes regimini alicuius regni, provinciae sive
+            <!--<lb ed="#Fb"/>-->loci, licet excommunicati, vel de facto tantum, et non de iure
+            <!--<lb ed="#Fb"/>-->iurisdictionem habentes, ac eorum officiales ad requisitio¬
+            <!--<lb ed="#Fb"/>-->nem ordinariorum vel delegatorum ipsorum, aut inquisito¬
+            <!--<lb ed="#Fb"/>-->rum haereticae pravitatis, non valentium sine morae dispen¬
+            <!--<lb ed="#Fb"/>-->dio vel negotii periculo recursum habere ad superiores, qui
+            <!--<lb ed="#Fb"/>-->legitime in locis ipsis possint iustitiam exsequi, possunt et
+            <!--<lb ed="#Fb"/>-->debent contra haereticos, credentes, fautores, receptatores
+            <!--<lb ed="#Fb"/>-->et defensores eorum iustitiam et suum officium exercere.
+            <!--<lb ed="#Fb"/>-->Nec requirentes huiusmodi excommunicatos propter hoc
+            <!--<lb ed="#Fb"/>-->sententiam excommunicationis incurrunt. Non tamen prae¬
+            <!--<lb ed="#Fb"/>-->sidentibus praelibatis vel officialibus eorundem propterea  in
+            <!--<lb ed="#Fb"/>-->aliis casibus intelligatur concessum aliquid vel permissum. </p>
+          
+        </div>
+        <div xml:id="wef6td-d1e1390-Dd1e407">
+          <head xml:id="wef6td-d1e1390-Hd1e409">CAP. vn. </head>
+          <p xml:id="wef6td-d1e1390-d1e412"> Excommunicatus propter contumaciam non respondendi super haeresi, de
+            <!--<lb ed="#Fb"/>-->qua erat suspectus, post annum damnatur ut haereticus. H. d. Dom. </p>
+          <p xml:id="wef6td-d1e1390-d1e420"> 
+            <ref xml:id="wef6td-d1e1390-Rd1e419">Idem eisdem.</ref>
+            Quum contumacia, in causa praesertim fidei, suspicioni
+            <!--<lb ed="#Fb"/>-->praesumptionem adiiciat, vehementem; si suspectus de
+            <!--<lb ed="#Fb"/>-->haeresi, vocatus a vobis, ut de fide respondeat, excommuni¬
+            <!--<lb ed="#Fb"/>-->cationis vinculo pro eo, quod parere subterfugit, aut con¬
+            <!--<lb ed="#Fb"/>-->tumaciter se absentat, per vos fuerit innodatus, quam si 
+            <!--<lb ed="#Fb"/>--> per annum animo sustineat  pertinaci, extunc velut haere¬
+            <!--<lb ed="#Fb"/>-->ticus condemnetur. </p>
+          
+        </div>
+        <div xml:id="wef6td-d1e1390-Dd1e436">
+          <head xml:id="wef6td-d1e1390-Hd1e438">CAP. VIII. </head>
+          <p xml:id="wef6td-d1e1390-d1e441"> 
+            Abiurans in iudicio haeresim propter vehementem praesumptionem, si
+            <!--<lb ed="#Fb"/>-->iterato labitur, licet non fuisset probatum plene, relapsus dicitur; secus, si
+            <!--<lb ed="#Fb"/>-->levis erat praesumptio. H. d. usque ad §. Eum vero. Dominicus. — §. 1.
+            <!--<lb ed="#Fb"/>-->Culpabilis in uno articulo haeresis, generaliter postea abiurando relapsus
+            <!--<lb ed="#Fb"/>-->dicitur, si committit etiam in alium articulum separatum. H. d. Domin. —
+            <!--<lb ed="#Fb"/>-->§. 2. Qui post abiurationem haeresis, de qua convictus fuerat, vel postea
+            <!--<lb ed="#Fb"/>-->convincitur, facto vel verbo haereticis communicat in rebus hic prohibitis,
+            <!--<lb ed="#Fb"/>-->relapsus dicitur. H. d. Domin. — §. 3. Testis, in causa haeresis falsum
+            <!--<lb ed="#Fb"/>-->deponens, licet periurus sit, probat dicendo contrarium; dum tamen ex
+            <!--<lb ed="#Fb"/>-->iudiciis constet, dictum non corruptionem, sed veritatem continere. H. d.—
+            <!--<lb ed="#Fb"/>-->§. 4. Inquisitores, super haeresi deputati, non se intromittant de divinatio¬
+            <!--<lb ed="#Fb"/>-->nibus vel sortilegiis, non sapientibus haeresim manifestam. H. d. Dominic.
+            <!--<lb ed="#Fb"/>-->— §. 5. Inquisitores haeresis de quaestionibus usurarum se intromittere
+            <!--<lb ed="#Fb"/>-->non possunt. H. d. — §. 6. Inquisitores possunt compellere heredes fauto¬
+            <!--<lb ed="#Fb"/>-->rum haereticorum, qui tamen haeretici non erant, ad implendum poeniten¬
+            <!--<lb ed="#Fb"/>-->tiam iniunctam in bonis temporalibus; secus, si mortui sint, antequam
+            <!--<lb ed="#Fb"/>-->fuerit poenitentia iniuncta. H. d. Dom. — §. 7. Post mortem haeretici
+            <!--<lb ed="#Fb"/>-->declarari potest, eum haereticum fuisse, ad finem confiscandi. Dom. — §. 8.
+            <!--<lb ed="#Fb"/>-->Clerici, instruentes testes, ne inquisitores veritatem investigent, puniri
+            <!--<lb ed="#Fb"/>-->possunt per eos; et religiosi gravius puniuntur. Hoc dicit Dominicus. </p>
+          <p xml:id="wef6td-d1e1390-d1e485"> 
+            <ref xml:id="wef6td-d1e1390-Rd1e483">Idem eisdem.</ref>
+            Accusatus de haeresi vel suspectus, contra quem de hoc
+            <!--<lb ed="#Fb"/>-->crimine magna et vehemens suspicio orta erat, si haeresim
+            <!--<lb ed="#Fb"/>-->in iudicio abiuravit, et postea committit in ipsa, censeri
+            <!--<lb ed="#Fb"/>-->debet quadam iuris fictione relapsus, licet ante abiurationem
+            <!--<lb ed="#Fb"/>-->suam haeresis crimen plene probatum non fuerit contra
+            <!--<lb ed="#Fb"/>-->ipsum. Si autem levis et modica suspicio  illa fuerit , quan-
+            <!--<lb ed="#Fb"/>-->quam ex hoc sit gravius puniendus: non tamen debet in
+            <!--<lb ed="#Fb"/>-->haeresim relapsorum poena puniri.
+          </p>
+          <p xml:id="wef6td-d1e1390-d1e500">
+            §. i. Eum vero, qui in
+            <!--<lb ed="#Fb"/>-->una haeresis specie vel secta commisit, aut in uno fidei arti¬
+            <!--<lb ed="#Fb"/>-->culo seu ecclesiae sacramento erravit, et postmodum haere¬
+            <!--<lb ed="#Fb"/>-->sim simpliciter vel generaliter abiuravit, si extunc in aliam 
+            <!--<lb ed="#Fb"/>--> etiam haeresis speciem sive sectam, aut alio articulo seu
+            <!--<lb ed="#Fb"/>-->sacramento committat, volumus ut relapsum in haeresim
+            <!--<lb ed="#Fb"/>-->iudicari.
+          </p>
+          <p xml:id="wef6td-d1e1390-d1e515">
+            §. 2. Ille quoque, de cuius lapsu in haeresim ante
+            <!--<lb ed="#Fb"/>-->abiurationem constiterat , vel nunc constat, si post illam
+            <!--<lb ed="#Fb"/>-->haereticos receptet, deducat, visitet sive associet, aut dona
+            <!--<lb ed="#Fb"/>-->vel munera eis donet vel mittat, seu favorem eis impendat,
+            <!--<lb ed="#Fb"/>-->qui excusari non possit etiam sine adoratione, (ut verbis
+            <!--<lb ed="#Fb"/>-->vestris utamur,) merito debet iudicari relapsus, quum illum
+            <!--<lb ed="#Fb"/>-->ex approbati a se prius erroris consequentia non sit dubium
+            <!--<lb ed="#Fb"/>-->id fecisse.
+          </p>
+          <p xml:id="wef6td-d1e1390-d1e533">
+            §. 3. Licet vero periuri a testimonio etiam post
+            <!--<lb ed="#Fb"/>-->poenitentiam repellantur, si tamen ii, qui, coram inquisitori¬
+            <!--<lb ed="#Fb"/>-->bus iurantes tam de se quam de aliis super facto haeresis
+            <!--<lb ed="#Fb"/>-->dicere veritatem, eam celando deierent , et postmodum
+            <!--<lb ed="#Fb"/>-->velint corrigere dictum suum, contra se ac alios suos com¬
+            <!--<lb ed="#Fb"/>-->plices deponendo: quum crimen huiusmodi sit exceptum, si
+            <!--<lb ed="#Fb"/>-->ex manifestis indiciis apparuerit, tales non animi levitate,
+            <!--<lb ed="#Fb"/>-->aut odii fomite, seu corruptione pecuniae, sed zelo fidei
+            <!--<lb ed="#Fb"/>-->orthodoxae dictum suum velle corrigere, ac modo quae 
+            <!--<lb ed="#Fb"/>--> prius tacuerant revelare: in favorem fidei,nisi aliud obsistat ,
+            <!--<lb ed="#Fb"/>-->stari debet tam contra se quam contra reliquos attestatio¬
+            <!--<lb ed="#Fb"/>-->nibus eorundem.
+          </p>
+          <p xml:id="wef6td-d1e1390-d1e558">
+            §. 4. Sane, quum negotium fidei, (quod
+            <!--<lb ed="#Fb"/>-->summe privilegiatum exsistit), per occupationes alias non
+            <!--<lb ed="#Fb"/>-->debeat impediri: pestis inquisitores haereticae, a sede apo¬
+            <!--<lb ed="#Fb"/>-->stolica deputati, de divinationibus aut sortilegiis, nisi haere¬
+            <!--<lb ed="#Fb"/>-->sim saperent manifeste, intromittere se non debent, nec
+            <!--<lb ed="#Fb"/>-->punire talia exercentes, sed eos relinquere suis iudicibus
+            <!--<lb ed="#Fb"/>-->puniendos.
+          </p>
+          <p xml:id="wef6td-d1e1390-d1e573">
+            §. 5. De quaestionibus praeterea usurarum,
+            <!--<lb ed="#Fb"/>-->motis etiam contra illos, quibus restitutionem usurarum in
+            <!--<lb ed="#Fb"/>-->poenitentia pro haeresis crimine iniunxerunt, ac  illi se et
+            <!--<lb ed="#Fb"/>-->sua ad hoc faciendum in iudicio ecclesiae obligarunt, intro¬
+            <!--<lb ed="#Fb"/>-->mittere se non possunt, ne per causas huiusmodi offendi¬
+            <!--<lb ed="#Fb"/>-->culum negotio fidei praeparetur.
+          </p>
+          <p xml:id="wef6td-d1e1390-d1e586">
+            §. 6. Si vero pro his, quae
+            <!--<lb ed="#Fb"/>-->in haeresi, receptando vel defendendo haereticos, seu eis
+            <!--<lb ed="#Fb"/>-->favendo, non tamen exsistens haereticus, quis commiserit *,
+            <!--<lb ed="#Fb"/>-->sub obligatione bonorum suorum inquisitoribus se adstrinxit
+            <!--<lb ed="#Fb"/>-->ad recipiendam ab eis poenitentiam et complendam, et, ea
+            <!--<lb ed="#Fb"/>-->licet iniuncta, non tamen peracta, decessit; si per huiusmodi
+            <!--<lb ed="#Fb"/>-->poenitentiam onus impositum fuerit proficiens ad salutem,
+            <!--<lb ed="#Fb"/>-->in bonis eius temporalibus exsequendum, ad complementum
+            <!--<lb ed="#Fb"/>-->ipsius per inquisitores cogi debent heredes vel alii, ad quos
+            <!--<lb ed="#Fb"/>-->cum suo onere bona huiusmodi devenerunt. Porro, si propter
+            <!--<lb ed="#Fb"/>-->huiusmodi haereticorum receptationem, defensionem seu
+            <!--<lb ed="#Fb"/>-->favorem quis ad faciendam poenitentiam, quam inquisitores
+            <!--<lb ed="#Fb"/>-->ipsi iniungere vellent, bona sua obligaverit  eisdem, et, ante¬
+            <!--<lb ed="#Fb"/>-->quam ei poenitentia iniungeretur, decesserit: eius heredibus
+            <!--<lb ed="#Fb"/>-->non est satisfactio pro exstincto iam crimine iniungenda.
+          </p>
+          <p xml:id="wef6td-d1e1390-d1e617">
+            <!--<lb ed="#Fb"/>-->§. 7. In eo vero casu, quo heredes ad successionem non
+            <!--<lb ed="#Fb"/>-->debent ob haeresim sui auctoris  admitti, non obstante,
+            <!--<lb ed="#Fb"/>-->quod auctore  ipso vivente hoc non fuerit, interveniente
+            <!--<lb ed="#Fb"/>-->ipsius morte, per sententiam declaratum, ad confiscationem 
+            <!--<lb ed="#Fb"/>--> bonorum post mortem eiusdem nihilominus procedatur.
+          </p>
+          <p xml:id="wef6td-d1e1390-d1e630">
+            <!--<lb ed="#Fb"/>-->§. 8. Sacerdotes insuper et alii clerici, qui negotium inquisi¬
+            <!--<lb ed="#Fb"/>-->tionis instruendo citatos haereticos vel eorum credentes de
+            <!--<lb ed="#Fb"/>-->celanda veritate vel dicenda falsitate, seu eos indebite
+            <!--<lb ed="#Fb"/>-->liberando inventi fuerint impedire, quum non sit dubium,
+            <!--<lb ed="#Fb"/>-->eos ipsa * facere in favorem haereticae pravitatis, per in¬
+            <!--<lb ed="#Fb"/>-->quisitores a talibus compesci possunt, et poena debita casti¬
+            <!--<lb ed="#Fb"/>-->gari tam per captionem personarum quam alias, prout culpa
+            <!--<lb ed="#Fb"/>-->exegerit delinquentis. Religiosi etiam sunt immurationis
+            <!--<lb ed="#Fb"/>-->poena vel alia gravius puniendi quam saeculares, si inventi
+            <!--<lb ed="#Fb"/>-->fuerint in haeresi, vel consimilibus deliquisse. </p>
+          
+          
+          
+          
+        </div>
+        <div xml:id="wef6td-d1e1390-Dd1e631">
+          <head xml:id="wef6td-d1e1390-Hd1e633">CAP. IX. </head>
+          <p xml:id="wef6td-d1e1390-d1e636"> Non valent statuta, per quae inquisitoris haeresis officium impeditur, vel
+            <!--<lb ed="#Fb"/>-->retardatur. </p>
+          <p xml:id="wef6td-d1e1390-d1e641"> Urbanus IV. </p>
+          <p xml:id="wef6td-d1e1390-d1e644"> Statutum civitatis, castri, villae vel alterius loci, per
+            <!--<lb ed="#Fb"/>-->quod negotium inquisitionis haereticae pravitatis directe vel
+            <!--<lb ed="#Fb"/>-->indirecte, ne in eo libere procedi valeat, contigerit impediri
+            <!--<lb ed="#Fb"/>-->vel quomodolibet retardari, nullius exsistere firmitatis,
+            <!--<lb ed="#Fb"/>-->ipsiusque civitatis vel loci dominum, potestatem, capita-
+            <!--<lb ed="#Fb"/>-->neum, consules vel rectores, per quem vel quos  eadem
+            <!--<lb ed="#Fb"/>-->civitas seu  locus regitur, quocunque nomine censeantur, ad
+            <!--<lb ed="#Fb"/>-->statutum huiusmodi loci dioecesano vel eius vicario, aut in¬
+            <!--<lb ed="#Fb"/>-->quisitori seu inquisitoribus labis praefatae sine morae dis¬
+            <!--<lb ed="#Fb"/>-->pendio exhibendum, et, si tale inventum fuerit, revocandum
+            <!--<lb ed="#Fb"/>-->omnino, vel saltem eatenus moderandum, quod per illud
+            <!--<lb ed="#Fb"/>-->inquisitionis processus non impediantur  vel aliquatenus
+            <!--<lb ed="#Fb"/>-->retardentur, per censuram ecclesiasticam decernimus com¬
+            <!--<lb ed="#Fb"/>-->pellendos. </p>
+          
+        </div>
+        <div xml:id="wef6td-d1e1390-Dd1e674">
+          <head xml:id="wef6td-d1e1390-Hd1e676">CAP. x. </head>
+          <p xml:id="wef6td-d1e1390-d1e679"> Officium inquisitoris haeresis morte concedentis non exspirat, etiam quoad
+            <!--<lb ed="#Fb"/>-->negotia prius non coepta vel exorta. H. d. </p>
+          <p xml:id="wef6td-d1e1390-d1e684"> Clemens IV. Inquisitoribus haereticae
+            <!--<lb ed="#Fb"/>-->pravitatis . </p>
+          <p xml:id="wef6td-d1e1390-d1e689"> Ne aliqui, dubitationem  sollicitam excitantes, in dubium
+            <!--<lb ed="#Fb"/>-->revocent, an  officium inquisitionis haereticae pravitatis,
+            <!--<lb ed="#Fb"/>-->sollicitudini vestrae intra  certos limites ab apostolica sede
+            <!--<lb ed="#Fb"/>-->commissum, exspiret per mortem Romani Pontificis, qui com¬
+            <!--<lb ed="#Fb"/>-->misit: praesenti declaramus edicto, ipsum officium non
+            <!--<lb ed="#Fb"/>-->solum quoad negotia vivente mandatore incepta, immo etiam
+            <!--<lb ed="#Fb"/>-->quoad integra et non coepta, et quod plus est, quantum ad
+            <!--<lb ed="#Fb"/>-->ea, quae tunc nequaquam emerserant, in favorem fidei post
+            <!--<lb ed="#Fb"/>-->comittentis obitum perdurare. </p>
+          
+        </div>
+        <div xml:id="wef6td-d1e1390-Dd1e710">
+          <head xml:id="wef6td-d1e1390-Hd1e712">CAP. XI. </head>
+          <p xml:id="wef6td-d1e1390-d1e715"> Informat inquisitores ad Deum, ut eius timorem hominum metui ante¬
+            <!--<lb ed="#Fb"/>-->ponant, in procedendo simul vel separatim contra haereticos et suos
+            <!--<lb ed="#Fb"/>-->fautores, et etiam in eos absolvendo, quum vere redierint. — §. 1. Instruit
+            <!--<lb ed="#Fb"/>-->inquisitores in modo examinationis testium, et in personis, quae testificata
+            <!--<lb ed="#Fb"/>-->scribere debeant. H. d. — §. 2. Instruit inquisitores circa personas per quas
+            <!--<lb ed="#Fb"/>-->impediri posset vel differri inquisitionis negotium. H. d. </p>
+          <p xml:id="wef6td-d1e1390-d1e728"> Idem eisdem. </p>
+          
+          <p xml:id="wef6td-d1e1390-d1e731"> Ut officium inquisitionis contra haereticos in provincia,
+            <!--<lb ed="#Fb"/>-->in qua vobis idem officium est commissum, auctoritate apo¬
+            <!--<lb ed="#Fb"/>-->stolica possitis efficacius adimplere: discretioni vestrae per
+            <!--<lb ed="#Fb"/>-->apostolica scripta mandamus, quatenus ubique in praefata
+            <!--<lb ed="#Fb"/>-->provincia simul vel separatim aut singulariter, prout negotii
+            <!--<lb ed="#Fb"/>-->utilitas suadebit, contra haereticos, credentes, receptatores,
+            <!--<lb ed="#Fb"/>-->fautores et defensores eorum, nec non contra infamatos de
+            <!--<lb ed="#Fb"/>-->haeresi vel suspectos, iuxta sanctiones canonicas, hominum
+            <!--<lb ed="#Fb"/>-->metu divino timori postposito, procedatis. Si vero aliquis
+            <!--<lb ed="#Fb"/>-->ex praedictis, haeretica labe primitus abiurata, redire voluerit
+            <!--<lb ed="#Fb"/>-->ad ecclesiae unitatem: ei iuxta formam ecclesiae absolutionis
+            <!--<lb ed="#Fb"/>-->beneficium impendatis, et iniungatis eidem quod iniungi
+            <!--<lb ed="#Fb"/>-->talibus consuevit, proviso sollerter, ne simulata conversione
+            <!--<lb ed="#Fb"/>-->redeant fraudulenter, et vos , immo se ipsos, fallentes sub
+            <!--<lb ed="#Fb"/>-->agni specie lupum gerant. §. i. Verum, quia in tam gravi
+            <!--<lb ed="#Fb"/>-->crimine cum multa oportet cautela procedi, ut in reos sine
+            <!--<lb ed="#Fb"/>-->ullo proferatur errore durae ac dignae severitas ultionis:
+            <!--<lb ed="#Fb"/>-->volumus et mandamus, ut in examinatione testium, quas re¬
+            <!--<lb ed="#Fb"/>-->cipi super crimine praedicto ipsumque contingentibus opor¬
+            <!--<lb ed="#Fb"/>-->tuerit, adhibeatis duas religiosas et  discretas personas, in
+            <!--<lb ed="#Fb"/>-->quarum praesentia per publicam, si commode potestis
+            <!--<lb ed="#Fb"/>-->habere, personam, aut per duos viros idoneos, fideliter eo¬
+            <!--<lb ed="#Fb"/>-->rundem depositiones testium conscribantur . Ad conscri¬
+            <!--<lb ed="#Fb"/>-->bendas quoque huiusmodi depositiones testium, et ad facien¬
+            <!--<lb ed="#Fb"/>-->dum omnia, quae in commisso vobis officio ad scriniarii seu
+            <!--<lb ed="#Fb"/>-->tabellionis officium pertinent, teneri districte praecipimus,
+            <!--<lb ed="#Fb"/>-->quum per vos  fuerint requisiti, omnes et singulos vestri
+            <!--<lb ed="#Fb"/>-->ordinis fratres, qui, dum essent in saeculo, tabellionatus 
+            <!--<lb ed="#Fb"/>--> officium habuisse aut  exercuisse noscuntur, et illos etiam,
+            <!--<lb ed="#Fb"/>-->quibus idem tabellionatus officium ratione praefati negotii
+            <!--<lb ed="#Fb"/>-->fidei fuit ab apostolica sede commissum et in posterum com¬
+            <!--<lb ed="#Fb"/>-->mittetur, concedentes huiusmodi fratribus, nec non et aliis
+            <!--<lb ed="#Fb"/>-->religiosis quibuslibet, qui similiter, dum essent in saeculo,
+            <!--<lb ed="#Fb"/>-->tabellionatus  officium habuerunt  et exercuerunt, quibusvis
+            <!--<lb ed="#Fb"/>-->etiam clericis saecularibus officium ipsum habentibus, etiam¬
+            <!--<lb ed="#Fb"/>-->si iidem fratres religiosi et clerici sint in sacris ordinibus
+            <!--<lb ed="#Fb"/>-->constituti, exercendi libere officium ipsum quoad praemissa,
+            <!--<lb ed="#Fb"/>-->non obstante statuto aliquo contrario canonis vel ordinis
+            <!--<lb ed="#Fb"/>-->quocunque vallato munimine, potestatem . §. 2. Com¬
+            <!--<lb ed="#Fb"/>-->pescendi praeterea monitione praemissa per censuram ec¬
+            <!--<lb ed="#Fb"/>-->clesiasticam, appellatione postposita, praedicatores quae¬
+            <!--<lb ed="#Fb"/>-->stuarios, (ubi contigerit pro inquisitionis seu fidei negotio
+            <!--<lb ed="#Fb"/>-->congregationem fieri, vel alias eidem negotio quomodolibet
+            <!--<lb ed="#Fb"/>-->ex hoc impedimentum aliquod afferri,) a praedicationis
+            <!--<lb ed="#Fb"/>-->officio, quod ad ipsos nullatenus pertinet, (quorum interest
+            <!--<lb ed="#Fb"/>-->tantum caritativa subsidia suppliciter  petere, ac indulgen¬
+            <!--<lb ed="#Fb"/>-->tiam, si forte habent, exponere,) liberam vobis et singulis
+            <!--<lb ed="#Fb"/>-->vestrum concedimus auctoritate praesentium facultatem.
+            <!--<lb ed="#Fb"/>-->Denique, ut circa praemissa plene vobis et singulis vestrum
+            <!--<lb ed="#Fb"/>-->coercitionis expedita et inviolabilis adsit auctoritas, volumus,
+            <!--<lb ed="#Fb"/>-->ut ea omnia viriliter exsequamini, si opus fuerit, invocato
+            <!--<lb ed="#Fb"/>-->auxilio brachii saecularis, contradictores per censuram ec¬
+            <!--<lb ed="#Fb"/>-->clesiasticam appellatione postposita compescendo, non ob¬
+            <!--<lb ed="#Fb"/>-->stantibus aliquibus privilegiis vel indulgentiis quibuscunque
+            <!--<lb ed="#Fb"/>-->personis cuiusvis conditionis, dignitatis vel gradus, religionis
+            <!--<lb ed="#Fb"/>-->vel ordinis, comitatibus vel universitatibus civitatum et loco¬
+            <!--<lb ed="#Fb"/>-->rum specialiter vel generaliter sub quacunque verborum
+            <!--<lb ed="#Fb"/>-->expressione vel forma a memorata sede concessis, vel in
+            <!--<lb ed="#Fb"/>-->posterum concedendis, quum ex huiusmodi vel aliis privi¬
+            <!--<lb ed="#Fb"/>-->legiis vel  indulgentiis nullum vobis  in tantae pietatis ne¬
+            <!--<lb ed="#Fb"/>-->gotio velimus  obstaculum interponi, et constitutione de
+            <!--<lb ed="#Fb"/>-->duabus diaetis edita in concilio generali. Statuimus, in¬
+            <!--<lb ed="#Fb"/>-->super, ut potestas, capitaneus, seu rector vel consules, seu
+            <!--<lb ed="#Fb"/>-->quivis alii, qui civitati praesunt vel loco alteri ad praesens,
+            <!--<lb ed="#Fb"/>-->aut praeerunt * in futurum, ad requisitionem dioecesanorum
+            <!--<lb ed="#Fb"/>-->vel vicariorum suorum, seu inquisitorum haereticae pravi¬
+            <!--<lb ed="#Fb"/>-->tatis, iurent praecise attendere inviolabiliter et  observare 
+            <!--<lb ed="#Fb"/>--> ac facere a suis subditis observari toto tempore sui regiminis
+            <!--<lb ed="#Fb"/>-->in terris suae iurisdictioni regiminive subiectis constitutiones
+            <!--<lb ed="#Fb"/>-->contra haereticos, credentes, receptatores, fautores et de¬
+            <!--<lb ed="#Fb"/>-->fensores eorum, ipsorumque filios et nepotes a sede apo¬
+            <!--<lb ed="#Fb"/>-->stolica promulgatas ac etiam approbatas, quas * qui iurare
+            <!--<lb ed="#Fb"/>-->noluerit et servare, ut infamis, et tanquam haereticorum
+            <!--<lb ed="#Fb"/>-->fautor ac de fide suspectus officio et honore sui regiminis
+            <!--<lb ed="#Fb"/>-->spolietur, nec ulterius potestas, capitaneus, consul vel rector
+            <!--<lb ed="#Fb"/>-->habeatur in aliquo, aut de cetero in * aliquam dignitatem
+            <!--<lb ed="#Fb"/>-->vel officium publicum ulterius assumatur, et quae ut po¬
+            <!--<lb ed="#Fb"/>-->testas, ballivus, consul vel rector fecerit, nullam obtineant
+            <!--<lb ed="#Fb"/>-->firmitatem. </p>
+          
+          
+          
+          <p xml:id="wef6td-d1e1390-d1e890"> ,    cap, xn. </p>
+          <p xml:id="wef6td-d1e1390-d1e894"> Comprehendit ista decretalis plura utilia pro expediendo officio inquisi-
+            <!--<lb ed="#Fb"/>-->'torum. Dat enim eis potestatem committendi citationes et sententiarum
+            <!--<lb ed="#Fb"/>-->denunciationes. Dat potestatem vocandi peritos, clerum et populum, ut eis
+            <!--<lb ed="#Fb"/>-->assistant. Dat potestatem procedendi contra illos, qui de sua in aliam pro¬
+            <!--<lb ed="#Fb"/>-->vinciam se transtulerunt. Dat potestatem repetendi libros et processus,
+            <!--<lb ed="#Fb"/>-->commutandi et mitigandi poenas, privandi et privatos nunciandi officiis et
+            <!--<lb ed="#Fb"/>-->honoribus haereticos, fautores et defensores eorum, ita tamen, quod hoc fiat
+            <!--<lb ed="#Fb"/>-->de dioecesanorum, vel, in eorum absentia, vicariorum suorum consilio, nisi </p>
+          <p xml:id="wef6td-d1e1390-d1e911"> iidem scienter talibus beneficia contulissent. H. d. Ioann. Andr. </p>
+          <p xml:id="wef6td-d1e1390-d1e914"> Bonifacius VIII. Inquisitoribus  haereticae
+            <!--<lb ed="#Fb"/>-->pravitatis. </p>
+          <p xml:id="wef6td-d1e1390-d1e919"> Ut commissi vobis officii debitum utilius et uberius  ex¬
+            <!--<lb ed="#Fb"/>-->sequamini, sanctae memoriae Innocentii, Alexandri et Cle¬
+            <!--<lb ed="#Fb"/>-->mentis praedecessorum nostrorum vestigiis inhaerentes,
+            <!--<lb ed="#Fb"/>-->vobis et vestrum singulis committendi citationes et denun¬
+            <!--<lb ed="#Fb"/>-->ciationes sententiarum, quas in quoslibet haereticos, cre¬
+            <!--<lb ed="#Fb"/>-->dentes, receptatores, defensores et fautores eorum tuleritis;
+            <!--<lb ed="#Fb"/>-->advocandi quoque, prout expedierit, peritos quoslibet, ut
+            <!--<lb ed="#Fb"/>-->vobis assistant et in huiusmodi ferendis sententiis praebeant
+            <!--<lb ed="#Fb"/>-->consilium opportunum, ac eis, quod super his vobis  humi¬
+            <!--<lb ed="#Fb"/>-->liter pareant, in virtute obedientiae iniungendi; convocandi
+            <!--<lb ed="#Fb"/>-->fetiam clerum et populum civitatum, castrorum aliorumque
+            <!--<lb ed="#Fb"/>-->locorum, prout dicto negotio fidei videritis expedire, et
+            <!--<lb ed="#Fb"/>-->contra illos, quos in provincia , in qua vobis inquisitionis
+            <!--<lb ed="#Fb"/>-->officium est commissum, haeresis * crimen constiterit com¬
+            <!--<lb ed="#Fb"/>-->misisse, (licet ad alias partes se transferendos duxerint,) pro¬
+            <!--<lb ed="#Fb"/>-->cedendi; nec non faciendi a quibuslibet assignari vobis
+            <!--<lb ed="#Fb"/>-->libros, seu quaternos et alia scripta, in quibus inquisitiones
+            <!--<lb ed="#Fb"/>-->factae, ac processus per quoscunque auctoritate sedis apo¬
+            <!--<lb ed="#Fb"/>-->stolicae vel legatorum eius habiti contra haereticos com
+            <!--<lb ed="#Fb"/>-->tinentur; et illorum, qui, vestris mandatis obedientes humi¬
+            <!--<lb ed="#Fb"/>-->liter, stant  propter haeresim in carcere vel muro reclusi,
+            <!--<lb ed="#Fb"/>-->poenam una cum praelatis, quorum iurisdictioni subsunt,
+            <!--<lb ed="#Fb"/>-->mitigandi vel mutandi, quum videritis expedire; privandi
+            <!--<lb ed="#Fb"/>-->praeterea vel privatos  nunciandi dignitatibus ac aliis bene¬
+            <!--<lb ed="#Fb"/>-->ficiis ecclesiasticis de dioecesanorum, vel, eis absentibus,
+            <!--<lb ed="#Fb"/>-->vicariorum suorum consilio, et officiis publicis ac honoribus
+            <!--<lb ed="#Fb"/>-->quibuscunque eosdem haereticos, credentes, receptatores
+            <!--<lb ed="#Fb"/>-->et defensores ipsorum , eorumque filios et nepotes , plenam
+            <!--<lb ed="#Fb"/>-->concedimus facultatem. Sunt autem dioecesani in privando
+            <!--<lb ed="#Fb"/>-->tales vel nunciando privatos beneficiis et * huiusmodi
+            <!--<lb ed="#Fb"/>-->requirendi, nisi forte constaret legitime, quod iidem scienter
+            <!--<lb ed="#Fb"/>-->huiusmodi personis eadem beneficia contulissent. Tunc
+            <!--<lb ed="#Fb"/>-->enim eos in his requirendos non esse censemus, sed potius
+            <!--<lb ed="#Fb"/>-->a suo iudice puniendos. </p>
+          
+        </div>
+        <div xml:id="wef6td-d1e1390-Dd1e989">
+          <head xml:id="wef6td-d1e1390-Hd1e991">CAP.   xm. </head>
+          <p xml:id="wef6td-d1e1390-d1e994"> Christiani, ad Iudaismum transeuntes et redeuntes, haeretici reputantur. </p>
+          <p xml:id="wef6td-d1e1390-d1e997"> H. d. secundum Zenz. </p>
+          <p xml:id="wef6td-d1e1390-d1e1000"> Idem. </p>
+          <p xml:id="wef6td-d1e1390-d1e1003"> Contra Christianos, qui ad ritum transierint vel redierint
+            <!--<lb ed="#Fb"/>-->ludaeorum, etiamsi huiusmodi redeuntes, dum erant in¬
+            <!--<lb ed="#Fb"/>-->fantes, aut mortis metu, non tamen absolute aut  praecise
+            <!--<lb ed="#Fb"/>-->coacti, baptizati fuerunt , erit  tanquam contra haereticos, si
+            <!--<lb ed="#Fb"/>-->fuerint de hoc confessi, aut per Christianos seu Iudaeos
+            <!--<lb ed="#Fb"/>-->convicti, et, sicut contra fautores, receptatores et defensores
+            <!--<lb ed="#Fb"/>-->haereticorum, sic  contra fautores, receptatores et de¬
+            <!--<lb ed="#Fb"/>-->fensores talium est  procedendum. </p>
+          
+        </div>
+        <div xml:id="wef6td-d1e1390-Dd1e1021">
+          <head xml:id="wef6td-d1e1390-Hd1e1023">CAP. xiv. </head>
+          <p xml:id="wef6td-d1e1390-d1e1026"> Non confiscantur dotes uxorum innocentium propter haeresim maritorum. </p>
+          <p xml:id="wef6td-d1e1390-d1e1029"> H. d. secundum Zenz. </p>
+          <p xml:id="wef6td-d1e1390-d1e1032"> Idem. </p>
+          <p xml:id="wef6td-d1e1390-d1e1035"> Decrevit felicis recordationis Innocentius Papa IV.,
+            <!--<lb ed="#Fb"/>-->quod propter haeresim maritorum uxorum catholicarum
+            <!--<lb ed="#Fb"/>-->dotes non debeant confiscari. Quod intelligendum fore
+            <!--<lb ed="#Fb"/>-->censemus, nisi forte mulieres ipsae cum viris matrimonia
+            <!--<lb ed="#Fb"/>-->contraxissent, quos haereticos tunc sciebant. </p>
+          
+        </div>
+        <div xml:id="wef6td-d1e1390-Dd1e1047">
+          <head xml:id="wef6td-d1e1390-Hd1e1049">CAP. xv. </head>
+          <p xml:id="wef6td-d1e1390-d1e1052"> Filii haereticorum usque ad secundam lineam paternam, ad primam vero
+            <!--<lb ed="#Fb"/>-->maternam, sunt inhabiles ad beneficium ecclesiasticum vel officium sae¬
+            <!--<lb ed="#Fb"/>-->culare, si patres ante mortem ecclesiae reincorporati non fuerint. H. d.
+            <!--<lb ed="#Fb"/>-->secundum Dom. </p>
+          <p xml:id="wef6td-d1e1390-d1e1061"> Idem. </p>
+          
+          <p xml:id="wef6td-d1e1390-d1e1064"> Statutum felicis recordationis Innocentii  et Alexandri
+            <!--<lb ed="#Fb"/>-->praedecessorum nostrorum, ne videlicet haeretici, credentes,
+            <!--<lb ed="#Fb"/>-->receptatores, defensores et fautores eorum, ipsorumque filii
+            <!--<lb ed="#Fb"/>-->usque ad secundam generationem, ad aliquod beneficium
+            <!--<lb ed="#Fb"/>-->ecclesiasticum seu publicum officium admittantur, quod, si
+            <!--<lb ed="#Fb"/>-->secus actum fuerit, sit irritum et inane, primum et secundum
+            <!--<lb ed="#Fb"/>-->gradum per paternam lineam comprehendere declaramus;
+            <!--<lb ed="#Fb"/>-->per maternam vero ad primum duntaxat volumus hoc ex¬
+            <!--<lb ed="#Fb"/>-->tendi. Hoc sane de filiis et nepotibus haereticorum ,
+            <!--<lb ed="#Fb"/>-->credentium et aliorum huiusmodi, qui tales esse vel tales
+            <!--<lb ed="#Fb"/>-->etiam  decessisse probantur, intelligendum esse videtur,
+            <!--<lb ed="#Fb"/>-->non autem illorum, quos emendatos esse constiterit et
+            <!--<lb ed="#Fb"/>-->reincorporatos ecclesiae unitati, et pro culpa huiusmodi ad
+            <!--<lb ed="#Fb"/>-->mandatum ecclesiae poenitentiam recepisse, quam ipsi vel
+            <!--<lb ed="#Fb"/>-->iam perfecerunt, vel humiliter prosecutioni eius insistunt,
+            <!--<lb ed="#Fb"/>-->vel parati fuerint ad recipiendam eandem. </p>
+          
+        </div>
+        <div xml:id="wef6td-d1e1390-Dd1e1098">
+          <head xml:id="wef6td-d1e1390-Hd1e1100">CAP. XVI. </head>
+          <p xml:id="wef6td-d1e1390-d1e1103"> Inquisitor Papae super haeresi sine speciali mandato non inquirit contra
+            <!--<lb ed="#Fb"/>-->episcopum, sed, si eum culpabilem sciverit, nunciabit Papae. H. d. </p>
+          <p xml:id="wef6td-d1e1390-d1e1108"> Ioann. Andr. </p>
+          <p xml:id="wef6td-d1e1390-d1e1111"> Idem. </p>
+          <p xml:id="wef6td-d1e1390-d1e1114"> Inquisitores haereticae pravitatis, ab apostolica sede
+            <!--<lb ed="#Fb"/>-->seu alio vel aliis quibuslibet deputati, de huiusmodi crimine
+            <!--<lb ed="#Fb"/>-->inquirere contra episcopos nequeunt, aut eius praetextu
+            <!--<lb ed="#Fb"/>-->procedere contra eos, nisi in literis commissionis apostolicae,
+            <!--<lb ed="#Fb"/>-->quod hoc possint, contineatur expresse. Si tamen inqui¬
+            <!--<lb ed="#Fb"/>-->sitores ipsi episcopos vel alios superiores praelatos sciverint
+            <!--<lb ed="#Fb"/>-->vel invenerint circa crimen haereseos commisisse, aut eos
+            <!--<lb ed="#Fb"/>-->de hoc diffamatos exsistere vel suspectos: id tenebuntur
+            <!--<lb ed="#Fb"/>-->sedi apostolicae nunciare. </p>
+          
+        </div>
+        <div xml:id="wef6td-d1e1390-Dd1e1134">
+          <head xml:id="wef6td-d1e1390-Hd1e1136">CAP. XVII. </head>
+          <p xml:id="wef6td-d1e1390-d1e1139"> Non derogatur ordinariis super processu haereticorum, licet Papa genera¬
+            <!--<lb ed="#Fb"/>-->liter alteri deleget. Et super eodem facto episcopus et inquisitor possunt
+            <!--<lb ed="#Fb"/>-->procedere communiter vel divisim, vel proferre sententiam; in qua si
+            <!--<lb ed="#Fb"/>-->discordant, debent Papae referre. Et episcopi, qualitercunque procedant, </p>
+          <p xml:id="wef6td-d1e1390-d1e1148"> debent servare modum inquisitoribus impositum. H. d. Domin. </p>
+          <p xml:id="wef6td-d1e1390-d1e1151"> Idem. </p>
+          <p xml:id="wef6td-d1e1390-d1e1154"> Per hoc, quod negotium haereticae pravitatis alicui vel
+            <!--<lb ed="#Fb"/>-->aliquibus ab apostolica sede generaliter in aliqua provincia,
+            <!--<lb ed="#Fb"/>-->civitate vel dioecesi delegatur, dioecesanis episcopis, quin
+            <!--<lb ed="#Fb"/>-->et ipsi auctoritate ordinaria vel delegata, si habent, in eodem
+            <!--<lb ed="#Fb"/>-->procedere valeant, nolumus derogari. Verum, ut dictum
+            <!--<lb ed="#Fb"/>-->inquisitionis negotium efficacius, melius utiliusque pro¬
+            <!--<lb ed="#Fb"/>-->cedat, concedimus, quod per episcopos ipsos et per inqui¬
+            <!--<lb ed="#Fb"/>-->sitores de facto eodem inquiri valeat communiter vel divi¬
+            <!--<lb ed="#Fb"/>-->sim. Et si divisim processerint, teneantur sibi invicem
+            <!--<lb ed="#Fb"/>-->communicare processus, ut per hoc possit melius veritas
+            <!--<lb ed="#Fb"/>-->inveniri. Et nisi hoc casu inquisitores in sententiae pro¬
+            <!--<lb ed="#Fb"/>-->latione dioecesanis vel econtra duxerint deferendum, per
+            <!--<lb ed="#Fb"/>-->utrosque simul sententia proferatur. In qua ferenda si non
+            <!--<lb ed="#Fb"/>-->convenerint, per utrosque negotium sufficienter instructum
+            <!--<lb ed="#Fb"/>-->ad sedem apostolicam remittatur. Sive autem ordinaria
+            <!--<lb ed="#Fb"/>-->sive delegata episcopi potestate procedant: illum in pro¬
+            <!--<lb ed="#Fb"/>-->cedendo modum observent, quem inquisitores possunt et
+            <!--<lb ed="#Fb"/>-->debent per iura communia, vel per speciales concessiones
+            <!--<lb ed="#Fb"/>-->seu ordinationes sedis apostolicae observare. </p>
+          
+        </div>
+        <div xml:id="wef6td-d1e1390-Dd1e1195">
+          <head xml:id="wef6td-d1e1390-Hd1e1197">CAP. XVIII. </head>
+          <p xml:id="wef6td-d1e1390-d1e1200"> Episcopis et inquisitoribus haeresis non resistant, sed omnino pareant
+            <!--<lb ed="#Fb"/>-->domini temporales, et de eo crimine non cognoscant; alias, prout dicitur
+            <!--<lb ed="#Fb"/>-->hic, puniuntur. H. d. secundum Zenz. </p>
+          <p xml:id="wef6td-d1e1390-d1e1207"> Idem. </p>
+          <p xml:id="wef6td-d1e1390-d1e1210"> Ut inquisitionis negotium contra haereticam pravitatem
+            <!--<lb ed="#Fb"/>-->ad Dei gloriam et augmentum fidei nostris temporibus pro¬
+            <!--<lb ed="#Fb"/>-->speretur, leges quasdam, perFedericum olim Romanorum
+            <!--<lb ed="#Fb"/>-->imperatorem, tunc in devotione Romanae persistentem
+            <!--<lb ed="#Fb"/>-->ecclesiae, promulgatas, quatenus Dei et ecclesiae sanctae
+            <!--<lb ed="#Fb"/>-->suae honorem promovent, et haereticorum exterminium
+            <!--<lb ed="#Fb"/>-->prosequuntur, et statutis canonicis non obsistunt, appro¬
+            <!--<lb ed="#Fb"/>-->bantes et observari volentes, universos  saeculi potestates
+            <!--<lb ed="#Fb"/>-->et dominos temporales, ac provinciarum, terrarum, civita¬
+            <!--<lb ed="#Fb"/>-->tum aliorumque locorum rectores, quibuscunque dignitatibus
+            <!--<lb ed="#Fb"/>-->vel officiis aut nominibus censeantur, requirimus et mone¬
+            <!--<lb ed="#Fb"/>-->mus, ut, sicut reputari cupiunt et haberi fideles, ita pro </p>
+          
+          
+          
+          <p xml:id="wef6td-d1e1390-d1e1235"> defensione fidei dioecesanis episcopis et inquisitoribus
+            <!--<lb ed="#Fb"/>-->haereticae pravitatis, a sede apostolica deputatis aut in
+            <!--<lb ed="#Fb"/>-->posterum deputandis, pareant, et intendant in haereticorum,
+            <!--<lb ed="#Fb"/>-->credentium, fautorum, receptatorum et defensorum ipsorum
+            <!--<lb ed="#Fb"/>-->investigatione, captione ac custodia diligenti, quum ab eis
+            <!--<lb ed="#Fb"/>-->fuerint requisiti, et ut praefatas personas pestiferas in pote¬
+            <!--<lb ed="#Fb"/>-->statem seu carcerem episcoporum aut  inquisitorum dicto¬
+            <!--<lb ed="#Fb"/>-->rum , vel ad locum, de quo ipsi vel aliqui ex eis mandaverint,
+            <!--<lb ed="#Fb"/>-->infra eorundem dominorum potestatem  vel rectorum di¬
+            <!--<lb ed="#Fb"/>-->strictum ducant vel duci faciant sine mora, ubi per viros
+            <!--<lb ed="#Fb"/>-->catholicos a praefatis episcopis seu inquisitoribus , vel
+            <!--<lb ed="#Fb"/>-->eorum aliquo deputatos sub arcta et diligenti custodia
+            <!--<lb ed="#Fb"/>-->teneantur, donec eorum negotium per ecclesiae iudicium
+            <!--<lb ed="#Fb"/>-->terminetur, utque de haeresi a dioecesano episcopo vel in¬
+            <!--<lb ed="#Fb"/>-->quisitore seu inquisitoribus condemnatos praefati potestates,
+            <!--<lb ed="#Fb"/>-->domini  temporales sive rectores, vel eorum officiales seu
+            <!--<lb ed="#Fb"/>-->nuncii sibi relictos statim recipiant  indilate animadversione
+            <!--<lb ed="#Fb"/>-->debita puniendos, non obstantibus appellationibus seu pro-
+            <!--<lb ed="#Fb"/>-->clamationibus praedictorum nequitiae filiorum, quum tam
+            <!--<lb ed="#Fb"/>-->secundum ordinationem praedecessorum nostrorum, quam
+            <!--<lb ed="#Fb"/>-->secundum legem imperialem appellationis et proclamationis
+            <!--<lb ed="#Fb"/>-->beneficium expresse sit haereticis et credentibus, ac eorum
+            <!--<lb ed="#Fb"/>-->receptatoribus, fautoribus et defensoribus interdictum.
+            <!--<lb ed="#Fb"/>-->Prohibemus quoque districtius potestatibus, dominis tem¬
+            <!--<lb ed="#Fb"/>-->poralibus et rectoribus eorundemque  officialibus supra
+            <!--<lb ed="#Fb"/>-->dictis, ne ipsi de hoc crimine, quum mere sit ecclesiasticum,
+            <!--<lb ed="#Fb"/>-->quoquo modo  cognoscant vel iudicent, sive captos pro
+            <!--<lb ed="#Fb"/>-->eodem crimine absque dictorum episcoporum sive inqui¬
+            <!--<lb ed="#Fb"/>-->sitorum, aut saltem alterius eorundem licentia vel mandato
+            <!--<lb ed="#Fb"/>-->a carcere  liberent, aut exsecutionem, sibi pro huiusmodi
+            <!--<lb ed="#Fb"/>-->crimine a dioecesano vel inquisitoribus seu inquisitore in-
+            <!--<lb ed="#Fb"/>-->iunctam, prompte, prout ad suum spectat officium, facere
+            <!--<lb ed="#Fb"/>-->seu adimplere detrectent, vel alias dioecesanorum * aut 
+            <!--<lb ed="#Fb"/>--> inquisitorum iudicium, sententiam seu processum directe
+            <!--<lb ed="#Fb"/>-->vel indirecte impedire praesumant. Si quis vero de prae¬
+            <!--<lb ed="#Fb"/>-->dictis potestatibus, dominis temporalibus, rectoribus, vel
+            <!--<lb ed="#Fb"/>-->/eorum officialibus seu ballivis, contra praedicta fecerit, aut
+            <!--<lb ed="#Fb"/>-->praefato fidei negotio, saepe fatis dioecesano episcopo
+            <!--<lb ed="#Fb"/>-->vel inquisitoribus incumbenti, se opponere forte prae¬
+            <!--<lb ed="#Fb"/>-->sumpserit  vel ipsum aliquatenus impedire, nec non et qui
+            <!--<lb ed="#Fb"/>-->scienter in praedictis dederit auxilium consilium vel favorem:
+            <!--<lb ed="#Fb"/>-->excommunicationis se noverit mucrone percussum. Quam
+            <!--<lb ed="#Fb"/>-->si per annum animo sustinuerit pertinaci: extunc velut
+            <!--<lb ed="#Fb"/>-->haereticus condemnetur. </p>
+          
+        </div>
+        <div xml:id="wef6td-d1e1390-Dd1e1325">
+          <head xml:id="wef6td-d1e1390-Hd1e1327">CAP. XIX. </head>
+          <p xml:id="wef6td-d1e1390-d1e1330"> Bona haereticorum ipso iure sunt confiscata, quod probatur triplici argu¬
+            <!--<lb ed="#Fb"/>-->mento legali. Sed apprehensio bonorum fieri non debet per dominum
+            <!--<lb ed="#Fb"/>-->saecularem, nisi prius pronunciatum fuerit super crimine per iudicem
+            <!--<lb ed="#Fb"/>-->ecclesiasticum, qui hoc possit. Ioann. Andr. </p>
+          <p xml:id="wef6td-d1e1390-d1e1339"> Idem. </p>
+          <p xml:id="wef6td-d1e1390-d1e1342"> Quum, secundum leges civiles, nefarias, naturae con¬
+            <!--<lb ed="#Fb"/>-->trarias, incestas  nuptias contrahentes eo ipso suarum
+            <!--<lb ed="#Fb"/>-->dominium rerum perdant *, et mulier, humanam legem
+            <!--<lb ed="#Fb"/>-->transgrediens, et, praesertim parentibus suis non con¬
+            <!--<lb ed="#Fb"/>-->sentientibus, raptoris nuptias eligens, bona omnia, quae
+            <!--<lb ed="#Fb"/>-->per legem sibi obvenerant a raptore ac aliis consortibus
+            <!--<lb ed="#Fb"/>-->raptus , ipso iure amittat, certoque casu deferantur in
+            <!--<lb ed="#Fb"/>-->fiscum, ac etiam illicitas species transvehens, aut rerum
+            <!--<lb ed="#Fb"/>-->vectarum professionem omittens earundem specierum et
+            <!--<lb ed="#Fb"/>-->rerum proprietate  hoc ipso privetur, et fisco rerum et
+            <!--<lb ed="#Fb"/>-->specierum dictarum proprietas acquiratur: bona haeretico¬
+            <!--<lb ed="#Fb"/>-->rum, qui gravius, horribilius ac detestabilius quam praedicti
+            <!--<lb ed="#Fb"/>-->delinquunt, ipso iure de fratrum nostrorum consilio de¬
+            <!--<lb ed="#Fb"/>-->cernimus  confiscata. Confiscationis tamen huiusmodi ex¬
+            <!--<lb ed="#Fb"/>-->secutio vel bonorum ipsorum occupatio fieri non debet per
+            <!--<lb ed="#Fb"/>-->principes aut alios dominos temporales iuxta Gregorii Papae
+            <!--<lb ed="#Fb"/>-->praedecessoris nostri declarationem, antequam per epi¬
+            <!--<lb ed="#Fb"/>-->scopum loci, vel aliam personam ecclesiasticam, quae super
+            <!--<lb ed="#Fb"/>-->hoc habeat potestatem, sententia super eodem crimine
+            <!--<lb ed="#Fb"/>-->fuerit promulgata. </p>
+          
+          
+        </div>
+        <div xml:id="wef6td-d1e1390-Dd1e1384">
+          <head xml:id="wef6td-d1e1390-Hd1e1386">CAP. XX. </head>
+          <p xml:id="wef6td-d1e1390-d1e1389"> In causa haeresis proceditur simpliciter et de plano, et dicta testium et
+            <!--<lb ed="#Fb"/>-->accusatorum non publicantur, si periculum timeatur. H.d. secundum Zenz. </p>
+          <p xml:id="wef6td-d1e1390-d1e1394"> Idem. </p>
+          <p xml:id="wef6td-d1e1390-d1e1397"> Statuta quaedam felicis recordationis Innocentii, Ale¬
+            <!--<lb ed="#Fb"/>-->xandri et  Clementis praedecessorum nostrorum, quibusdam
+            <!--<lb ed="#Fb"/>-->declaratis et additis, recensentes, concedimus, quod in 
+            <!--<lb ed="#Fb"/>--> inquisitionis haereticae pravitatis negotio procedi possit
+            <!--<lb ed="#Fb"/>-->simpliciter et de plano, et absque advocatorum ac iudiciorum
+            <!--<lb ed="#Fb"/>-->strepitu et figura. Iubemus tamen, quod, si accusatoribus
+            <!--<lb ed="#Fb"/>-->vel testibus in causa haeresis intervenientibus seu de¬
+            <!--<lb ed="#Fb"/>-->ponentibus propter potentiam personarum, contra quas in¬
+            <!--<lb ed="#Fb"/>-->quiritur, videant episcopus vel inquisitores grave periculum
+            <!--<lb ed="#Fb"/>-->imminere, si contingat fieri publicationem nominum eorun¬
+            <!--<lb ed="#Fb"/>-->dem, ipsorum nomina  non publice, sed secreto coram
+            <!--<lb ed="#Fb"/>-->dioecesano episcopo, vel, eo absente, ipsius vicario, quando
+            <!--<lb ed="#Fb"/>-->inquisitores procedunt, quando vero procedit episcopus,
+            <!--<lb ed="#Fb"/>-->coram inquisitoribus, si haberi commode possit  copia
+            <!--<lb ed="#Fb"/>-->eorundem, ac nihilominus, sive episcopus sive inquisitores
+            <!--<lb ed="#Fb"/>-->processerint, aliquibus aliis personis providis et honestis
+            <!--<lb ed="#Fb"/>-->iurisque peritis, quas ad hoc vocari, et eis per totum pro¬
+            <!--<lb ed="#Fb"/>-->cessum, super quo deliberandum est, seriose manifestari ac
+            <!--<lb ed="#Fb"/>-->integraliter explicari, et de ipsorum consilio ad sententiam
+            <!--<lb ed="#Fb"/>-->vel condemnationem procedi volumus, exprimantur, sicque,
+            <!--<lb ed="#Fb"/>-->(non obstante, quod illis, contra quos huiusmodi deposue¬
+            <!--<lb ed="#Fb"/>-->runt, nomina ipsorum  non fuerint publicata,) adhibeatur ad
+            <!--<lb ed="#Fb"/>-->cognitionem iudicis instruendam plena fides depositionibus
+            <!--<lb ed="#Fb"/>-->testium eorundem. Et ut eorundem  accusatorum et testium
+            <!--<lb ed="#Fb"/>-->periculis efficacius occurratur, et cautius in  inquisitionis
+            <!--<lb ed="#Fb"/>-->negotio procedatur: praesentis constitutionis auctoritate
+            <!--<lb ed="#Fb"/>-->permittimus , quod episcopus vel inquisitores secretum
+            <!--<lb ed="#Fb"/>-->possint indicere illis, quibus, (ut praemissum est), processum
+            <!--<lb ed="#Fb"/>-->huiusmodi explicabunt, et in eos, si arcana consilii seu pro¬
+            <!--<lb ed="#Fb"/>-->cessus, sibi sub secreto ab eisdem episcopo vel inquisi¬
+            <!--<lb ed="#Fb"/>-->toribus patefacta, praeter eorum licentiam aliis patefecerint,
+            <!--<lb ed="#Fb"/>-->excommunicationis sententiam, quam ex secreti violatione
+            <!--<lb ed="#Fb"/>-->ipso facto incurrant, (si eis expedire videbitur,) promulgare,
+            <!--<lb ed="#Fb"/>-->sic tamen, quod inquisitores episcopum, vel episcopus 
+            <!--<lb ed="#Fb"/>--> inquisitores non excommunicent hac de causa, sed ipsi ex
+            <!--<lb ed="#Fb"/>-->iniuneto ex nunc  a nobis sub virtute sanctae obedientiae
+            <!--<lb ed="#Fb"/>-->districto  praecepto ad secretum huiusmodi teneantur.
+            <!--<lb ed="#Fb"/>-->Cessante vero periculo supra dicto, accusatorum et testium
+            <!--<lb ed="#Fb"/>-->nomina, prout in aliis sit iudiciis, publicentur . Ceterum
+            <!--<lb ed="#Fb"/>-->in his omnibus praecipimus  tam episcopos quam inqui¬
+            <!--<lb ed="#Fb"/>-->sitores puram et providam intentionem habere, ne ad
+            <!--<lb ed="#Fb"/>-->accusatorum vel testium nomina supprimenda, ubi est
+            <!--<lb ed="#Fb"/>-->securitas, periculum esse dicant, nec in eorum  discrimen
+            <!--<lb ed="#Fb"/>-->securitatem asserant, ubi tale periculum immineret, super
+            <!--<lb ed="#Fb"/>-->hoc eorundem conscientias onerantes. Constitutiones vero,
+            <!--<lb ed="#Fb"/>-->ordinationes et mandata alia praedecessorum nostrorum,
+            <!--<lb ed="#Fb"/>-->in  negotio haereticae pravitatis facta, concessa seu etiam
+            <!--<lb ed="#Fb"/>-->ad consulta responsa, quae constitutionibus supra scriptis,
+            <!--<lb ed="#Fb"/>-->super eadem editis pravitate, non obvient, in suo volumus
+            <!--<lb ed="#Fb"/>-->robore permanere. </p>
+        </div>
+      </div>
+    </body>
+  </text>
 </TEI>
